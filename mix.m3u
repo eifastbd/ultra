@@ -3,7 +3,7 @@
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 #EXTINF:-1 tvg-name="ZEE BANGLA" tvg-logo="http://172.16.29.28/images/zeebangla.png" group-title="ei",ZEE BANGLA📺
 http://172.16.29.2:8090/hls/ZeeBanglaHD.m3u8
-#EXTINF:-1,group-title="PREMIUM",Colors Bangla🔴
+#EXTINF:-1,group-title="ei",Colors Bangla
 http://103.180.212.191:3500/live/756.m3u8
 #EXTINF:-1 tvg-name="SONY AATH" tvg-logo="http://172.16.29.28/images/sonyaath.png" group-title="DentCure",SONY AATH📺
 http://172.16.29.2:8090/hls/SonyAtth.m3u8
@@ -13,16 +13,6 @@ http://172.16.29.2:8090/hls/sonymaxhd.m3u8
 http://172.16.29.2:8090/hls/StarMoviesHD.m3u8
 #EXTINF:-1 tvg-name="SANGEET BANGLA" tvg-logo="http://172.16.29.28/images/sangeetbangla.png" group-title="DentCure",SANGEET BANGLA📺
 http://172.16.29.2:8090/hls/SangeetBangla.m3u8
-EXTINF:-1,group-title="PREMIUM",Amar Bangla📺
-http://115.187.41.216:8080/hls/amarbangla/index.m3u8
-#EXTINF:-1,group-title="PREMIUM",Amar Digital📺
-http://115.187.41.216:8080/hls/amardigital/index.m3u8
-#EXTINF:-1,group-title="PREMIUM",Mon Tv Bangla📺
-http://115.187.41.216:8080/hls/montvbangla/index.m3u8
-#EXTINF:-1,group-title="PREMIUM",Bhakti Bangla📺
-http://115.187.41.216:8080/hls/bhaktibangla/index.m3u8
-#EXTINF:-1,group-title="PREMIUM",Salam Bangla📺
-http://115.187.41.216:8080/hls/salambangla/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Sananda📺
 https://live.sanandatelevision.in/sananda/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Bangla Jago📺
@@ -35,7 +25,7 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Movie Bangla📺
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-EXTINF:-1,group-title="PREMIUM",SRKTV📺
+#EXTINF:-1,group-title="PREMIUM",SRKTV📺
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1,group-title="PREMIUM",Deepto TV HD 📺
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
@@ -65,16 +55,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",NEWS21📺
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
-#EXTINF:-1,group-title="PREMIUM",Sony Yay📺
-http://103.99.249.139/sonyyay/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="PREMIUM",Bangla Vision📺
-http://tvn2.chowdhury-shaheb.com/banglavision/index.m3u8
-#EXTINF:-1,group-title="PREMIUM",Somoy📺
-http://tvn2.chowdhury-shaheb.com/somoy/index.m3u8
-#EXTINF:-1,group-title="PREMIUM",GTV📺
-http://tvn2.chowdhury-shaheb.com/gazitv/index.m3u8
-#EXTINF:-1,group-title="PREMIUM",RTV📺
-http://tvn2.chowdhury-shaheb.com/rtv/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Massranga📺
 http://103.229.254.25:7001/play/a05q/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Btv📺
