@@ -1,1 +1,3 @@
-r
+#EXTM3U 
+#EXTINF:-1 tvg-name="STAR JALSHA" tvg-logo="http://172.16.29.28/images/starjalsha.png" group-title="🇧🇩",STAR JALSHA📺
+http://172.16.29.2:8090/hls/StarJalshaHD.m3u8
