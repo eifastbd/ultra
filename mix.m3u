@@ -1,3 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-name="STAR JALSHA" tvg-logo="http://172.16.29.28/images/starjalsha.png" group-title="🇧🇩",STAR JALSHA📺
+#EXTINF:-1 tvg-name="STAR JALSHA" tvg-logo="http://172.16.29.28/images/starjalsha.png" group-title="ei",STAR JALSHA📺
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+#EXTINF:-1 tvg-name="ZEE BANGLA" tvg-logo="http://172.16.29.28/images/zeebangla.png" group-title="ei",ZEE BANGLA📺
+http://172.16.29.2:8090/hls/ZeeBanglaHD.m3u8
