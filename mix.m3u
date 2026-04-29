@@ -9,3 +9,5 @@ http://172.16.29.2:8090/hls/SonyAtth.m3u8
 http://172.16.29.2:8090/hls/sonymaxhd.m3u8
 #EXTINF:-1 tvg-name="STAR MOVIES" tvg-logo="http://172.16.29.28/images/star-movies-hd.jpg" group-title="DentCure",STAR MOVIES📺
 http://172.16.29.2:8090/hls/StarMoviesHD.m3u8
+#EXTINF:-1 tvg-name="SANGEET BANGLA" tvg-logo="http://172.16.29.28/images/sangeetbangla.png" group-title="DentCure",SANGEET BANGLA📺
+http://172.16.29.2:8090/hls/SangeetBangla.m3u8
