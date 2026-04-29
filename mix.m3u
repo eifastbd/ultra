@@ -3,6 +3,8 @@
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 #EXTINF:-1 tvg-name="ZEE BANGLA" tvg-logo="http://172.16.29.28/images/zeebangla.png" group-title="ei",ZEE BANGLA📺
 http://172.16.29.2:8090/hls/ZeeBanglaHD.m3u8
+#EXTINF:-1,group-title="PREMIUM",Colors Bangla🔴
+http://103.180.212.191:3500/live/756.m3u8
 #EXTINF:-1 tvg-name="SONY AATH" tvg-logo="http://172.16.29.28/images/sonyaath.png" group-title="DentCure",SONY AATH📺
 http://172.16.29.2:8090/hls/SonyAtth.m3u8
 #EXTINF:-1 tvg-name="SONY MAX" tvg-logo="http://172.16.29.28/images/sonymax.png" group-title="DentCure",SONY MAX📺
@@ -11,3 +13,83 @@ http://172.16.29.2:8090/hls/sonymaxhd.m3u8
 http://172.16.29.2:8090/hls/StarMoviesHD.m3u8
 #EXTINF:-1 tvg-name="SANGEET BANGLA" tvg-logo="http://172.16.29.28/images/sangeetbangla.png" group-title="DentCure",SANGEET BANGLA📺
 http://172.16.29.2:8090/hls/SangeetBangla.m3u8
+EXTINF:-1,group-title="PREMIUM",Amar Bangla📺
+http://115.187.41.216:8080/hls/amarbangla/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Amar Digital📺
+http://115.187.41.216:8080/hls/amardigital/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Mon Tv Bangla📺
+http://115.187.41.216:8080/hls/montvbangla/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Bhakti Bangla📺
+http://115.187.41.216:8080/hls/bhaktibangla/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Salam Bangla📺
+http://115.187.41.216:8080/hls/salambangla/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Sananda📺
+https://live.sanandatelevision.in/sananda/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Bangla Jago📺
+http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+#EXTINF:-1,group-title="PREMIUM",YRF Music📺
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1,group-title="PREMIUM",ZB CARTOON📺
+https://server.zillarbarta.com/zbcatun/video.m3u8
+#EXTINF:-1,group-title="PREMIUM",RONGEEN TV📺
+https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Movie Bangla📺
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+EXTINF:-1,group-title="PREMIUM",SRKTV📺
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1,group-title="PREMIUM",Deepto TV HD 📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Bangla Vision 📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",BTV 📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",HUM TV 📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",NTV 📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",ATN Bangla 📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Channel I HD 📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Jamuna TV 📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",ATN News 📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Channel 24 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Ekattor HD 📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Independent TV 📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Somoy📺 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",NEWS21📺
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
+#EXTINF:-1,group-title="PREMIUM",Sony Yay📺
+http://103.99.249.139/sonyyay/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="PREMIUM",Bangla Vision📺
+http://tvn2.chowdhury-shaheb.com/banglavision/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Somoy📺
+http://tvn2.chowdhury-shaheb.com/somoy/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",GTV📺
+http://tvn2.chowdhury-shaheb.com/gazitv/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",RTV📺
+http://tvn2.chowdhury-shaheb.com/rtv/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Massranga📺
+http://103.229.254.25:7001/play/a05q/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Btv📺
+https://www.btvlive.gov.bd/live/undefined/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",News 24📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",SATV📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Star news📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Ekhon tv📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",DBC news📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Channel 9📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Probashi📺
+http://158.69.24.53:8080/probashi_tv/index.m3u8
