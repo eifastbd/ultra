@@ -286,9 +286,6 @@ https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
 #EXTINF:1 tvg-name="Tom & Jerry" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Tom%20and%20jery.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo
-
 #EXTINF:-1 group-title="-",Nick  - TATA
 http://58.147.140.106:4000/play/a0gj/index.m3u8
 #EXTINF:-1 group-title="-",Nick Jr. - Rs 1.00
@@ -345,15 +342,13 @@ https://cdn-2.pishow.tv/live/228/master.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
 #EXTINF:1 tvg-name="Tom & Jerry" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Tom%20and%20jery.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Madani%20channel%20bangla.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",MADANI CHANNEL
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Peace%20Tv.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",PEACE TV BANGLA
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Peace%20Tv.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",PEACE TV BANGLA
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Peace%20Tv.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",PEACE TV BANGLA
-
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Peace%20Tv.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",PEACE TV BANGLA
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
@@ -363,13 +358,7 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Makkah.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",MAKKA TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7jrjkW1/20240813-112630.png" group-title="Relagion Channel", Madani TV
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rtkWYHV/20240827-092043.png" group-title="Relagion Channel", AL Sunnah TV
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Relagion Channel", EWTN TV
+#EXTINF:-1,EWTN TV
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/qrpsvkxl/720/chunklist.m3u8
 
 
