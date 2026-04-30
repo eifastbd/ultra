@@ -7,7 +7,6 @@ http://172.16.29.2:8090/hls/ZeeBanglaHD.m3u8
 http://103.180.212.191:3500/live/756.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA",Colors Bangla Cinema
 http://103.49.70.113:5001/live/1657.m3u8
-https://buy.ottbangla.com/4k/amd/stream.php?id=COLORS-BANGLA-CINEMA
 #EXTINF:-1 tvg-name="SONY AATH" tvg-logo="http://172.16.29.28/images/sonyaath.png" group-title="DentCure",SONY AATH📺
 http://172.16.29.2:8090/hls/SonyAtth.m3u8
 #EXTINF:-1 tvg-id="JalshaMovies.in@HD" tvg-logo="https://i.imgur.com/25eWjX2.png" group-title="Movies",Jalsha Movies HD (1080p)
