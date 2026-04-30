@@ -73,3 +73,12 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Probashi📺
 http://158.69.24.53:8080/probashi_tv/index.m3u8
+https://bozztv.com/rongo/rongo-somoy/index.m3u8
+#EXTINF:-1 tvg-logo="https://porosh.com.bd/upload/tv/tv_1770821919_9282.png" group-title="Bangladesh",channel-16 tv
+https://iptv.porosh.com.bd/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
+#EXTINF:-1 tvg-logo="https://porosh.com.bd/upload/tv/tv_1771144676_6801.jpg" group-title="Bangladesh",Akash
+https://iptv.porosh.com.bd/tmp_hls/500e75a036dc2d7d2fec5da1b71d36cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://porosh.com.bd/upload/tv/tv_1771064849_5532.jpeg" group-title="Bangladesh",channela1tv
+https://iptv.porosh.com.bd/tmp_hls/ae0eb3eed39d2bcef4622b2499a05fe6/index.m3u8
+#EXTINF:-1 tvg-logo="https://porosh.com.bd/upload/tv/tv_1771585053_6632.jpg" group-title="Bangladesh",Ptv Bangla
+https://iptv.porosh.com.bd/tmp_hls/1ecfb463472ec9115b10c292ef8bc986/index.m3u8
