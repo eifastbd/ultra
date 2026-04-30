@@ -82,3 +82,30 @@ https://iptv.porosh.com.bd/tmp_hls/500e75a036dc2d7d2fec5da1b71d36cc/index.m3u8
 https://iptv.porosh.com.bd/tmp_hls/ae0eb3eed39d2bcef4622b2499a05fe6/index.m3u8
 #EXTINF:-1 tvg-logo="https://porosh.com.bd/upload/tv/tv_1771585053_6632.jpg" group-title="Bangladesh",Ptv Bangla
 https://iptv.porosh.com.bd/tmp_hls/1ecfb463472ec9115b10c292ef8bc986/index.m3u8
+#EXTINF:-1 tvg-id="247" tvg-name="Biswa Bangla 24 HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/biswa-bangla-24.png" group-title="BD Channel-(বাংলা চ্যানেল)",Biswa Bangla 24 HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/biswabanglatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="246" tvg-name="Alpona TV HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/alpona-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Alpona TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/alponatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="245" tvg-name="Deshi TV HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/deshi-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Deshi TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshitv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="244" tvg-name="Deshe Bideshe HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/deshe-bideshe.png" group-title="BD Channel-(বাংলা চ্যানেল)",Deshe Bideshe HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshebideshe.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="238" tvg-name="Movie Plus HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/movie-plus.png" group-title="BD Channel-(বাংলা চ্যানেল)",Movie Plus HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/movieplus.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="231" tvg-name="Green Tv HD" tvg-logo="https://free.otapp.store/uploads/tv_image/sm/green-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Green Tv HD
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
