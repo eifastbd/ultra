@@ -64,42 +64,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 
-#EXTINF:1 tvg-name="T Sports" tvg-logo="https
 
-
-
-#EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV World
-#http://xtv.ooo:8080/213112/213112/245908
-#http://103.230.105.252:1935/live/btv/manifest.m3u8
-#https://www.btvlive.gov.bd/live/undefined/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
-http://103.229.254.25:7001/play/a064/index.m3u8
-#EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV News
-#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.m3u8
-http://103.229.254.25:7001/play/a065/index.m3u8
-
-#EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA", Sangshod tv
-https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
-
-#EXTINF:-4 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-
-#EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-
-#EXTINF:-5 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="BANGLA",Channel 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-
-#EXTINF:-6 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="BANGLA",INDEPENDENT TV
-#http://xtv.ooo:8080/213112/213112/245916
-#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
-#https://tvsen6.aynaott.com/independenttv/index.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-
-#EXTINF:-8 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="BANGLA",JAMUNA TV
-#https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
 #EXTINF:-8 tvg-logo="" group-title="BANGLA",Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8
@@ -294,8 +259,6 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 
 
-="SIYAM VAI❤️‍🔥",Bangla+ plus
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:1 tvg-name="HUM TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/HUMTV.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",HUM TV
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
 
@@ -364,6 +327,10 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Goldmines%20Movie.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",GOLDMINES MOVIES
 https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Goldmines%20Movie.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",GOLDMINES MOVIES
+http://103.175.73.12:8080/live/52/52_0.m3u8
+#EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Goldmines%20Movie.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",GOLDMINES MOVIES
+https://moviethls.wns.live/hls/stream.m3u8
 #EXTINF:1 tvg-name="Orange Bangla TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Orange%20Tv.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Orange Bangla TV
 https://cdn-4.pishow.tv/live/1499/master.m3u8
 #EXTINF:1 tvg-name="Akash Aath" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Akahsh%20Aath.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Akash Aath
@@ -374,22 +341,7 @@ https://cdn-4.pishow.tv/live/1039/master.m3u8
 https://cdn-4.pishow.tv/live/241/master.m3u8
 #EXTINF:1 tvg-name="Monoronjan Movie" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Monoronjan%20Movies.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Monoronjan Movie
 https://cdn-2.pishow.tv/live/228/master.m3u8
-#EXTINF:1 tvg-name
-
-
-
-#EXTINF:-1 tvg-id="GoldStar.ir@SD" group-title="Hindi Movies" tvg-server="Server 1",Gold Star
-https://moviethls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Goldmines" group-title="Hindi Movies" tvg-server="Server 1",Goldmines
-https://cdn-2.pishow.tv/live/1459/master.m3u8
-#EXTINF:-1 group-title="Indian" tvg-server="Server 1",Goldmines Bollywood
-http://103.175.73.12:8080/live/52/52_0.m3u8
-#EXTINF:-1 tvg-name="Goldmines Movies" group-title="Hindi Movies" tvg-server="Server 1",Goldmines Movies
-https://cdn-2.pishow.tv/live/1461/master.m3u8
-#EXTINF:-1 tvg-name="Goldmines Movies 2" group-title="Hindi Movies" tvg-server="Server 1",Goldmines Movies 2
-https://cdn-2.pishow.tv/live/1460/master.m3u8
-
-EXTINF:-1 tvg-name="Bangla Songs" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bangla%20Songs.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Bangla Songs
+#EXTINF:-1 tvg-name="Bangla Songs" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bangla%20Songs.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Bangla Songs
 https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
 #EXTINF:1 tvg-name="Tom & Jerry" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Tom%20and%20jery.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
