@@ -286,15 +286,13 @@ https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
 #EXTINF:1 tvg-name="Tom & Jerry" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Tom%20and%20jery.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1 group-title="-",Nick  - TATA
+#EXTINF:-1 group-title="-",Nick 
 http://58.147.140.106:4000/play/a0gj/index.m3u8
-#EXTINF:-1 group-title="-",Nick Jr. - Rs 1.00
+#EXTINF:-1 group-title="-",Nick Jr.
 http://58.147.140.106:4000/play/a0fw/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
-
-
-EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Rangeen%20Tv.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Rongeen Tv
+#EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Rangeen%20Tv.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Rongeen Tv
 https://cdn-4.pishow.tv/live/1029/master.m3u8
 #EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Khushboo%20Tv.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Khushboo 
 https://cdn-4.pishow.tv/live/1473/master.m3u8
