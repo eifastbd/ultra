@@ -331,15 +331,9 @@ https://moviethls.wns.live/hls/stream.m3u8
 #EXTINF:1 tvg-name="Orange Bangla TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Orange%20Tv.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Orange Bangla TV
 https://cdn-4.pishow.tv/live/1499/master.m3u8
 #EXTINF:1 tvg-name="Akash Aath" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Akahsh%20Aath.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Akash Aath
-https://cdn-4.pishow.tv/live/969/master.m3u8
-#EXTINF:1 tvg-name="RUPSHI BANGLA" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Ruposhi%20Tv.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",RUPSHI BANGLA
-https://cdn-4.pishow.tv/live/1039/master.m3u8
+http://103.180.212.191:3500/live/698.m3u8
 #EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/EnterTen%20Bangla%201.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",ENTERR10 BANGLA
 https://cdn-4.pishow.tv/live/241/master.m3u8
-#EXTINF:1 tvg-name="Monoronjan Movie" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Monoronjan%20Movies.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Monoronjan Movie
-https://cdn-2.pishow.tv/live/228/master.m3u8
-#EXTINF:-1 tvg-name="Bangla Songs" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bangla%20Songs.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Bangla Songs
-https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
 #EXTINF:1 tvg-name="Tom & Jerry" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Tom%20and%20jery.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Madani%20channel%20bangla.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",MADANI CHANNEL
