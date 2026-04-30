@@ -311,11 +311,11 @@ https://cdn-4.pishow.tv/live/1293/master.m3u8
 #EXTINF:-1 tvg-id="balle-balle" tvg-name="Balle Balle" tvg-language="Punjabi" tvg-country="IN" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Balle%20Balle.jpg?raw=true" tvg-chno="balle-balle" group-title="SIYAM VAI❤️‍🔥",Balle Balle
 https://cdn-4.pishow.tv/live/987/master.m3u8
 #EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Dhoom%20Music.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",DHOOM
-https://cdn-1.pishow.tv/live/1456/master.m3u8
+http://103.175.73.12:8080/live/159/159_0.m3u8
 #EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Music%20India.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",MUSIC INDIA
 https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/B4U%20music.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",B4U MUSIC
-https://cdn-2.pishow.tv/live/415/master.m3u8
+http://103.175.73.12:8080/live/157/157_0.m3u8
 #EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/9x%20jhalkas.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",9X JHAKAAS
 https://cdn-3.pishow.tv/live/6/master.m3u8
 #EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Goldmines.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",GOLDMINES
