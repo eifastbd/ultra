@@ -261,29 +261,28 @@ https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 
 #EXTINF:1 tvg-name="HUM TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/HUMTV.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",HUM TV
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
-
 #EXTINF:-1 tvg-name="Hindi movies" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Hindi%20Movie.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Hindi movies
-https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+https://tplay.live/playlist/music/dance-performance/index.m3u8
 #EXTINF:-1 tvg-name="Bangla Movies" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bangla%20Movie.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Bangla Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+https://tplay.live/playlist/movies/bangla-movies/index.m3u8
 #EXTINF:-1 tvg-name="Dubbed movies" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Dubbed%20Movie.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Dubbed movies
-https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+https://tplay.live/playlist/movies/dubbed-movies/index.m3u8
 #EXTINF:-1 tvg-name="ILM TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/ILM%20TV.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",ILM TV
-https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
+https://tplay.live/originals/ilm-tv/index.m3u8
 #EXTINF:-1 tvg-name="Batul The great" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Batul%20The%20great.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Batul The great
-https://cloudfrontnet.vercel.app/tplay/playout/209869/master.m3u8
+https://tplay.live/playlist/kids/bantul-the-great/index.m3u8
 #EXTINF:-1 tvg-name="Gopal Bhar" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Gopal%20Bhar.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Gopal Bhar
 https://tplay.live/playlist/kids/gopal-bhar/index.m3u8
 #EXTINF:-1 tvg-name="Motu Patlu" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Motu%20Patlu.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Motu Patlu
-https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+https://tplay.live/playlist/kids/motu-patlu/index.m3u8
 #EXTINF:-1 tvg-name="O Music" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/O%20Music.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",O Music
-https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
+https://tplay.live/originals/bengali-beats/index.m3u8
 #EXTINF:-1 tvg-name="Doraemon" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Dorimon.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Doraemon
-https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+https://tplay.live/playlist/kids/doraemon/index.m3u8
 #EXTINF:-1 tvg-name="Hindi Songs" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Hindi%20Songs.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Hindi Songs
-https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
+https://tplay.live/playlist/music/t-series/index.m3u8
 #EXTINF:-1 tvg-name="Bangla Songs" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bangla%20Songs.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Bangla Songs
-https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
+https://tplay.live/playlist/music/tplay-special/index.m3u8
 #EXTINF:1 tvg-name="Tom & Jerry" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Tom%20and%20jery.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 group-title="-",Nick 
