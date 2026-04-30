@@ -19,10 +19,6 @@ https://live.sanandatelevision.in/sananda/index.m3u8
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 #EXTINF:-1,group-title="PREMIUM",YRF Music📺
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1,group-title="PREMIUM",ZB CARTOON📺
-https://server.zillarbarta.com/zbcatun/video.m3u8
-#EXTINF:-1,group-title="PREMIUM",RONGEEN TV📺
-https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Movie Bangla📺
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",SRKTV📺
@@ -108,9 +104,11 @@ http://103.180.212.191:3500/live/3424.m3u8
 http://103.180.212.191:3500/live/1341.m3u8
 #EXTINF:-1,Sonic Bangla
 http://103.180.212.191:3500/live/1345.m3u8
-
-
-
-
+#EXTINF:-1,Discoverykids
+http://172.16.29.2:8090/hls/DiscoveryKids.m3u8
+#EXTINF:-1,group-title="PREMIUM",ZB CARTOON📺
+https://server.zillarbarta.com/zbcatun/video.m3u8
+#EXTINF:-1,group-title="PREMIUM",RONGEEN TV📺
+https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 
 
