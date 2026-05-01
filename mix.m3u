@@ -21,6 +21,8 @@ http://172.16.29.2:8090/hls/SangeetBangla.m3u8
 https://live.sanandatelevision.in/sananda/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Bangla Jago📺
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+#EXTINF:-1,group-title="PREMIUM",Nandan📺
+http://198.144.149.206:8080/IPWORLD/NANDAN/index.fmp4.m3u8
 #EXTINF:-1,group-title="PREMIUM",YRF Music📺
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
