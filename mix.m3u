@@ -28,6 +28,45 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 
 
 
+
+#EXTINF:1 tvg-logo="http://103.175.242.10/assets/images/Tsports1735735587.png" group-title="PREMIUM",Tsports📺
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="T SPORTS" tvg-logo="http://172.16.29.28/images/TSports.jpg" group-title="DentCure",T SPORTS📺
+http://172.16.29.2:8090/hls/tsportshd.m3u8
+#EXTINF:-1 tvg-name="A SPORTS" tvg-logo="http://172.16.29.28/images/ptvsports.png" group-title="DentCure",A SPORTS📺
+http://172.16.29.2:8090/hls/ASportsHD.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS 2" tvg-logo="http://172.16.29.28/images/starsports2.png" group-title="DentCure",STAR SPORTS 2📺
+http://172.16.29.2:8090/hls/StarSports2HD.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS SELECT" tvg-logo="http://172.16.29.28/images/starsportsselect1.png" group-title="DentCure",STAR SPORTS SELECT📺
+http://172.16.29.2:8090/hls/StarSportsSelect1HD.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS SELECT 2" tvg-logo="http://172.16.29.28/images/starsportsselect2hd.png" group-title="DentCure",STAR SPORTS SELECT 2📺
+http://172.16.29.2:8090/hls/StarSportsSelect2HD.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS " tvg-logo="http://172.16.29.28/images/ptvsports.png" group-title="DentCure",STAR SPORTS📺
+http://172.16.29.2:8090/hls/StarSportsHindi2HD.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS 1" tvg-logo="http://172.16.29.28/images/ptvsports.png" group-title="DentCure",STAR SPORTS 1📺
+http://172.16.29.2:8090/hls/StarSports1HD.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS 1" tvg-logo="http://172.16.29.28/images/starsports1.png" group-title="DentCure",STAR SPORTS 1📺
+http://172.16.29.2:8090/hls/SonyTen5HD.m3u8
+#EXTINF:-1 tvg-name="SONY TEN 2" tvg-logo="http://172.16.29.28/images/sony-ten-2.png" group-title="DentCure",SONY TEN 2📺
+http://172.16.29.2:8090/hls/SonyTen2hd.m3u8
+#EXTINF:-1 tvg-name="EUROSPORTS" tvg-logo="http://172.16.29.28/images/eurosport.png" group-title="DentCure",EUROSPORTS📺
+http://172.16.29.2:8090/hls/eurosportshd.m3u8
+#EXTINF:-1 tvg-name="SONY TEN 3" tvg-logo="http://172.16.29.28/images/sony-ten-3.png" group-title="DentCure",SONY TEN 3📺
+http://172.16.29.2:8090/hls/SonyTen3hd.m3u8
+#EXTINF:-1 tvg-name="DD SPORTS" tvg-logo="http://172.16.29.28/images/sony-ten-1.png" group-title="DentCure",DD SPORTS📺
+http://172.16.29.2:8090/hls/ddsports.m3u8
+#EXTINF:-1 tvg-name="WORLD FREE SPORTS" tvg-logo="http://172.16.29.28/images/sony-ten-1.png" group-title="DentCure",WORLD FREE SPORTS📺
+http://172.16.29.2:8090/hls/WorldofFreeSports.m3u8
+#EXTINF:-1,group-title="PREMIUM",tsports hd📺
+http://172.16.29.3:8090/hls/tsportshd.m3u8
+#EXTINF:-1,group-title="PREMIUM",ptv sports📺
+http://172.16.29.3:8090/hls/ptvsportshd.m3u8
+#EXTINF:-1,Willow
+http://27.124.71.27/Willow_Extra/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="122" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/BTV.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:1 tvg-name="BTV News" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/BTV_News.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",BTV News
