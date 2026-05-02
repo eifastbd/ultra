@@ -7,6 +7,7 @@ http://103.159.180.34:5001/live/625.m3u8
 http://103.229.254.25:7001/play/a0ds/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="PRO",Colors Bangla Cinema
 http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="SONY AATH" tvg-logo="http://172.16.29.28/images/sonyaath.png" group-title="PRO",SONY AATH📺
 http://172.16.29.2:8090/hls/SonyAtth.m3u8
 #EXTINF:-1 tvg-id="JalshaMovies.in@HD" tvg-logo="https://i.imgur.com/25eWjX2.png" group-title="PRO",Jalsha Movies HD (1080p)
@@ -339,6 +340,21 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 http://103.175.73.12:8080/live/157/157_0.m3u8
 #EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/9x%20jhalkas.jpg?raw=true" group-title="PRO",9X JHAKAAS
 https://cdn-3.pishow.tv/live/6/master.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zooER-oa-NqGzAR4HjEUGYBOfAcWvyoWGGIjZn3peR6xveFznWN6LvXCP_5A5zoB7gdE=w600-h300-pc0xffffff-pd" group-title="PRO",Joo Music
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zDiIhdN.png",7S Music
+https://mumt03.tangotv.in/7SMUSIC/index.m3u8
+#EXTINF:-1 tvg-logo="",B4U Bhojpuri
+https://mumt05.tangotv.in/B4UBHOJPURI/index.m3u8
+#EXTINF:-1 tvg-logo="",B4U Kadak
+https://mumt02.tangotv.in/B4UKADAK/index.m3u8
+#EXTINF:-1 tvg-logo="",B4U Movies
+https://mumt02.tangotv.in/B4UMOVIES/index.m3u8
+#EXTINF:-1 tvg-logo="",B4U Music
+https://mumt04.tangotv.in/B4UMUSIC/index.m3u8
+#EXTINF:-1 tvg-logo="",Balle Balle
+https://mumt04.tangotv.in/BALLEBALLE/index.m3u8
+
 #EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Goldmines.jpg?raw=true" group-title="PRO",GOLDMINES
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:1 tvg-name="GOLDMINES" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Goldmines%202.jpg?raw=true" group-title="PRO",GOLDMINES 2
