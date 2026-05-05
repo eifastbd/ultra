@@ -63,13 +63,15 @@ http://169.150.223.25/ArtSport1HD/index.m3u8
 http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
 #EXTINF:-1,ARENA SPORT 2 🇨🇿
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
+#EXTINF:-1,ARENA SPORTS 2
 http://cdn.tv-rds.workers.dev/ArenaSport2HR.m3u8
-Arena Sport 2 HD
+#EXTINF:-1,Arena Sport 2 HD
 http://lb.wisp.cat/lb0/SVK_ARENA_SPORT2_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Arena Sport
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
-Arena Sport 1 HR 🇭🇷
+#EXTINF:-1,Arena Sport 1 HR 🇭🇷
 http://lb.wisp.cat/lb0/ArenaSport1_HR/video.m3u8?token=AUSnMTD
-Arena Sport 1 HR 🇭🇷
+#EXTINF:-1,Arena Sport 1 HR 🇭🇷
 https://hls8.ua3.wisp.cat/ArenaSport1_HR/video.m3u8?token=AUSnMTD
 
 #EXTINF:-1 group-title="Sports" group-title="Sports" tvg-id="redbull.tv" tvg-logo="https://openpaddock.net/wp-content/uploads/2014/11/RedbullTV_blue.jpg",MIXER | Redbull TV
