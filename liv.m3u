@@ -40,6 +40,22 @@ http://27.124.71.27/Willow_Extra/index.m3u8
 
 
 
+
+#EXTINF:-1,Bein sports 1
+https://maymunmatematigi.lol/static/bs1.m3u8
+
+#EXTINF:-1,Bein sports 4
+https://maymunmatematigi.lol/static/bs4.m3u8
+
+#EXTINF:-1,Bein sports 3
+https://maymunmatematigi.lol/static/bs3.m3u8
+
+#EXTINF:-1,Bein sports 2
+https://maymunmatematigi.lol/static/bs2.m3u8
+
+#EXTINF:-1,Bein sports 5
+https://maymunmatematigi.lol/static/bs5.m3u8
+
 #EXTINF:-1,Bein Sports 1
 https://polished-snow-3145.meryemmh24.workers.dev/live/60040_.m3u8
 #EXTINF:-1,Bein Sports 
