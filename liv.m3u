@@ -41,27 +41,27 @@ http://27.124.71.27/Willow_Extra/index.m3u8
 
 #EXTINF:-1,Bein Sports 
 http://185.94.79.41/1768/index.m3u8
-DSPORTS 1 🇦🇷
+#EXTINF:-1,DSPORTS 1 🇦🇷
 http://190.117.20.39:8000/play/a08d/index.m3u8
-DSPORTS 1 🇦🇷
+#EXTINF:-1,DSPORTS 1 🇦🇷
 http://201.230.121.85:8000/play/a0yv/index.m3u8
-DSPORTS 1 🇦🇷
+#EXTINF:-1,DSPORTS 1 🇦🇷
 http://190.117.20.37:8000/play/a08d/index.m3u8
-Diema Sport 2 HD
+#EXTINF:-1,Diema Sport 2 HD
 http://45.9.44.143:5020/play/a03a/index.m3u8
-Canal+ HD
+#EXTINF:-1,Canal+ HD
 http://151.80.18.177:86/Canal+_HD/index.m3u8
-Bein Sport 3 🇫🇷
+#EXTINF:-1,Bein Sport 3 🇫🇷
 http://99.27.51.147:8080/BeinSport3/index.m3u8
-Bein Sport 3 🇫🇷
+#EXTINF:-1,Bein Sport 3 🇫🇷
 http://145.239.5.177:80/559/index.m3u8
-Bein Sport 2 HD
+#EXTINF:-1,Bein Sport 2 HD
 http://99.27.51.147:8080/BeinSport2/index.m3u8
-Art Sport 1 HD 🇽🇰
+#EXTINF:-1,Art Sport 1 HD 🇽🇰
 http://169.150.223.25/ArtSport1HD/index.m3u8
-Art Sport 1 HD 🇽🇰
+#EXTINF:-1,Art Sport 1 HD 🇽🇰
 http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
-ARENA SPORT 2 🇨🇿
+#EXTINF:-1,ARENA SPORT 2 🇨🇿
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 http://cdn.tv-rds.workers.dev/ArenaSport2HR.m3u8
 Arena Sport 2 HD
