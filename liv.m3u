@@ -97,6 +97,12 @@ http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
 #EXTINF:-1,ESPN usa
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 
+#EXTINF:-1,EURO SPORTS 1
+http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
+#EXTINF:-1,EURO SPORTS 2
+http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="Sports" group-title="Sports" tvg-id="redbull.tv" tvg-logo="https://openpaddock.net/wp-content/uploads/2014/11/RedbullTV_blue.jpg",MIXER | Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
