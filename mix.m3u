@@ -5,8 +5,7 @@
 http://185.94.79.41/1768/index.m3u8
 
 #EXTINF:-1 tvg-name="STAR JALSHA" tvg-logo="http://172.16.29.28/images/starjalsha.png" group-title="PRO",STAR JALSHA📺
-http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
-
+http://starshare.net:80/live/Suryaaa/SURYAAAA/23218.ts
 #EXTINF:-1 tvg-name="ZEE BANGLA" tvg-logo="http://172.16.29.28/images/zeebangla.png" group-title="PRO",ZEE BANGLA📺
 http://103.159.180.34:5001/live/625.m3u8
 #EXTINF:-1,group-title="PRO",Colors Bangla
