@@ -1,4 +1,9 @@
 #EXTM3U 
+
+
+#EXTINF:-1,Bein Sports 
+http://185.94.79.41/1768/index.m3u8
+
 #EXTINF:-1 tvg-name="STAR JALSHA" tvg-logo="http://172.16.29.28/images/starjalsha.png" group-title="PRO",STAR JALSHA📺
 http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
 
