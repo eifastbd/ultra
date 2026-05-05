@@ -255,16 +255,11 @@ http://178.23.88.55/Arena_sport/index.m3u8
 #EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.ibb.co.com/7Jzck3ZR/PTV-Sports.jpg",PTV Sports
 http://175.107.244.52:4456/play/a042
 
-
-
 #EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/436jGs29/Bein-Sports-Xtra.jpg",Bein Sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/nrz1NpPV/Red-Bull-TV.jpg",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",SporTV 3
-http://79.127.243.211:14473/
 
 #EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.ibb.co.com/HT0W29vz/Tennis-Channel.jpg",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
@@ -276,43 +271,11 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Horse & Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 
-
-
 #EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Arena Sport
 http://178.23.88.55/Arena_sport/index.m3u8
 
-
 #EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Eurosport HD 
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
-
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Eurosport HD 
-http://66.102.120.18:8000/play/a01g
-
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Eurosport 2
-http://178.23.88.55/Eurosport_2/index.m3u8
-
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",KSA SPORT 1 HD
-http://66.102.120.18:8000/play/a03o
-
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",KSA SPORT 2 HD
-http://66.102.120.18:8000/play/a03p
-
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Nova Sport
-http://178.23.88.55/Nova_Sport/index.m3u8
-
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Sport 1 HD
-http://178.23.88.55/Sport1/index.m3u8
-
-
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Eurosport HD 
-http://151.80.18.177:86/Eurosport_HD/index.m3u8
-
-
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.ibb.co.com/7Jzck3ZR/PTV-Sports.jpg",PTV Sports
-https://stalker.tnm3us.workers.dev/73037.m3u8
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.ibb.co.com/7Jzck3ZR/PTV-Sports.jpg",PTV Sports
-http://66.102.120.18:8000/play/a04w
-
 
 #EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/7hVCMDyZ/dd-sports.jpg",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
