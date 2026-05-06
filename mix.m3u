@@ -390,7 +390,7 @@ https://tplay.live/playlist/music/tplay-special/index.m3u8
 #EXTINF:1 tvg-name="Tom & Jerry" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Tom%20and%20jery.jpg?raw=true" group-title="PRO",Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/CN.jpg?raw=true" group-title="All-In-One~ENT🧩",CARTOON NETWORK
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/CN.jpg?raw=true" group-title="PRO",CARTOON NETWORK
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 group-title="PRO",Nick 
 http://58.147.140.106:4000/play/a0gj/index.m3u8
@@ -469,20 +469,20 @@ https://mumt01.tangotv.in/RANG/index.m3u8
 #EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Khushboo%20Tv.jpg?raw=true" group-title="PRO",Khushboo
 https://mumt01.tangotv.in/KHUSHBOOTVBANGLA/index.m3u8
 
-#EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Shemaroo%20TV.jpg?raw=true" group-title="India🇮🇳",Shemaroo TV
+#EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Shemaroo%20TV.jpg?raw=true" group-title="PRO",Shemaroo TV
 http://103.175.73.12:8080/live/274/274_0.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Shemaroo%20umang.jpg?raw=true" tvg-name="Shemaroo Umang" group-title="India🇮🇳",Shemaroo Umang
+#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Shemaroo%20umang.jpg?raw=true" tvg-name="Shemaroo Umang" group-title="PRO",Shemaroo Umang
 http://103.175.73.12:8080/live/258/258_0.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Shemaroo%20Zosh.jpg?raw=true" tvg-name="Shemaroo Zosh (chumbak)" group-title="India🇮🇳",Shemaroo Zosh & (ChumbakTV)
+#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Shemaroo%20Zosh.jpg?raw=true" tvg-name="Shemaroo Zosh (chumbak)" group-title="PRO",Shemaroo Zosh & (ChumbakTV)
 http://103.175.73.12:8080/live/21/21_0.m3u8
-#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Semaroo%20Bollywood.jpg?raw=true" tvg-name="Shemaroo Bollywood" group-title="India🇮🇳",Shemaroo Bollywood
+#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Semaroo%20Bollywood.jpg?raw=true" tvg-name="Shemaroo Bollywood" group-title="PRO",Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
-#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Show%20Box.jpg?raw=true" tvg-name="Show box music🎵" group-title="All-In-One~ENT🧩",Show box music
+#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Show%20Box.jpg?raw=true" tvg-name="Show box music🎵" group-title="PRO",Show box music
 http://103.175.73.12:8080/live/469/469_0.m3u8
 
 
-#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/T%20Series.jpg?raw=true" tvg-name="T Series" group-title="All-In-One~ENT🧩",T Series
+#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/T%20Series.jpg?raw=true" tvg-name="T Series" group-title="PRO",T Series
 http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zDiIhdN.png",7S Music
