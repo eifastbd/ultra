@@ -105,6 +105,39 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 
+#EXTINF:-1 tvg-name="DBC News" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/DBC%20News.jpg?raw=true" group-title="PRO",DBC News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/master.m3u8
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/dbcnews.stream/tracks-v1a1/mono.m3u8
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/420.ts
+
+
+#EXTINF:-1 tvg-name="Ekhon Tv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/EkhonTv.jpg?raw=true" group-title="PRO",Ekhon Tv
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-name="Bijoy TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bijoytv.jpg?raw=true" group-title="PRO",Bijoy TV
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/408.ts
+
+
+
+
+#EXTINF:-1 tvg-name="G TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/GTV.jpg?raw=true" group-title="PRO",G TV
+https://stalkerhit.amaira.workers.dev/getlink/969?portal=http%3A%2F%2Fapp.yupptv.io%2Fstalker_portal&mac=00%3A1A%3A79%3A00%3A14%3A76
+https://tvsen1.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="Anananda Tv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Anandotv.png?raw=true" group-title="PRO",Anananda Tv
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
+#https://sm-monirul.top/Toffee/live.php?id=a08da2fa07b5&e=.m3u8
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/399.ts
+
+
+
+#EXTINF:1 tvg-name="boishakhitv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Boisakhi.jpg?raw=true" group-title="PRO",Boishakhi tv
+https://yupptv.rkdyiptv.workers.dev/live/1507.m3u8
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/390.ts
 
 
 #EXTINF:-8 tvg-logo="" group-title="PRO",Star News
