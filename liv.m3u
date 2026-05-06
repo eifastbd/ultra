@@ -63,6 +63,52 @@ https://1nyaler.screenistream.xyz/stream/19/index.m3u8
 https://1nyaler.screenistream.xyz/stream/20/index.m3u8
 
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1hd.png" group-title="beIN SPORTS HD",beIN SPORTS 1 HD
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652310.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2hd.png" group-title="beIN SPORTS HD",beIN SPORTS 2 HD
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652311.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3hd.png" group-title="beIN SPORTS HD",beIN SPORTS 3 HD
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652312.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4hd.png" group-title="beIN SPORTS HD",beIN SPORTS 4 HD
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652313.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5hd.png" group-title="beIN SPORTS HD",beIN SPORTS 5 HD
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652314.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6hd.png" group-title="beIN SPORTS HD",beIN SPORTS 6 HD
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652315.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7hd.png" group-title="beIN SPORTS HD",beIN SPORTS 7 HD
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652316.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8hd.png" group-title="beIN SPORTS HD",beIN SPORTS 8 HD
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652317.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9hd.png" group-title="beIN SPORTS HD",beIN SPORTS 9 HD
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652318.ts
+
+
+#EXTINF:-1,BEIN SPORTS 1 FRANCE
+http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2499/index.m3u8
+
+#EXTINF:-1,BEIN SPORTS 2 FRANCE
+http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2500/index.m3u8
+
+#EXTINF:-1,BEIN SPORTS 3 FRANCE
+http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2501/index.m3u8
+
+#EXTINF:0,Sport 1
+http://212.102.38.45/live/test_sport1_25p/playlist.m3u8
+
+#EXTINF:0,Sport 2
+http://212.102.38.45/live/test_sport_2/playlist.m3u8
+
+#EXTINF:50,Sporty TV
+https://dash2.antik.sk/live/sporty_tv/index.m3u8
+
+#EXTINF:-1,TEN SPORTS
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98.ts
+#EXTINF:-1,TEN CRICKET 
+https://ottbanglaplatform.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
+
+
+
 #EXTINF:-1,Bein sports 1
 https://maymunmatematigi.lol/static/bs1.m3u8
 
