@@ -316,6 +316,52 @@ http://103.175.73.12:8080/live/157/157_0.m3u8
 https://cdn-3.pishow.tv/live/6/master.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zooER-oa-NqGzAR4HjEUGYBOfAcWvyoWGGIjZn3peR6xveFznWN6LvXCP_5A5zoB7gdE=w600-h300-pc0xffffff-pd" group-title="PRO",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Hindi%20Songs.jpg?raw=true" tvg-name="Hindi Songs" group-title="PRO",Hindi Songs
+#https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bangla%20Songs.jpg?raw=true" tvg-name="Bangla Songs" group-title="PRO",Bangla Songs
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla44.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/NH%20BollyFix.jpg?raw=true" tvg-name="NH Bolly Fix" group-title="PRO",NH Bolly Fix
+https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,nhbollyflixottplay.m3u8
+#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/NH%20BollyGold.jpg?raw=true" tvg-name="NH Bollygold" group-title="PRO",NH Bollygold
+https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,nhbollygoldottplay.m3u8
+#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/NH%20BollyRaja.jpg?raw=true" tvg-name="NH BollyRaja" group-title="PRO",NH BollyRaja
+https://209a7ee785af4abf93eeff4c5a7a62cf.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollyraga-airtel/playlist.m3u8
+
+#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Chana%20Jor.jpg?raw=true" tvg-name="Chana Jor" group-title="PRO",Chana Jor
+https://yupptv-chanajor.akamaized.net/ptnr-yupptv/title-Chanajor/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b5663d20-93c0-4ea1-9a86-d114a67f75db/main.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/ZB%20cartoon.jpg?raw=true" tvg-name="ZB Cartoon" group-title="PRO",ZB Cartoon
+https://server.zillarbarta.com/zbcatun/video.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/ZB%20Cinema.jpg?raw=true" tvg-name="ZB Cinema" group-title="PRO",ZB Cinema
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/ZB%20Music.jpg?raw=true" tvg-name="ZB Music" group-title="PRO",ZB Music
+https://server.zillarbarta.com/zbmusic/index.m3u8
+#EXTINF:-1 tvg-id="ZillarBartaNews.in@HD",ZillarBarta News
+https://server.zillarbarta.com/zillarbarta/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Hindi%20Hits.jpg?raw=true" tvg-name="Hindi Hits" group-title="PRO",Hindi Hits
+https://mumt01.tangotv.in/HINDIHITS/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/All%20Time%20Movies.jpg?raw=true" tvg-name="ALL TIME MOVIES" group-title="PRO",ALL TIME MOVIES
+https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
+#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Rang%20tv.jpg?raw=true" tvg-name="Rang" group-title="PRO",Rang
+https://mumt01.tangotv.in/RANG/index.m3u8
+
+#EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Khushboo%20Tv.jpg?raw=true" group-title="PRO",Khushboo
+https://mumt01.tangotv.in/KHUSHBOOTVBANGLA/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zDiIhdN.png",7S Music
 https://mumt03.tangotv.in/7SMUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="",B4U Bhojpuri
