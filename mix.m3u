@@ -319,6 +319,9 @@ https://tplay.live/playlist/music/t-series/index.m3u8
 https://tplay.live/playlist/music/tplay-special/index.m3u8
 #EXTINF:1 tvg-name="Tom & Jerry" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Tom%20and%20jery.jpg?raw=true" group-title="PRO",Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/CN.jpg?raw=true" group-title="All-In-One~ENT🧩",CARTOON NETWORK
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 group-title="PRO",Nick 
 http://58.147.140.106:4000/play/a0gj/index.m3u8
 #EXTINF:-1 group-title="PRO",Nick Jr.
