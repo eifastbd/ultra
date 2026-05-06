@@ -180,6 +180,42 @@ http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
 #EXTINF:-1,ESPN usa
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 
+
+[5/5, 9:57 PM] 🫰: Eurosport 1 Poland HD
+http://81.15.109.89:8001/play/Eurosport1Poland
+Eurosport 2 Poland HD
+http://81.15.109.89:8001/play/Eurosport2Poland
+[5/5, 10:00 PM] 🫰: #EXTINF:-1 group-title="Sports" tvg-logo="https://iconape.com/wp-content/files/is/286188/svg/red-bull-tv-seeklogo.com.svg",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+[5/5, 10:03 PM] 🫰: #EXTINF:-1 tvg-id="3167764d-9154-4dda-a0cc-713ca5dee5d3" tvg-logo="https://s3.aynaott.com/storage/b54495ee3cdd53ddaa19d1f98120f488" group-title="Sports",KTV Sport Plus
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+[5/5, 10:04 PM] 🫰: #EXTINF:-1 tvg-id="79ce27a8-bbfa-4661-a6ff-e6006e1510a3" tvg-logo="https://s3.aynaott.com/storage/748d28752dcf95740561f1ac39e15fc3" group-title="Sports",SPORTS FIRST TV
+https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
+[5/5, 10:05 PM] 🫰: #EXTINF:-1 tvg-id="0d69c371-f79e-40f8-8952-01be9e9cdb03" tvg-logo="https://s3.aynaott.com/storage/33f87783637fc95fdb8837ba9344c9e9" group-title="Sports",Oman Sports TV
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+[5/5, 10:06 PM] 🫰: #EXTINF:-1 tvg-id="0e1fb643-581b-40c5-bb62-1277a6a75ebf" tvg-logo="https://s3.aynaott.com/storage/39174e32d4f8d29a95c881637fe1ecdb" group-title="Sports",MORE THEN SPORTS TV
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+[5/5, 10:08 PM] 🫰: #EXTINF:-1 tvg-id="9f230f21-7a07-4b80-b845-77f9327ddad3" tvg-logo="https://s3.aynaott.com/storage/0a241a80bf51d2c3b3722531706ce086" group-title="Sports",NBC Sports
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+[5/5, 10:08 PM] 🫰: #EXTINF:-1 tvg-id="3b238911-d385-406a-b936-07550f30a4f3" tvg-logo="https://s3.aynaott.com/storage/188500190395c4de0e506d518925dcc4" group-title="Sports",DD Sports
+https://cdn-6.pishow.tv/live/13/master.m3u8
+[5/5, 10:09 PM] 🫰: #EXTINF:-1 tvg-id="6d75259a-cecb-4905-8146-358ec6938c62" tvg-logo="https://s3.aynaott.com/storage/f55bea3263be1af187fe1122e4f44142" group-title="Sports",Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+[5/5, 10:26 PM] 🫰: #EXTINF:-1 tvg-name="Cowboy tv" group-title="SPORTS",Cowboy tv
+https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MTR Sports-1" group-title="SPORTS",MTR Sports-1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+[5/5, 10:35 PM] 🫰: #EXTINF:-1 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="Football",BIS HABER
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
+[5/6, 5:18 PM] 🫰: #EXTINF:-1 group-title="NEW SERVER ✔️",TEN 2 HD - Rs 19.00
+http://103.229.254.25:7001/play/a02t/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️",TEN 3 Hindi
+http://103.229.254.25:7001/play/a0eg/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️",TEN 5
+http://103.229.254.25:7001/play/a0en/index.m3u8
+
+
 #EXTINF:-1,EURO SPORTS 1
 http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
 #EXTINF:-1,EURO SPORTS 2
