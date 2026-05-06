@@ -1,7 +1,8 @@
 #EXTM3U
 
 
-
+#EXTINF:-1, CHANNEL 1
+https://ultra02jibon02by1.jibon02premium.workers.dev/CHANNEL-1-BANGLA/index.m3u8
 
 #EXTINF:-1tvg-logo="https://nagorik.com/wp-content/uploads/2024/04/Logo.png" group-title="BANGLADESH", নাগরিক টিভি
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3802.ts
