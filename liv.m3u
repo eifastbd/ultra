@@ -110,7 +110,19 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98.ts
 #EXTINF:-1,TEN CRICKET 
 https://ottbanglaplatform.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
 
+#EXTINF:-1 tvg-id="daznlaliga2" tvg-logo="", DAZN 1
+http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/2531/index.m3u8
 
+#EXTINF:-1 tvg-id="daznlaliga2" tvg-logo="", DAZN 2
+http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/31955/index.m3u8
+#EXTINF:-1 tvg-id="daznlaliga2" tvg-logo="", DAZN 3
+http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/31956/index.m3u8
+
+#EXTINF:-1 tvg-id="daznlaliga2" tvg-logo="", DAZN 4
+http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/2534/index.m3u8
+
+#EXTINF:-1 tvg-id="daznlaliga2" tvg-logo="", DAZN 5
+http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/2535/index.m3u8
 
 #EXTINF:-1,Bein sports 1
 https://maymunmatematigi.lol/static/bs1.m3u8
