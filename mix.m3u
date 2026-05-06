@@ -2,7 +2,8 @@
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="PRO", DISCOVERY বাংলা
+http://103.159.180.34:5001/live/3428.m3u8
 #EXTINF:-1 tvg-name="STAR JALSHA" tvg-logo="http://172.16.29.28/images/starjalsha.png" group-title="PRO",STAR JALSHA📺
 http://starshare.net:80/live/Suryaaa/SURYAAAA/23218.ts
 #EXTINF:-1 tvg-name="ZEE BANGLA" tvg-logo="http://172.16.29.28/images/zeebangla.png" group-title="PRO",ZEE BANGLA📺
