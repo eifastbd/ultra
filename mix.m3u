@@ -2,6 +2,22 @@
 
 
 
+
+
+
+#EXTINF:-32 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="BANGLA",MY TV HD
+http://116.204.149.16/mytv/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
+http://116.204.149.16/maasranga/index.m3u8
+#EXTINF:-31 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="BANGLA",SATV
+http://116.204.149.16/satv/index.m3u8
+
+#EXTINF:-1,BANGLA TV HD
+http://116.204.149.16/banglatv/index.m3u8
+#EXTINF:-1,Global TV
+http://116.204.149.16/globaltv/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="PRO", DISCOVERY বাংলা
 http://103.159.180.34:5001/live/3428.m3u8
 #EXTINF:-1 tvg-name="STAR JALSHA" tvg-logo="http://172.16.29.28/images/starjalsha.png" group-title="PRO",STAR JALSHA📺
@@ -120,7 +136,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/408.ts
 
 
-#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Animal%20planet.jpg?raw=true" tvg-name="Animal planet Hindi" group-title="All-In-One~ENT🧩",Animal planet
+#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Animal%20planet.jpg?raw=true" tvg-name="Animal planet Hindi" group-title="PRO",Animal planet
 http://149.71.34.166:8002/play/a011/index.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
