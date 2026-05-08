@@ -94,7 +94,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-id="94" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Channel%2024.png?raw=true" group-title="PRO",Channel 24 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-#EXTINF:-1 tvg-id="96" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Independent.jpg?raw=true" group-title="PTO",Independent TV
+#EXTINF:-1 tvg-id="96" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Independent.jpg?raw=true" group-title="PRO",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 tvg-id="102" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Ekattor.jpg?raw=true" group-title="PRO",Ekattor HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
@@ -278,7 +278,7 @@ https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="Hindi movies" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Hindi%20Movie.jpg?raw=true" group-title="PRO",Hindi movies
 https://tplay.live/playlist/music/dance-performance/index.m3u8
-#EXTINF:-1 tvg-name="Bangla Movies" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bangla%20Movie.jpg?raw=true" group-title="PRI",Bangla Movies
+#EXTINF:-1 tvg-name="Bangla Movies" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bangla%20Movie.jpg?raw=true" group-title="PRO",Bangla Movies
 https://tplay.live/playlist/movies/bangla-movies/index.m3u8
 #EXTINF:-1 tvg-name="Dubbed movies" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Dubbed%20Movie.jpg?raw=true" group-title="PRO",Dubbed movies
 https://tplay.live/playlist/movies/dubbed-movies/index.m3u8
