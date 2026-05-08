@@ -391,15 +391,8 @@ https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c2492
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://yt3.googleusercontent.com/luLQWmGFG4iDC1U_2JlzZ1mquci_sUdfZfFl4eWgBkDpW6tvZT0MEA4c4JebJdi9hCo518q1=s160-c-k-c0x00ffffff-no-rj" group-title="International News",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="BantulTheGreat" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/68/Bantul_the_Great_logo.png" group-title="Kids",0. Bantul The Great
-https://cloudfrontnet.vercel.app/tplay/playout/209869/master.m3u8
-
-#EXTINF:-1 tvg-id="DISNEYJR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png" group-title="Kids",0. DISNEY JR
-http://fl61.moveonjoy.com:80/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-id="doraemon" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Doraemon2005.svg" group-title="Kids",0. Doraemon
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
-
-
 #EXTINF:-1 tvg-id="Hooray Rhymes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600007TC_20250122T004830SQUARE.png" group-title="Kids",0. Hooray Rhymes
 https://cc-hqignh3tex8xc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hqignh3tex8xc/OTM/OTM_KidsToonsHindi-SCTE_SAMSUNG/playlist.m3u8
 #EXTINF:-1 tvg-id="KidsTVIndiaNurseryRhymesandBabySongs.in" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv-india/logo_20231219_214815_66.png" group-title="Kids",0. Kids TV India - Nursery Rhymes and Baby Songs
