@@ -1,6 +1,7 @@
-
-
 #EXTM3U 
+
+
+
 #EXTINF:-1 tvg-id="2" tvg-name="Somoy TV" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" tvg-chno="2" group-title="News",Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="Jamuna TV" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" tvg-chno="3" group-title="News",Jamuna TV
@@ -494,6 +495,8 @@ http://119.156.228.231:9983/stream/channelid/1291929595?ticket=214E6C314BC441C6D
 http://119.156.228.231:9983/stream/channelid/1010839538?ticket=6E3EB88F10B2122397F5F0D5FFC118FF1AEF7D6D&profile=pass
 #EXTINF:-1 tvg-id="3962a79478fe577727162c50683c2d69",Isaac TV
 http://119.156.228.231:9983/stream/channelid/346513977?ticket=F318E7D36FDF2EDABDF6963262C232C58607AB3D&profile=pass
+
+
 
 
 
