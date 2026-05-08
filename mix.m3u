@@ -39,8 +39,6 @@ http://172.16.29.2:8090/hls/sonymaxhd.m3u8
 http://172.16.29.2:8090/hls/StarMoviesHD.m3u8
 #EXTINF:-1 tvg-name="SANGEET BANGLA" tvg-logo="http://172.16.29.28/images/sangeetbangla.png" group-title="PRO",SANGEET BANGLA📺
 http://172.16.29.2:8090/hls/SangeetBangla.m3u8
-#EXTINF:-1,group-title="PRO",Sananda📺
-https://live.sanandatelevision.in/sananda/index.m3u8
 #EXTINF:-1,group-title="PRO",Bangla Jago📺
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 #EXTINF:-1,group-title="PRO",Nandan📺
@@ -81,8 +79,7 @@ http://172.16.29.2:8090/hls/WorldofFreeSports.m3u8
 http://172.16.29.3:8090/hls/tsportshd.m3u8
 #EXTINF:-1,group-title="PRO",ptv sports📺
 http://172.16.29.3:8090/hls/ptvsportshd.m3u8
-#EXTINF:-1,group-title="PRO",Willow
-http://27.124.71.27/Willow_Extra/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="122" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/BTV.jpg?raw=true" group-title="PRO",BTV
