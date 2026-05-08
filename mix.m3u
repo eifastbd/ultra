@@ -191,7 +191,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",DBC news📺
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
-#EXTINF:-1,group-title="PREMIUM",Channel 9📺
+#EXTINF:-1,group-title="PREMIUM",Quran Makka📺
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Probashi📺
 http://158.69.24.53:8080/probashi_tv/index.m3u8
@@ -210,16 +210,12 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id="231" tvg-name="Green Tv HD" tvg-logo="https://free.otapp.store/uploads/tv_image/sm/green-tv.png" group-title="PRO",Green Tv HD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 
-
 #EXTINF:-1tvg-logo="https://nagorik.com/wp-content/uploads/2024/04/Logo.png" group-title="BANGLADESH", নাগরিক টিভি
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3802.ts
-
 #EXTINF:-1, CHANNEL ONE NEWS
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, NEWS 21 TV
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
-
 #EXTINF:-1,DESHI TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1,NRB TV
@@ -236,23 +232,16 @@ http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/G-Series_Logo.png" group-title="SKY LIFE BD",Drama 24
 https://vods2.aynascope.net/gseriesDrama/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://channeleurope.tv/storage/settings/BNyRMyomifMQ7VlzvHKbNwCfzxM7kF4Vq7bj4zxZ.png",Channel Europe
 https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w572284654.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/cbn-tv.png",CBN TV USA
 https://live.cbntvusa.net/hls/cbntv/index.m3u8
-
 #EXTINF:-1,চ্যানেল ১
 https://ultra02jibon02by1.jibon02premium.workers.dev/CHANNEL-1-BANGLA/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kvF6A7MpJigDiu63q8L3ZADpsqenR6S0zGG1Wj6gbA&s" group-title="PRO",Madupur News 24
 http://103.121.61.218/tmp_hls/4a47d2983c8bd392b120b627e0e1cab4/index.m3u8
 #EXTINF:-1 tvg-name="LoveDoes" group-title="PRO",বাংলা গান
 https://live20.bozztv.com/giatvplayout7/giatv-209587/index.m3u8
-#EXTINF:-1,জি বাংলা
-http://103.159.180.34:5001/live/625.m3u8
-#EXTINF:-1,BTV
-http://103.229.254.25:7001/play/a064/index.m3u8
 #EXTINF:-1, CHANNEL ONE NEWS
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1, JHANKAR TV
@@ -271,20 +260,12 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 http://103.121.61.218/tmp_hls/86b122d4358357d834a87ce618a55de0/index.m3u8
 #EXTINF:-1,PTV BANGLA
 http://103.121.61.218/tmp_hls/1ecfb463472ec9115b10c292ef8bc986/index.m3u8
-
 #EXTINF:-1,UNMOCHON TV
 https://jagroniakash.ncare.live/unmochontv/unmochontv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1,বিশ্ব বাংলা ২৪
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/biswabanglatv.stream/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-id="141" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png",SRK TV 
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Channel_S.png" group-title="BANGLADESH",Channel S
-#https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvY2hhbm5lbC1z&name=Channel+S&format=.m3u8
 https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
-
 #EXTINF:-1,group-title="PRO",CN+
 http://103.159.180.34:5001/live/3436.m3u8
 #EXTINF:-1,group-title="PRO",DURANTO
