@@ -5,23 +5,22 @@
 
 
 
-#EXTINF:-32 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="BANGLA",MY TV HD
+#EXTINF:-32 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="PRO",MY TV HD
 http://116.204.149.16/mytv/index.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
+#EXTINF:-1 group-title="PRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
 http://116.204.149.16/maasranga/index.m3u8
-#EXTINF:-31 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="BANGLA",SATV
+#EXTINF:-31 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="PRO",SATV
 http://116.204.149.16/satv/index.m3u8
-
-#EXTINF:-1,BANGLA TV HD
+#EXTINF:-1,group-title="PRO",BANGLA TV HD
 http://116.204.149.16/banglatv/index.m3u8
-#EXTINF:-1,Global TV
+#EXTINF:-1,group-title="PRO",Global TV
 http://116.204.149.16/globaltv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="PRO", DISCOVERY বাংলা
 http://103.159.180.34:5001/live/3428.m3u8
 #EXTINF:-1 tvg-name="STAR JALSHA" tvg-logo="http://172.16.29.28/images/starjalsha.png" group-title="PRO",STAR JALSHA📺
-http://starshare.net:80/live/Suryaaa/SURYAAAA/23218.ts
+
 #EXTINF:-1 tvg-name="ZEE BANGLA" tvg-logo="http://172.16.29.28/images/zeebangla.png" group-title="PRO",ZEE BANGLA📺
 http://103.159.180.34:5001/live/625.m3u8
 #EXTINF:-1,group-title="PRO",Colors Bangla
