@@ -1,6 +1,34 @@
 #EXTM3U
 
 
+
+
+
+
+
+#EXTINF:-1,Bengali Beats
+https://tplay.live/originals/bengali-beats/index.m3u8
+#EXTINF:-1,Ilm TV
+https://tplay.live/originals/ilm-tv/index.m3u8
+#EXTINF:-1,24/7 Motu Patlu 
+https://tplay.live/playlist/kids/motu-patlu/index.m3u8
+#EXTINF:-1,24/7 Doraemon
+https://tplay.live/playlist/kids/doraemon/index.m3u8
+#EXTINF:-1,24/7 Oggy and the Cockroaches
+https://tplay.live/playlist/kids/oggy-and-the-cockroaches/index.m3u8
+#EXTINF:-1,24/7 Gopal Bhar
+https://tplay.live/playlist/kids/gopal-bhar/index.m3u8
+#EXTINF:-1,24/7 Bantul The Great 
+https://tplay.live/playlist/kids/bantul-the-great/index.m3u8
+#EXTINF:-1,24/7 Bangla Movies
+https://tplay.live/playlist/movies/bangla-movies/index.m3u8
+#EXTINF:-1,24/7 Bollywood Movies
+https://tplay.live/playlist/movies/bollywood-movies/index.m3u8
+#EXTINF:-1,24/7 Dubbed Movies
+https://tplay.live/playlist/movies/dubbed-movies/index.m3u8
+#EXTINF:-1,24/7 T Play Special
+https://tplay.live/playlist/music/tplay-special/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY বাংলা
 http://103.159.180.34:5001/live/3428.m3u8
 #EXTINF:-1 ,TAANDOB (2025) - 1080p WEB-DL
