@@ -70,8 +70,6 @@ http://172.16.29.2:8090/hls/SonyTen3hd.m3u8
 http://172.16.29.2:8090/hls/ddsports.m3u8
 #EXTINF:-1 tvg-name="WORLD FREE SPORTS" tvg-logo="http://172.16.29.28/images/sony-ten-1.png" group-title="PRO",WORLD FREE SPORTS📺
 http://172.16.29.2:8090/hls/WorldofFreeSports.m3u8
-#EXTINF:-1,group-title="PRO",tsports hd📺
-http://172.16.29.3:8090/hls/tsportshd.m3u8
 #EXTINF:-1,group-title="PRO",ptv sports📺
 http://172.16.29.3:8090/hls/ptvsportshd.m3u8
 
