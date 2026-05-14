@@ -36,6 +36,21 @@ http://172.16.29.2:8090/hls/WorldofFreeSports.m3u8
 http://172.16.29.3:8090/hls/ptvsportshd.m3u8
 #EXTINF:-1,Willow
 http://27.124.71.27/Willow_Extra/index.m3u8
+#EXTINF:-1 ,BeinSports Xtra
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 ,BhiChannel
+http://15.235.185.236/hls/bhi.m3u8
+#EXTINF:-1 ,Horse& Country
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,TennisChannel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,TraceSport
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Pardesi TV
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,MTR Sports-1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+
 
 
 #EXTINF:-1,ONE
