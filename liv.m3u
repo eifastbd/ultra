@@ -1,8 +1,6 @@
 #EXTM3U 
 
 
-#EXTINF:-1,group-title="PRO",T-SPORTS
-http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 #EXTINF:1,bein
 http://46.225.94.157/hls/tnt/index.m3u8
 
