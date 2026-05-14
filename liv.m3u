@@ -43,27 +43,6 @@ http://185.132.134.159:80/one/index.m3u8
 #EXTINF:-1,ONE 2
 http://185.132.134.159:80/one2/index.m3u8
 
-#EXTINF:-1,Bein sports
-https://1nyaler.screenistream.xyz/stream/11/index.m3u8
-#EXTINF:-1,Bein sports
-https://1nyaler.screenistream.xyz/stream/12/index.m3u8
-#EXTINF:-1,Bein sports
-https://1nyaler.screenistream.xyz/stream/13/index.m3u8
-#EXTINF:-1,Bein sports
-https://1nyaler.screenistream.xyz/stream/14/index.m3u8
-#EXTINF:-1,Bein sports
-https://1nyaler.screenistream.xyz/stream/15/index.m3u8
-#EXTINF:-1,Bein sports
-https://1nyaler.screenistream.xyz/stream/16/index.m3u8
-#EXTINF:-1,Bein sports
-https://1nyaler.screenistream.xyz/stream/17/index.m3u8
-#EXTINF:-1,Bein sports
-https://1nyaler.screenistream.xyz/stream/18/index.m3u8
-#EXTINF:-1,Bein sports
-https://1nyaler.screenistream.xyz/stream/19/index.m3u8
-#EXTINF:-1,Bein sports
-https://1nyaler.screenistream.xyz/stream/20/index.m3u8
-
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1hd.png" group-title="beIN SPORTS HD",beIN SPORTS 1 HD
