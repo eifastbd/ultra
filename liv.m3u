@@ -3,7 +3,6 @@
 
 #EXTINF:1,bein
 http://46.225.94.157/hls/tnt/index.m3u8
-
 #EXTINF:1 tvg-logo="http://103.175.242.10/assets/images/Tsports1735735587.png" group-title="PREMIUM",Tsports📺
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="T SPORTS" tvg-logo="http://172.16.29.28/images/TSports.jpg" group-title="DentCure",T SPORTS📺
