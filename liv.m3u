@@ -1,6 +1,12 @@
 #EXTM3U 
 
 
+
+
+#EXTINF:-1,T SPORTS HD 
+https://aynaott.sulfuricacid.workers.dev/Fallback/tsports-hd.m3u8
+
+
 #EXTINF:1,bein
 http://46.225.94.157/hls/tnt/index.m3u8
 #EXTINF:1 tvg-logo="http://103.175.242.10/assets/images/Tsports1735735587.png" group-title="PREMIUM",Tsports📺
