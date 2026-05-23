@@ -494,6 +494,19 @@ https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-id="ptc-punjabi" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1414934314PTCPUNJABI_TVSETS_TVW_720x960.webp",PAN | PTC PUNJABI
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
 
-
+#EXTINF:-1,Sports Legends
+https://nomawnoijl.gpcdn.net/akash/sportslegends/chunks.m3u8 
+#EXTINF:-1,Flash Guys HD 
+https://nomawnoijl.gpcdn.net/akash/flashguys/chunks.m3u8
+#EXTINF:-1,Sports Range
+https://nomawnoijl.gpcdn.net/akash/sportrange/chunks.m3u8 
+#EXTINF:-1,Fighters
+https://nomawnoijl.gpcdn.net/akash/fighter/chunks.m3u8
 #EXTINF:-1,FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
+
+
+
+
+
+
