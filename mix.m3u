@@ -422,4 +422,7 @@ https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/qrpsvkxl/720/chunklist.m3
 #EXTINF:-1,group-title="PRO",MB TV
 https://mtechmeet.online:5443/LiveApp/streams/live_qa7t70.m3u8
 
+#EXTINF:-1,group-title="PRO",Medi1 TV
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8
+
 
