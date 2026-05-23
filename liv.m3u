@@ -88,7 +88,8 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,MTR Sports-1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
-
+#EXTINF:-1,EuroSport2
+http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
 
 
 #EXTINF:-1,ONE
