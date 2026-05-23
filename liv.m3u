@@ -495,3 +495,5 @@ https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
 
 
+#EXTINF:-1,FX
+http://23.237.104.106:8080/USA_FX/index.m3u8
