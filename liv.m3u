@@ -22,6 +22,16 @@ https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein7.m3u8
 https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein8.m3u8
 #EXTINF:-1,BEIN-9
 https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein9.m3u8
+#EXTINF:-1,ESPN 1 HD
+http://46.151.196.223:14435/.ts
+#EXTINF:-1,ESPN 2 HD
+http://46.151.196.223:14438/.ts
+#EXTINF:-1,ESPN 3 HD
+http://46.151.196.223:14442/.ts
+#EXTINF:-1,ESPN 4 HD
+http://46.151.196.223:14453/.ta
+#EXTINF:-1,ESPN 5 HD
+http://46.151.196.223:14454/.ts
 #EXTINF:-1,T SPORTS HD 
 https://aynaott.sulfuricacid.workers.dev/Fallback/tsports-hd.m3u8
 #EXTINF:1 tvg-logo="http://103.175.242.10/assets/images/Tsports1735735587.png" group-title="PREMIUM",Tsports📺
