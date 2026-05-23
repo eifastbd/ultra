@@ -38,6 +38,9 @@ http://178.134.1.158:8081/foodnetwork/index.m3u8
 http://195.201.243.254/stream8/index.m3u8
 #EXTINF:-1,QazSport HD
 http://195.201.243.254/stream10/index.m3u8
+#EXTINF:-1,Bein Arabic
+https://6syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8
+
 
 #EXTINF:-1,T SPORTS HD 
 https://aynaott.sulfuricacid.workers.dev/Fallback/tsports-hd.m3u8
