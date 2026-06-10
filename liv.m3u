@@ -2,6 +2,65 @@
 
 
 
+
+
+#EXTM3U
+#EXTINF:-1,ESPN HD BRASIL 
+http://dns.fontedecanais.com.br:80//live/playercodestv/947942/506.ts
+#EXTINF:-1,ESPN FHD BRASIL 
+http://dns.fontedecanais.com.br:80//live/playercodestv/947942/505.ts
+#EXTINF:-1,ESPN 2 SD
+http://dns.fontedecanais.com.br:80//live/playercodestv/947942/510.ts
+#EXTINF:-1,ESPN SD
+http://dns.fontedecanais.com.br:80//live/playercodestv/947942/507.ts
+#EXTINF:-1,ESPN 2 FHD
+http://dns.fontedecanais.com.br:80//live/playercodestv/947942/508.ts
+#EXTINF:-1,ESPN 2 HD
+http://dns.fontedecanais.com.br:80//live/playercodestv/947942/509.ts
+#EXTINF:-1,ESPN 3 SD
+http://dns.fontedecanais.com.br:80//live/playercodestv/947942/513.ts
+#EXTINF:-1,ESPN 3 HD
+http://dns.fontedecanais.com.br:80//live/playercodestv/947942/512.ts
+#EXTINF:-1,ESPN 3 FHD
+http://dns.fontedecanais.com.br:80//live/playercodestv/947942/511.ts
+#EXTINF:-1,ESPN 4 FHD
+http://dns.fontedecanais.com.br:80//live/playercodestv/947942/514.ts
+#EXTINF:-1,SKY SPORTS
+https://zebua.short.gy/skysportsf1
+#EXTINF:-1,Tvri Sport
+https://zebua.short.gy/tvrisport
+#EXTINF:-1,Bein Sports
+https://zebua.short.gy/beinsports
+#EXTINF:-1,Fox Sports 1
+https://zebua.short.gy/foxsports1
+#EXTINF:-1,Fox Sports 2
+https://zebua.short.gy/foxsports2
+#EXTINF:-1,sky sports premier league
+https://zebua.short.gy/skysportspremierleague
+#EXTINF:-1,skysportsmainevent
+https://zebua.short.gy/sky sports main event
+#EXTINF:-1,sky sports mix
+https://zebua.short.gy/skysportsmix
+#EXTINF:-1,sky sport snews
+https://zebua.short.gy/skysportsnews
+#EXTINF:-1,sports grid
+https://zebua.short.gy/sportsgrid
+#EXTINF:-1,FOX SPORTS FHD
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107816
+#EXTINF:-1,ANIMAX HK FHD not ok
+https://stream1.freetv.fun/4588206303e0785c4a3e0c68a3c65ea6594660ddb7ae11fba767ff9c8b66e212.m3u8
+#EXTINF:-1,Eurosport 1 FHD Eu SWISS
+http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
+#EXTINF:-1,Eurosport 2 FHD [Not Working]
+http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
+#EXTINF:-1,TVE HD Sports 
+https://liveovh010.cda.pl/7GNESGht4_0Wk12c78A/1738736/2782059/enc118/tvchdraw/tvchdraw.m3u8?https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00
+#EXTINF:-1,9XM FHD
+https://9xjio.wiseplayout.com/9XM/master.m3u8
+#EXTINF:-1,DIEMA SPORT SD SLOW
+http://85.11.144.9:4222/DIEMASPORT
+#EXTINF:-1,TVE FHD
+https://liveovh010.cda.pl/7GNESGht4_0Wk12c78A/1738736/2782059/enc118/tvchdraw/tvchdraw.m3u8?https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1,Willow
 http://27.124.71.27/Willow_Extra/index.m3u8
 #EXTINF:-1,ESPN 1 HD
