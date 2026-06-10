@@ -378,60 +378,6 @@ http://103.190.133.68:1935/news21live/live/playlist.m3u8
 http://103.190.133.68:1935/news21live/live/chunklist_w870394000.m3u8
 #EXTINF:-1 ,Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
-#EXTINF:-1 ,The Q
-https://mumt05.tangotv.in/THEQ/index.m3u8
-#EXTINF:-1 ,Hindi Hits
-https://mumt01.tangotv.in/HINDIHITS/index.m3u8
-#EXTINF:-1 ,ALL TIME MOVIES
-https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
-#EXTINF:-1 ,Rang
-https://mumt01.tangotv.in/RANG/index.m3u8
-#EXTINF:-1 ,Rongeen Tv
-https://mumt05.tangotv.in/RONGEENTV/index.m3u8
-#EXTINF:-1 ,Khushboo
-https://mumt01.tangotv.in/KHUSHBOOTVBANGLA/index.m3u8
-#EXTINF:-1 ,Manoranjan prime
-https://mumt02.tangotv.in/MANORANJANPRIME/index.m3u8
-#EXTINF:-1 ,Manoranjan Tv
-https://mumt04.tangotv.in/MANORANJANTV/index.m3u8
-#EXTINF:-1 ,Manoranjan Grand
-https://mumt02.tangotv.in/MANORANJANGRAND/index.m3u8
-#EXTINF:-1 ,Monoronjan Movie
-https://mumt04.tangotv.in/MANORANJANMOVIES/index.m3u8
-#EXTINF:-1 ,Sangeet Bangla
-https://mumt05.tangotv.in/SANGEETBANGLA/index.m3u8
-#EXTINF:-1 ,Sangeet Bhojpuri
-https://mumt01.tangotv.in/SANGEETBHOJPURI/index.m3u8
-#EXTINF:-1 ,Balle Balle
-https://mumt04.tangotv.in/BALLEBALLE/index.m3u8
-#EXTINF:-1 ,MUSIC INDIA
-https://mumt05.tangotv.in/MUSICINDIA/index.m3u8
-#EXTINF:-1 ,B4U MUSIC
-https://mumt04.tangotv.in/B4UMUSIC/index.m3u8
-#EXTINF:-1 ,9X JHAKAAS
-https://mumt03.tangotv.in/9XJHAKAAS/index.m3u8
-#EXTINF:-1 ,9X Jalwa
-https://mumt03.tangotv.in/9XJALWA/index.m3u8
-#EXTINF:-1 ,9XM
-https://mumt01.tangotv.in/9XM/index.m3u8
-#EXTINF:-1 ,E24
-https://mumt04.tangotv.in/E24/index.m3u8
-#EXTINF:-1 ,GOLDMINES
-https://mumt04.tangotv.in/GOLDMINES/index.m3u8
-#EXTINF:-1 ,GOLDMINES MOVIES
-https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
-#EXTINF:-1 ,RUPSHI BANGLA
-https://mumt05.tangotv.in/RUPASIBANGLA/index.m3u8
-#EXTINF:-1 ,RAMDHENU (IND)
-https://mumt01.tangotv.in/RAMDHENU/index.m3u8
-#EXTINF:-1 ,PEAR TV (IND)
-https://mumt01.tangotv.in/PEARTV/index.m3u8
-#EXTINF:-1 ,UNIQUE TV (IND)
-https://mumt05.tangotv.in/UNIQUETV/index.m3u8
-#EXTINF:-1 ,ASSAM TALKS (IND)
-https://mumt05.tangotv.in/ASSAMTALKS/index.m3u8
-#EXTINF:-1 ,NE NEWS (IND)
-https://mumt05.tangotv.in/NENEWS/index.m3u8
 #EXTINF:-1 ,Discovery Channel Bengali
 https://mini.allinonereborn.fun/jiotv-www/app/ts_live_573.m3u8
 #EXTINF:-1 ,Vision Punjab
