@@ -164,10 +164,6 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Pardesi TV
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Colors HD
-http://103.229.254.25:7001/play/a0a1/index.m3u8
-#EXTINF:-1 ,Star Gold Select HD
-http://103.229.254.25:7001/play/a032/index.m3u8
 #EXTINF:-1 ,RTL9 HD
 http://151.80.18.177:86/RTL9/index.m3u8
 #EXTINF:-1 ,History HD
@@ -180,8 +176,6 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 #EXTINF:-1 ,Radio BBC
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_vlow_sbr_v1/cfs/bbc_world_service_news_internet.m3u8
-#EXTINF:-1 ,Madani TV
-http://103.229.254.25:7001/play/a05p/index.m3u8
 #EXTINF:-1 ,30AMusic
 https://30a-tv.com/music.m3u8
 #EXTINF:-1 ,BhojpuriCinema
