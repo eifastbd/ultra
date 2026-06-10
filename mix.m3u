@@ -323,18 +323,6 @@ https://server.zillarbarta.com/zbmusic/index.m3u8
 #EXTINF:-1 tvg-id="ZillarBartaNews.in@HD",ZillarBarta News
 https://server.zillarbarta.com/zillarbarta/index.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Hindi%20Hits.jpg?raw=true" tvg-name="Hindi Hits" group-title="PRO",Hindi Hits
-https://mumt01.tangotv.in/HINDIHITS/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/All%20Time%20Movies.jpg?raw=true" tvg-name="ALL TIME MOVIES" group-title="PRO",ALL TIME MOVIES
-https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
-#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Rang%20tv.jpg?raw=true" tvg-name="Rang" group-title="PRO",Rang
-https://mumt01.tangotv.in/RANG/index.m3u8
-
-#EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Khushboo%20Tv.jpg?raw=true" group-title="PRO",Khushboo
-https://mumt01.tangotv.in/KHUSHBOOTVBANGLA/index.m3u8
-
 #EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Shemaroo%20TV.jpg?raw=true" group-title="PRO",Shemaroo TV
 http://103.175.73.12:8080/live/274/274_0.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Shemaroo%20umang.jpg?raw=true" tvg-name="Shemaroo Umang" group-title="PRO",Shemaroo Umang
@@ -350,19 +338,6 @@ http://103.175.73.12:8080/live/469/469_0.m3u8
 
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/T%20Series.jpg?raw=true" tvg-name="T Series" group-title="PRO",T Series
 http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zDiIhdN.png",7S Music
-https://mumt03.tangotv.in/7SMUSIC/index.m3u8
-#EXTINF:-1 tvg-logo="",B4U Bhojpuri
-https://mumt05.tangotv.in/B4UBHOJPURI/index.m3u8
-#EXTINF:-1 tvg-logo="",B4U Kadak
-https://mumt02.tangotv.in/B4UKADAK/index.m3u8
-#EXTINF:-1 tvg-logo="",B4U Movies
-https://mumt02.tangotv.in/B4UMOVIES/index.m3u8
-#EXTINF:-1 tvg-logo="",B4U Music
-https://mumt04.tangotv.in/B4UMUSIC/index.m3u8
-#EXTINF:-1 tvg-logo="",Balle Balle
-https://mumt04.tangotv.in/BALLEBALLE/index.m3u8
 
 #EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Goldmines.jpg?raw=true" group-title="PRO",GOLDMINES
 https://cdn-2.pishow.tv/live/1459/master.m3u8
@@ -398,14 +373,17 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1,group-title="PRO",EWTN TV
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/qrpsvkxl/720/chunklist.m3u8
-
-#EXTINF:-1,group-title="PRO",MB TV
-https://mtechmeet.online:5443/LiveApp/streams/live_qa7t70.m3u8
-#EXTINF:-1,group-title="PRO",Medi1 TV
-https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8
-#EXTINF:-1,group-title="PRO",joo music
-https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1,group-title="PRO",SHEMOORO
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
