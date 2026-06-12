@@ -1,6 +1,10 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/T_Sports.png" group-title="BANGLADESH",T Sports HD
+https://padmaonline.duckdns.org:8088/T-S_HD/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/btv.png" group-title="BANGLADESH", BTV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=2202800.m3u8
 
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
