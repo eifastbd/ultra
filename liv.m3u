@@ -7,6 +7,9 @@ http://go8knm.optikl.ink/X/index.php/Besyria3/video.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TSN 1 🇺🇸 USA 
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/12350.ts
 
+#EXTINF:-1,বায়োস্কোপ
+https://m.mxonlive.xyz/Bioscope/index.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TSN 2 🇺🇸 USA
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/12351.ts
 
@@ -57,6 +60,8 @@ https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 
 #EXTINF:-1,⚽⚽⚽⚽
 https://live.kooran13.cfd/yalls2/index.m3u8
+
+
 
 
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh", FWC 2026 with Tapmad
