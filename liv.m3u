@@ -2,6 +2,23 @@
 #EXTM3U 
 
 
+
+
+
+
+
+
+#EXTINF:-1,Zee Bangla Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+
+
+
+#EXTINF:-1,Zee Cinema 
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+
+
+
+
 #EXTINF:-1,4K
 http://203.18.159.180/GoLIve/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",Bioscope Plus 🇧🇩
