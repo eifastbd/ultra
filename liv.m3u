@@ -2,6 +2,10 @@
 #EXTM3U 
 
 
+
+
+#EXTINF:-1,বায়োস্কোপ
+https://bioscope.sm-monirulislam-exp.workers.dev/bioscope.m3u8
 #EXTINF:-1,4K
 http://go8knm.optikl.ink/X/index.php/Besyria3/video.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TSN 1 🇺🇸 USA 
