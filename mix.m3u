@@ -80,8 +80,6 @@ http://116.204.149.16/mytv/index.m3u8
 http://116.204.149.16/maasranga/index.m3u8
 #EXTINF:-31 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="PRO",SATV
 http://116.204.149.16/satv/index.m3u8
-#EXTINF:-1,group-title="PRO",BANGLA TV HD
-http://116.204.149.16/banglatv/index.m3u8
 #EXTINF:-1,group-title="PRO",Global TV
 http://116.204.149.16/globaltv/index.m3u8
 #EXTINF:-1,group-title="PRO",Rtv
