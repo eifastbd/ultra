@@ -117,8 +117,19 @@ http://116.204.149.16/satv/index.m3u8
 http://116.204.149.16/banglatv/index.m3u8
 #EXTINF:-1,group-title="PRO",Global TV
 http://116.204.149.16/globaltv/index.m3u8
-#EXTINF:-1,Rtv
+#EXTINF:-1,group-title="PRO",Rtv
 http://116.204.149.16/rtvhd/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/vyWRYIqnfy.png", Sun Bangla
+http://27.124.71.27/Sun_Bangla/index.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="PRO", DISCOVERY বাংলা
 http://103.159.180.34:5001/live/3428.m3u8
 #EXTINF:-1 tvg-name="ZEE BANGLA" tvg-logo="http://172.16.29.28/images/zeebangla.png" group-title="PRO",ZEE BANGLA📺
