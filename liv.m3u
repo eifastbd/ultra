@@ -44,7 +44,23 @@ http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/1949446.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Fussball Tv B
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 
-
+EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-MEDIA-SEQUENCE:2682 
+#EXT-X-ALLOW-CACHE:YES 
+#EXT-X-TARGETDURATION:10 
+#EXTINF:1,Airtel
+http://79.143.18.158:80/hls/21de7df6638d9fd0cba346e58c05f744/373312_2682.ts 
+#EXTINF:-1,United  
+http://79.143.18.158:80/hls/644346da55b9d92a10686381d1c9de97/373312_2683.ts 
+#EXTINF:-1,pk
+http://79.143.18.158:80/hls/4da03ffc0da43971bfc7f09c70f0de39/373312_2684.ts 
+#EXTINF:-1,rana 
+http://79.143.18.158:80/hls/7db19e4f71d7705c22af7772a672d4a8/373312_2685.ts 
+#EXTINF:-1,sir  
+http://79.143.18.158:80/hls/c353f4b45a770e8783df7104928060dc/373312_2686.ts 
+#EXTINF:-1,airtel 
+http://79.143.18.158:80/hls/6ca97c216fe846dce7a2284e6e84c2a5/373312_2687.ts
 
 #EXTINF:-1,Star Sports 
 http://41.205.93.154/STARSPORTS1/index.m3u8
