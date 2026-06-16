@@ -154,8 +154,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 #EXTINF:-1,group-title="PRO",Nandan📺
 http://198.144.149.206:8080/IPWORLD/NANDAN/index.fmp4.m3u8
-#EXTINF:1 tvg-name="boishakhitv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Boisakhi.jpg?raw=true" group-title="PRO",Boishakhi tv
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://porosh.com.bd/upload/tv/tv_1770821919_9282.png" group-title="PRO",channel-16 tv
 https://iptv.porosh.com.bd/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 #EXTINF:-1 tvg-id="247" tvg-name="Biswa Bangla 24 HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/biswa-bangla-24.png" group-title="PRO",Biswa Bangla 24 HD
@@ -164,14 +162,10 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/alponatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="245" tvg-name="Deshi TV HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/deshi-tv.png" group-title="PRO",Deshi TV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshitv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="244" tvg-name="Deshe Bideshe HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/deshe-bideshe.png" group-title="PRO",Deshe Bideshe HD
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshebideshe.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="231" tvg-name="Green Tv HD" tvg-logo="https://free.otapp.store/uploads/tv_image/sm/green-tv.png" group-title="PRO",Green Tv HD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1, CHANNEL ONE NEWS
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1,DESHI TV
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1,NRB TV
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 #EXTINF:-1,JAGO NEWS 24
