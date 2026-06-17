@@ -8,7 +8,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 group-title="PRO" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",Somoy TV 
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="PRO",Jamuna TV
+
+#EXTINF:-1 tvg-id="97" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="PRO",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="PRO",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
