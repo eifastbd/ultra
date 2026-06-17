@@ -81,15 +81,15 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png" group-title="PRO",DBC News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728.m3u8
-#EXTINF:-32 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="PRO",MY TV HD
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/c5b2c623863fbe4033d59d52ff7371ac" group-title="Bangla",My TV
 http://116.204.149.16/mytv/index.m3u8
 #EXTINF:-1 group-title="PRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
 http://116.204.149.16/maasranga/index.m3u8
 #EXTINF:-31 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="PRO",SATV
 http://116.204.149.16/satv/index.m3u8
-#EXTINF:-1,group-title="PRO",Global TV
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/ffd7ba9b76ad555933f94bcb7ff26b44" group-title="Bangla",Global TV
 http://116.204.149.16/globaltv/index.m3u8
-#EXTINF:-1,group-title="PRO",Rtv
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/094587a26f2c5e4f2962104728ec8c5d" group-title="Bangla",RTV
 http://116.204.149.16/rtvhd/index.m3u8
 #EXTINF:-1 group-title="PRO" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", T Sports 🇧🇩
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
