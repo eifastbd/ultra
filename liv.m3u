@@ -17,7 +17,8 @@ https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1,4K
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 
-
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh", TVP Sports
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 #EXTINF:-1,Bein
 http://starhub.pro/live/farhat-3379/67897-913379/744524.ts
 #EXTINF:-1,Zee Bangla Cinema
