@@ -2,6 +2,13 @@
 
 
 
+
+
+
+
+#EXTINF:-1,Toffee
+https://cdn-tt.pages.dev/ch2.m3u8
+
 #EXTINF:-1 tvg-name="Somoy TV 🇧🇩" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Somoy TV 🇧🇩
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 tvg-name="Somoy TV B 🇧🇩" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Somoy TV B 🇧🇩
