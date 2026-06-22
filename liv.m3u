@@ -9,17 +9,6 @@
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1782221968~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvfBQQCClC7f2nigt-RYOPX4srVnQtUXEiMFGLMOMIqoUhsLMJKEqeoY03rNXIgsjNennbEvSbTQEedVJsxTIHAG
 
 
-Argentine VS Autriche
-#EXTINF:-1,Go ১
-https://s3.us-east-2.amazonaws.com/cdnh121/live/stream/index.m3u8
-#EXTINF:-1,Go 2
-https://37cup.s3.us-east-2.amazonaws.com/max1/master.m3u8
-#EXTINF:-1,Go3
-https://s3.us-east-2.amazonaws.com/cdnh121/live/stream/720p/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Go4
-https://37cup.s3.us-east-2.amazonaws.com/max1/max1_720p/index.m3u8
-#EXTINF:-1,Go5
-https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 #EXTINF:-1,Go6
 https://storage.googleapis.com/poiuyrngvbnshdbfgeq/mux_video_ts/index-1.m3u8
 #EXTINF:-1,Go7
