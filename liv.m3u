@@ -3,15 +3,21 @@
 
 
 
-#EXTM3U
-#PLAYLIST: FIFA BDIX
-#EXTENC: UTF-8
 
-# Playlist Name: FIFA BDIX
-# Last Update: 05:09 PM 22-06-2026
-# Facebook Page: https://www.facebook.com/profile.php?id=61590515402166
-# Website: https://fastiptvbackup.edgeone.app
 
+
+
+
+
+
+
+
+#EXTINF:-1,Go Live
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
+
+#EXTINF:-1,Go Live ২
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
 
 #EXTINF:-1 tvg-id="Fussball Tv 1" tvg-name="Fussball Tv 1" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Fussball Tv 1 4K
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/742610.ts
