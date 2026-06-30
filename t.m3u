@@ -15,7 +15,6 @@
 
 
 
-#EXTM3U
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",BTV
 http://180.94.28.28:8097//BTV/index.fmp4.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Jamuna Tv
