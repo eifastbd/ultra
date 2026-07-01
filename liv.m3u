@@ -13,6 +13,12 @@
 https://hls.diptom3ow.workers.dev/out/v1/60e7608404004b1186261497b404630b/index.m3u8
 #EXTINF:-1,Bioscope1
 https://dalvikcmpsr.ahmedtahsindipto.workers.dev/out/v1/60e7608404004b1186261497b404630b/index.m3u8
+
+#EXTINF:-1 tvg-name="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Group Viva",Bein
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
+
+
 #EXTINF:-1,SLIVE
 https://pub-f2987c4fc9d2450191dfee2ee8dc9f51.r2.dev/en/index.m3u8
 
