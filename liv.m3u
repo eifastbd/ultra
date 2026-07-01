@@ -8,11 +8,11 @@
 
 
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/7lPOTCc.png",TOFFEE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-https://kazimmt.ami.bd/playlist/TF/TF-6.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rC9MoX7.png",SomoyTV
-http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
+
+
+
+
+
 #EXTINF:-1,Bioscope1
 https://hls.diptom3ow.workers.dev/out/v1/60e7608404004b1186261497b404630b/index.m3u8
 #EXTINF:-1,Bioscope1
@@ -20,11 +20,6 @@ https://dalvikcmpsr.ahmedtahsindipto.workers.dev/out/v1/60e7608404004b1186261497
 
 #EXTINF:-1 tvg-name="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Group Viva",Bein
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-
-
-
-#EXTINF:-1,SLIVE
-https://pub-f2987c4fc9d2450191dfee2ee8dc9f51.r2.dev/en/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",FOX
 http://84.17.50.102/fox/index.m3u8
