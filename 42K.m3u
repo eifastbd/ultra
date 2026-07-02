@@ -10,7 +10,55 @@
 
 
 
+#EXTM3U
 
+#EXTINF:-1 group-title="Hindi movie" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Baaghi%204%20%282025%29%201080p/a_AL_.jpg",Baaghi 4 (2025)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Baaghi%204%20%282025%29%201080p/Baaghi%204%20%282025%29%20Hindi%201080p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20HDHub4u.mkv
+
+#EXTINF:-1 group-title="Hindi movie" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/120%20Bahadur%20%282025%29%201080p%20HDTC%20V2/a_AL_.jpg",120 Bahadur (2025)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/120%20Bahadur%20%282025%29%201080p%20HDTC%20V2/120%20Bahadur%20%282025%29%20Hindi%201080p%20HDTC%20V2%20x265%20HEVC%2010bit%20AAC%20-%20HDHub4u.mkv
+
+#EXTINF:-1 group-title="Hindi movie" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Aachari%20Baa%20%282025%29%20720p/a_AL_.jpg",Aachari Baa (2025)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Aachari%20Baa%20%282025%29%20720p/Aachari%20Baa%20%282025%29%20Hindi%20720p%20HS%20WEBRip%20x264%20AAC%205.1%20ESub%20-%20mkvCinemas.mkv
+
+#EXTINF:-1 group-title="Hindi movie" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Aankhon%20Ki%20Gustaakhiyan%20%282025%29%201080p/a_AL_.jpg",Aankhon Ki Gustaakhiyan (2025)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Aankhon%20Ki%20Gustaakhiyan%20%282025%29%201080p/Aankhon%20Ki%20Gustaakhiyan%20%282025%29%20Hindi%201080p%20Zee5%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+
+#EXTINF:-1 group-title="Hindi movie" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Aap%20Jaisa%20Koi%20%282025%29%201080p/a_AL_.jpg",Aap Jaisa Koi (2025)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Aap%20Jaisa%20Koi%20%282025%29%201080p/Aap%20Jaisa%20Koi%20%282025%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20MSubs%20-%20mkvCinemas.mkv
+
+#EXTINF:-1 group-title="Hindi movie" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Ajey-The%20Untold%20Story%20of%20a%20Yogi%20%282025%29%20720p%20HDTC/a_AL_.jpg",Ajey: The Untold Story of a Yogi (2025)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Ajey-The%20Untold%20Story%20of%20a%20Yogi%20%282025%29%20720p%20HDTC/Ajey%20The%20Untold%20Story%20of%20a%20Yogi%20%282025%29%20Hindi%20720p%20HDTC%20x264%20ESub%20-%20mkvCinemas.mkv
+
+#EXTINF:-1 group-title="Hindi movie" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Akaal-The%20Unconquered%20%282025%29%20720p%20HDRip/a_AL_.jpg",Akaal: The Unconquered (2025)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Akaal-The%20Unconquered%20%282025%29%20720p%20HDRip/Akaal%20The%20Unconquered%20%282025%29%20Hindi%20720p%20HDRip%20x264%20AAC%202.0%20ESub%20-%20mkvCinemas.mkv
+
+#EXTINF:-1 group-title="Hindi movie" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Akshardham-Operation%20Vajra%20Shakti%20%282025%29%201080p/a_AL_.jpg",Akshardham: Operation Vajra Shakti (2025)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Akshardham-Operation%20Vajra%20Shakti%20%282025%29%201080p/Akshardham%20Operation%20Vajra%20Shakti%20%282025%29%20Hindi%201080p%20AMZN%20WEBRip%20x264%20DD2.0%20ESub%20-%20mkvCinemas.mkv
+
+#EXTINF:-1 group-title="Hindi movie" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Andaaz%202%20%282025%29%20720p%20HDRip/a_AL_.jpg",Andaaz 2 (2025)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Andaaz%202%20%282025%29%20720p%20HDRip/Andaaz%202%20%282025%29%20Hindi%20720p%20HDRip%20x264%20AAC%20-%20HDHub4u.mkv
+
+#EXTINF:-1 group-title="Hindi movie" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Azaad%20%282025%29%201080p/a_AL_.jpg",Azaad (2025)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Azaad%20%282025%29%201080p/Azaad%20%282025%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+
+#EXTINF:-1 group-title="Hindi movie" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Badass%20Ravikumar%20%282025%29%201080p/a_AL_.jpg",Badass Ravikumar (2025)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Badass%20Ravikumar%20%282025%29%201080p/Badass%20Ravi%20Kumar%20%282025%29%20Hindi%201080p%20DS4K%20WEBRip%20x264%20DD5.1%20ESub%20-%20HDHub4u.mkv
+
+#EXTINF:-1 group-title="Hindi movie" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Baida%20%282025%29%201080p/a_AL_.jpg",Baida (2025)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Baida%20%282025%29%201080p/Baida%20%282025%29%20Hindi%201080p%20AMZN%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+
+#EXTINF:-1 group-title="Hindi movie" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Baramulla%20%282025%29%20720p/a_AL_.jpg",Baramulla (2025)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Baramulla%20%282025%29%20720p/Baramulla%20%282025%29%20Hindi%20720p%20NF%20WEBRip%20x264%20AAC%205.1%20MSubs%20-%20mkvCinemas.mkv
+
+#EXTINF:-1 group-title="Hindi movie" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Be%20Happy%20%282025%29%20720p/a_AL_.jpg",Be Happy (2025)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Be%20Happy%20%282025%29%20720p/Be%20Happy%20%282025%29%20Hindi%20720p%20AMZN%20WEBRip%20x264%20AAC%205.1%20MSubs%20-%20mkvCinemas.mkv
+
+#EXTINF:-1 group-title="Hindi movie" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Bhagwat%20Chapter%20One-Raakshas%20%282025%29%201080p/a_AL_.jpg",Bhagwat Chapter One: Raakshas (2025)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Bhagwat%20Chapter%20One-Raakshas%20%282025%29%201080p/Bhagwat%20Chapter%20One%20Raakshas%20%282025%29%20Hindi%201080p%20Zee5%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20HDHub4u.mkv
+
+#EXTINF:-1 group-title="Hindi movie" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Bhool%20Chuk%20Maaf%20%282025%29%201080p/a_AL_.jpg",Bhool Chuk Maaf (2025)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Bhool%20Chuk%20Maaf%20%282025%29%201080p/Bhool%20Chuk%20Maaf%20%282025%29%20Hindi%201080p%20AMZN%20WEBRip%20x264%20DD5.1%20MSubs%20-%20mkvCinemas.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTI0NmU5MTItY2RjNC00MzRiLThkMzEtNGFhMTAxZDU1MDdiXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Tu Yaa Main
 https://fmftp.net/api/stream/video/stream?type=movies&id=20641
