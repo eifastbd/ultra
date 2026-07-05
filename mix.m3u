@@ -11,35 +11,35 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="Bangladeshi",BTV🇧🇩
+#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="PRO",BTV🇧🇩
 http://180.94.28.28:8097//BTV/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="SangsadTV.bd@SD" tvg-logo="https://i.imgur.com/jkouxLg.png" group-title="Bangladeshi",Sangsad TV🇧🇩
+#EXTINF:-1 tvg-id="SangsadTV.bd@SD" tvg-logo="https://i.imgur.com/jkouxLg.png" group-title="PRO",Sangsad TV🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="PRO",Ekattor TV
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="PRO",Ekattor TV🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-#EXTINF:-1 tvg-id="299" tvg-name="Channel 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="News",Channel 1
+#EXTINF:-1 tvg-id="299" tvg-name="Channel 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="PRO",Channel 1🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 group-title="PRO" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",Somoy TV 
+#EXTINF:-1,tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" group-title="PRO",Shomoy TV🇧🇩
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-#EXTINF:-1 tvg-id="97" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="PRO",Jamuna TV
+#EXTINF:-1 tvg-id="97" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="PRO",Jamuna TV🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:-1 tvg-id="185" tvg-name="DBC News HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="PRO",DBC News HD
+#EXTINF:-1 tvg-id="185" tvg-name="DBC News HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="PRO",DBC News🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
-#EXTINF:-1 tvg-id="94" tvg-name="Channel 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-title="PRO",Channel 24 HD
+#EXTINF:-1 tvg-id="94" tvg-name="Channel 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-title="PRO",Channel 24🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-#EXTINF:-1 tvg-id="93" tvg-name="ATN News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" group-title="PRO",ATN News
+#EXTINF:-1 tvg-id="93" tvg-name="ATN News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" group-title="PRO",ATN News🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-#EXTINF:-1 tvg-id="186" tvg-name="News 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png" group-title="PRO",News 24 HD
+#EXTINF:-1 tvg-id="186" tvg-name="News 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png" group-title="PRO",News 24🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
-#EXTINF:-1 tvg-id="247" tvg-name="Independent TV " tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png" group-title="PRO",Independent TV 
+#EXTINF:-1 tvg-id="247" tvg-name="Independent TV " tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png" group-title="PRO",Independent TV🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 tvg-id="229" tvg-name="Maasranga TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png" group-title="PRO",Maasranga TV
+#EXTINF:-1 tvg-id="229" tvg-name="Maasranga TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png" group-title="PRO",Maasranga TV🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="PRO",NTV
+#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="PRO",NTV🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="PRO",BanglaVision
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="PRO",Bangla Vision🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="PRO",Ekushey TV
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="PRO",Ekushey TV🇧🇩
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png" group-title="PRO",Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
