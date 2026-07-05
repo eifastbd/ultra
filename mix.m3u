@@ -24,17 +24,17 @@ http://180.94.28.28:8097//EKATTOR-TV/index.fmp4.m3u8
 http://180.94.28.28:8097//CHANNEL-i/index.fmp4.m3u8
 #EXTINF:-1,Channel 24
 http://180.94.28.28:8097//CHANNEL-24/index.fmp4.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel 9
+#EXTINF:-1,Channel 9
 http://180.94.28.28:8097//CHANNEL-9/index.fmp4.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Deepto  TV
+#EXTINF:-1,Deepto  TV
 http://180.94.28.28:8097//DEEPTO-TV/index.fmp4.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DBC News
+#EXTINF:-1,DBC News
 http://180.94.28.28:8097//DBC-NEWS/index.fmp4.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Independent TV
+#EXTINF:-1,Independent TV
 http://180.94.28.28:8097//Independent-TV/index.fmp4.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Rtv
+#EXTINF:-1,Rtv
 http://180.94.28.28:8097//RTV/index.fmp4.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Bangla
+#EXTINF:-1,Zee Bangla
 http://180.94.28.28:8097//ZEE-BANGLA/index.fmp4.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Jalsha
 http://180.94.28.28:8097//STAR-JALSHA/index.fmp4.m3u8
