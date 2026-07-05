@@ -6,23 +6,23 @@
 
 
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",BTV
+#EXTINF:-1,BTV
 http://180.94.28.28:8097//BTV/index.fmp4.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Jamuna Tv
+#EXTINF:-1,Jamuna Tv
 http://180.94.28.28:8097//Jamuna-TV/index.fmp4.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",MAASRANGA TV HD
+#EXTINF:-1,MAASRANGA TV HD
 http://180.94.28.28:8097//Maasranga-tv/index.fmp4.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Nagorik TV
+#EXTINF:-1,Nagorik TV
 http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Somoy TV
+#EXTINF:-1,Somoy TV
 http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Gazi TV
+#EXTINF:-1,Gazi TV
 http://180.94.28.28:8097//GAZI-TV/index.fmp4.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Ekattur
+#EXTINF:-1,Ekattur
 http://180.94.28.28:8097//EKATTOR-TV/index.fmp4.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel i
+#EXTINF:-1,Channel i
 http://180.94.28.28:8097//CHANNEL-i/index.fmp4.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel 24
+#EXTINF:-1,Channel 24
 http://180.94.28.28:8097//CHANNEL-24/index.fmp4.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel 9
 http://180.94.28.28:8097//CHANNEL-9/index.fmp4.m3u8
