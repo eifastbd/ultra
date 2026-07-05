@@ -482,12 +482,6 @@ http://180.94.28.28:8097//Sony-Ten-5/index.fmp4.m3u8
 http://180.94.28.28:8097//PTV-Sports/index.fmp4.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",A Sports
 http://180.94.28.28:8097//A-Sports/index.fmp4.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",WILLOW_SPORTS
-http://180.94.28.28:8097//WILLOW-TV/index.fmp4.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",BEIN-SPORTS-1
-http://180.94.28.28:8097//BEIN-SPORTS-1/index.fmp4.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",BEIN-SPORTS-2
-http://180.94.28.28:8097//BEIN-SPORTS-2/index.fmp4.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony Max HD
 http://180.94.28.28:8097//SONY-MAX/index.fmp4.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Cinema HD
@@ -502,10 +496,7 @@ http://180.94.28.28:8097//Duronto-TV/index.fmp4.m3u8
 http://180.94.28.28:8097//DISCOVERY-BANGLA/index.fmp4.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",National Geography
 http://180.94.28.28:8097//NAT-GEO-BANGLA/index.fmp4.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",uneit8
-http://212.102.34.8:9080/AndFlixHD/video.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",bioscope+
-https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index_1.m3u8
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Bangla Chinena
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",জলসা Movie HD
@@ -701,26 +692,6 @@ https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Makka live
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/master.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",INDEPENDENT
-https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-video=3224800.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel I
-https://nomawnoijl.gpcdn.net/akash/originals/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel 9
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=2202800.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SA TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/1720-audio_113502_eng=113200-video=3224800.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Dippto TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=2202800.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",NEWS 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708-audio_113382_eng=113200-video=3224800.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=2202800.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",MASSRANGA
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Kids Star
 https://nomawnoijl.gpcdn.net/akash/kidsstars/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Lucky Family
@@ -740,28 +711,6 @@ https://nomawnoijl.gpcdn.net/akash/truestories/chunks.m3u8
 
 
 
-389819392a38f719f3a9e375f563-1776169973-1776166373&remote=no_check_ip
-
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/MOVIES-NOW.png" group-title="Hindi",MOVIES-NOW
-http://180.94.28.28:8097//MOVIES-NOW/index.fmp4.m3u8?token=8827e074d26958c8c9daa9a832390e68a169cd09-601dde3eea52847bbdd05b326099c905-1776169973-1776166373&remote=no_check_ip
-
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/CN.png" group-title="Kids",CN
-http://180.94.28.28:8097//CARTOON-NETWORK/index.fmp4.m3u8?token=52636e5178ffde884455262dfbdd706f2c27950a-f06a3bb6e61cb1e4bfcd77721dda68b9-1776169973-1776166373&remote=no_check_ip
-
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/POGO1664977122.png" group-title="Kids",POGO1664977122
-http://180.94.28.28:8097//POGO/index.fmp4.m3u8?token=2717e17ddf4e43e1e645268bdfba89a1649b0470-aff2f5f6145b48c212e9854819292120-1776169973-1776166373&remote=no_check_ip
-
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Discovery_kids.png" group-title="Kids",Discovery_kids
-http://180.94.28.28:8097//DISCOVERY-KIDS/index.fmp4.m3u8?token=d588925c8e8b76efd133d62d8fd249b034835c6d-79817bfc16de854dcf89bd731eb17e75-1776169973-1776166373&remote=no_check_ip
-
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Duronto-TV.png" group-title="Kids",Duronto-TV
-http://180.94.28.28:8097//Duronto-TV/index.fmp4.m3u8?token=e75fb97048890b77770eb83dbf6ba162d7146f10-0b19b41c8305385db0d73e7de5baa853-1776169973-1776166373&remote=no_check_ip
-
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Discovery.png" group-title="Other",Discovery
-http://180.94.28.28:8097//DISCOVERY-BANGLA/index.fmp4.m3u8?token=2c8ee71be8bca324c7695c06255bb0df4ef4efc8-161b0b59279082dc59bee57ac116fd64-1776169973-1776166373&remote=no_check_ip
-
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/National Geography.png" group-title="Other",National Geography
-http://180.94.28.28:8097//NAT-GEO-BANGLA/index.fmp4.m3u8?token=b65b1f2861f21a6ab3b4916d72ad33c40559f5f2-93bd82f1e08068f6a05007af78dc76bb-1776169973-1776166373&remote=no_check_ip
 
 
 #EXTM3U
