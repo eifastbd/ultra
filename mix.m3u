@@ -19,6 +19,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-id="299" tvg-name="Channel 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="PRO",Channel 1🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1,tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" group-title="PRO",Shomoy New🇧🇩
+http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8
 #EXTINF:-1,tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" group-title="PRO",Shomoy TV🇧🇩
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 tvg-id="97" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="PRO",Jamuna TV🇧🇩
@@ -63,8 +65,6 @@ https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png" group-title="PRO",Channel 9🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729.m3u8
-#EXTINF:-1,tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" group-title="PRO",Shomoy TV
-http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG6En6mA0rmam1wT2Wl_om9G8ZkryFeV5kKA&s" group-title="PRO",Star News🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Al-Jazeera-Logo-500x281.png" group-title="PRO",Al-Jazeera🇧🇩
@@ -163,8 +163,6 @@ https://jagroniakash.ncare.live/unmochontv/unmochontv.stream/tracks-v1a1/mono.m3
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/biswabanglatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Nagorik TV🇧🇩
 http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8
-#EXTINF:-1,Somoy TV🇧🇩
-http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8
 #EXTINF:-1,Gazi TV🇧🇩
 http://180.94.28.28:8097//GAZI-TV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PRO",Movie Bangla🇧🇩
