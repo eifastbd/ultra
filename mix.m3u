@@ -690,35 +690,11 @@ https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 #EXTINF:-1,group-title="PRO",Nandan📺
 http://198.144.149.206:8080/IPWORLD/NANDAN/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://porosh.com.bd/upload/tv/tv_1770821919_9282.png" group-title="PRO",channel-16 tv
-https://iptv.porosh.com.bd/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
-#EXTINF:-1 tvg-id="247" tvg-name="Biswa Bangla 24 HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/biswa-bangla-24.png" group-title="PRO",Biswa Bangla 24 HD
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/biswabanglatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="245" tvg-name="Deshi TV HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/deshi-tv.png" group-title="PRO",Deshi TV HD
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshitv.stream/playlist.m3u8
-#EXTINF:-1,NRB TV
-https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
-#EXTINF:-1,JAGO NEWS 24
-https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
-#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Movie%20Bangla.jpg?raw=true" tvg-name="Movie Bangla" group-title="PRO",Movie Bangla
-http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1,PROBASHI TV
-http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://channeleurope.tv/storage/settings/BNyRMyomifMQ7VlzvHKbNwCfzxM7kF4Vq7bj4zxZ.png",Channel Europe
-https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w572284654.m3u8
-#EXTINF:-1 tvg-name="LoveDoes" group-title="PRO",বাংলা গান
-https://live20.bozztv.com/giatvplayout7/giatv-209587/index.m3u8
-#EXTINF:-1, CB 24
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/cb24.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/5hy7S3wB/Ayna-TV.png",Ayna TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://imglink.cc/cdn/rw8iAU9ZcB.jpg", Thikana
 https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
-#EXTINF:-1,EPTV BD
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eptv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1,UNMOCHON TV
-https://jagroniakash.ncare.live/unmochontv/unmochontv.stream/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,group-title="PRO",ZB CARTOON📺
 https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1,group-title="PRO",RONGEEN TV📺
@@ -726,49 +702,14 @@ https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Hindi Movies",Manoranjan Movies
-http://103.175.73.12:8080/live/23/23_0.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Hindi Movies",Manoranjan Prime
-http://103.175.73.12:8080/live/345/345_0.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Hindi Movies",Manoranjan Grend
-http://103.175.73.12:8080/live/19/19_0.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Movies" group-title="Movies",B4U Kadak
-https://cdn-2.pishow.tv/live/227/master.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084" group-title="Movies", Hindi Movie Classic 24
-https://vods2.aynaott.com/hindimovies/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Movies",Sheemaroo Bollywood
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",Goldmines Movies
-https://cdn-2.pishow.tv/live/1461/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.goldmines.co.in/assets/img/sites/s4.jpg" group-title="Movies",Goldmines Movies 2
-https://cdn-2.pishow.tv/live/1460/master.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wZNZDQmr2Zct4_ETjKLkrcTKuN81wYEK527pxhoun-hMXFDTVYQYXhCoYZG8TgOSBp0s_NC5uw=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",Goldmines Movies 2
-https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 
 
 
 
-#EXTINF:1 tvg-name="HUM TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/HUMTV.jpg?raw=true" group-title="PRO",HUM TV
-https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
-#EXTINF:-1 tvg-name="Bangla Movies" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bangla%20Movie.jpg?raw=true" group-title="PRO",Bangla Movies
-https://tplay.live/playlist/movies/bangla-movies/index.m3u8
-#EXTINF:-1 tvg-name="Dubbed movies" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Dubbed%20Movie.jpg?raw=true" group-title="PRO",Dubbed movies
-https://tplay.live/playlist/movies/dubbed-movies/index.m3u8
-#EXTINF:-1 tvg-name="ILM TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/ILM%20TV.jpg?raw=true" group-title="PRO",ILM TV
-https://tplay.live/originals/ilm-tv/index.m3u8
-#EXTINF:-1 tvg-name="Batul The great" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Batul%20The%20great.jpg?raw=true" group-title="PRO",Batul The great
-https://tplay.live/playlist/kids/bantul-the-great/index.m3u8
-#EXTINF:-1 tvg-name="Gopal Bhar" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Gopal%20Bhar.jpg?raw=true" group-title="PRO",Gopal Bhar
-https://tplay.live/playlist/kids/gopal-bhar/index.m3u8
-#EXTINF:-1 tvg-name="Motu Patlu" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Motu%20Patlu.jpg?raw=true" group-title="PRO",Motu Patlu
-https://tplay.live/playlist/kids/motu-patlu/index.m3u8
-#EXTINF:-1 tvg-name="Doraemon" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Dorimon.jpg?raw=true" group-title="PRO",Doraemon
-https://tplay.live/playlist/kids/doraemon/index.m3u8
-#EXTINF:1 tvg-name="Tom & Jerry" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Tom%20and%20jery.jpg?raw=true" group-title="PRO",Tom & Jerry
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/CN.jpg?raw=true" group-title="PRO",CARTOON NETWORK
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
@@ -788,12 +729,40 @@ https://cdn-4.pishow.tv/live/1474/master.m3u8
 https://cdn-1.pishow.tv/live/1013/master.m3u8
 #EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Monoronjan%20Grand.jpg?raw=true" group-title="PRO",Manoranjan Grand
 https://cdn-1.pishow.tv/live/1011/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Hindi Movies",Manoranjan Movies
+http://103.175.73.12:8080/live/23/23_0.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Hindi Movies",Manoranjan Prime
+http://103.175.73.12:8080/live/345/345_0.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Hindi Movies",Manoranjan Grend
+http://103.175.73.12:8080/live/19/19_0.m3u8
 
 
-#
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Movies" group-title="Movies",B4U Kadak
+https://cdn-2.pishow.tv/live/227/master.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084" group-title="Movies", Hindi Movie Classic 24
+https://vods2.aynaott.com/hindimovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Movies",Sheemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",Goldmines Movies
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.goldmines.co.in/assets/img/sites/s4.jpg" group-title="Movies",Goldmines Movies 2
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wZNZDQmr2Zct4_ETjKLkrcTKuN81wYEK527pxhoun-hMXFDTVYQYXhCoYZG8TgOSBp0s_NC5uw=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",Goldmines Movies 2
+https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
+#EXTINF:1 tvg-name="GOLDMINES" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Goldmines%202.jpg?raw=true" group-title="PRO",GOLDMINES 2
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Goldmines%20Movie.jpg?raw=true" group-title="PRO",GOLDMINES MOVIES
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Goldmines%20Movie.jpg?raw=true" group-title="PRO",GOLDMINES MOVIES
+http://103.175.73.12:8080/live/52/52_0.m3u8
+#EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Goldmines%20Movie.jpg?raw=true" group-title="PRO",GOLDMINES MOVIES
+https://moviethls.wns.live/hls/stream.m3u8
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/NH%20BollyFix.jpg?raw=true" tvg-name="NH Bolly Fix" group-title="PRO",NH Bolly Fix
 https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,nhbollyflixottplay.m3u8
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/NH%20BollyGold.jpg?raw=true" tvg-name="NH Bollygold" group-title="PRO",NH Bollygold
@@ -820,16 +789,6 @@ http://103.175.73.12:8080/live/469/469_0.m3u8
 
 
 
-
-
-#EXTINF:1 tvg-name="GOLDMINES" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Goldmines%202.jpg?raw=true" group-title="PRO",GOLDMINES 2
-https://cdn-2.pishow.tv/live/1460/master.m3u8
-#EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Goldmines%20Movie.jpg?raw=true" group-title="PRO",GOLDMINES MOVIES
-https://cdn-2.pishow.tv/live/1461/master.m3u8
-#EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Goldmines%20Movie.jpg?raw=true" group-title="PRO",GOLDMINES MOVIES
-http://103.175.73.12:8080/live/52/52_0.m3u8
-#EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Goldmines%20Movie.jpg?raw=true" group-title="PRO",GOLDMINES MOVIES
-https://moviethls.wns.live/hls/stream.m3u8
 #EXTINF:1 tvg-name="Orange Bangla TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Orange%20Tv.jpg?raw=true" group-title="PRO",Orange Bangla TV
 https://cdn-4.pishow.tv/live/1499/master.m3u8
 #EXTINF:1 tvg-name="Akash Aath" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Akahsh%20Aath.jpg?raw=true" group-title="PRO",Akash Aath
