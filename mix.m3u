@@ -354,27 +354,7 @@ http://live.balajibroadband.com:3500/live/697.m3u8
 https://sm-monirul.top/toffee/play/sonyaath.m3u8
 #EXTINF:-1,SONY KAL
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay
-http://live.balajibroadband.com:3500/live/872.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/2102fac092ee28f75652131b19d74260.png" group-title="MOVIES",MAX 1
-http://live.balajibroadband.com:3500/live/3418.m3u8
-http://103.180.212.191:3500/live/3418.m3u8
-#EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyWAH.png" group-title="Movies",Sony WAH
-http://live.balajibroadband.com:3500/live/1393.m3u8
-#EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
-http://live.balajibroadband.com:3500/live/762.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="ENGLISH",Star Movies HD
-http://66.102.126.10:8000/play/a021/index.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
-http://66.102.126.10:8000/play/a020/index.m3u8
-http://103.157.248.140:8000/play/a01s/index.m3u8
-#EXTINF:-1 tvg-id="b80579f2-22d3-4b12-881e-60139810a791" tvg-name="Goldmines Bollywood" tvg-logo="https://s3.aynaott.com/storage/d9a0314f5f9165176f492db3923709bd" group-title="Hindi",Goldmines Bollywood
-http://103.175.73.12:8080/live/52/52_0.m3u8
 
-
-
-#EXTINF:-1 tvg-id="1f8a84b3-8079-4c29-9e73-f219664e9d4d" tvg-name="Goldmines Movies" tvg-logo="https://s3.aynaott.com/storage/26c1570891267164e40563806b25ccdb" group-title="Hindi",Goldmines Movies
-http://103.175.73.12:8080/live/51/51_0.m3u8
 
 
 
@@ -479,12 +459,7 @@ http://mysave23.com/live/PeH5kPWFfG/infamous7funny/4083.ts
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zoom
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Action
-http://103.175.73.12:8080/live/270/270_0.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",095. GOLDMINES
-http://103.175.73.12:8080/live/53/master.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",096. Goldmines Movies
-http://103.175.73.12:8080/live/51/master.m3u8
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sci-fi
 https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",MNX-HD
@@ -507,14 +482,7 @@ http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/9398.ts
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/4083.ts
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Dhoom Music
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",The Movie Club
-https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sheemaroo Bollywood
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Manoranjan Prime
-http://103.175.73.12:8080/live/345/345_0.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Manoranjan Grend
-http://103.175.73.12:8080/live/19/19_0.m3u8
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DD Sports 2.0
@@ -591,25 +559,30 @@ http://116.204.149.16/mytv/index.m3u8
 http://116.204.149.16/satv/index.m3u8
 
 
+#EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay
+http://live.balajibroadband.com:3500/live/872.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/2102fac092ee28f75652131b19d74260.png" group-title="MOVIES",MAX 1
+http://live.balajibroadband.com:3500/live/3418.m3u8
+http://103.180.212.191:3500/live/3418.m3u8
+#EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyWAH.png" group-title="Movies",Sony WAH
+http://live.balajibroadband.com:3500/live/1393.m3u8
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
+http://live.balajibroadband.com:3500/live/762.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="ENGLISH",Star Movies HD
+http://66.102.126.10:8000/play/a021/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
+http://66.102.126.10:8000/play/a020/index.m3u8
+http://103.157.248.140:8000/play/a01s/index.m3u8
+#EXTINF:-1 tvg-id="b80579f2-22d3-4b12-881e-60139810a791" tvg-name="Goldmines Bollywood" tvg-logo="https://s3.aynaott.com/storage/d9a0314f5f9165176f492db3923709bd" group-title="Hindi",Goldmines Bollywood
+http://103.175.73.12:8080/live/52/52_0.m3u8
 
-#EXTINF:-1,বিশ্ব বাংলা ২৪
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/biswabanglatv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="141" group-title="PRO" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png",SRK TV 
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Channel_S.png" group-title="PRO",Channel S
-https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Star%20News.jpg" group-title="PRO",Star News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png" group-title="PRO",DBC News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728.m3u8
-#EXTINF:-1 group-title="PRO" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", T Sports 🇧🇩
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
-#EXTINF:-1 group-title="PRO" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", T Sports HD B 🇧🇩
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPZdDXbsGeDOGhPC-Og7bXRrJxsbaFnZ1IEVB7-bPsJtpvNE9IhcMv0Q5OnUq5GCK9UqE7mzMCZinQaN1NSjk2wqKQFs_dreX5yGnDiXNju5yYT_9BDLC3dThhXRIfKk5XQGNc4oi6qWO3fvw5-9dqydLf6pvyHsq5cske3F1FKKih75cCUk20OKVymg/s600/Nur_20251216_222101_0000.png" group-title="PRO", Star Jalsha
-https://tvsen3.aynaott.com/n64PH4YL/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLCSvEmAvqf0bXOPUrlifqT-jejbZcRnqHlfPvhBTvYGxMy1mbIr527uZz5qKJyMcDt8RyH8z_3zrNNcS80bs_IDGl2SvsxQfaKVjk7L55blRjuI5z-koVFxYccyYpU1ZnHDH9dmAASP227AADBF9RrnzXyL1C83gOmExVccG-xBnqIzaOwokZTuKGhw/s1080/1000021570.png" group-title="PRO", Enter10 Bangla
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="1f8a84b3-8079-4c29-9e73-f219664e9d4d" tvg-name="Goldmines Movies" tvg-logo="https://s3.aynaott.com/storage/26c1570891267164e40563806b25ccdb" group-title="Hindi",Goldmines Movies
+http://103.175.73.12:8080/live/51/51_0.m3u8
+
+
+
 #EXTINF:-1 group-title="PRO" tvg-logo="https://imglink.cc/cdn/3TXPVSGzx5.png", Star Jalsha
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 #EXTINF:-1 group-title="PRO" tvg-logo="https://imglink.cc/cdn/qonZADSZua.png", Zee Bangla
