@@ -24,7 +24,12 @@ https://apxvf0ws91.yarncdn.live/live/hd-en-6MvYMRTH77PtjEm5EG/playlist.m3u8
 #EXTINF:-1,Argentina vs Egypt SD	
 https://apxvf0ws91.yarncdn.live/live/sd-6MvYMRTH77PtjEm5EG/playlist.m3u8
 
+#EXTINF:-1 group-title="SHAREEXT@ WORLD_CUP_2026" tvg-logo="https://epg.v1.mk/logo/cctv5.png",CCTV5 hd
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 
+#EXTINF:-1 tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg" group-title="SHAREEXT@ WORLD_CUP_2026",CCTV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://107.150.60.122/live/cctv5hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/football-logo-design-template-bebebf8ff1c25b66b504d37afaee99f0_screen.jpg?ts=1686017774" group-title="",group-title="𝐈𝐏𝐋 𝐋𝐈𝐕𝐄",Alwan
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts
