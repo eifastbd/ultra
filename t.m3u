@@ -116,9 +116,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://channeleurope.tv/storage/settings/BNyRMyomifMQ7VlzvHKbNwCfzxM7kF4Vq7bj4zxZ.png",group-title="TV💠",Channel Europe
 https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w572284654.m3u8
-
-
-
+#EXTINF:-1 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="TV💠",Desh TV
+https://bozztv.com/rongo/rongo-DeshTV/tracks-v2a1/mono.m3u8
 #EXTINF:-1,group-title="TV💠",UNMOCHON TV
 https://jagroniakash.ncare.live/unmochontv/unmochontv.stream/tracks-v1a1/mono.m3u8
 
@@ -133,76 +132,81 @@ http://103.121.61.218/tmp_hls/86b122d4358357d834a87ce618a55de0/index.m3u8
 
 
 
-#EXTM3U
-#EXTINF:-1 group-title="-", BBC EARTH HD 
+
+
+
+
+
+
+#EXTINF:-1 group-title="TATA", BBC EARTH HD 
 http://202.70.146.135:8000/play/a067/index.m3u8
-#EXTINF:-1 group-title="-", TEN 2 HD 
+#EXTINF:-1 group-title="TATA", TEN 2 HD 
 http://202.70.146.135:8000/play/a06n/index.m3u8
-#EXTINF:-1 group-title="-",&pictures HD - Rs 19.00
+#EXTINF:-1 group-title="TATA",&pictures HD
 http://202.70.146.135:8000/play/a06b/index.m3u8
-#EXTINF:-1 group-title="-",&tv HD - Rs 19.00
+#EXTINF:-1 group-title="TATA",&tv HD
 http://202.70.146.135:8000/play/a06c/index.m3u8
-#EXTINF:-1 group-title="-",Colors Cineplex - Rs 19.00
+#EXTINF:-1 group-title="TATA",Colors Cineplex
 http://202.70.146.135:8000/play/a01b/index.m3u8
-#EXTINF:-1 group-title="-",Colors Cineplex Bollywood - Rs 0.10
+#EXTINF:-1 group-title="TATA",Colors Cineplex Bollywood
 http://202.70.146.135:8000/play/a058/index.m3u8
-#EXTINF:-1 group-title="-",Colors HD - Rs 19.00
+#EXTINF:-1 group-title="TATA",Colors HD
 http://202.70.146.135:8000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="-",Colors Tamil HD - Rs 7.00
+#EXTINF:-1 group-title="TATA",Colors Tamil HD
 http://202.70.146.135:8000/play/a06o/index.m3u8
-#EXTINF:-1 group-title="-",D Tamil - Rs 3.50
+#EXTINF:-1 group-title="TATA",D Tamil
 http://202.70.146.135:8000/play/a054/index.m3u8
-#EXTINF:-1 group-title="-",Discovery HD - Rs 8.00
+#EXTINF:-1 group-title="TATA",Discovery HD
 http://202.70.146.135:8000/play/a05z/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Science - Rs 1.00
+#EXTINF:-1 group-title="TATA",Discovery Science
 http://202.70.146.135:8000/play/a060/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Turbo - Rs 1.00
+#EXTINF:-1 group-title="TATA",Discovery Turbo
 http://202.70.146.135:8000/play/a050/index.m3u8
-#EXTINF:-1 group-title="-",Disney Channel - Rs 10.00
+#EXTINF:-1 group-title="TATA",Disney Channel
 http://202.70.146.135:8000/play/a01q/index.m3u8
-#EXTINF:-1 group-title="-",Disney International HD - Rs 19.00
+#EXTINF:-1 group-title="TATA",Disney International
 http://202.70.146.135:8000/play/a04p/index.m3u8
-#EXTINF:-1 group-title="-",Eurosport HD - Rs 6.00
+#EXTINF:-1 group-title="TATA",Eurosport HD
 http://202.70.146.135:8000/play/a05s/index.m3u8
-#EXTINF:-1 group-title="-",History TV18 HD - Rs 7.00 
+#EXTINF:-1 group-title="TATA",History TV18 HD
 http://202.70.146.135:8000/play/a065/index.m3u8
-#EXTINF:-1 group-title="-",MNX - Rs 5.00
+#EXTINF:-1 group-title="TATA",MNX
 http://202.70.146.135:8000/play/a052/index.m3u8
-#EXTINF:-1 group-title="-",Movies Now HD - Rs 14.00
+#EXTINF:-1 group-title="TATA",Movies Now HD
 http://202.70.146.135:8000/play/a057/index.m3u8
-#EXTINF:-1 group-title="-",NATIONAL GEOGRAPHIC HD - Rs 14.00
+#EXTINF:-1 group-title="TATA",NATIONAL GEOGRAPHIC HD
 http://202.70.146.135:8000/play/a05o/index.m3u8
-#EXTINF:-1 group-title="-",Nat Geo Wild HD - Rs 8.00
+#EXTINF:-1 group-title="TATA",Nat Geo Wild HD
 http://202.70.146.135:8000/play/a05j/index.m3u8
-#EXTINF:-1 group-title="-",Nick  - Rs 6.00
+#EXTINF:-1 group-title="TATA",Nick
 http://202.70.146.135:8000/play/a04c/index.m3u8
-#EXTINF:-1 group-title="-",Nick Jr. - Rs 1.00
+#EXTINF:-1 group-title="TATA",Nick Jr.
 http://202.70.146.135:8000/play/a02n/index.m3u8
-#EXTINF:-1 group-title="-",Romedy Now - Rs 5.00
+#EXTINF:-1 group-title="TATA",Romedy Now
 http://202.70.146.135:8000/play/a05x/index.m3u8
-#EXTINF:-1 group-title="-",SET HD - Rs 19.00
+#EXTINF:-1 group-title="TATA",SET HD
 http://202.70.146.135:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="-",SONY MAX HD 
+#EXTINF:-1 group-title="TATA",SONY MAX HD 
 http://202.70.146.135:8000/play/a01g/index.m3u8
-#EXTINF:-1 group-title="-",SONY PIX HD 
+#EXTINF:-1 group-title="TATA",SONY PIX HD 
 http://202.70.146.135:8000/play/a06p/index.m3u8
-#EXTINF:-1 group-title="-",SONY SAB HD - Rs 19.00
+#EXTINF:-1 group-title="TATA",SONY SAB HD
 http://202.70.146.135:8000/play/a025/index.m3u8
-#EXTINF:-1 group-title="-",SONY SPORTS TEN 1 HD - Rs 19.00
+#EXTINF:-1 group-title="TATA",SONY SPORTS TEN 1
 http://202.70.146.135:8000/play/a09p/index.m3u8
-#EXTINF:-1 group-title="-",SONY SPORTS TEN 3 Hindi HD - Rs 25.00
+#EXTINF:-1 group-title="TATA",SONY SPORTS TEN 3
 http://202.70.146.135:8000/play/a09q/index.m3u8
-#EXTINF:-1 group-title="-",SONY SPORTS TEN 5 HD - Rs 25.00
+#EXTINF:-1 group-title="TATA",SONY SPORTS TEN 5 HD
 http://202.70.146.135:8000/play/a09r/index.m3u8
-#EXTINF:-1 group-title="-",STAR GOLD HD - Rs 19.00
+#EXTINF:-1 group-title="TATA",STAR GOLD HD
 http://202.70.146.135:8000/play/a02a/index.m3u8
-#EXTINF:-1 group-title="-",STAR Maa HD - Rs 22.00
+#EXTINF:-1 group-title="TATA",STAR Maa HD
 http://202.70.146.135:8000/play/a02z/index.m3u8
-#EXTINF:-1 group-title="-",STAR Movies HD - Rs 19.00
+#EXTINF:-1 group-title="TATA",STAR Movies HD
 http://202.70.146.135:8000/play/a06r/index.m3u8
-#EXTINF:-1 group-title="-",STAR Movies Select HD - Rs 19.00
+#EXTINF:-1 group-title="TATA",STAR Movies Select HD
 http://202.70.146.135:8000/play/a06q/index.m3u8
-#EXTINF:-1 group-title="-",STAR Plus HD - Rs 22.00
+#EXTINF:-1 group-title="TATA",STAR Plus HD
 http://202.70.146.135:8000/play/a009/index.m3u8
 #EXTINF:-1 group-title="-",Sonic - Rs 1.00
 http://202.70.146.135:8000/play/a02t/index.m3u8
