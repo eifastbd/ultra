@@ -35,9 +35,9 @@ https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="TV💠",Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
-#EXTINF:-0 tvg-logo="https://www.tbn24.com/logo.png",TBN 24
+#EXTINF:-0 tvg-logo="https://www.tbn24.com/logo.png" group-title="TV💠",TBN 24
 https://www.tbn24.com/live-tv-stream/20201_0.m3u8
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/10/iontvuk.jpg?x49520" group-title="",group-title="TV💠",iON TV UK
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/10/iontvuk.jpg?x49520" group-title="TV💠",iON TV UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iontvuk.stream/live-orgin/iontvuk.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/jagonews.jpg"group-title="TV💠",Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
@@ -99,7 +99,7 @@ https://jagroniakash.ncare.live/unmochontv/unmochontv.stream/tracks-v1a1/mono.m3
 
 #EXTINF:-1 group-title="TV💠" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGN4JrZ3Ur3BHiD2tQhsQq3WQ5DXpv7HATFyNDT6o-rSNwAZaeQieMBdfPoGPio5UPipGV2ZBb8rLmyYJe5vySfQjEmTE5MLc_6q8CKfXuzb4eRQREjPiyL5tkncb1Xt5pVMJa6t77CT98JvAFozg95IH_9qofXJ2s1ubKCbJ-_JsuRVb458aBztLImQ/s1080/1000015295.png",Channel 16
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
-#EXTINF:-1,group-title="TV💠"JA TV
+#EXTINF:-1,group-title="TV💠",JA TV
 http://103.121.61.218/tmp_hls/86b122d4358357d834a87ce618a55de0/index.m3u8
 
 
