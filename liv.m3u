@@ -17,12 +17,6 @@ https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdn
 #EXTINF:-1 tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/football-logo-design-template-bebebf8ff1c25b66b504d37afaee99f0_screen.jpg?ts=1686017774" group-title="",group-title="𝐈𝐏𝐋 𝐋𝐈𝐕𝐄",ফিফা
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://vips-livecdn.fptplay.net/live/media/v3abr/live247-hls-avc/v3abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
-
-#EXTINF:-1,FIFA
-http://cdn98.com:80/play/live.php?mac=00:1A:79:99:54:11&stream=2077068&extension=ts&play_token=R6V7D4j3TT
-#EXTINF:-1,FIFA
-http://cdn98.com:80/play/live.php?mac=00:1A:79:99:54:11&stream=2077069&extension=ts&play_token=5lqJN0LL3X
-
 #EXTINF:-1,FIFA
 http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2097373&extension=ts&play_token=0rSIKQkTqF
 #EXTINF:-1, Argentina vs Egypt	
