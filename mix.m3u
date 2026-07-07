@@ -364,7 +364,12 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
 
 
-
+#EXTINF:-1,Discovery Kids HD
+http://181.224.200.5:2277/play/a00o/index.m3u8
+#EXTINF:-1,Disney HD
+http://181.224.200.5:2277/play/a014/index.m3u8
+#EXTINF:-1,Disney Jr.
+http://181.224.200.5:2277/play/a0dm/index.m3u8
 #EXTINF:-1,Disney
 http://45.171.64.30:8800/play/a06l
 #EXTINF:-1,Disney JR
