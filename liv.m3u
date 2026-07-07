@@ -22,7 +22,10 @@ https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdn
 http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2097373&extension=ts&play_token=0rSIKQkTqF
 #EXTINF:-1,Argentina vs Egypt HD	
 https://apxvf0ws91.yarncdn.live/live/hd-en-6MvYMRTH77PtjEm5EG/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/56LQJQbGxYzzM_xKyXQ3JgSn4af73igvALJsQbLllVodpyyG4S3ffr0s95Ue1y6OA942" group-title="",group-title="𝐈𝐏𝐋 𝐋𝐈𝐕𝐄",Ptv Sports
+http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/56LQJQbGxYzzM_xKyXQ3JgSn4af73igvALJsQbLllVodpyyG4S3ffr0s95Ue1y6OA942" group-title="",group-title="𝐈𝐏𝐋 𝐋𝐈𝐕𝐄",T Sports BDIX
+http://103.165.93.31:8095/tsports/video.m3u8
 
 #EXTINF:-1 group-title="SHAREEXT@ WORLD_CUP_2026" tvg-logo="https://epg.v1.mk/logo/cctv5.png",CCTV5 hd
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
