@@ -3,18 +3,16 @@
 
 
 
-#EXTINF:-1 tvg-id="141" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png",SRK TV 
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Channel_S.png" group-title="BANGLADESH",Channel S
-#https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvY2hhbm5lbC1z&name=Channel+S&format=.m3u8
-https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1683606878-6994272.png" group-title="Bangladesh", গ্ৰীন টিভি বাংলাদেশ
+
+
+
+
+
+
+#EXTINF:-1, tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1683606878-6994272.png" group-title="TV💠",Green Tv
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Aakashaath_blue.png/revision/latest?cb=20210509111354" group-title="Indian Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Aakashaath_blue.png/revision/latest?cb=20210509111354" group-title="Indian Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/e7f3e27e90d39b668bb9d1654174c788.png" group-title="Indian Bangla",Zee Bangla Sonar
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Aakashaath_blue.png/revision/latest?cb=20210509111354" group-title="TV💠" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Aakashaath_blue.png/revision/latest?cb=20210509111354" group-title="Indian Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/e7f3e27e90d39b668bb9d1654174c788.png" group-title="Indian Bangla",Zee Bangla Sonar
 https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png" group-title="PRO",ATN Bangla UK🇧🇩
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png" group-title="PRO",NTV UK🇧🇩
