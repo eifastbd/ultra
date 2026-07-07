@@ -389,8 +389,7 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1,group-title="PRO",RONGEEN TV👻
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/CN.jpg?raw=true" group-title="PRO",CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/500px-Cartoon_Network_2010_logo.svg.png" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/500px-Cartoon_Network_2010_logo.svg.png" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/500px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 group-title="PRO",Nick 
 http://58.147.140.106:4000/play/a0gj/index.m3u8
@@ -513,7 +512,6 @@ http://103.175.73.12:8080/live/469/469_0.m3u8
 
 
 
-
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Discovery Bangla
 http://202.70.146.135:8000/play/a05z/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Nat Geo HD
@@ -535,12 +533,6 @@ https://xfireflix.my.id/mac.php?id=908684.m3u8
 http://103.180.212.191:3500/live/573.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/500px-Cartoon_Network_2010_logo.svg.png" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/500px-Cartoon_Network_2010_logo.svg.png" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/500px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network
-https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/My_TV_Bangladesh_logo.svg/500px-My_TV_Bangladesh_logo.svg.png" group-title="Bangladesh Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/My_TV_Bangladesh_logo.svg/500px-My_TV_Bangladesh_logo.svg.png" group-title="Bangladesh Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/My_TV_Bangladesh_logo.svg/500px-My_TV_Bangladesh_logo.svg.png" group-title="Bangladesh Entertainment",My TV Bangladesh
-http://116.204.149.16/mytv/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.satv.tv/wp-content/uploads/2017/07/logo1.png" group-title="Bangladesh Entertainment" tvg-logo="https://www.satv.tv/wp-content/uploads/2017/07/logo1.png" group-title="Bangladesh Entertainment" tvg-logo="https://www.satv.tv/wp-content/uploads/2017/07/logo1.png" group-title="Bangladesh Entertainment",SATV
-http://116.204.149.16/satv/index.m3u8
 
 
 
