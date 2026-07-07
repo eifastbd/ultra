@@ -5,13 +5,8 @@
 
 
 
-
-#EXTINF:-1,JALSHA MOVIES
-http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108783
 #EXTINF:-1,Zee Cinema HD
 http://103.159.180.34:5001/live/165.m3u8
-
-
 #EXTINF:-1 group-title="PRO" tvg-logo="https://imglink.cc/cdn/qonZADSZua.png",Zee Bangla🇮🇳
 http://103.159.180.34:5001/live/625.m3u8
 #EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaSonar.png" group-title="Bengali",Zee Bangla Sonar🇮🇳
@@ -30,8 +25,6 @@ http://103.159.180.34:5001/live/164.m3u8
 http://103.159.180.34:5001/live/250.m3u8
 #EXTINF:-1,Zing
 http://103.159.180.34:5001/live/585.m3u8
-#EXTINF:-1,23. me tv
-https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1,ATN BANGLA
 http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108790
 #EXTINF:-1,ATN NEWS
@@ -92,8 +85,8 @@ http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/63557
 http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/63393
 #EXTINF:-1,STAR JALSHA MOVIES HD
 http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/63524
-
-
+#EXTINF:-1,MOVIES
+http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108783
 
 
 
