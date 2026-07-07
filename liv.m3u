@@ -15,6 +15,14 @@ https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdn
 https://vips-livecdn.fptplay.net/live/media/v3abr/live247-hls-avc/v3abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 
 
+#EXTINF:-1, Argentina vs Egypt	
+https://hls.live123.fans/live/4459806.m3u8
+
+#EXTINF:-1,Argentina vs Egypt HD	
+https://apxvf0ws91.yarncdn.live/live/hd-en-6MvYMRTH77PtjEm5EG/playlist.m3u8
+
+#EXTINF:-1,Argentina vs Egypt SD	
+https://apxvf0ws91.yarncdn.live/live/sd-6MvYMRTH77PtjEm5EG/playlist.m3u8
 
 
 
