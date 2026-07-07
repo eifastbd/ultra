@@ -121,24 +121,19 @@ https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w5722
 https://bozztv.com/rongo/rongo-DeshTV/tracks-v2a1/mono.m3u8
 #EXTINF:-1,group-title="TV💠",UNMOCHON TV
 https://jagroniakash.ncare.live/unmochontv/unmochontv.stream/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="TV💠" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGN4JrZ3Ur3BHiD2tQhsQq3WQ5DXpv7HATFyNDT6o-rSNwAZaeQieMBdfPoGPio5UPipGV2ZBb8rLmyYJe5vySfQjEmTE5MLc_6q8CKfXuzb4eRQREjPiyL5tkncb1Xt5pVMJa6t77CT98JvAFozg95IH_9qofXJ2s1ubKCbJ-_JsuRVb458aBztLImQ/s1080/1000015295.png",Channel 16
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 #EXTINF:-1,group-title="TV💠",JA TV
 http://103.121.61.218/tmp_hls/86b122d4358357d834a87ce618a55de0/index.m3u8
-
-#EXTINF:-1 tvg-name="Boishakhi TV" group-title="Unknown",Boishakhi TV
+#EXTINF:-1 tvg-name="Boishakhi TV" group-title="TV💠",Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-#EXTINF:-1 tvg-name="Green TV (1080p)" group-title="Unknown",Green TV (1080p)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Desh TV (1080p)" group-title="Unknown",Desh TV (1080p)
+#EXTINF:-1 tvg-name="Desh TV (1080p)" group-title="TV💠",Desh TV
 https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
-#EXTINF:-1 tvg-name="ATN Music (360p)" group-title="Unknown",ATN Music (360p)
+#EXTINF:-1 tvg-name="ATN Music (360p)" group-title="TV💠",ATN Music
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Ananda TV" group-title="Unknown",Ananda TV
+#EXTINF:-1 tvg-name="Ananda TV" group-title="TV💠",Ananda TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Bangla" tvg-id="deshitv.bd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png",MY TV
+#EXTINF:-1 group-title="TV💠" tvg-id="deshitv.bd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png",MY TV
 https://mytvbangla.com/0.m3u8
 
 
@@ -218,55 +213,55 @@ http://202.70.146.135:8000/play/a06r/index.m3u8
 http://202.70.146.135:8000/play/a06q/index.m3u8
 #EXTINF:-1 group-title="TATA",STAR Plus HD
 http://202.70.146.135:8000/play/a009/index.m3u8
-#EXTINF:-1 group-title="-",Sonic - Rs 1.00
+#EXTINF:-1 group-title="TATA",Sonic
 http://202.70.146.135:8000/play/a02t/index.m3u8
-#EXTINF:-1 group-title="-",Sports 18 - 1 HD - Rs 19.00
+#EXTINF:-1 group-title="TATA",Sports 18
 http://202.70.146.135:8000/play/a04b/index.m3u8
-#EXTINF:-1 group-title="-",Sports 18 3 - Rs 4.00
+#EXTINF:-1 group-title="TATA",Sports 18
 http://202.70.146.135:8000/play/a026/index.m3u8
-#EXTINF:-1 group-title="-",Star Bharat HD
+#EXTINF:-1 group-title="TATA",Star Bharat HD
 http://202.70.146.135:8000/play/a09v/index.m3u8
-#EXTINF:-1 group-title="-",Star Gold 2 - Rs 3.00
+#EXTINF:-1 group-title="TATA",Star Gold 2
 http://202.70.146.135:8000/play/a02d/index.m3u8
-#EXTINF:-1 group-title="-",Star Gold 2 HD - Rs 5.00
+#EXTINF:-1 group-title="TATA",Star Gold 2
 http://202.70.146.135:8000/play/a04q/index.m3u8
-#EXTINF:-1 group-title="-",Star Gold Romance - Rs 2.00
+#EXTINF:-1 group-title="TATA",Star Gold Romance
 http://202.70.146.135:8000/play/a044/index.m3u8
-#EXTINF:-1 group-title="-",Star Gold Select HD - Rs 8.00
+#EXTINF:-1 group-title="TATA",Star Gold Select
 http://202.70.146.135:8000/play/a068/index.m3u8
-#EXTINF:-1 group-title="-",Star Gold Thrills - Rs 2.00
+#EXTINF:-1 group-title="TATA",Star Gold Thrills
 http://202.70.146.135:8000/play/a024/index.m3u8
-#EXTINF:-1 group-title="-",Star Pravah HD - Rs 19.00
+#EXTINF:-1 group-title="TATA",Star Pravah
 http://202.70.146.135:8000/play/a049/index.m3u8
-#EXTINF:-1 group-title="-",Star Sports 1 HD - Rs 19.00
+#EXTINF:-1 group-title="TATA",Star Sports 1
 http://202.70.146.135:8000/play/a00a/index.m3u8
-#EXTINF:-1 group-title="-",Star Sports 1 Hindi HD - Rs 19.00
+#EXTINF:-1 group-title="TATA",Star Sports 1 Hindi
 http://202.70.146.135:8000/play/a01e/index.m3u8
-#EXTINF:-1 group-title="-",Star Sports Select 1 HD - Rs 19.00
+#EXTINF:-1 group-title="TATA",Star Sports Select 1
 http://202.70.146.135:8000/play/a03c/index.m3u8
-#EXTINF:-1 group-title="-",Star Sports Select 2 HD - Rs 15.00
+#EXTINF:-1 group-title="TATA",Star Sports Select 2
 http://202.70.146.135:8000/play/a03e/index.m3u8
-#EXTINF:-1 group-title="-",Sun Music HD - Rs 19.00
+#EXTINF:-1 group-title="TATA",Sun Music HD
 http://202.70.146.135:8000/play/a06k/index.m3u8
-#EXTINF:-1 group-title="-",TLC HD - Rs 3.00
+#EXTINF:-1 group-title="TATA",TLC HD 
 http://202.70.146.135:8000/play/a05i/index.m3u8
-#EXTINF:-1 group-title="-",Travelxp HD - Rs 9.00
+#EXTINF:-1 group-title="TATA",Travelxp HD
 http://202.70.146.135:8000/play/a04o/index.m3u8
-#EXTINF:-1 group-title="-",Unite8 Sports 1 HD - Rs 9.00
+#EXTINF:-1 group-title="TATA",Unite8 Sports 1
 http://202.70.146.135:8000/play/a125/index.m3u8
-#EXTINF:-1 group-title="-",Unite8 Sports 2 HD - Rs 11.00
+#EXTINF:-1 group-title="TATA",Unite8 Sports 2
 http://202.70.146.135:8000/play/a126/index.m3u8
-#EXTINF:-1 group-title="-",Vijay Super - Rs 10.00
+#EXTINF:-1 group-title="TATA",Vijay Super
 http://202.70.146.135:8000/play/a008/index.m3u8
-#EXTINF:-1 group-title="-",Zee Cafe HD - Rs 10.00
+#EXTINF:-1 group-title="TATA",Zee Cafe HD
 http://202.70.146.135:8000/play/a04n/index.m3u8
-#EXTINF:-1 group-title="-",Zee Cinema HD - Rs 19.00
+#EXTINF:-1 group-title="TATA",Zee Cinema HD
 http://202.70.146.135:8000/play/a03f/index.m3u8
-#EXTINF:-1 group-title="-",Zee Marathi HD - Rs 19.00
+#EXTINF:-1 group-title="TATA",Zee Marathi HD
 http://202.70.146.135:8000/play/a04d/index.m3u8
-#EXTINF:-1 group-title="-",Zee TV HD - Rs 19.00
+#EXTINF:-1 group-title="TATA",Zee TV HD
 http://202.70.146.135:8000/play/a04g/index.m3u8
-#EXTINF:-1 group-title="-",emm 12
+#EXTINF:-1 group-title="TATA",emm 12
 http://202.70.146.135:8000/play/a09a/index.m3u8
 
 
