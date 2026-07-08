@@ -232,7 +232,11 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 
 
+#EXTINF:-1 tvg-id="77" group-title="PRO" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",Jalsha Movies SD🇮🇳
+http://103.151.60.162:2121/play/a00x/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png" group-title="PRO",Jalsha Movies HD🇮🇳
+https://xfireflix.my.id/mac.php?id=908656.m3u8
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="PRO",Star Jalsha🇮🇳
 https://xfireflix.my.id/mac.php?id=908682.m3u8
