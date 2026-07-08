@@ -33,7 +33,8 @@ https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8
 https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=625
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDmdOa-FrjsbmHkj3fe8cdJs7wCr8LqP44W8eCN4dB9tg-khIKtKCqyodP9MZtLtOKPRVYRHTy268xxlfWub0v5GqHWtG0wBAbfkF_uBu4vICj0EgBz3B6SQnasWV9LOi_ye4_FqTWCspD09E3Rlcwm6jESgLacRCxkb-aIorG9dZyD74alcdIxpSzYQ/s600/Nur_20251219_135028_0000.png" group-title="Drama", Colors Bangla
 https://padmaonline.duckdns.org:8088/ColorsBanglaHD/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://imglink.cc/cdn/rw8iAU9ZcB.jpg", Thikana
+https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 
 #EXTINF:-1,Bengali Beats
 https://tplay.live/originals/bengali-beats/index.m3u8
