@@ -13,7 +13,14 @@
 
 
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="PRO",BTV🇧🇩
-http://180.94.28.28:8097//BTV/index.fmp4.m3u8
+http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
+#http://180.94.28.28:8097//BTV/index.fmp4.m3u8
+#https://tv.beyondtaxconsultants.com/api/robi/lps/http://180.94.28.28:8097//BTV/index.m3u8
+#http://103.114.11.37:8081/BTV/video.m3u8?token=LcfvVCNp3LLVz0
+#https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
+#https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
+#https://tv.beyondtaxconsultants.com/api/robi/lps/https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 tvg-id="SangsadTV.bd@SD" tvg-logo="https://i.imgur.com/jkouxLg.png" group-title="PRO",Sangsad TV🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="PRO",Ekattor TV🇧🇩
