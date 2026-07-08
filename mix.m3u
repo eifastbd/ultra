@@ -296,18 +296,9 @@ https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi",NK🇮🇳
 https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-jalsha-hd-in.png" group-title="Indian",Star Jalsha HD🇮🇳
-https://xfireflix.my.id/mac.php?id=908682.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="Indian ",Colors Bangla HD🇮🇳
-https://xfireflix.my.id/mac.php?id=908654.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Indian",Colors Bangla Cinema🇮🇳
 http://66.102.126.10:8000/play/a015/index.m3u8
-#EXTINF:-1",Colors Bangla🇮🇳
-http://180.94.28.28:8097//COLORS-BANGLA/index.fmp4.m3u8
-#EXTINF:-1,Color Bangla Cinema🇮🇳
-http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.fmp4.m3u8
-#EXTINF:-1,Sun Bangla🇮🇳
-http://180.94.28.28:8097//SUN-BANGLA/index.fmp4.m3u8
+
 #EXTINF:-0 tvg-logo="https://akm-img-a-in.tosshub.com/sites/visualstory/stories/2023_04/story_31381/assets/2.png?time=1681544765&size=*:900",GNT🇮🇳
 https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="AynaOTT - Indian ENT",StarPlus HD🇮🇳
