@@ -379,7 +379,8 @@ http://119.156.228.231:9983/stream/channelid/1324398660?ticket=7C95F3E4488C36F06
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/CN.jpg?raw=true" group-title="Kids",CARTOON NETWORK
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
-#EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" group-title="PRO",Sony Yay Bangla👻
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_yay.m3u8
 
 
