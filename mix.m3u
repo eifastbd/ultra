@@ -601,7 +601,7 @@ http://103.180.212.191:3500/live/698.m3u8
 https://cdn-4.pishow.tv/live/241/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Madani%20channel%20bangla.jpg?raw=true" group-title="PRO",MADANI CHANNEL
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Peace%20Tv.jpg?raw=true" group-title="PRO",PEACE TV BANGLA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwYGH8LV/Hridoy-TV-(2).webp" group-title="PRO",PEACE TV BANGLA
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Peace%20Tv.jpg?raw=true" group-title="PRO",PEACE TV ENGLISH 
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
