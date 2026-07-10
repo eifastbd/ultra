@@ -303,6 +303,42 @@ http://198.144.149.206:8080/IPWORLD/NANDAN/index.fmp4.m3u8
 ─────── Music───────────
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zoom.png" group-title="OTAPP",ZOOM
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/e-24.png" group-title="OTAPP",E 24
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://djplabon.aminmuaz636.workers.dev/live.php?id=591
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zing.jpg" group-title="OTAPP",Zing
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://book4u.top/worker/index.php?path=api/da99628d15/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9xm.png" group-title="OTAPP",9XM
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://madanitv.assadikb.workers.dev/live.php?id=587&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9x-jhakaas.png" group-title="OTAPP",9x Jhakaas
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://djplabon.aminmuaz636.workers.dev/live.php?id=441
+
+
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/music-india.png" group-title="OTAPP",Music India
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://cdn-2.pishow.tv/live/226/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/b4u-music.png" group-title="OTAPP",B4U Music
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://book4u.top/worker/index.php?path=api/60fb3f6a8b/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-name="ATN Music (360p)" group-title="PRO✅",ATN Music🌀
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #EXTINF:-1,group-title="PRO✅",Zoom🌀
@@ -315,13 +351,13 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 http://103.175.73.12:8080/live/155/155_0.m3u8
 #EXTINF:-1,Music India🌀
 http://103.175.73.12:8080/live/158/158_0.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png", 9X Tashan🌀
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9x-tashan.png" group-title="PRO✅",9X Tashan🌀
 https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png", 9X Jalwa🌀
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9x-jalwa.png" group-title="PRO✅",9X Jalwa🌀
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png", 9X Jhakaas🌀
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://imglink.cc/cdn/LmVOSdl3ku.png", Sangeet Bangla🌀
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sangeet-bangla.png" group-title="PRO✅",Sangeet Bangla🌀
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png", Albania Music🌀
 https://albportal.net/albkanalemusic.m3u8
