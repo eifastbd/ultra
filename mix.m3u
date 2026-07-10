@@ -315,11 +315,10 @@ http://198.144.149.206:8080/IPWORLD/NANDAN/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zoom.png" group-title="PRO✅",ZOOM🌀
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
-#EXTINF:-1,YRF Music HD🌀
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png",YRF MUSIC🌀
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zing.jpg" group-title="PRO✅",Zing🌀
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9xm.png" group-title="PRO✅",9XM🌀
 http://103.175.73.12:8080/live/155/155_0.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/music-india.png" group-title="PRO✅",Music India🌀
