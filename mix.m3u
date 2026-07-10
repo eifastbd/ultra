@@ -310,18 +310,13 @@ http://198.144.149.206:8080/IPWORLD/NANDAN/index.fmp4.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/e-24.png" group-title="OTAPP",E 24
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://djplabon.aminmuaz636.workers.dev/live.php?id=591
+
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zing.jpg" group-title="OTAPP",Zing
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/da99628d15/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9xm.png" group-title="OTAPP",9XM
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://madanitv.assadikb.workers.dev/live.php?id=587&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9x-jhakaas.png" group-title="OTAPP",9x Jhakaas
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
@@ -329,9 +324,6 @@ https://djplabon.aminmuaz636.workers.dev/live.php?id=441
 
 
 
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/music-india.png" group-title="OTAPP",Music India
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://cdn-2.pishow.tv/live/226/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/b4u-music.png" group-title="OTAPP",B4U Music
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
@@ -347,10 +339,13 @@ https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1,Hindi Hits HD🌀
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1,9XM🌀
+
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9xm.png" group-title="PRO✅",9XM
 http://103.175.73.12:8080/live/155/155_0.m3u8
-#EXTINF:-1,Music India🌀
-http://103.175.73.12:8080/live/158/158_0.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/music-india.png" group-title="PRO✅",Music India
+ https://cdn-2.pishow.tv/live/226/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9x-tashan.png" group-title="PRO✅",9X Tashan🌀
 https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9x-jalwa.png" group-title="PRO✅",9X Jalwa🌀
@@ -367,10 +362,8 @@ https://nomawnoijl.gpcdn.net/akash/partyuniverse/chunks.m3u8
 https://cdn-4.pishow.tv/live/1293/master.m3u8
 #EXTINF:-1 tvg-id="balle-balle" tvg-name="Balle Balle" tvg-language="Punjabi" tvg-country="IN" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Balle%20Balle.jpg?raw=true" tvg-chno="balle-balle" group-title="PRO",Balle Balle🌀
 https://cdn-4.pishow.tv/live/987/master.m3u8
-#EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Dhoom%20Music.jpg?raw=true" group-title="PRO",E24🌀
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/e-24.png" group-title="PRO✅",E 24
 http://103.175.73.12:8080/live/159/159_0.m3u8
-#EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Music%20India.jpg?raw=true" group-title="PRO",MUSIC INDIA🌀
-https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/B4U%20music.jpg?raw=true" group-title="PRO",B4U MUSIC🌀
 http://103.175.73.12:8080/live/157/157_0.m3u8
 #EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/9x%20jhalkas.jpg?raw=true" group-title="PRO",9X JHAKAAS🌀
@@ -379,7 +372,8 @@ https://cdn-3.pishow.tv/live/6/master.m3u8
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:0 group-title="PRO✅" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/colosaltvhd.jpg",Colosal TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51a
-
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/music-india.png" group-title="PRO✅",Music India
+http://103.175.73.12:8080/live/158/158_0.m3u8
 
 
 
