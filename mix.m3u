@@ -456,31 +456,31 @@ MOVIE
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="PRO✅",COLORS CINEPLEX🎬
 https://xfireflix.my.id/mac.php?id=733523.m3u8
-#EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="Movies",Colors Cineplex Bollywood🎬
+#EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="PRO✅",Colors Cineplex Bollywood🎬
 http://live.balajibroadband.com:3500/live/1763.m3u8
-#EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD🎬
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="PRO✅",Sony PIX HD🎬
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_PIX_HD.m3u8
-#EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD🎬
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="PRO✅",Sony PIX🎬
 http://live.balajibroadband.com:3500/live/762.m3u8
-#EXTINF:-1 tvg-id="173" tvg-chno="511" tvg-name="sony-max-2" tvg-language="HIN" tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="Movies", Sony Max 2🎬
+#EXTINF:-1 tvg-id="173" tvg-chno="511" tvg-name="sony-max-2" tvg-language="HIN" tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="PRO✅", Sony Max 2🎬
 http://live.balajibroadband.com:3500/live/483.m3u8
-#EXTINF:-1 tvg-id="167" tvg-chno="503" tvg-name="sony-max-hd" tvg-language="HIN" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" group-title="All Channels", Sony MAX HD🎬
+#EXTINF:-1 tvg-id="167" tvg-chno="503" tvg-name="sony-max-hd" tvg-language="HIN" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" group-title="PRO✅", Sony MAX HD🎬
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_MAX_HD.m3u8
 http://live.balajibroadband.com:3500/live/476.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="ENGLISH",Star Movies HD🎬
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="PRO✅",Star Movies HD🎬
 http://66.102.126.10:8000/play/a021/index.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD🎬
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="PRO✅",Star Movies Select HD🎬
 http://66.102.126.10:8000/play/a020/index.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/bollywood-cinema-vintage-indian-movie-cinematography-theater-poster-welcome-neon-retro-d-classic-film-posters-board-gold-logo-118624129.jpg?w=768" group-title="24/7" tvg-logo="https://thumbs.dreamstime.com/b/bollywood-cinema-vintage-indian-movie-cinematography-theater-poster-welcome-neon-retro-d-classic-film-posters-board-gold-logo-118624129.jpg?w=768" group-title="24/7" tvg-logo="https://thumbs.dreamstime.com/b/bollywood-cinema-vintage-indian-movie-cinematography-theater-poster-welcome-neon-retro-d-classic-film-posters-board-gold-logo-118624129.jpg?w=768" group-title="24/7",Bollywood
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/bollywood-cinema-vintage-indian-movie-cinematography-theater-poster-welcome-neon-retro-d-classic-film-posters-board-gold-logo-118624129.jpg?w=768" group-title="PRO✅",Bollywood🎬
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/bollywood-cinema-vintage-indian-movie-cinematography-theater-poster-welcome-neon-retro-d-classic-film-posters-board-gold-logo-118624129.jpg?w=768" group-title="24/7" tvg-logo="https://thumbs.dreamstime.com/b/bollywood-cinema-vintage-indian-movie-cinematography-theater-poster-welcome-neon-retro-d-classic-film-posters-board-gold-logo-118624129.jpg?w=768" group-title="24/7" tvg-logo="https://thumbs.dreamstime.com/b/bollywood-cinema-vintage-indian-movie-cinematography-theater-poster-welcome-neon-retro-d-classic-film-posters-board-gold-logo-118624129.jpg?w=768" group-title="24/7",Bollywood OLD
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/bollywood-cinema-vintage-indian-movie-cinematography-theater-poster-welcome-neon-retro-d-classic-film-posters-board-gold-logo-118624129.jpg?w=768" group-title="PRO✅",Bollywood OLD🎬
 https://vods2.aynaott.com/hindimovies/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/07/17/19/22/movie-7328179_1280.png" group-title="24/7" tvg-logo="https://cdn.pixabay.com/photo/2022/07/17/19/22/movie-7328179_1280.png" group-title="24/7" tvg-logo="https://cdn.pixabay.com/photo/2022/07/17/19/22/movie-7328179_1280.png" group-title="24/7",Hindi Dub
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/07/17/19/22/movie-7328179_1280.png" group-title="PRO✅",Hindi Dub🎬
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/07/17/19/22/movie-7328179_1280.png" group-title="24/7" tvg-logo="https://cdn.pixabay.com/photo/2022/07/17/19/22/movie-7328179_1280.png" group-title="24/7" tvg-logo="https://cdn.pixabay.com/photo/2022/07/17/19/22/movie-7328179_1280.png" group-title="24/7",Bangla Movies
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/07/17/19/22/movie-7328179_1280.png" group-title="PRO✅",Bangla Movies🎬
 https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR3b3NoYXBlLmJhbmdsYW5hdG9rX2ljb25fMTU3Nzg5NzQyOF8wMzM/icon.webp?w=280&fakeurl=1&type=.webp" group-title="24/7" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR3b3NoYXBlLmJhbmdsYW5hdG9rX2ljb25fMTU3Nzg5NzQyOF8wMzM/icon.webp?w=280&fakeurl=1&type=.webp" group-title="24/7" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR3b3NoYXBlLmJhbmdsYW5hdG9rX2ljb25fMTU3Nzg5NzQyOF8wMzM/icon.webp?w=280&fakeurl=1&type=.webp" group-title="24/7",Bangla Natok
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR3b3NoYXBlLmJhbmdsYW5hdG9rX2ljb25fMTU3Nzg5NzQyOF8wMzM/icon.webp?w=280&fakeurl=1&type=.webp" group-title="PRO✅",Bangla Natok🎬
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/2102fac092ee28f75652131b19d74260.png" group-title="MOVIES",MAX 1🎬
