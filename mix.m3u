@@ -38,8 +38,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="PRO✅",NTV🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",T Sports🇧🇩
-http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="PRO✅",Ekushey TV🇧🇩
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-id="132000" tvg-name="Channel I HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="PRO✅",Channel I HD🇧🇩
@@ -360,13 +358,14 @@ http://103.175.73.12:8080/live/158/158_0.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="PRO✅",Duronto TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="PRO✅",Duronto TV👻
 http://fastshare1.com:80/live/25711345/late8airline/433.ts
-#EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="Kids",Disney Channel
+#EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="PRO✅",Disney Channel👻
 https://yowaimo.in/Sflex-ArtlPVT0719/DISNEY_CHANNEL.m3u8
-#EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="Kids",Disney Channel 2
+#EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="PRO✅",Disney Channel 2👻
 http://119.156.228.231:9983/stream/channelid/1324398660?ticket=7C95F3E4488C36F06FC0D96EDED00B3813CA10A9&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/CN.jpg?raw=true" group-title="Kids",CARTOON NETWORK
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png" group-title="PRO✅",Cartoon Network👻
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" group-title="PRO✅",Sony Yay Bangla👻
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_yay.m3u8
@@ -375,7 +374,20 @@ http://live.balajibroadband.com:3500/live/1345.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="PRO✅",Nick Bangla👻
 http://live.balajibroadband.com:3500/live/1341.m3u8
 
-#EXTINF:-1,Discovery Kids HD
+
+
+
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-hindi.png" group-title="SM_IPTV",Sonic Hindi
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/pogo-hindi.png" group-title="SM_IPTV",Pogo Hindi
+
+
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-hindi.png" group-title="SM_IPTV",Nick Hindi
+
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-kids-2.png" group-title="SM_IPTV",Discovery Kids 2
 http://181.224.200.5:2277/play/a00o/index.m3u8
 #EXTINF:-1,Disney HD
 http://181.224.200.5:2277/play/a014/index.m3u8
