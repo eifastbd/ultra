@@ -18,8 +18,16 @@ http://107.150.60.122/live/cctv5hd.m3u8
 http://fastshare1.com:80/live/25711345/late8airline/52500.ts
 
 
-
-
+EXTINF:-1,বিটিভি 
+http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,t-sport 
+http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
+#EXTINF:-1,সময়
+http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ptv
+http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony Max
+http://103.165.93.31:8095/unt-s/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="http://103.175.242.10/assets/images/Tsports1735735587.png" group-title="PREMIUM",Tsports1📺
 http://114.130.57.233:8080/LIVE-Sports/tracks-v1a1a2/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:1 tvg-logo="http://103.175.242.10/assets/images/Tsports1735735587.png" group-title="PREMIUM",Tsports2📺
