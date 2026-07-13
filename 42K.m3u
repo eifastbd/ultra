@@ -3,7 +3,6 @@
 
 
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_bq2v1783682378.jpg" group-title="hindi",Dhamaal.4 (2026)
 https://pub-f85680743e6f48c3b210af18613f778c.r2.dev/b177cf87d224e85349e7681584c254ab?t=1783790255&token=e21146bcb89685fa94a2cc9be9c686cd1ccc970004da11761c121403275d0c9b
 #EXTINF:-1 tvg-logo="https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_xxcr1783028926.jpg" group-title="Bangla",Alal Dulal (2026)
@@ -138,8 +137,6 @@ https://toonstream.dad/home/?trembed=2&trid=6645&trtype=1
 
 
 
-
-#EXTM3U
 
 #EXTINF:-1 group-title="Hindi movie" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Baaghi%204%20%282025%29%201080p/a_AL_.jpg",Baaghi 4 (2025)
 http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Baaghi%204%20%282025%29%201080p/Baaghi%204%20%282025%29%20Hindi%201080p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20HDHub4u.mkv
