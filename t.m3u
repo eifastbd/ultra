@@ -336,12 +336,7 @@ http://202.70.146.135:8000/play/a126/index.m3u8
 http://202.70.146.135:8000/play/a008/index.m3u8
 #EXTINF:-1 group-title="TATA",Zee Cafe HD
 http://202.70.146.135:8000/play/a04n/index.m3u8
-#EXTINF:-1 group-title="TATA",Zee Cinema HD
-http://202.70.146.135:8000/play/a03f/index.m3u8
-#EXTINF:-1 group-title="TATA",Zee Marathi HD
-http://202.70.146.135:8000/play/a04d/index.m3u8
-#EXTINF:-1 group-title="TATA",Zee TV HD
-http://202.70.146.135:8000/play/a04g/index.m3u8
+
 
 
 
