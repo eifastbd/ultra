@@ -227,12 +227,8 @@ https://stream.ottplus.bd/live/zee_bangla_abr/index.m3u8
 http://103.159.180.34:5001/live/625.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="PRO✅",Colors Bangla🇮🇳
 http://tv.indigotv.me:80/live.ts?channelId=92&uid=7245&deviceMac=00:1A:79:4A:02:91
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="PRO✅",Colors Bangla HD🇮🇳
-https://xfireflix.my.id/mac.php?id=908654.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="PRO✅",Colors Bangla🇮🇳
 http://live.balajibroadband.com:3500/live/756.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="PRO✅",Sun Bangla🇮🇳
-https://xfireflix.my.id/mac.php?id=908685.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="PRO✅",Sun Bangla🇮🇳
 http://103.159.180.34:5001/live/1669.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="PRO✅",,Colors HD🇮🇳
@@ -244,7 +240,6 @@ http://66.102.126.10:8000/play/a022/index.m3u8
 #EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star--bharat-hd.jpg" group-title="PRO✅",Star Bharat HD🇮🇳
 http://119.156.228.231:9983/stream/channelid/2119636855?ticket=D8ABDAB7FB615619FCCB42A4D4EDDFE9740C3083&profile=pass
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsRishtey.png" group-title="PRO✅", COLORS RISHTEY🇮🇳
-https://xfireflix.my.id/mac.php?id=733522.m3u8
 http://103.159.180.34:5001/live/279.m3u8
 #EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="PRO✅",COLORS INFINITY🇮🇳
 http://103.175.73.12:8080/live/29/29_0.m3u8
