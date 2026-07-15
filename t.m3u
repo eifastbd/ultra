@@ -392,36 +392,16 @@ http://202.70.146.135:8000/play/a026/index.m3u8
 http://202.70.146.135:8000/play/a09v/index.m3u8
 #EXTINF:-1 group-title="TATA",Star Gold 2
 http://202.70.146.135:8000/play/a02d/index.m3u8
-#EXTINF:-1 group-title="TATA",Star Gold 2
-http://202.70.146.135:8000/play/a04q/index.m3u8
-#EXTINF:-1 group-title="TATA",Star Gold Romance
-http://202.70.146.135:8000/play/a044/index.m3u8
-#EXTINF:-1 group-title="TATA",Star Gold Select
-http://202.70.146.135:8000/play/a068/index.m3u8
-#EXTINF:-1 group-title="TATA",Star Gold Thrills
-http://202.70.146.135:8000/play/a024/index.m3u8
-#EXTINF:-1 group-title="TATA",Star Pravah
-http://202.70.146.135:8000/play/a049/index.m3u8
 #EXTINF:-1 group-title="TATA",Star Sports 1
 http://202.70.146.135:8000/play/a00a/index.m3u8
-#EXTINF:-1 group-title="TATA",Star Sports 1 Hindi
-http://202.70.146.135:8000/play/a01e/index.m3u8
 #EXTINF:-1 group-title="TATA",Star Sports Select 1
 http://202.70.146.135:8000/play/a03c/index.m3u8
-#EXTINF:-1 group-title="TATA",Star Sports Select 2
-http://202.70.146.135:8000/play/a03e/index.m3u8
-#EXTINF:-1 group-title="TATA",Sun Music HD
-http://202.70.146.135:8000/play/a06k/index.m3u8
-#EXTINF:-1 group-title="TATA",TLC HD 
-http://202.70.146.135:8000/play/a05i/index.m3u8
 #EXTINF:-1 group-title="TATA",Travelxp HD
 http://202.70.146.135:8000/play/a04o/index.m3u8
 #EXTINF:-1 group-title="TATA",Unite8 Sports 1
 http://202.70.146.135:8000/play/a125/index.m3u8
 #EXTINF:-1 group-title="TATA",Unite8 Sports 2
 http://202.70.146.135:8000/play/a126/index.m3u8
-#EXTINF:-1 group-title="TATA",Vijay Super
-http://202.70.146.135:8000/play/a008/index.m3u8
 #EXTINF:-1 group-title="TATA",Zee Cafe HD
 http://202.70.146.135:8000/play/a04n/index.m3u8
 
