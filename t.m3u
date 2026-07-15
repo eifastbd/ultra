@@ -318,16 +318,8 @@ http://202.70.146.135:8000/play/a067/index.m3u8
 http://202.70.146.135:8000/play/a058/index.m3u8
 #EXTINF:-1 group-title="TATA",Colors HD
 http://202.70.146.135:8000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="TATA",Colors Tamil HD
-http://202.70.146.135:8000/play/a06o/index.m3u8
-#EXTINF:-1 group-title="TATA",D Tamil
-http://202.70.146.135:8000/play/a054/index.m3u8
 #EXTINF:-1 group-title="TATA",Discovery HD
 http://202.70.146.135:8000/play/a05z/index.m3u8
-#EXTINF:-1 group-title="TATA",Discovery Science
-http://202.70.146.135:8000/play/a060/index.m3u8
-#EXTINF:-1 group-title="TATA",Discovery Turbo
-http://202.70.146.135:8000/play/a050/index.m3u8
 #EXTINF:-1 group-title="TATA",Disney Channel
 http://202.70.146.135:8000/play/a01q/index.m3u8
 #EXTINF:-1 group-title="TATA",Disney International
