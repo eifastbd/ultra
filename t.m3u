@@ -314,14 +314,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209617/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="TATA", BBC EARTH HD 
 http://202.70.146.135:8000/play/a067/index.m3u8
-#EXTINF:-1 group-title="TATA", TEN 2 HD 
-http://202.70.146.135:8000/play/a06n/index.m3u8
-#EXTINF:-1 group-title="TATA",&pictures HD
-http://202.70.146.135:8000/play/a06b/index.m3u8
-#EXTINF:-1 group-title="TATA",&tv HD
-http://202.70.146.135:8000/play/a06c/index.m3u8
-#EXTINF:-1 group-title="TATA",Colors Cineplex
-http://202.70.146.135:8000/play/a01b/index.m3u8
 #EXTINF:-1 group-title="TATA",Colors Cineplex Bollywood
 http://202.70.146.135:8000/play/a058/index.m3u8
 #EXTINF:-1 group-title="TATA",Colors HD
