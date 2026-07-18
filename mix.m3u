@@ -436,33 +436,40 @@ https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist /amg
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Xite_2013 .svg" group-title="PRO✅",XITE Hits 
 https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/ts-eu-w1 -n2/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/CMC_TV .svg" group-title="Music", HR CMC TV https://stream.cmctv.hr:49998/cmc/live.m3u8 #EXTINF:-1 group-title="Music", Kronehit HD https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music", LT | Trace Latino https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist /amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9qc3x8F/images-1.jpg" group-title="Music", Music India https://cdn-2.pishow.tv/live/226/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/CMC_TV .svg" group-title="Music", HR CMC TV 
+https://stream.cmctv.hr:49998/cmc/live.m3u8 
+#EXTINF:-1 group-title="Music", Kronehit HD 
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music", LT | Trace Latino 
+https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist /amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9qc3x8F/images-1.jpg" group-title="Music", Music India 
+https://cdn-2.pishow.tv/live/226/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRD921TNDFEe1iA-zJLoFb-mu28rBgjGIq s3qFS_w=s900-c-k-c0x00ffffff-no-rj" group-title="Mutiic", Music https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts .m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRD921TNDFEe1iA-zJLoFb-mu28rBgjGIq s3qFS_w=s900-c-k-c0x00ffffff-no-rj" group-title="Mutiic", Music 
+https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts .m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/4fun.tv _Logo_%282017%29.svg/1200px-4fun.tv_Logo_%282017%29.svg.png" group-title="Music", OTHER | 4 Fun TV https://stream.4fun.tv:8888/hls/4f_low/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/4fun.tv _Logo_%282017%29.svg/1200px-4fun.tv_Logo_%282017%29.svg.png" group-title="Music", OTHER | 4 Fun TV 
+https://stream.4fun.tv:8888/hls/4f_low/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pmc-royale-ch.png" group-title="Music", OTHER PMC Royale https://pmcrohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pmc-royale-ch.png" group-title="Music", OTHER PMC Royale 
+https://pmcrohls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/it/8/80/Radionorba_tv_logo" group-title="Music", OTHER | Radio Norba Tv https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/it/8/80/Radionorba_tv_logo" group-title="Music",Radio Norba Tv
+https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Peppers_TV .png" group-title="Music", Peppers TV (751p) https://cdn-2.pishow.tv/live/1383/master.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Peppers_TV .png" group-title="Music",Peppers TV
+https://cdn-2.pishow.tv/live/1383/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/c4f27e64c99b50629e7021b99ac9387a" group-title="Music", Power Turk🌀
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV /LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TAMIL/images/LOGO_HD/image.png" group-title="Music", Raj Musix Tamil 
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV /LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TAMIL/images/LOGO_HD/image.png" group-title="PRO✅", Raj Tamil🌀
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV /LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TELUGU/images/LOGO_HD/image .png" group-title="Music",Raj Musix Telugu
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV /LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TELUGU/images/LOGO_HD/image .png" group-title="PRO✅",Raj Telugu🌀
 https://cdn-1.pishow.tv/live/1213/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSANHAPHo _xl7a32cbllriD1CHnmMj9AQ11tw&s" group-title="Music",Sangeet Bangla 
-https://cdn-4.pishow.tv/live/1143/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV /LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANGEET_MARATHI/images/LOGO_HD/image.png" group-title="PRO✅",Sangeet Marathi🌀
 https://cdn-3.pishow.tv/live/1229/master.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Steelbird _Music.png" group-title="PRO✅",Steelbird Music🌀
