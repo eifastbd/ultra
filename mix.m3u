@@ -539,6 +539,47 @@ tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vaanavil_TV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmgibYW.jpg"
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmgibYW.jpg"
+
+group-title="Music", Wanasah ARB
+
+https://shls-wanasah-prod-dub.shahid.net/out/v1 /c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPFhzrTG/20250529_121624.png"
+
+group-title="Music", Yrf Music
+
+https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/ts-eu-w1-n2 /playlist/amg01412-xiaomiasia-yrfmusic-xiaomi
+
+/cb573d1e786c678f9bd43d6fcef04382847b3dcb0e6c886470af4a9765d97800dbe8ae84ae 5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df1 1292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9734cc59e0a 957f39e8fc8b307b24455a9c5a43e6a64cb7a9b30846d13df5e0014a957e14fa83439fd501b 385865883438422a716c895f2dad1148be4ef598d6f77a02022405fbdc213b1c853b1d69b6d 3c8f795a297437c790e335caa1e43d277debf6cac505b5739cc84d290146e935c8054de3dd4 bd31b4d0fca325a8dff082b18b7cd5a2e03a8e4ab8bc1f852d769d6adf3d47f7098b9413617 8925ef2b253c9fead854aaf755c7e66dd5ef292a31cec711c0ddaad5bbf9cd6b8c35c6c2c39 d3f6947774b57d50aecc93b9b61f6509ce33f6d1c414da69f15e383da553f2b0fa5884cdb1e 1ef68adfd6915e759a2e4b1adb61df5a176583613f2bab7eafe84906e311038b3132ec4b75d 1128edf02c1e78ab5486bcf9dad24d860e0b206d78c728a652e560fb6b2611f724573d4e171 1e721ee740f7d8deee670363bda39a1ea19bfcbb9471df2d11bc632dc24e2570a8eeb9ce62e c/147/854x480_1724104/index.m3u8
+
+#EXTINF:-1
+
+tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705 c5ea69ff102b097_400x400.png" group-title="Music", Ócko Gold
+
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil
+
+/playlist.m3u8
+
+#EXTINF:-1 group-title="Music", Óčko
+
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8 #EXTINF:-1 group-title="Music", Óčko Expres
+
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq
+
+#EXTINF:-1 group-title="Music", Óčko STAR
+
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq
+
+#EXTINF:-1 group-title="Music", New
+
+https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8 #EXTINF:-1 tvg-logo="https://www.shanson.tv/image/logo_160120.png"
+
+group-title="Music", Chanson-TV
+
+https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+
+
 
 
 # ───────────  Cartoon ───────────
