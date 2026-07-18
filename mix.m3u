@@ -447,7 +447,8 @@ http://103.175.73.12:8080/live/19/19_0.m3u8
 MOVIE
 
 
-
+#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows /poster_url/1406677642PITARAMOVIES_TVSETS_TVW _720x960.webp" group-title="PRO✅",PITAARA MOVIES
+https://d21k5u59tns74c.cloudfront.net/out/v1 /500a6b45f5ae41dda445d912b59eaa09/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net /logopedia/images/a/ad/Bhojpuri_cinema.png" group-title="PRO✅",ভোজপুরি সিনেমা 
 https://live-bhojpuri.akamaized.net/liveabr /playlist.m3u8
