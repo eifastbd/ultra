@@ -252,12 +252,6 @@ http://live.balajibroadband.com:3500/live/756.m3u8
 http://103.159.180.34:5001/live/1669.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="PRO✅",,Colors HD🇮🇳
 http://live.balajibroadband.com:3500/live/144.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="PRO✅",StarPlus HD🇮🇳
-http://66.102.126.10:8000/play/a008/index.m3u8
-#EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star--bharat-hd.jpg" group-title="PRO✅",Star Bharat HD🇮🇳
-http://66.102.126.10:8000/play/a022/index.m3u8
-#EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star--bharat-hd.jpg" group-title="PRO✅",Star Bharat HD🇮🇳
-http://119.156.228.231:9983/stream/channelid/2119636855?ticket=D8ABDAB7FB615619FCCB42A4D4EDDFE9740C3083&profile=pass
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsRishtey.png" group-title="PRO✅", COLORS RISHTEY🇮🇳
 http://103.159.180.34:5001/live/279.m3u8
 #EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="PRO✅",COLORS INFINITY🇮🇳
