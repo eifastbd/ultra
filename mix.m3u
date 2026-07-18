@@ -318,11 +318,6 @@ https://d21k5u59tns74c.cloudfront.net/out/v1 /500a6b45f5ae41dda445d912b59eaa09/i
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/8XM_2011 _logo.png" group-title="PRO✅",8XM
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/18845391659x _JHAKAAS__mob___384x512.webp" group-title="PRO✅",9X JHAKAAS 
-https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/14041644189x_Tashan __mob___384x512.webp" group-title="PRO✅",9X TASHAN
-https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/9x_media .png" group-title="PRO✅",9XM 
 https://wiselp.wiseplayout.com/9XM/master.m3u8
