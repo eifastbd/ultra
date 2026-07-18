@@ -431,32 +431,29 @@ https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="PRO✅",V2BEAT 
 https://delse01.v2beat.live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Vevo2016 .svg" group-title="PRO✅",Vevo
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Vevo2016 .svg" group-title="PRO✅",Vevo🌀
 https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevo90sand00sit-rakutenit/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Xite_2013 .svg" group-title="PRO✅",XITE Hits 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Xite_2013 .svg" group-title="PRO✅",XITE Hits🌀
 https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/ts-eu-w1-n2/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/CMC_TV .svg" group-title="PRO✅",CMC TV 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/CMC_TV .svg" group-title="PRO✅",CMC TV🌀
 https://stream.cmctv.hr:49998/cmc/live.m3u8 
-#EXTINF:-1 group-title="PRO✅",HD 
+#EXTINF:-1 group-title="PRO✅",TV🌀
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="PRO✅",Trace Latino 
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="PRO✅",Trace Latino🌀 
 https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRD921TNDFEe1iA-zJLoFb-mu28rBgjGIq s3qFS_w=s900-c-k-c0x00ffffff-no-rj" group-title="PRO✅", Music 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRD921TNDFEe1iA-zJLoFb-mu28rBgjGIq s3qFS_w=s900-c-k-c0x00ffffff-no-rj" group-title="PRO✅",Dewana🌀
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/4fun.tv _Logo_%282017%29.svg/1200px-4fun.tv_Logo_%282017%29.svg.png" group-title="PRO✅",Fun TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/4fun.tv _Logo_%282017%29.svg/1200px-4fun.tv_Logo_%282017%29.svg.png" group-title="PRO✅",Fun TV🌀
 https://stream.4fun.tv:8888/hls/4f_low/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pmc-royale-ch.png" group-title="PRO✅",PMC Royale 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pmc-royale-ch.png" group-title="PRO✅",PMC Royale🌀 
 https://pmcrohls.wns.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/it/8/80/Radionorba_tv_logo" group-title="PRO✅",Radio Norba Tv
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/it/8/80/Radionorba_tv_logo" group-title="PRO✅",Radio Norba🌀
 https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Peppers_TV .png" group-title="PRO✅",Peppers TV
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Peppers_TV .png" group-title="PRO✅",Peppers TV🌀
 https://cdn-2.pishow.tv/live/1383/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/c4f27e64c99b50629e7021b99ac9387a" group-title="Music", Power Turk🌀
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/c4f27e64c99b50629e7021b99ac9387a" group-title="PRO✅",Power Turk🌀
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 
 
