@@ -381,6 +381,47 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/music-india.png" group-title="PRO✅",Music India🌀
 http://103.175.73.12:8080/live/158/158_0.m3u8
 
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV /LIVECHANNEL/LIVETV_LIVETVCHANNEL_9XM/images/LOGO_HD/image.png" group-title="Music", 9XM (1080p)
+https://9xjio.wiseplayout.com/9XM/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikitide.net/avidwiki/thumb/2/21/AFN_Kwajalein_ %282000%29_%28credit_-_KaneStar%29.png/400px-AFN_Kwajalein_%282000%29_ %28credit_-_KaneStar%29.png" group-title="Music", AR | AFN TV
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sun-music -black.png" group-title="Music", AR | SUN MUSIC 
+https://hls.sunmusic.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="Music", ATN Music 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1717/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM11esPHeZC ladYjWXfrQge8vRXASBy8VMgw&s" group-title="Music", Atomic TV 
+https://atomic.streamnet.ro/atomictv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.avang.live/_next/image?url=%2Favangtvtextlogo.png&w= 256&q=75" group-title="Music", AVANG TV 
+https://hls.avang.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/b4u-music-logo-12FA930444-seeklogo .com.png" group-title="Music", B4U Music 
+https://cdn-2.pishow.tv/live/415/415_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s158141_1d_h15_aa.png?lock= 720x540" group-title="Music", B4U Music (576p)
+https://cdn-2.pishow.tv/live/415/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo /default-logo.png" group-title="Music", Baallee
+https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGP3pRsh/Balle-Balle.jpg" group-title="Music", Balle Balle
+https://mcncdndigital.com/balleballetv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rEhhYpe.png"group-title="Music", Baraza Music TV
+https://eco.streams.ovh:8081/barazatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/bizmusic.jpg" group-title="Music", BIZ Music
+https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAk1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://btatv.tv/wp-content/uploads/2022/09/logobta.png" group-title="Music",BTA
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8 
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/58YDwk.jpg" group-title="Music", Channel-16 group-title="Music",16
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvc EdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono .m3u8
 
 
 # ───────────  Cartoon ───────────
