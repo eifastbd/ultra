@@ -408,25 +408,23 @@ https://eco.streams.ovh:8081/barazatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/bizmusic.jpg" group-title="PRO✅",BIZ Music
 https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAk1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://btatv.tv/wp-content/uploads/2022/09/logobta.png" group-title="PRO✅",BTA
+#EXTINF:-1 tvg-logo="https://btatv.tv/wp-content/uploads/2022/09/logobta.png" group-title="PRO✅",BTA🌀
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8 
 
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/58YDwk.jpg" group-title="PRO✅", Channel-16 
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvc EdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono .m3u8
 
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_IwJvv14dF9eFwXh4Xv7z9mutXZq6zF xmzIMkcWUopI08EFt1PfkFD36Y08kJKu-uys2m5nr2-s=s72-c-k-c0x00ffffff-no-rj" group-title="PRO✅",Academy TV 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_IwJvv14dF9eFwXh4Xv7z9mutXZq6zF xmzIMkcWUopI08EFt1PfkFD36Y08kJKu-uys2m5nr2-s=s72-c-k-c0x00ffffff-no-rj" group-title="PRO✅",Academy TV🌀
 https://atomic.streamnet.ro/academia.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/298/radio-m20 .24a4d505.jpg" group-title="PRO✅",M20 Music 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/298/radio-m20 .24a4d505.jpg" group-title="PRO✅",M20 Music🌀
 https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWB1kC1Ao0/chunklist_b1064000.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/NOW_80s .png" group-title="Music",NOW 80's 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/NOW_80s .png" group-title="Music",NOW 80's🌀
 https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/0xygen _2017.svg" group-title="PRO✅",Oxygen Music 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/0xygen _2017.svg" group-title="PRO✅",Oxygen Music🌀 
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
-#EXTINF:-1 tvg-logo="https://www.livehdtv.com/uploads/kanal/23770carac1.png" group-title="PRO✅",Rouge TV [Switzerland] 
+#EXTINF:-1 tvg-logo="https://www.livehdtv.com/uploads/kanal/23770carac1.png" group-title="PRO✅",Rouge TV🌀
 https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="PRO✅",V2BEAT 
 https://delse01.v2beat.live/playlist.m3u8
