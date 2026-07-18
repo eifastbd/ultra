@@ -313,7 +313,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/in
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1406677642PITARAMOV IES_TVSETS_TVW_720x960.webp" group-title="PRO✅",PITAARA MOVIES🌀
-https://d21k5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/8XM_2011 _logo.png" group-title="PRO✅",8XM🌀
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
@@ -330,7 +330,7 @@ https://cdn-1.pishow.tv/live/449/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Ptc_Music .jpg" group-title="PRO✅",PTC Music🌀
 https://d21k5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0xS51NT.png"group-title="PRO✅",Public Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0xS51NT.png"group-title="PRO✅",Public Music🌀
 https://cdn-3.pishow.tv/live/441/master.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23146/saga-music/logo_20240322_183949_68 .png" group-title="PRO✅",Saga Music🌀 
 https://amg01412-xiaomiasia-sagamusic-xiaomi-h54ye.amagi.tv/playlist/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
