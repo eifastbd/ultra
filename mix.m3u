@@ -308,8 +308,37 @@ https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/
 
 
 
+#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1406677642PITARAMOV IES_TVSETS_TVW_720x960.webp" group-title="PRO✅",PITAARA MOVIES 
+https://d21k5u59tns74c.cloudfront.net/out/v1 /500a6b45f5ae41dda445d912b59eaa09/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/8XM_2011 _logo.png" group-title="PRO✅",8XM
+https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/18845391659x _JHAKAAS__mob___384x512.webp" group-title="PRO✅",9X JHAKAAS 
+https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/14041644189x_Tashan __mob___384x512.webp" group-title="PRO✅",9X TASHAN
+https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/9x_media .png" group-title="PRO✅",9XM 
+https://wiselp.wiseplayout.com/9XM/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Isai _Aruvi.jpeg" group-title="PRO✅",Isai Aruvi
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/PTC" group-title="PRO✅",PTC Chakde 
+https://cdn-1.pishow.tv/live/449/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Ptc_Music .jpg" group-title="PRO✅",PTC Music 
+https://d21k5u59tns74c.cloudfront.net/out/v1 /f913cf893c594f73b114216e74a2efbc/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0xS51NT.png"group-title="PRO✅",Public Music
+https://cdn-3.pishow.tv/live/441/master.m3u8
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23146/saga-music/logo_20240322_183949_68 .png" group-title="PRO✅",Saga Music 
+https://amg01412-xiaomiasia-sagamusic-xiaomi-h54ye.amagi.tv/playlist /amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/X3ttehXK00EG5HC9KkuXk _X8hoRON7018bdibhFqXi_UVstDxXktnWGp7uQPnQJyp0-1b00L=s72-c-k-c0x00ffffff-no -rj" group-title="India", MU | Saga Music Haryanvi https://amg01412-xiaomiasia-sagamusicharyanvi-xiaomi-0v34j.amagi.tv /playlist/amg01412-xiaomiasia-sagamusicharyanvi-xiaomi/playlist.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/N6tKUZv.png"group-title="India", MU | Sana Plus
+https://galaxyott.live/hls/sanaplus.m3u8
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23146/yrf-music/logo_20240322_175611_70 .png" group-title="PRO✅",YRF Music 
+https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist /amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zoom.png" group-title="PRO✅",ZOOM🌀
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
@@ -447,8 +476,7 @@ http://103.175.73.12:8080/live/19/19_0.m3u8
 MOVIE
 
 
-#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows /poster_url/1406677642PITARAMOVIES_TVSETS_TVW _720x960.webp" group-title="PRO✅",PITAARA MOVIES
-https://d21k5u59tns74c.cloudfront.net/out/v1 /500a6b45f5ae41dda445d912b59eaa09/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net /logopedia/images/a/ad/Bhojpuri_cinema.png" group-title="PRO✅",ভোজপুরি সিনেমা 
 https://live-bhojpuri.akamaized.net/liveabr /playlist.m3u8
