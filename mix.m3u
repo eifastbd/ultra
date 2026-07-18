@@ -406,8 +406,7 @@ https://mcncdndigital.com/balleballetv/index.m3u8
 https://eco.streams.ovh:8081/barazatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/bizmusic.jpg" group-title="PRO✅",BIZ Music
-https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAk1/tracks-v1a1/mono.m3u8
-
+https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://btatv.tv/wp-content/uploads/2022/09/logobta.png" group-title="PRO✅",BTA🌀
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8 
 
