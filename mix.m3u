@@ -419,21 +419,22 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://atomic.streamnet.ro/academia.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/298/radio-m20 .24a4d505.jpg" group-title="PRO✅",M20 Music 
-https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live /S62628868/uhdWB1kC1Ao0/chunklist_b1064000.m3u8
+https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWB1kC1Ao0/chunklist_b1064000.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/NOW_80s .png" group-title="Music",NOW 80's 
-https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA -lightning-now80s-rakuten/CDN/playlist.m3u8
+https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/0xygen _2017.svg" group-title="PRO✅",Oxygen Music 
-https://oxygenmusic.hu: 2443/hls/oxygenmusic.m3u8
-
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1 tvg-logo="https://www.livehdtv.com/uploads/kanal/23770carac1.png" group-title="PRO✅",Rouge TV [Switzerland] 
-https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music", EN | V2BEAT https://delse01.v2beat.live/playlist.m3u8
+https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="PRO✅",V2BEAT 
+https://delse01.v2beat.live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Vevo2016 .svg" group-title="PRO✅",Vevo '90s 
-https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist /amg00056-vevotvfast-vevo90sand00sit-rakutenit/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Vevo2016 .svg" group-title="PRO✅",Vevo
+https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevo90sand00sit-rakutenit/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Xite_2013 .svg" group-title="PRO✅",XITE Hits 
-https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/ts-eu-w1 -n2/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
+https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/ts-eu-w1-n2/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/CMC_TV .svg" group-title="PRO✅",CMC TV 
 https://stream.cmctv.hr:49998/cmc/live.m3u8 
 #EXTINF:-1 group-title="PRO✅",HD 
