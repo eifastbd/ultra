@@ -14,14 +14,9 @@ https://vips-livecdn.fptplay.net/live/media/v3abr/live247-hls-avc/v3abr-avc1_560
 
 
 
-#EXTINF:-1,F I F A⚽
-https://live05.miekgo.app/live/08552895.m3u8
 
 #EXTINF:-1,F I F A⚽
 https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1784487445-0-0-74e8daff834ef3750d6dc5e601a3be5b
-#EXTINF:-1,F I F A⚽
-https://tfxp1gr3uomttgr31hp3tfahdrmmcpf5gkce.100ycdn.com/live1.streambylivepulse.com/live/channel1/playlist.m3u8?wsSecret=44f61e7b2773d70d9e6bf3a1bce3ffb6&wsABSTime=1784526599&wsSession=436e9186b699ddc3ed613af6-178448340422806&wsIPSercert=605535b1ed93dce38c8d9dc038c35d04&wsBindIP=2&wsserid=1168201446953502087
-
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nL2jYMpSFZHSV47_1T3Kdx_oACYy6EB7G9bzWr_UQJMw=s160-c-k-c0x00ffffff-no-rj"group-title="Sport WorldCup",BTV (orbit)
 http://172.19.17.3:8090/hls/BTVNationalHD.m3u8
 
