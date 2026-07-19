@@ -7,10 +7,7 @@
 
 #EXTINF:-1,F I F A⚽
 https://live05.miekgo.app/live/08552895.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 ˢᴰ
-http://hottest.plus:80/play/live.php?mac=00:1A:79:00:3E:34&stream=2076966&extension=ts&play_token=tBDkE87ygk
-#EXTINF:-1 tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/football-logo-design-template-bebebf8ff1c25b66b504d37afaee99f0_screen.jpg?ts=1686017774" group-title="",group-title="𝐈𝐏𝐋 𝐋𝐈𝐕𝐄",চলে কি চলে না⚽
-http://103.165.93.31:8095/tsports/video.m3u8
+
 #EXTINF:-1 tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/football-logo-design-template-bebebf8ff1c25b66b504d37afaee99f0_screen.jpg?ts=1686017774" group-title="",group-title="𝐈𝐏𝐋 𝐋𝐈𝐕𝐄",ফিফা⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://vips-livecdn.fptplay.net/live/media/v3abr/live247-hls-avc/v3abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
