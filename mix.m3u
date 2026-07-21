@@ -496,6 +496,10 @@ https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
 https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 
 
+#EXTINF:-1  tvg-logo="",MINIMAX👻
+https://s2.ideationtec.live/MiniMax/MiniMax.m3u8
+#EXTINF:-1  tvg-logo="",MINI👻
+https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="PRO✅",Duronto TV👻
 http://fastshare1.com:80/live/25711345/late8airline/433.ts
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="PRO✅",Disney Channel👻
