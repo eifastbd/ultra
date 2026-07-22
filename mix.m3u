@@ -685,10 +685,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Goldmines%20Movie.jpg?raw=true" group-title="PRO✅",GOLDMINES MOVIES🎬
 https://moviethls.wns.live/hls/stream.m3u8
-#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/NH%20BollyFix.jpg?raw=true" tvg-name="NH Bolly Fix" group-title="PRO✅",NH Bolly Fix🎬
-https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,nhbollyflixottplay.m3u8
-#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/NH%20BollyGold.jpg?raw=true" tvg-name="NH Bollygold" group-title="PRO✅",NH Bollygold🎬
-https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,nhbollygoldottplay.m3u8
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/NH%20BollyRaja.jpg?raw=true" tvg-name="NH BollyRaja" group-title="PRO✅",NH BollyRaja🎬
 https://209a7ee785af4abf93eeff4c5a7a62cf.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollyraga-airtel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/ZB%20Cinema.jpg?raw=true" tvg-name="ZB Cinema" group-title="PRO✅",ZB Cinema🎬
