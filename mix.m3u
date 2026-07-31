@@ -253,39 +253,27 @@ http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA8PwkV3_HSXlG7wgILF5Hbk/ts
 https://stream.ottplus.bd/live/zee_bangla_abr/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://imglink.cc/cdn/qonZADSZua.png",Zee Bangla🇮🇳
 http://103.159.180.34:5001/live/625.m3u8
-
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/JhR9HDw4/20240823_023056.png",& Tv
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/JhR9HDw4/20240823_023056.png",& Tv🇮🇳
 https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
-
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/XJ1SbVzN/20240823_022738.png",& Picture
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/XJ1SbVzN/20240823_022738.png",& Picture🇮🇳
 https://stream.ottplus.bd/live/and_picture_hd_abr/index.m3u8
-
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/x8BwX6QW/20240823_022929.png",Zee Tv
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/x8BwX6QW/20240823_022929.png",Zee Tv🇮🇳
 https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
-
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/VN1c9Ztw/20240823_022636.png",Zee Cinema HD 
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/VN1c9Ztw/20240823_022636.png",Zee Cinema HD🇮🇳 
 https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
-
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/52SzwQF1/20251222_220548.png",Zee Bollywood
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/52SzwQF1/20251222_220548.png",Zee Bollywood🇮🇳
 https://stream.ottplus.live/live/zee_bollywood_abr/index.m3u8
-
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/vT4DKmf3/20240925_075103.png",HUM TV
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/vT4DKmf3/20240925_075103.png",HUM TV🇮🇳
 https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
-
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png",Sony Television
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png",Sony Television🇮🇳
 https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
-
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png",Sony Television HD
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png",Sony Television HD🇮🇳
 https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
-
-
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/YS3BdNNW/20240823_022655.png",Sony Max HD
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/YS3BdNNW/20240823_022655.png",Sony Max HD🇮🇳
 https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
-
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/hP59QSrm/20240825_075205.png",Sony Max 2
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/hP59QSrm/20240825_075205.png",Sony Max 2🇮🇳
 https://stream.ottplus.bd/live/max_2_abr/live/max_2_720/chunks.m3u8
-
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/Gpz6FLrP/20240823_023114.png",Sony Sab HD
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/Gpz6FLrP/20240823_023114.png",Sony Sab HD🇮🇳
 https://stream.ottplus.bd/live/sub_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="PRO✅",Colors Bangla🇮🇳
 http://live.balajibroadband.com:3500/live/756.m3u8
@@ -329,10 +317,12 @@ http://live.balajibroadband.com:3500/live/471.m3u8
 http://live.balajibroadband.com:3500/live/474.m3u8
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="PRO✅",Sony Aath🇮🇳
 http://live.balajibroadband.com:3500/live/697.m3u8
-#EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="PRO✅",Sony Aath🇮🇳
-http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108839
 #EXTINF:-1,group-title="PRO✅",SONY KAL🇮🇳
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+
+
+
+
 
 
 
