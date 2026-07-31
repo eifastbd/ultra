@@ -105,8 +105,12 @@ http://46.151.196.223:14453/.ta
 http://46.151.196.223:14454/.ts
 #EXTINF:-1,SeSanta Sports
 http://178.134.1.158:8081/foodnetwork/index.m3u8
-
-
+#EXTINF:-1,Russian Sp
+http://195.201.243.254/stream8/index.m3u8
+#EXTINF:-1,QazSport HD
+http://195.201.243.254/stream10/index.m3u8
+#EXTINF:-1,ESPNU
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 
 
 
@@ -200,57 +204,6 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_2500000=1000
 
 
 
-#EXTINF:-1,Russian Sp HD
-http://195.201.243.254/stream8/index.m3u8
-#EXTINF:-1,QazSport HD
-http://195.201.243.254/stream10/index.m3u8
-#EXTINF:-1,Euro Sport 2
-http://46.32.176.50/eurosport2/index.m3u8
-
-#EXTINF:-1,Bein Arabic
-https://6syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8
-#EXTINF:-1,ESPNU
-http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports Extra
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1,T SPORTS HD 
-https://aynaott.sulfuricacid.workers.dev/Fallback/tsports-hd.m3u8
-#EXTINF:1 tvg-logo="http://103.175.242.10/assets/images/Tsports1735735587.png" group-title="PREMIUM",Tsports📺
-http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="T SPORTS" tvg-logo="http://172.16.29.28/images/TSports.jpg" group-title="DentCure",T SPORTS📺
-http://172.16.29.2:8090/hls/tsportshd.m3u8
-#EXTINF:-1 tvg-name="A SPORTS" tvg-logo="http://172.16.29.28/images/ptvsports.png" group-title="DentCure",A SPORTS📺
-http://172.16.29.2:8090/hls/ASportsHD.m3u8
-#EXTINF:-1 tvg-name="STAR SPORTS 2" tvg-logo="http://172.16.29.28/images/starsports2.png" group-title="DentCure",STAR SPORTS 2📺
-http://172.16.29.2:8090/hls/StarSports2HD.m3u8
-#EXTINF:-1 tvg-name="STAR SPORTS SELECT" tvg-logo="http://172.16.29.28/images/starsportsselect1.png" group-title="DentCure",STAR SPORTS SELECT📺
-http://172.16.29.2:8090/hls/StarSportsSelect1HD.m3u8
-#EXTINF:-1 tvg-name="STAR SPORTS SELECT 2" tvg-logo="http://172.16.29.28/images/starsportsselect2hd.png" group-title="DentCure",STAR SPORTS SELECT 2📺
-http://172.16.29.2:8090/hls/StarSportsSelect2HD.m3u8
-#EXTINF:-1 tvg-name="STAR SPORTS " tvg-logo="http://172.16.29.28/images/ptvsports.png" group-title="DentCure",STAR SPORTS📺
-http://172.16.29.2:8090/hls/StarSportsHindi2HD.m3u8
-#EXTINF:-1 tvg-name="STAR SPORTS 1" tvg-logo="http://172.16.29.28/images/ptvsports.png" group-title="DentCure",STAR SPORTS 1📺
-http://172.16.29.2:8090/hls/StarSports1HD.m3u8
-#EXTINF:-1 tvg-name="STAR SPORTS 1" tvg-logo="http://172.16.29.28/images/starsports1.png" group-title="DentCure",STAR SPORTS 1📺
-http://172.16.29.2:8090/hls/SonyTen5HD.m3u8
-#EXTINF:-1 tvg-name="SONY TEN 2" tvg-logo="http://172.16.29.28/images/sony-ten-2.png" group-title="DentCure",SONY TEN 2📺
-http://172.16.29.2:8090/hls/SonyTen2hd.m3u8
-#EXTINF:-1 tvg-name="EUROSPORTS" tvg-logo="http://172.16.29.28/images/eurosport.png" group-title="DentCure",EUROSPORTS📺
-http://172.16.29.2:8090/hls/eurosportshd.m3u8
-#EXTINF:-1 tvg-name="SONY TEN 3" tvg-logo="http://172.16.29.28/images/sony-ten-3.png" group-title="DentCure",SONY TEN 3📺
-http://172.16.29.2:8090/hls/SonyTen3hd.m3u8
-#EXTINF:-1 tvg-name="DD SPORTS" tvg-logo="http://172.16.29.28/images/sony-ten-1.png" group-title="DentCure",DD SPORTS📺
-http://172.16.29.2:8090/hls/ddsports.m3u8
-#EXTINF:-1 tvg-name="WORLD FREE SPORTS" tvg-logo="http://172.16.29.28/images/sony-ten-1.png" group-title="DentCure",WORLD FREE SPORTS📺
-http://172.16.29.2:8090/hls/WorldofFreeSports.m3u8
-#EXTINF:-1,group-title="PREMIUM",ptv sports📺
-http://172.16.29.3:8090/hls/ptvsportshd.m3u8
-#EXTINF:-1 ,BeinSports Xtra
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 ,BhiChannel
-http://15.235.185.236/hls/bhi.m3u8
 #EXTINF:-1 ,TraceSport
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Pardesi TV
