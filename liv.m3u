@@ -97,8 +97,14 @@ http://dns.fontedecanais.com.br:80//live/playercodestv/947942/512.ts
 http://dns.fontedecanais.com.br:80//live/playercodestv/947942/511.ts
 #EXTINF:-1,ESPN 4 FHD
 http://dns.fontedecanais.com.br:80//live/playercodestv/947942/514.ts
-
-
+#EXTINF:-1,ESPN 2 HD
+http://46.151.196.223:14438/.ts
+#EXTINF:-1,ESPN 4 HD
+http://46.151.196.223:14453/.ta
+#EXTINF:-1,ESPN 5 HD
+http://46.151.196.223:14454/.ts
+#EXTINF:-1,SeSanta Sports
+http://178.134.1.158:8081/foodnetwork/index.m3u8
 
 
 
@@ -194,18 +200,6 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_2500000=1000
 
 
 
-#EXTINF:-1,ESPN 1 HD
-http://46.151.196.223:14435/.ts
-#EXTINF:-1,ESPN 2 HD
-http://46.151.196.223:14438/.ts
-#EXTINF:-1,ESPN 3 HD
-http://46.151.196.223:14442/.ts
-#EXTINF:-1,ESPN 4 HD
-http://46.151.196.223:14453/.ta
-#EXTINF:-1,ESPN 5 HD
-http://46.151.196.223:14454/.ts
-#EXTINF:-1,SeSanta Sports
-http://178.134.1.158:8081/foodnetwork/index.m3u8
 #EXTINF:-1,Russian Sp HD
 http://195.201.243.254/stream8/index.m3u8
 #EXTINF:-1,QazSport HD
