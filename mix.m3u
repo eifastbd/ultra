@@ -1,4 +1,4 @@
-k#EXTM3U 
+#EXTM3U 
 
 
 
@@ -45,10 +45,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 #EXTINF:-1 tvg-id="247" tvg-name="Independent TV " tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png" group-title="PRO✅",Independent TV🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="PRO✅",NTV🇧🇩
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="PRO✅",Ekushey TV🇧🇩
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-id="132000" tvg-name="Channel I HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="PRO✅",Channel I HD🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-id="100000" tvg-name="Bangla Vision" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="PRO✅",Bangla Vision🇧🇩
@@ -223,6 +219,10 @@ https://stream.ottplus.live/live/mohona_tv_abr/index.m3u8
 
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/Tw4qxSqv/20240822-230126.png",Bijoy Tv
 https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="PRO✅",Ekushey TV🇧🇩
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png" group-title="PRO✅",Asian TV🇧🇩
 https://mtlivestream.com/hls/asian/ytlive/index.m3u8
