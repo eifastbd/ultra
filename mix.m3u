@@ -16,11 +16,13 @@ k#EXTM3U
 
 
 
+
+
+
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="PRO✅",BTV🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
 sEXTINF:-1 tvg-logo="http://172.19.17.34:80/images/d92a7381521a7b2926fde01ecfe7fafe.png" group-title="PRO✅",BTV CHATTAGRAM🇧🇩
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsAyyELxAdIBlC08PXQnkiWZE/ts
-
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/btv-news-.jpg",BTV News🇧🇩
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/index.m3u8
 #EXTINF:-1 tvg-id="SangsadTV.bd@SD" tvg-logo="https://i.imgur.com/jkouxLg.png" group-title="PRO✅",Sangsad TV🇧🇩
