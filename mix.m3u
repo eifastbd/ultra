@@ -473,6 +473,11 @@ https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 # ───────────  Cartoon ───────────
 
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png" group-title="PRO✅",Duronto TV👻
+https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
+
+
 #EXTINF:-51 tvg-logo="https://i.postimg.cc/jSBDsbBX/20240823_021324.png"group-title="PRO✅",Sony YaY!👻
 https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
 
@@ -488,8 +493,6 @@ https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 https://s2.ideationtec.live/MiniMax/MiniMax.m3u8
 #EXTINF:-1  tvg-logo="",MINI👻
 https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="PRO✅",Duronto TV👻
-http://fastshare1.com:80/live/25711345/late8airline/433.ts
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="PRO✅",Disney Channel👻
 https://yowaimo.in/Sflex-ArtlPVT0719/DISNEY_CHANNEL.m3u8
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="PRO✅",Disney Channel 2👻
