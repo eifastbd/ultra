@@ -112,6 +112,18 @@ http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 
 
 
+#EXTINF:-1 ,TraceSport
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Pardesi TV
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1,Fox sport 1
+http://185.56.109.251/FoxSport/playlist.m3u8
+#EXTINF:-1,Fox sport 2
+http://185.56.109.251/FoxSport2/playlist.m3u8
+#EXTINF:-1,Fox sport 3
+http://185.56.109.251/FoxSport3/playlist.m3u8
 
 
 
@@ -202,27 +214,6 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_2500000=1000
 
 
 
-#EXTINF:-1 ,TraceSport
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Pardesi TV
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,MTR Sports-1
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
-#EXTINF:-1,EuroSport2
-http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
-#EXTINF:-1,EuroSport1
-http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
-#EXTINF:-1,ONE
-http://185.132.134.159:80/one/index.m3u8
-#EXTINF:-1,ONE 2
-http://185.132.134.159:80/one2/index.m3u8
-
-#EXTINF:-1,Fox sport 1
-http://185.56.109.251/FoxSport/playlist.m3u8
-#EXTINF:-1,Fox sport 2
-http://185.56.109.251/FoxSport2/playlist.m3u8
-#EXTINF:-1,Fox sport 3
-http://185.56.109.251/FoxSport3/playlist.m3u8
 #EXTINF:-1,BEIN SPORTS 1 FRANCE
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2499/index.m3u8
 
