@@ -156,10 +156,8 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 #EXTINF:-1,UTSAV MOVIES
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_UTSAV_MOVIES.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="HINDI",Star Gold 2 HD
+#EXTINF:-1 group-title="TV💠",Star Gold 2
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_GOLD_2_HD.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",YRF MUSIC
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-chno="117" tvg-id="21e75798-3b6a-4214-9d93-b3fecaa4e700" tvg-name="Bangla Vision" tvg-logo="https://s3.aynaott.com/storage/e86c14566b4d5b6dd68ac37dce4f6043" group-title="TV💠",Bangla Vision
 http://103.165.93.31:8095/banglaVision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="120" tvg-id="9a94b22f-c4a4-4150-8eb9-129d0ddeb934" tvg-name="Maasranga TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png" group-title="TV💠",Maasranga TV
