@@ -234,8 +234,8 @@ http://103.151.61.12/Nagorik_TV/video.m3u8?token=i7bZaZWaFrSIE0
 #EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/uploads/2024/04/Logo.png" group-title="PRO✅",Nagorik🇧🇩
 https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FNagorik_TV%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3Di7bZaZWaFrSIE0
 
-
-
+#EXTINF:-1 tvg-logo="" group-title="PRO✅",DTV
+https://cdn.dtvusa.com/dtv/index.m3u8
 
 
 
