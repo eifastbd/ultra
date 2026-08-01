@@ -71,7 +71,9 @@ http://119.156.228.231:9983/stream/channelid/1768523944?ticket=717F9AB6C4F1A0F1E
 http://119.156.228.231:9983/stream/channelid/990758354?ticket=67B012645AC54C2529D0B3A509F8F8FBB1990687&profile=pass
 #EXTINF:-1 tvg-id="5dd2f0c987acf05420bd7abe5ca9ca1c",SONY TEN 5 HD
 http://119.156.228.231:9983/stream/channelid/1240519261?ticket=0F4CE557812869C3A5432095360B3CC8310FD6F9&profile=pass
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZcJANelaW8aBRREj0hAfcWIjvYWJdJ_Epg&usqp=CAU",Willow Cricket 2
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow2.m3u8
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809387.m3u8
 #EXTINF:-1 tvg-id="d61fa9aa4b5922d18907e520ccc2606e",EUROSPORT HD
 http://119.156.228.231:9983/stream/channelid/715726806?ticket=A3941C6A98D2694F07C60B9C220398AD78E72BBD&profile=pass
 #EXTINF:-1 tvg-id="af7718dc4be8fecc3252f94071816778",EXTREME SPORTS
