@@ -152,10 +152,7 @@ https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 
-
-
-
-#EXTINF:-1,UTSAV MOVIES
+#EXTINF:-1,group-title="TV💠",UTSAV MOVIES
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_UTSAV_MOVIES.m3u8
 #EXTINF:-1 group-title="TV💠",Star Gold 2
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_GOLD_2_HD.m3u8
@@ -179,16 +176,18 @@ https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 https://stream.ottplus.live/live/jamuna_tv_abr/index.m3u8
 #EXTINF:-1 tvg-id="6662e038-604e-4cdc-87f7-8ec1cdf77a5e" tvg-name="Mohona TV" tvg-logo="https://lo1.in/ind/mohn1.png" group-title="TV💠",Mohona TV
 https://stream.ottplus.live/live/mohona_tv_abr/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Channel 1 TV" tvg-logo="https://i.ibb.co.com/N6HbH5rH/Channel-One-TV.png" group-title="TV💠",Channel 1 NEWS
+#EXTINF:-1 tvg-id="299" tvg-name="Channel 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="TV💠",Channel 1
 https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8
 
-http://103.121.61.218/tmp_hls/e07413354875be01a996dc560274708e/index.m3u8
 
 
+
+#EXTINF:-1,group-title="TV💠",1
 http://103.67.97.46/0.ts
-
+#EXTINF:-1,group-title="TV💠",2
 http://103.67.97.45:81/0.ts
 
+#EXTINF:-1,group-title="TV💠",Tara Tv
 https://legitpro.co.in/taratv/taratv/tracks-v1a1/mono.m3u8
 
 
