@@ -145,14 +145,10 @@ http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA3PjCAgnggIZu7nLy8U86oQ/ts
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsAwQIxlAQOIY-WYRxJUpChJc/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vtiFn2v.png" group-title="India",Sananda TV
 https://live.sanandatelevision.in/sananda/index.m3u8
-#EXTINF:-1 group-title="TV💠" tvg-logo="https://assets-prod.services.toffeelive.com/xi6xX5UBv9knK3AH9aMk/posters/f4db1c12-b10f-46e8-a09b-e0efb8820970.png",Sony Aath
-https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="TV💠",Hum TV
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/HUM/TV1/chunks_dvr.m3u8
 #EXTINF:-1,tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" group-title="TV💠",Shomoy TV
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-
-
 #EXTINF:-1,group-title="TV💠",UTSAV MOVIES
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_UTSAV_MOVIES.m3u8
 #EXTINF:-1 group-title="TV💠",Star Gold 2
@@ -179,15 +175,10 @@ https://stream.ottplus.live/live/jamuna_tv_abr/index.m3u8
 https://stream.ottplus.live/live/mohona_tv_abr/index.m3u8
 #EXTINF:-1 tvg-id="299" tvg-name="Channel 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="TV💠",Channel 1
 https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8
-
-
-
-
-#EXTINF:-1,group-title="TV💠",1
+#EXTINF:-1,group-title="TV💠",JTV Classic 
 http://103.67.97.46/0.ts
-#EXTINF:-1,group-title="TV💠",2
+#EXTINF:-1,group-title="TV💠",JTV Bangla
 http://103.67.97.45:81/0.ts
-
 #EXTINF:-1,group-title="TV💠",Tara Tv
 https://legitpro.co.in/taratv/taratv/tracks-v1a1/mono.m3u8
 
@@ -241,7 +232,8 @@ https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
 https://stream.ottplus.bd/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png", Sci-fi
 https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
-
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://assets-prod.services.toffeelive.com/xi6xX5UBv9knK3AH9aMk/posters/f4db1c12-b10f-46e8-a09b-e0efb8820970.png",Sony Aath
+https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
 #EXTINF:-117 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="TV💠",HBO
 http://103.213.31.111/HBOHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2h7Rov9K9yz6dRM5N81dYq44AUzESD-FpiykR8bVAwg&s=10" group-title="TV💠",Zee Bangla HD
