@@ -205,12 +205,8 @@ http://103.121.61.218/tmp_hls/7250eb93b3c18cc9daa29cf58af7a004/index.m3u8
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",বিটিভি
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Bangla Vision
-http://103.165.93.31:8095/banglaVision/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",NTV
-http://103.165.93.31:8095/ntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Deepto TV
-http://103.165.93.31:8095/deepto/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Desh TV
 https://stream.ottplus.live/live/desh_tv_abr/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel 24
@@ -221,18 +217,14 @@ https://stream.ottplus.live/live/asian_tv_abr/index.m3u8
 http://103.165.93.31:8095/ekattorTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Unknown
 https://stream.ottplus.live/live/ekattor_tv_abr/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Ekhon Tv
-https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Jamuna TV
-https://stream.ottplus.live/live/jamuna_tv_abr/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Mohona TV
-https://stream.ottplus.live/live/mohona_tv_abr/index.m3u8
+
+
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",NEXUS TV
 https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Unknown
 https://stream.ottplus.live/live/global_tv_abr/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel 1 NEWS
-https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8
+
 #EXTINF:-1,Somoy
 http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="TV💠", Zee Cinema
