@@ -126,7 +126,8 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://channeleurope.tv/storage/settings/BNyRMyomifMQ7VlzvHKbNwCfzxM7kF4Vq7bj4zxZ.png",group-title="TV💠",Channel Europe
 https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w572284654.m3u8
 #EXTINF:-1 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="TV💠",Desh TV
-https://bozztv.com/rongo/rongo-DeshTV/tracks-v2a1/mono.m3u8
+https://stream.ottplus.live/live/desh_tv_abr/index.m3u8
+#https://bozztv.com/rongo/rongo-DeshTV/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="TV💠" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGN4JrZ3Ur3BHiD2tQhsQq3WQ5DXpv7HATFyNDT6o-rSNwAZaeQieMBdfPoGPio5UPipGV2ZBb8rLmyYJe5vySfQjEmTE5MLc_6q8CKfXuzb4eRQREjPiyL5tkncb1Xt5pVMJa6t77CT98JvAFozg95IH_9qofXJ2s1ubKCbJ-_JsuRVb458aBztLImQ/s1080/1000015295.png",Channel 16
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 #EXTINF:-1,group-title="TV💠",JA TV
@@ -207,8 +208,8 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Desh TV
-https://stream.ottplus.live/live/desh_tv_abr/index.m3u8
+
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel 24
 https://stream.ottplus.live/live/channel_24_abr/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Asian TV
