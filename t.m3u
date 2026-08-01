@@ -135,9 +135,8 @@ http://103.121.61.218/tmp_hls/86b122d4358357d834a87ce618a55de0/index.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Ananda TV" group-title="TV💠",Ananda TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
-
-
-
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x91288" group-title="TV💠",Boishakhi
+https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.smartads.in/images/product/television/Enterr10-Bangla.png" group-title="TV💠",Green Entertainment
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA3PjCAgnggIZu7nLy8U86oQ/ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="TV💠",Hum TV
