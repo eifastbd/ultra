@@ -1,1 +1,2 @@
-JalshaMoviesHD.m3u8
+#EXTINF:-1 tvg-id="77" group-title="WIFI💠" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",Jalsha Movies
+http://172.19.17.3:8090/hls/JalshaMoviesHD.m3u8
