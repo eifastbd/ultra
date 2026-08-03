@@ -234,6 +234,8 @@ http://103.151.61.12/Jalsha_Movie/tracks-v1a1/mono.m3u8
 #http://103.151.61.12/Jalsha_Movie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png?20230625063343" group-title="PRO✅",Star Jalsha HD🇮🇳
 http://103.151.61.12/Star_Jalsha/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/3w6F5VZ5/20240822-231514.png",Colors Bangla🇮🇳
+http://103.151.61.12/COLORS_BANHLA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://imglink.cc/cdn/qonZADSZua.png",Zee Bangla🇮🇳
 https://stream.ottplus.bd/live/zee_bangla_abr/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://imglink.cc/cdn/qonZADSZua.png",Zee Bangla🇮🇳
