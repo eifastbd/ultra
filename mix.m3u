@@ -326,11 +326,9 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/in
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9xm.png" group-title="PRO✅",9XM🌀
 https://wiselp.wiseplayout.com/9XM/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Isai _Aruvi.jpeg" group-title="PRO✅",Isai Aruvi🌀
-https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/PTC" group-title="PRO✅",PTC Chakde🌀
 https://cdn-1.pishow.tv/live/449/master.m3u8 
-EXTINF:0 group-title="PRO✅" ,PTC MUSIC🌀
+#EXTINF:0 group-title="PRO✅" ,PTC MUSIC🌀
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
 #EXTINF:0 group-title="PRO✅" ,PTC PUNJABI🌀
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
