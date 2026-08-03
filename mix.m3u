@@ -216,7 +216,7 @@ https://legitpro.co.in/taratv/taratv/tracks-v1a1/mono.m3u8
 http://103.151.61.12/Nagorik_TV/video.m3u8?token=i7bZaZWaFrSIE0
 #EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/uploads/2024/04/Logo.png" group-title="PRO✅",Nagorik🇧🇩
 https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FNagorik_TV%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3Di7bZaZWaFrSIE0
-#EXTINF:-1 tvg-logo="" group-title="PRO✅",DTV
+#EXTINF:-1 tvg-logo="" group-title="PRO✅",DTV🇧🇩
 https://cdn.dtvusa.com/dtv/index.m3u8
 
 
@@ -230,7 +230,7 @@ https://cdn.dtvusa.com/dtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yNd3WJ0/20240822-231606.png" group-title="PRO✅",Sony Aath🇮🇳
 https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 #EXTINF:-1 tvg-id="77" group-title="PRO✅" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",Jalsha Movies🇮🇳
-https://stream.ottplus.live/live/jalsha_movie_abr/index.m3u8
+http://103.151.61.12/Jalsha_Movie/tracks-v1a1/mono.m3u8
 #http://103.151.61.12/Jalsha_Movie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png?20230625063343" group-title="PRO✅",Star Jalsha HD🇮🇳
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA8PwkV3_HSXlG7wgILF5Hbk/ts
