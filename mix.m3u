@@ -364,15 +364,15 @@ https://cdn-4.pishow.tv/live/1293/master.m3u8
 #EXTINF:-1 tvg-id="balle-balle" tvg-name="Balle Balle" tvg-language="Punjabi" tvg-country="IN" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Balle%20Balle.jpg?raw=true" tvg-chno="balle-balle" group-title="PRO✅",Balle Balle🌀
 https://cdn-4.pishow.tv/live/987/master.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/e-24.png" group-title="PRO✅",E 24🌀
-http://103.175.73.12:8080/live/159/159_0.m3u8
+#http://103.175.73.12:8080/live/159/159_0.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/b4u-music.png" group-title="PRO✅",B4U Music🌀
-http://103.175.73.12:8080/live/157/157_0.m3u8
+https://cdn-2.pishow.tv/live/415/master.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9x-jhakaas.png" group-title="PRO",9x Jhakaas🌀
 https://cdn-3.pishow.tv/live/6/master.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zooER-oa-NqGzAR4HjEUGYBOfAcWvyoWGGIjZn3peR6xveFznWN6LvXCP_5A5zoB7gdE=w600-h300-pc0xffffff-pd" group-title="PRO✅",Joo Music🌀
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/music-india.png" group-title="PRO✅",Music India🌀
-http://103.175.73.12:8080/live/158/158_0.m3u8
+#http://103.175.73.12:8080/live/158/158_0.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV /LIVECHANNEL/LIVETV_LIVETVCHANNEL_9XM/images/LOGO_HD/image.png" group-title="PRO✅",9XM🌀
 https://9xjio.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikitide.net/avidwiki/thumb/2/21/AFN_Kwajalein_ %282000%29_%28credit_-_KaneStar%29.png/400px-AFN_Kwajalein_%282000%29_ %28credit_-_KaneStar%29.png" group-title="PRO✅",AFN TV🌀
@@ -383,8 +383,6 @@ https://hls.sunmusic.live/hls/stream.m3u8
 https://atomic.streamnet.ro/atomictv.m3u8
 #EXTINF:-1 tvg-logo="https://www.avang.live/_next/image?url=%2Favangtvtextlogo.png&w= 256&q=75" group-title="PRO✅",AVANG TV 🌀
 https://hls.avang.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s158141_1d_h15_aa.png?lock= 720x540" group-title="PRO✅",B4U Music🌀
-https://cdn-2.pishow.tv/live/415/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGP3pRsh/Balle-Balle.jpg" group-title="PRO✅", Balle Balle🌀
 https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rEhhYpe.png"group-title="PRO✅",Baraza Music🌀
