@@ -241,7 +241,7 @@ http://103.151.61.12/Jalsha_Movie/tracks-v1a1/mono.m3u8
 http://103.151.61.12/Star_Jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/3w6F5VZ5/20240822-231514.png",Colors Bangla🇮🇳
 http://103.151.61.12/COLORS_BANHLA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://imglink.cc/cdn/qonZADSZua.png",Zee Bangla🇮🇳
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2h7Rov9K9yz6dRM5N81dYq44AUzESD-FpiykR8bVAwg&s=10" group-title="PRO✅",Zee Bangla HD🇮🇳
 https://stream.ottplus.bd/live/zee_bangla_abr/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://imglink.cc/cdn/qonZADSZua.png",Zee Bangla🇮🇳
 http://103.159.180.34:5001/live/625.m3u8
