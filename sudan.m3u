@@ -25,7 +25,7 @@ http://27.124.71.27/Star_Sports_1/index.m3u8
 http://27.124.71.27/T-Sports/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="Sports",TNT 1
+#EXTINF:-1 group-title="💠IP💠" tvg-id="tnt_sport_1" tvg-name="TNT Sport 1" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_4af9a282522f487a6ed41692f99baad6_playmist_tnt_sports_1400x400.jpg",TNT Sport 1
 http://27.124.71.27/TNT_Sports_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="💠IP💠",TNT 2
 http://27.124.71.27/TNT_Sports_2/index.m3u8
