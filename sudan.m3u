@@ -17,13 +17,8 @@ http://27.124.71.27/beIN_Sports_3/index.m3u8
 
 http://27.124.71.27/DAZN_LaLiga/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="💠IP💠",Star Sports 1
 http://27.124.71.27/Star_Sports_1/index.m3u8
-
-
-
-http://27.124.71.27/Star_Sports_1/index.m3u8
-
 
 
 http://27.124.71.27/T-Sports/index.m3u8
@@ -66,8 +61,7 @@ http://27.124.71.27/Willow_Extra/index.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ni61-JQBv9knK3AHcDYc/posters/c16e8633-6b2a-401a-9cd6-ac26a4fcdedb.webp",Animal Planet
 http://27.124.71.27/Animal_Planet/index.m3u8
 
 
