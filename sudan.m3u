@@ -33,18 +33,11 @@ http://27.124.71.27/TNT_Sports_2/index.m3u8
 http://27.124.71.27/TNT_Sports_3/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="💠IP💠",TNT 4
 http://27.124.71.27/TNT_Sports_4/index.m3u8
-
-
-
+#EXTINF:-1 group-title="💠IP💠" tvg-id="tsn_1" tvg-name="TSN 1" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_d165c628a0db9286da3914ca916a4971_playmist_tsn_1400x400.jpg",TSN 1
 http://27.124.71.27/TSN_1/index.m3u8
-
-
-
+#EXTINF:-1 group-title="💠IP💠" tvg-id="tsn_2" tvg-name="TSN 2" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_c92bf4f46958e65be6cc370e3fc1f0dd_playmist_tsn_2_400x400.jpg",TSN 2
 http://27.124.71.27/TSN_2/index.m3u8
-
-
-
-
+#EXTINF:-1 group-title="💠IP💠" tvg-id="tsn_3" tvg-name="TSN 3" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-19/images_905f151dfde79e14a2b9e7b934683ba6_playmist_tsn3_300.jpg",TSN 3
 http://27.124.71.27/TSN_3/index.m3u8
 
 
