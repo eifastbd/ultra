@@ -9,7 +9,6 @@
 
 #EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/GGm9H9tLHP.png",Criccbuz
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/2494.ts
-
 #EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg",Bein Sports
 http://145.239.5.177:80/559/index.m3u8
 #EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 1  🇷🇸 Serbia
@@ -18,7 +17,7 @@ http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
 http://ua.online24.pm/play/1102/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/Tf3GP8uGY_.jpg", TUDN 🇲🇽 Mexico
 http://177.10.184.60:8002/play/a013/index.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 1
+#EXTINF:-1 group-title="💠IP💠" tvg-id="bein_sports_1" tvg-name="Bein Sports 1" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_02eb54f07cbc8c01db3c545aca60d37c_playmist_4g.jpg",Bein Sports 1
 http://27.124.71.27/beIN_Sports_1/index.m3u8
 #EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 2
 http://27.124.71.27/beIN_Sports_2/index.m3u8
@@ -42,42 +41,38 @@ http://znty.dyndns.org:5010/hls/eleven3.m3u8
 http://znty.dyndns.org:5010/hls/eleven4.m3u8
 #EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png", DAZN 1 HD
 http://50.7.120.34:8080/DAZN1/index.m3u8
-#EXTINF:-1,ESPN HD BRASIL 
+#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN
 http://dns.fontedecanais.com.br:80//live/playercodestv/947942/506.ts
-#EXTINF:-1,ESPN FHD BRASIL 
+ #EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN SD
 http://dns.fontedecanais.com.br:80//live/playercodestv/947942/505.ts
-#EXTINF:-1,ESPN 2 SD
+#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN SD
 http://dns.fontedecanais.com.br:80//live/playercodestv/947942/510.ts
-#EXTINF:-1,ESPN SD
+#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN
 http://dns.fontedecanais.com.br:80//live/playercodestv/947942/507.ts
-#EXTINF:-1,ESPN 2 FHD
+#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN
 http://dns.fontedecanais.com.br:80//live/playercodestv/947942/508.ts
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN
 http://dns.fontedecanais.com.br:80//live/playercodestv/947942/509.ts
-#EXTINF:-1,ESPN 3 SD
+#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN
 http://dns.fontedecanais.com.br:80//live/playercodestv/947942/513.ts
-#EXTINF:-1,ESPN 3 HD
+#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN
 http://dns.fontedecanais.com.br:80//live/playercodestv/947942/512.ts
-#EXTINF:-1,ESPN 3 FHD
+#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN
 http://dns.fontedecanais.com.br:80//live/playercodestv/947942/511.ts
-#EXTINF:-1,ESPN 4 FHD
+#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN
 http://dns.fontedecanais.com.br:80//live/playercodestv/947942/514.ts
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN
 http://46.151.196.223:14438/.ts
-#EXTINF:-1,ESPN 4 HD
+#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN
 http://46.151.196.223:14453/.ta
-#EXTINF:-1,ESPN 5 HD
+#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN
 http://46.151.196.223:14454/.ts
 
 
-#EXTINF:-1 group-title="💠IP💠" tvg-id="bein_sports_1" tvg-name="Bein Sports 1" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_02eb54f07cbc8c01db3c545aca60d37c_playmist_4g.jpg",Bein Sports 1
-http://27.124.71.27/beIN_Sports_1/index.m3u8
 
 
-http://27.124.71.27/beIN_Sports_2/index.m3u8
 
 
-http://27.124.71.27/beIN_Sports_3/index.m3u8
 
 
 
