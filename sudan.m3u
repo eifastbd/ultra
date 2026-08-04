@@ -21,20 +21,20 @@ http://27.124.71.27/DAZN_LaLiga/index.m3u8
 http://27.124.71.27/Star_Sports_1/index.m3u8
 
 
+
+
+
+
 http://27.124.71.27/T-Sports/index.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="Sports",TNT 1
 http://27.124.71.27/TNT_Sports_1/index.m3u8
-
-
-
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="💠IP💠",TNT 2
 http://27.124.71.27/TNT_Sports_2/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="💠IP💠",TNT 3
 http://27.124.71.27/TNT_Sports_3/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="💠IP💠",TNT 4
 http://27.124.71.27/TNT_Sports_4/index.m3u8
 
 
