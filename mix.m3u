@@ -226,6 +226,7 @@ https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 https://stream.ottplus.live/live/mohona_tv_abr/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/Tw4qxSqv/20240822-230126.png",Bijoy Tv
 https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
+https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="PRO✅",Ekushey TV🇧🇩
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rwd1rei.png" group-title="PRO✅",Anirban
@@ -250,9 +251,14 @@ http://103.151.61.12/Nagorik_TV/video.m3u8?token=i7bZaZWaFrSIE0
 https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FNagorik_TV%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3Di7bZaZWaFrSIE0
 #EXTINF:-1 tvg-logo="" group-title="PRO✅",DTV🇧🇩
 https://cdn.dtvusa.com/dtv/index.m3u8
+#EXTINF:-1, AMAR BANGLA 24
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/citizentv.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="PRO✅", UPHAR BANGLA
+https://ranacable.duckdns.org/UpoharBangla/tracks-v1a1/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="" tvg-name="ALL TIME MOVIES" group-title="PRO✅",DOYEL TV
+https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
 
 
 
