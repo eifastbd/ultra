@@ -291,10 +291,11 @@ http://202.70.146.135:8000/play/a04n/index.m3u8
 
 
 
-#EXTINF:-1,tv-logo="https://i.imgur.com/hiXQiMa.jpg" group-title="TV💠",Khusboo Bangla😁
+#EXTINF:-1,tv-logo="https://i.imgur.com/hiXQiMa.jpg" group-title="TV💠",Khusboo Bangla
 https://cdn-4.pishow.tv/live/1473/master.m3u8
-#EXTINF:-1,South Movie
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/07/17/19/22/movie-7328179_1280.png" group-title="TV💠",Bangla Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1,B4u Kadak
 https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,B4u Movies
