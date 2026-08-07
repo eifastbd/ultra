@@ -500,7 +500,7 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png",New🌀
 https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://www.shanson.tv/image/logo_160120.png" group-title="PRO✅",Chanson-TV🌀
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png",Chanson🌀
 https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 
 
