@@ -279,8 +279,19 @@ http://202.70.146.135:8000/play/a126/index.m3u8
 #EXTINF:-1 group-title="TATA",Zee Cafe HD
 http://202.70.146.135:8000/play/a04n/index.m3u8
 
-#EXTM3U
-#EXTINF:-1,Khasbo Bangla
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,tv-logo="https://i.imgur.com/hiXQiMa.jpg" group-title="TV💠",Khusboo Bangla😁
 https://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTINF:-1,South Movie
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
