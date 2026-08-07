@@ -234,6 +234,30 @@ https://cdn.dtvusa.com/dtv/index.m3u8
 #EXTINF:-1, AMAR BANGLA 24🇧🇩
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/citizentv.stream/playlist.m3u8
 
+
+
+#EXTINF:-1,CTV Usa
+https://cdn.streamcast.xyz/ctvusa/index.fmp4.m3u8
+#EXTINF:-1,Atv Usa
+http://cdn.live247stream.com/atvusa/tv/playlist.m3u8
+#EXTINF:-1,JTV CLASSIC
+http://103.67.97.46/0.ts
+#EXTINF:-1,JTV BANGLA
+http://103.67.97.45:81/0.ts
+#EXTINF:-1,AMAR BANGLA
+http://103.172.152.218:8086/0.ts
+#EXTINF:-1,EKHON KOLKATA
+http://live.dataplayer.in:8080/live/ekhonkolkata.m3u8
+#EXTINF:-1,Sunsky TV 2
+http://live.dataplayer.in:8080/live/sunskytv2.m3u8
+#EXTINF:-1,Balurghat TV
+http://94.136.188.21:8000/live/rctvdemo/index.m3u8
+#EXTINF:-1,SDTV PRIME
+http://15.235.187.72/hls/sdtv.m3u8
+#EXTINF:-1,Jaan Bangla
+http://live.dataplayer.in:8080/live/3mjaanbangla.m3u8
+
+
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="PRO✅", UPHAR BANGLA🇧🇩
 https://ranacable.duckdns.org/UpoharBangla/tracks-v1a1/index.m3u8
 
