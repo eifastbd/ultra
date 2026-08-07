@@ -314,7 +314,9 @@ https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/
 https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 #EXTINF:-1,Studiou One
 https://cdn-1.pishow.tv/live/276/master.m3u8
-#EXTINF:-1,9xm
+
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9xm.png" group-title="TV💠",9XM
 https://9xjio.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/b4u-music.png" group-title="TV💠",B4U Music
 https://cdn-2.pishow.tv/live/415/master.m3u8
