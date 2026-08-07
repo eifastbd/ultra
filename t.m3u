@@ -316,8 +316,8 @@ https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 https://cdn-1.pishow.tv/live/276/master.m3u8
 #EXTINF:-1,9xm
 https://9xjio.wiseplayout.com/9XM/master.m3u8
-#EXTINF:-1,B4u Music
-https://cdn-2.pishow.tv/live/415/415_2.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/b4u-music.png" group-title="TV💠",B4U Music
+https://cdn-2.pishow.tv/live/415/master.m3u8
 #EXTINF:-1,Baraza Music
 https://eco.streams.ovh:8081/barazatv/index.m3u8
 #EXTINF:-1,Channel 16
