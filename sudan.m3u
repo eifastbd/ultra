@@ -15,6 +15,185 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yzwt46Q/20241126-220214.png" group-title="💠IP💠",Ten Cricket 
+https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="💠IP💠",Star Sports 1
+http://103.151.61.12/STAR_SPORTS_1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg",Bein Sports
+http://145.239.5.177:80/559/index.m3u8
+#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 1  🇷🇸 Serbia
+http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
+#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 2 🇷🇸 Serbia
+http://ua.online24.pm/play/1102/350B326FB34F4B8/video.m3u8
+#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/Tf3GP8uGY_.jpg", TUDN 🇲🇽 Mexico
+http://177.10.184.60:8002/play/a013/index.m3u8
+#EXTINF:-1 group-title="💠IP💠" tvg-id="bein_sports_1" tvg-name="Bein Sports 1" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_02eb54f07cbc8c01db3c545aca60d37c_playmist_4g.jpg",Bein Sports 1
+http://27.124.71.27/beIN_Sports_1/index.m3u8
+#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 2
+http://27.124.71.27/beIN_Sports_2/index.m3u8
+#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 3
+http://27.124.71.27/beIN_Sports_3/index.m3u8
+#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 4
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 2
+https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 3
+https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 4
+https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
+#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png", DAZN 1 HD
+http://znty.dyndns.org:5010/hls/eleven1.m3u8
+#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png", DAZN 2 HD
+http://znty.dyndns.org:5010/hls/eleven2.m3u8
+#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png", DAZN 3 HD
+http://znty.dyndns.org:5010/hls/eleven3.m3u8
+#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png", DAZN 4 HD
+http://znty.dyndns.org:5010/hls/eleven4.m3u8
+#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png", DAZN 1 HD
+http://50.7.120.34:8080/DAZN1/index.m3u8
+#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN
+http://dns.fontedecanais.com.br:80//live/playercodestv/947942/506.ts
+ #EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN SD
+http://dns.fontedecanais.com.br:80//live/playercodestv/947942/505.ts
+#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN 2
+http://dns.fontedecanais.com.br:80//live/playercodestv/947942/510.ts
+#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN🙃
+http://dns.fontedecanais.com.br:80//live/playercodestv/947942/507.ts
+#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN 2
+http://dns.fontedecanais.com.br:80//live/playercodestv/947942/508.ts
+#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN 2 SD
+http://dns.fontedecanais.com.br:80//live/playercodestv/947942/509.ts
+#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN 3
+http://dns.fontedecanais.com.br:80//live/playercodestv/947942/513.ts
+#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN 3 SD
+http://dns.fontedecanais.com.br:80//live/playercodestv/947942/512.ts
+#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN 3🙃
+http://dns.fontedecanais.com.br:80//live/playercodestv/947942/511.ts
+#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN 4
+http://dns.fontedecanais.com.br:80//live/playercodestv/947942/514.ts
+#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN 2
+http://46.151.196.223:14438/.ts
+#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN 4 SD
+http://46.151.196.223:14453/.ta
+#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN 5
+http://46.151.196.223:14454/.ts
+
+
+
+#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/vyWRYIqnfy.png", Sun Bangla
+http://27.124.71.27/Sun_Bangla/index.m3u8
+
+#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/vyWRYIqnfy.png", Sun Bangla B
+http://103.151.61.12/SUN_BANGLA/tracks-v1a1/mono.m3u8
+
+
+
+http://27.124.71.27/T-Sports/index.m3u8
+
+
+#EXTINF:-1 group-title="💠IP💠" tvg-id="tnt_sport_1" tvg-name="TNT Sport 1" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_4af9a282522f487a6ed41692f99baad6_playmist_tnt_sports_1400x400.jpg",TNT Sport 1
+http://27.124.71.27/TNT_Sports_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="💠IP💠",TNT 2
+http://27.124.71.27/TNT_Sports_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="💠IP💠",TNT 3
+http://27.124.71.27/TNT_Sports_3/index.m3u8
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="💠IP💠",TNT 4
+http://27.124.71.27/TNT_Sports_4/index.m3u8
+#EXTINF:-1 group-title="💠IP💠" tvg-id="tsn_1" tvg-name="TSN 1" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_d165c628a0db9286da3914ca916a4971_playmist_tsn_1400x400.jpg",TSN 1
+http://27.124.71.27/TSN_1/index.m3u8
+#EXTINF:-1 group-title="💠IP💠" tvg-id="tsn_2" tvg-name="TSN 2" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_c92bf4f46958e65be6cc370e3fc1f0dd_playmist_tsn_2_400x400.jpg",TSN 2
+http://27.124.71.27/TSN_2/index.m3u8
+#EXTINF:-1 group-title="💠IP💠" tvg-id="tsn_3" tvg-name="TSN 3" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-19/images_905f151dfde79e14a2b9e7b934683ba6_playmist_tsn3_300.jpg",TSN 3
+http://27.124.71.27/TSN_3/index.m3u8
+
+
+
+
+
+http://27.124.71.27/Willow_Extra/index.m3u8
+
+
+#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN
+http://168.228.44.241:9998/play/a04p/index.m3u8
+#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN
+http://168.228.44.241:9998/play/a03n/index.m3u8
+#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN
+http://168.228.44.241:9998/play/a03o/index.m3u8
+#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN
+http://168.228.44.241:9998/play/a05t/index.m3u8
+#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ni61-JQBv9knK3AHcDYc/posters/c16e8633-6b2a-401a-9cd6-ac26a4fcdedb.webp",Animal Planet
+http://27.124.71.27/Animal_Planet/index.m3u8
+
+
+
+http://27.124.71.27/AXN/index.m3u8
+
+
+
+
+http://27.124.71.27/Bollywood_HD/index.m3u8
+
+
+http://27.124.71.27/Cinemax/index.m3u8
+
+
+
+http://27.124.71.27/HBO/index.m3u8
+
+
+
+http://27.124.71.27/Love_Nature/index.m3u8
+
+
+
+http://27.124.71.27/MBC-Bollywood/index.m3u8
+
+
+
+
+http://27.124.71.27/Movies_Now/index.m3u8
+
+
+
+http://27.124.71.27/Zee_Bangla_Cinema/index.m3u8
+
+
+
+
+http://27.124.71.27/Sun_Bangla/index.m3u8
+
+
+
+http://27.124.71.27/Zee_Bangla/index.m3u8
+
+
+
+
+
+http://27.124.71.27/music-India/index.m3u8
+
+http://27.124.71.27/tv9_Hindi/index.m3u8
+
+http://27.124.71.27/Trace_Urban/index.m3u8
+
+http://27.124.71.27/OneMUZ/index.m3u8
+
+
+http://27.124.71.27/Trace_Latina/index.m3u8
+
+
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+
+
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a_208000_eng=2.m3u8
+
+
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
+
+
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+
 
 
 
@@ -1694,185 +1873,6 @@ http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yzwt46Q/20241126-220214.png" group-title="💠IP💠",Ten Cricket 
-https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="💠IP💠",Star Sports 1
-http://103.151.61.12/STAR_SPORTS_1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg",Bein Sports
-http://145.239.5.177:80/559/index.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 1  🇷🇸 Serbia
-http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 2 🇷🇸 Serbia
-http://ua.online24.pm/play/1102/350B326FB34F4B8/video.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/Tf3GP8uGY_.jpg", TUDN 🇲🇽 Mexico
-http://177.10.184.60:8002/play/a013/index.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-id="bein_sports_1" tvg-name="Bein Sports 1" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_02eb54f07cbc8c01db3c545aca60d37c_playmist_4g.jpg",Bein Sports 1
-http://27.124.71.27/beIN_Sports_1/index.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 2
-http://27.124.71.27/beIN_Sports_2/index.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 3
-http://27.124.71.27/beIN_Sports_3/index.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 4
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 2
-https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 3
-https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 4
-https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png", DAZN 1 HD
-http://znty.dyndns.org:5010/hls/eleven1.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png", DAZN 2 HD
-http://znty.dyndns.org:5010/hls/eleven2.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png", DAZN 3 HD
-http://znty.dyndns.org:5010/hls/eleven3.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png", DAZN 4 HD
-http://znty.dyndns.org:5010/hls/eleven4.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png", DAZN 1 HD
-http://50.7.120.34:8080/DAZN1/index.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN
-http://dns.fontedecanais.com.br:80//live/playercodestv/947942/506.ts
- #EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN SD
-http://dns.fontedecanais.com.br:80//live/playercodestv/947942/505.ts
-#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN 2
-http://dns.fontedecanais.com.br:80//live/playercodestv/947942/510.ts
-#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN🙃
-http://dns.fontedecanais.com.br:80//live/playercodestv/947942/507.ts
-#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN 2
-http://dns.fontedecanais.com.br:80//live/playercodestv/947942/508.ts
-#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN 2 SD
-http://dns.fontedecanais.com.br:80//live/playercodestv/947942/509.ts
-#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN 3
-http://dns.fontedecanais.com.br:80//live/playercodestv/947942/513.ts
-#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN 3 SD
-http://dns.fontedecanais.com.br:80//live/playercodestv/947942/512.ts
-#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN 3🙃
-http://dns.fontedecanais.com.br:80//live/playercodestv/947942/511.ts
-#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN 4
-http://dns.fontedecanais.com.br:80//live/playercodestv/947942/514.ts
-#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN 2
-http://46.151.196.223:14438/.ts
-#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN 4 SD
-http://46.151.196.223:14453/.ta
-#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN 5
-http://46.151.196.223:14454/.ts
-
-
-
-#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/vyWRYIqnfy.png", Sun Bangla
-http://27.124.71.27/Sun_Bangla/index.m3u8
-
-#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/vyWRYIqnfy.png", Sun Bangla B
-http://103.151.61.12/SUN_BANGLA/tracks-v1a1/mono.m3u8
-
-
-
-http://27.124.71.27/T-Sports/index.m3u8
-
-
-#EXTINF:-1 group-title="💠IP💠" tvg-id="tnt_sport_1" tvg-name="TNT Sport 1" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_4af9a282522f487a6ed41692f99baad6_playmist_tnt_sports_1400x400.jpg",TNT Sport 1
-http://27.124.71.27/TNT_Sports_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="💠IP💠",TNT 2
-http://27.124.71.27/TNT_Sports_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="💠IP💠",TNT 3
-http://27.124.71.27/TNT_Sports_3/index.m3u8
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="💠IP💠",TNT 4
-http://27.124.71.27/TNT_Sports_4/index.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-id="tsn_1" tvg-name="TSN 1" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_d165c628a0db9286da3914ca916a4971_playmist_tsn_1400x400.jpg",TSN 1
-http://27.124.71.27/TSN_1/index.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-id="tsn_2" tvg-name="TSN 2" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_c92bf4f46958e65be6cc370e3fc1f0dd_playmist_tsn_2_400x400.jpg",TSN 2
-http://27.124.71.27/TSN_2/index.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-id="tsn_3" tvg-name="TSN 3" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-19/images_905f151dfde79e14a2b9e7b934683ba6_playmist_tsn3_300.jpg",TSN 3
-http://27.124.71.27/TSN_3/index.m3u8
-
-
-
-
-
-http://27.124.71.27/Willow_Extra/index.m3u8
-
-
-#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN
-http://168.228.44.241:9998/play/a04p/index.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN
-http://168.228.44.241:9998/play/a03n/index.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN
-http://168.228.44.241:9998/play/a03o/index.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN
-http://168.228.44.241:9998/play/a05t/index.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ni61-JQBv9knK3AHcDYc/posters/c16e8633-6b2a-401a-9cd6-ac26a4fcdedb.webp",Animal Planet
-http://27.124.71.27/Animal_Planet/index.m3u8
-
-
-
-http://27.124.71.27/AXN/index.m3u8
-
-
-
-
-http://27.124.71.27/Bollywood_HD/index.m3u8
-
-
-http://27.124.71.27/Cinemax/index.m3u8
-
-
-
-http://27.124.71.27/HBO/index.m3u8
-
-
-
-http://27.124.71.27/Love_Nature/index.m3u8
-
-
-
-http://27.124.71.27/MBC-Bollywood/index.m3u8
-
-
-
-
-http://27.124.71.27/Movies_Now/index.m3u8
-
-
-
-
-http://27.124.71.27/Zee_Bangla_Cinema/index.m3u8
-
-
-
-
-http://27.124.71.27/Sun_Bangla/index.m3u8
-
-
-
-http://27.124.71.27/Zee_Bangla/index.m3u8
-
-
-
-
-
-http://27.124.71.27/music-India/index.m3u8
-
-http://27.124.71.27/tv9_Hindi/index.m3u8
-
-http://27.124.71.27/Trace_Urban/index.m3u8
-
-http://27.124.71.27/OneMUZ/index.m3u8
-
-
-http://27.124.71.27/Trace_Latina/index.m3u8
-
-
-http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-
-
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a_208000_eng=2.m3u8
-
-
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-
-
-
-https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
 
 
