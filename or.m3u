@@ -54,30 +54,26 @@ http://103.165.93.31:8095/enter10Bangla/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png" group-title="PRO✅",Duronto TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png" group-title="💠WIFI💠",Duronto TV
 http://103.165.93.31:8095/duranta/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-51 tvg-logo="https://i.postimg.cc/jSBDsbBX/20240823_021324.png"group-title="PRO✅",Sony YaY!
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="💠WIFI💠",Sonic Bangla
+http://103.165.93.31:8095/sonic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="💠WIFI💠",Nick Bangla
+http://103.165.93.31:8095/nick/tracks-v1a1/mono.m3u8
+#EXTINF:-51 tvg-logo="https://i.postimg.cc/jSBDsbBX/20240823_021324.png"group-title="💠WIFI💠",Sony YaY!
 http://103.165.93.31:8095/sonyYay/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="💠WIFI💠" tvg-logo="https://i.postimg.cc/C1s5Hf5P/20240823_021444.png",Pogo
 http://103.165.93.31:8095/pogo/tracks-v1a1/mono.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png" group-title="💠WIFI💠",Cartoon Network
 http://103.165.93.31:8095/cartoonNetwork/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-http://103.165.93.31:8095/nick/tracks-v1a1/mono.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="💠WIFI💠",Nick Jr
 http://103.165.93.31:8095/nickJr/tracks-v1a1/mono.m3u8
 
-http://103.165.93.31:8095/sonic/tracks-v1a1/mono.m3u8
+
 
 
 
