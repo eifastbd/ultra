@@ -12,29 +12,20 @@
 
 
 
+#EXTINF:-1 xui-id="1" tvg-id="" tvg-name="BTV NATIONAL HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/btv.png" group-title="BD BANGLA",BTV NATIONAL HD
+http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA6Leaj8pHKV9GIxfiviqUcc/m3u8
+#EXTINF:-1 xui-id="3" tvg-id="" tvg-name="BTV CHATTAGRAM" tvg-logo="https://fcnchbd.xyz/iptv/logo/btv.png" group-title="BD BANGLA",BTV CHATTAGRAM
+http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsAyyELxAdIBlC08PXQnkiWZE/m3u8
 #EXTINF:-1 tvg-id="SangsadTV.bd@SD" tvg-logo="https://i.imgur.com/jkouxLg.png" group-title="💠WIFI💠",Sangsad TV
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA5dlt3yYxePAtP3Yd8YVjJM/m3u8
 #EXTINF:-1 tvg-id="299" tvg-name="Channel 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="💠WIFI",Channel 1
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsAwaBLPVxQFk98d-ZojYX86g/m3u8
-
-#EXTINF:-1 xui-id="124" tvg-id="" tvg-name="Peace TV Bangla  HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/peacetv.png" group-title="ISLAMIC",Peace TV Bangla  HD
-http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsAyFRhD_aPL3gQfgIRsmkMV4/m3u8
-#EXTINF:-1 xui-id="125" tvg-id="" tvg-name="SAUDI  QURAN" tvg-logo="https://fcnchbd.xyz/iptv/logo/quraantv.png" group-title="ISLAMIC",SAUDI  QURAN
-http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA5DoTRdHuB0GyjeUFSiqFh4/m3u8
-#EXTINF:-1 xui-id="126" tvg-id="" tvg-name="SAUDI SUNNAH" tvg-logo="https://fcnchbd.xyz/iptv/logo/islam.png" group-title="ISLAMIC",SAUDI SUNNAH
-http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA_bCwvZZnRIzoYmcMdOOhE8/m3u8
-#EXTINF:-1 xui-id="142" tvg-id="" tvg-name="MADANI TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/madani.png" group-title="ISLAMIC",MADANI TV
-http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA2cX3U3SGuy6Cvr5qnBwyho/m3u8
-#EXTINF:-1 xui-id="153" tvg-id="" tvg-name="IQRA BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/iqra.png" group-title="ISLAMIC",IQRA BANGLA
-http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA16Ie0oonPhyoqfnPt109zk/m3u8
-
-
-#EXTINF:-1 xui-id="1" tvg-id="" tvg-name="BTV NATIONAL HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/btv.png" group-title="BD BANGLA",BTV NATIONAL HD
-http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA6Leaj8pHKV9GIxfiviqUcc/m3u8
+#EXTINF:-1 xui-id="14" tvg-id="" tvg-name="SOMOY TV HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/somoy.png" group-title="BD BANGLA",SOMOY TV HD
+http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA6fQ9rYOZHlp_qa_3KxN_5M/m3u8
+#EXTINF:-1 xui-id="21" tvg-id="" tvg-name="JAMUNA TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/jamtv.png" group-title="BD BANGLA",JAMUNA TV
+http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA9E6edXkvSHzvhA2Zx_3V_Q/m3u8
 #EXTINF:-1 xui-id="2" tvg-id="" tvg-name="ATN BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/atnbangla.png" group-title="BD BANGLA",ATN BANGLA
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA-ylQWgXsQ1YSjrwvnk0jt8/m3u8
-#EXTINF:-1 xui-id="3" tvg-id="" tvg-name="BTV CHATTAGRAM" tvg-logo="https://fcnchbd.xyz/iptv/logo/btv.png" group-title="BD BANGLA",BTV CHATTAGRAM
-http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsAyyELxAdIBlC08PXQnkiWZE/m3u8
 #EXTINF:-1 xui-id="4" tvg-id="" tvg-name="CHANNEL I HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/chi.png" group-title="BD BANGLA",CHANNEL I HD
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA520GaIfgksl1wGiWApHs7k/m3u8
 #EXTINF:-1 xui-id="5" tvg-id="" tvg-name="EKUSHEY TV HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/21se.png" group-title="BD BANGLA",EKUSHEY TV HD
@@ -51,20 +42,14 @@ http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA1T2au6_19vdNZAR42aF0x0/m3u8
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA8e01IL-1CGI87-ctiB9WgQ/m3u8
 #EXTINF:-1 xui-id="11" tvg-id="" tvg-name="MYTV HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/mytv.png" group-title="BD BANGLA",MYTV HD
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA9_Zt4kApyNO66aqYRLdbeU/m3u8
-
-
 #EXTINF:-1 xui-id="12" tvg-id="" tvg-name="ATN NEWS HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/atnnews.png" group-title="BD BANGLA",ATN NEWS HD
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA_8wEiSIpBEwuy4QDVoQ02I/m3u8
 #EXTINF:-1 xui-id="13" tvg-id="" tvg-name="MOHONA TV HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/mohona.png" group-title="BD BANGLA",MOHONA TV HD
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA8g7mSVWeB3nVhfizbNgf_w/m3u8
-#EXTINF:-1 xui-id="14" tvg-id="" tvg-name="SOMOY TV HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/somoy.png" group-title="BD BANGLA",SOMOY TV HD
-http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA6fQ9rYOZHlp_qa_3KxN_5M/m3u8
 #EXTINF:-1 xui-id="15" tvg-id="" tvg-name="INDEPENDENT TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/indi.png" group-title="BD BANGLA",INDEPENDENT TV
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA6b4QxLgKvRMP0Q3GXYhhP0/m3u8
 #EXTINF:-1 xui-id="16" tvg-id="" tvg-name="CHANNEL 24 HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/ch24.png" group-title="BD BANGLA",CHANNEL 24 HD
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA3TXYZVui28McRVsltR95pg/m3u8
-
-
 #EXTINF:-1 xui-id="17" tvg-id="" tvg-name="GAZI TV HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/gazi.png" group-title="BD BANGLA",GAZI TV HD
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsAyOHbzlNweSJJYlobqU4FgE/m3u8
 #EXTINF:-1 xui-id="18" tvg-id="" tvg-name="EKATTOR TV HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/ch71.png" group-title="BD BANGLA",EKATTOR TV HD
@@ -73,8 +58,6 @@ http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA43-jJqnjp3i3ZEfAmx18Rs/m3u8
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA90dkuc2oH4oAXOZiJLfW3A/m3u8
 #EXTINF:-1 xui-id="20" tvg-id="" tvg-name="SATV HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/satv.png" group-title="BD BANGLA",SATV HD
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA7cBNXTdSjCFC_TLe_uXfW4/m3u8
-#EXTINF:-1 xui-id="21" tvg-id="" tvg-name="JAMUNA TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/jamtv.png" group-title="BD BANGLA",JAMUNA TV
-http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA9E6edXkvSHzvhA2Zx_3V_Q/m3u8
 #EXTINF:-1 xui-id="22" tvg-id="" tvg-name="DEEPTO TV HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/deepto.png" group-title="BD BANGLA",DEEPTO TV HD
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA3eY5bhnKtcaqIuvV4P48qk/m3u8
 #EXTINF:-1 xui-id="23" tvg-id="" tvg-name="DBC NEWS HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/dbc.png" group-title="BD BANGLA",DBC NEWS HD
@@ -83,10 +66,7 @@ http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA7bz84o7c1yEsVoymrvpZGQ/m3u8
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA5xs9du4ZJkUOULLsNJyp14/m3u8
 #EXTINF:-1 xui-id="25" tvg-id="" tvg-name="BANGLA TV HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/banglatv.png" group-title="BD BANGLA",BANGLA TV HD
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA_ASUbZ4J0MM8dmvxzsJVHw/m3u8
-#EXTINF:-1 xui-id="26" tvg-id="" tvg-name="DURONTO TV HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/duronto.png" group-title="BD BANGLA",DURONTO TV HD
-http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA5QntX5KOHGwWaMn94p5Qmc/m3u8
-#EXTINF:-1 xui-id="27" tvg-id="" tvg-name="NAGORIK TV HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/nago.png" group-title="BD BANGLA",NAGORIK TV HD
-http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA6HPuuqZ9RhYrp9fjXh2mLU/m3u8
+
 #EXTINF:-1 xui-id="28" tvg-id="" tvg-name="ANANDA TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/anando.png" group-title="BD BANGLA",ANANDA TV
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsAwilXCDgrOTQ_gtCn7bKZJg/m3u8
 #EXTINF:-1 xui-id="29" tvg-id="" tvg-name="EKHON TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/ekhun.png" group-title="BD BANGLA",EKHON TV
@@ -291,6 +271,11 @@ http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA63JFzQUwlnrxyfihMDSsOc/m3u8
 #EXTINF:-1 xui-id="97" tvg-id="" tvg-name="TLC HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="DISCOVER",TLC HD
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA3qai8EuqwqgplJgQg9chBI/m3u8
 
+#EXTINF:-1 xui-id="26" tvg-id="" tvg-name="DURONTO TV HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/duronto.png" group-title="BD BANGLA",DURONTO TV HD
+http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA5QntX5KOHGwWaMn94p5Qmc/m3u8
+#EXTINF:-1 xui-id="27" tvg-id="" tvg-name="NAGORIK TV HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/nago.png" group-title="BD BANGLA",NAGORIK TV HD
+http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA6HPuuqZ9RhYrp9fjXh2mLU/m3u8
+
 
 #EXTINF:-1 xui-id="98" tvg-id="" tvg-name="CARTOON NETWORK HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png" group-title="KIDS",CARTOON NETWORK HD
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA9gCuRRl0E-I4WbRID-ZH0E/m3u8
@@ -355,6 +340,16 @@ http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsAxpsbUAltsTY4Q91HECOlEk/m3u8
 
 
 
+#EXTINF:-1 xui-id="124" tvg-id="" tvg-name="Peace TV Bangla  HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/peacetv.png" group-title="ISLAMIC",Peace TV Bangla  HD
+http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsAyFRhD_aPL3gQfgIRsmkMV4/m3u8
+#EXTINF:-1 xui-id="125" tvg-id="" tvg-name="SAUDI  QURAN" tvg-logo="https://fcnchbd.xyz/iptv/logo/quraantv.png" group-title="ISLAMIC",SAUDI  QURAN
+http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA5DoTRdHuB0GyjeUFSiqFh4/m3u8
+#EXTINF:-1 xui-id="126" tvg-id="" tvg-name="SAUDI SUNNAH" tvg-logo="https://fcnchbd.xyz/iptv/logo/islam.png" group-title="ISLAMIC",SAUDI SUNNAH
+http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA_bCwvZZnRIzoYmcMdOOhE8/m3u8
+#EXTINF:-1 xui-id="142" tvg-id="" tvg-name="MADANI TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/madani.png" group-title="ISLAMIC",MADANI TV
+http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA2cX3U3SGuy6Cvr5qnBwyho/m3u8
+#EXTINF:-1 xui-id="153" tvg-id="" tvg-name="IQRA BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/iqra.png" group-title="ISLAMIC",IQRA BANGLA
+http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA16Ie0oonPhyoqfnPt109zk/m3u8
 
 
 
