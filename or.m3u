@@ -16,8 +16,7 @@
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" group-title="💠WIFI💠",Shomoy TV
 http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
-
-
+#EXTINF:-1 tvg-id="100000" tvg-name="Bangla Vision" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="💠WIFI💠",Bangla Vision
 http://103.165.93.31:8095/channel24/tracks-v1a1/mono.m3u8
 
 
