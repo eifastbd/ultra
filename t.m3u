@@ -28,21 +28,17 @@ https://yowaimo.in/Sflex-ArtlPVT0719/SONY_SPORTS_TEN_1_HD.m3u8
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_SPORTS_TEN_2_HD.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.postimg.cc/W4tx7R4Q/20240823_024232.png",Sony Ten 5
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_SPORTS_TEN_5_HD.m3u8
-
 #EXTINF:-1 tvg-id="117" tvg-chno="206" tvg-name="sab-hd" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/ea93cb6a-cb48-4841-99d2-8d2cfd835b63.jpg" group-title="TV💠", SAB HD
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_SAB_HD.m3u8
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="TV💠",Sony Pal
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_PAL.m3u8
-
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" group-title="TV💠",Sony Yay Bangla
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_yay.m3u8
 #EXTINF:-1 group-title="TV💠" tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png",Sony Television HD
 https://yowaimo.in/Sflex-ArtlPVT0719/SET_HD.m3u8
 #EXTINF:-1 group-title="TV💠" tvg-logo="https://i.postimg.cc/YS3BdNNW/20240823_022655.png",Sony Max HD
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_MAX_HD.m3u8
-
-
-
+#EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyWAH.png" group-title="TV💠",Sony WAH
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_wah.m3u8
 
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_PIX_HD.m3u8
