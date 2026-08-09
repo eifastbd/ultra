@@ -20,9 +20,13 @@
 
 
 
+
+
+
+
 #EXTINF:-1 xui-id="1" tvg-id="" tvg-name="BTV NATIONAL HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/btv.png" group-title="💠WIFI💠",BTV NATIONAL
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA6Leaj8pHKV9GIxfiviqUcc/m3u8
-#EXTINF:-1 xui-id="3" tvg-id="" tvg-name="BTV CHATTAGRAM" tvg-logo="https://fcnchbd.xyz/iptv/logo/btv.png" group-title="💠WIFI💠",BTV CHATTAGRAM
+#EXTINF:-1 tvg-logo="http://172.19.17.34:80/images/d92a7381521a7b2926fde01ecfe7fafe.png" group-title="💠WIFI💠",BTV CHATTAGRAM
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsAyyELxAdIBlC08PXQnkiWZE/m3u8
 #EXTINF:-1 group-title="💠WIFI💠" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/btv-news-.jpg",BTV News
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA6u0cUu8e3mG5F8__1-tWTw/m3u8
