@@ -7,7 +7,16 @@
 
 
 
-#EXTM3U
+
+
+
+
+
+#EXTINF:-1 xui-id="150" tvg-id="" tvg-name="SANGSAD TV HD" tvg-logo="" group-title="BD BANGLA",SANGSAD TV HD
+http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA5dlt3yYxePAtP3Yd8YVjJM/m3u8
+#EXTINF:-1 xui-id="157" tvg-id="" tvg-name="CHANNEL 1" tvg-logo="" group-title="BD BANGLA",CHANNEL 1
+http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsAwaBLPVxQFk98d-ZojYX86g/m3u8
+
 #EXTINF:-1 xui-id="124" tvg-id="" tvg-name="Peace TV Bangla  HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/peacetv.png" group-title="ISLAMIC",Peace TV Bangla  HD
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsAyFRhD_aPL3gQfgIRsmkMV4/m3u8
 #EXTINF:-1 xui-id="125" tvg-id="" tvg-name="SAUDI  QURAN" tvg-logo="https://fcnchbd.xyz/iptv/logo/quraantv.png" group-title="ISLAMIC",SAUDI  QURAN
@@ -92,10 +101,7 @@ http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA8yey115WGXsg5VOhyt4Fqg/m3u8
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA6u0cUu8e3mG5F8__1-tWTw/m3u8
 #EXTINF:-1 xui-id="139" tvg-id="" tvg-name="CHANNEL S" tvg-logo="https://fcnchbd.xyz/iptv/logo/chss.png" group-title="BD BANGLA",CHANNEL S
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsAwiQffNlQyOT2MhbR0OmcA4/m3u8
-#EXTINF:-1 xui-id="150" tvg-id="" tvg-name="SANGSAD TV HD" tvg-logo="" group-title="BD BANGLA",SANGSAD TV HD
-http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA5dlt3yYxePAtP3Yd8YVjJM/m3u8
-#EXTINF:-1 xui-id="157" tvg-id="" tvg-name="CHANNEL 1" tvg-logo="" group-title="BD BANGLA",CHANNEL 1
-http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsAwaBLPVxQFk98d-ZojYX86g/m3u8
+
 #EXTINF:-1 xui-id="159" tvg-id="" tvg-name="STAR NEWS HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png" group-title="BD BANGLA",STAR NEWS HD
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA06U3q4n_iIyTNl59S5xOPk/m3u8
 #EXTINF:-1 xui-id="143" tvg-id="" tvg-name="GLOBAL TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/bdbgl.png" group-title="BD BANGLA",GLOBAL TV
