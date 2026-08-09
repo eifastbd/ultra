@@ -22,7 +22,7 @@ http://103.165.93.31:8095/channel24/tracks-v1a1/mono.m3u8
 http://103.165.93.31:8095/atnNews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 xui-id="2" tvg-id="" tvg-name="ATN BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/atnbangla.png" group-title="💠WIFI💠",ATN BANGLA
 http://103.165.93.31:8095/atnBangla/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="💠WIFI💠",Ekattor
 http://103.165.93.31:8095/ekattorTv/tracks-v1a1/mono.m3u8
 
 
