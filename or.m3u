@@ -12,10 +12,20 @@
 
 
 
+
+
+
+
+
+
+
+
 #EXTINF:-1 xui-id="1" tvg-id="" tvg-name="BTV NATIONAL HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/btv.png" group-title="💠WIFI💠",BTV NATIONAL
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA6Leaj8pHKV9GIxfiviqUcc/m3u8
 #EXTINF:-1 xui-id="3" tvg-id="" tvg-name="BTV CHATTAGRAM" tvg-logo="https://fcnchbd.xyz/iptv/logo/btv.png" group-title="💠WIFI💠",BTV CHATTAGRAM
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsAyyELxAdIBlC08PXQnkiWZE/m3u8
+#EXTINF:-1 xui-id="133" tvg-id="" tvg-name="BTV NEWS HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/btv.png" group-title="💠WIFI💠",BTV NEWS
+http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA6u0cUu8e3mG5F8__1-tWTw/m3u8
 #EXTINF:-1 tvg-id="SangsadTV.bd@SD" tvg-logo="https://i.imgur.com/jkouxLg.png" group-title="💠WIFI💠",Sangsad TV
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA5dlt3yYxePAtP3Yd8YVjJM/m3u8
 #EXTINF:-1 tvg-id="299" tvg-name="Channel 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="💠WIFI💠",Channel 1
@@ -66,7 +76,6 @@ http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA7bz84o7c1yEsVoymrvpZGQ/m3u8
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA5xs9du4ZJkUOULLsNJyp14/m3u8
 #EXTINF:-1 xui-id="25" tvg-id="" tvg-name="BANGLA TV HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/banglatv.png" group-title="💠WIFI💠",BANGLA TV
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA_ASUbZ4J0MM8dmvxzsJVHw/m3u8
-
 #EXTINF:-1 xui-id="28" tvg-id="" tvg-name="ANANDA TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/anando.png" group-title="💠WIFI💠",ANANDA TV
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsAwilXCDgrOTQ_gtCn7bKZJg/m3u8
 #EXTINF:-1 xui-id="29" tvg-id="" tvg-name="EKHON TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/ekhun.png" group-title="💠WIFI💠",EKHON TV
@@ -77,8 +86,6 @@ http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsAwaATJyswOoYO__hjv9yeXw/m3u8
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA7FcwQYZOprP4fG48JKASsA/m3u8
 #EXTINF:-1 xui-id="132" tvg-id="" tvg-name="BIJOY TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/bj.png" group-title="💠WIFI💠",BIJOY TV
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA8yey115WGXsg5VOhyt4Fqg/m3u8
-#EXTINF:-1 xui-id="133" tvg-id="" tvg-name="BTV NEWS HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/btv.png" group-title="BD BANGLA",BTV NEWS HD
-http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA6u0cUu8e3mG5F8__1-tWTw/m3u8
 #EXTINF:-1 xui-id="139" tvg-id="" tvg-name="CHANNEL S" tvg-logo="https://fcnchbd.xyz/iptv/logo/chss.png" group-title="BD BANGLA",CHANNEL S
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsAwiQffNlQyOT2MhbR0OmcA4/m3u8
 
