@@ -36,10 +36,12 @@ https://yowaimo.in/Sflex-ArtlPVT0719/SONY_PAL.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" group-title="TV💠",Sony Yay Bangla
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_yay.m3u8
-
-
-
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png",Sony Television HD
 https://yowaimo.in/Sflex-ArtlPVT0719/SET_HD.m3u8
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://i.postimg.cc/YS3BdNNW/20240823_022655.png",Sony Max HD
+https://yowaimo.in/Sflex-ArtlPVT0719/SONY_MAX_HD.m3u8
+
+
 
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_wah.m3u8
 
@@ -47,7 +49,7 @@ https://yowaimo.in/Sflex-ArtlPVT0719/SONY_PIX_HD.m3u8
 
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_BBC_EARTH_HD.m3u8
 
-https://yowaimo.in/Sflex-ArtlPVT0719/SONY_MAX_HD.m3u8
+
 
 
 
