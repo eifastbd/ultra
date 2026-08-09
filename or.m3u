@@ -124,39 +124,29 @@ http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsAweLrOSnXLRaMmfDpemlhKI/m3u8
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA9_FSXmAwqxOhL5ivrFHOVs/m3u8
 
 
-#EXTINF:-1 xui-id="120" tvg-id="" tvg-name="SANGEET BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbsb.png" group-title="IND MUSIC",SANGEET BANGLA
-http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsAx315-0xZZ5X31LlmSq8uCc/m3u8
-#EXTINF:-1 xui-id="121" tvg-id="" tvg-name="9XM" tvg-logo="https://fcnchbd.xyz/iptv/logo/9xm.png" group-title="IND MUSIC",9XM
-http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsAzZ4ZsThXN_e4X_o1U-GjCI/m3u8
-#EXTINF:-1 xui-id="122" tvg-id="" tvg-name="B4U MUSIC" tvg-logo="https://fcnchbd.xyz/iptv/logo/b4u.png" group-title="IND MUSIC",B4U MUSIC
-http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsAz_3LraQTJxU3GJ-hpTzFg4/m3u8
-#EXTINF:-1 xui-id="123" tvg-id="" tvg-name="MTV INDIA HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/mtv.png" group-title="IND MUSIC",MTV INDIA HD
-http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA8q3_rVkfa59V7Oxmsy9N9k/m3u8
-#EXTINF:-1 xui-id="155" tvg-id="" tvg-name="MUSIC INDIA" tvg-logo="https://fcnchbd.xyz/iptv/logo/music.png" group-title="IND MUSIC",MUSIC INDIA
-http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA-4C_pjWBcQOxF5GJoFujY0/m3u8
 
 
-#EXTINF:-1 xui-id="40" tvg-id="" tvg-name="STAR PLUS HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsp.png" group-title="IND HINDI",STAR PLUS HD
+#EXTINF:-1 xui-id="40" tvg-id="" tvg-name="STAR PLUS HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsp.png" group-title="💠WIFI💠",STAR PLUS
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA8Jtme7RaAxcODE52CEfCho/m3u8
-#EXTINF:-1 xui-id="41" tvg-id="" tvg-name="SONY HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhse.png" group-title="IND HINDI",SONY HD
+#EXTINF:-1 xui-id="41" tvg-id="" tvg-name="SONY HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhse.png" group-title="💠WIFI💠",SONY HD
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA8_2RkA4bWLHI7c9HGqYYCA/m3u8
-#EXTINF:-1 xui-id="130" tvg-id="" tvg-name="SONY SAB HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/sonysab.png" group-title="IND HINDI",SONY SAB HD
+#EXTINF:-1 xui-id="130" tvg-id="" tvg-name="SONY SAB HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/sonysab.png" group-title="💠WIFI💠",SONY SAB
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA3cQXdzXh1YzQMSCTMDCUJA/m3u8
-#EXTINF:-1 xui-id="42" tvg-id="" tvg-name="ZEE TV HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhztv.png" group-title="IND HINDI",ZEE TV HD
+#EXTINF:-1 xui-id="42" tvg-id="" tvg-name="ZEE TV HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhztv.png" group-title="💠WIFI💠",ZEE TV
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA0LsoWjfdK2qN9piL6BK1KI/m3u8
-#EXTINF:-1 xui-id="43" tvg-id="" tvg-name="COLORS HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhc.png" group-title="IND HINDI",COLORS HD
+#EXTINF:-1 xui-id="43" tvg-id="" tvg-name="COLORS HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhc.png" group-title="💠WIFI💠",COLORS HD
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA2BpFIlg7SQHxrrmoENfKOA/m3u8
-#EXTINF:-1 xui-id="44" tvg-id="" tvg-name="STAR BHARAT HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhd2h.png" group-title="IND HINDI",STAR BHARAT HD
+#EXTINF:-1 xui-id="44" tvg-id="" tvg-name="STAR BHARAT HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhd2h.png" group-title="💠WIFI💠",STAR BHARAT
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA0Rrlt7ta1WceuKdbR2ZG2M/m3u8
-#EXTINF:-1 xui-id="45" tvg-id="" tvg-name="&TV HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhatv.png" group-title="IND HINDI",&TV HD
+#EXTINF:-1 xui-id="45" tvg-id="" tvg-name="&TV HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhatv.png" group-title="💠WIFI💠",&TV HD
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA-apbFBPyhH5Vw4IeJ6WhF4/m3u8
-#EXTINF:-1 xui-id="46" tvg-id="" tvg-name="ARY DIGITAL HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/Aryd.png" group-title="IND HINDI",ARY DIGITAL HD
+#EXTINF:-1 xui-id="46" tvg-id="" tvg-name="ARY DIGITAL HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/Aryd.png" group-title="💠WIFI💠",ARY DIGITAL
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA0v-9BtcZyEoU_QsCSQQF-o/m3u8
-#EXTINF:-1 xui-id="135" tvg-id="" tvg-name="HUM TV HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/hum.png" group-title="IND HINDI",HUM TV HD
+#EXTINF:-1 xui-id="135" tvg-id="" tvg-name="HUM TV HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/hum.png" group-title="💠WIFI💠",HUM TV
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsAwQIxlAQOIY-WYRxJUpChJc/m3u8
-#EXTINF:-1 xui-id="152" tvg-id="" tvg-name="Green TV Pakistan" tvg-logo="" group-title="IND HINDI",Green TV Pakistan
+#EXTINF:-1 xui-id="152" tvg-id="" tvg-name="Green TV Pakistan" tvg-logo="" group-title="💠WIFI💠",Green TV Pakistan
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA3PjCAgnggIZu7nLy8U86oQ/m3u8
-#EXTINF:-1 xui-id="47" tvg-id="" tvg-name="STAR GOLD HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsg.png" group-title="IND HINDI",STAR GOLD HD
+#EXTINF:-1 xui-id="47" tvg-id="" tvg-name="STAR GOLD HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsg.png" group-title="💠WIFI💠",STAR GOLD HD
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsAzfDXL7ICb2s2rW5jYC-llI/m3u8
 #EXTINF:-1 xui-id="48" tvg-id="" tvg-name="ZEE CINEMA HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhzc.png" group-title="IND HINDI",ZEE CINEMA HD
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA6qNcPXuM4ppemvzLyDzQNE/m3u8
@@ -263,6 +253,18 @@ http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA6x3lpKuwlLNoVqjWuv_bdg/m3u8
 #EXTINF:-1 xui-id="119" tvg-id="" tvg-name="MNX" tvg-logo="https://fcnchbd.xyz/iptv/logo/mnx.png" group-title="ENG MOVIE",MNX
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA4Z9UFmNUPiF7N5dN51hqBc/m3u8
 
+
+
+#EXTINF:-1 xui-id="120" tvg-id="" tvg-name="SANGEET BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbsb.png" group-title="IND MUSIC",SANGEET BANGLA
+http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsAx315-0xZZ5X31LlmSq8uCc/m3u8
+#EXTINF:-1 xui-id="121" tvg-id="" tvg-name="9XM" tvg-logo="https://fcnchbd.xyz/iptv/logo/9xm.png" group-title="IND MUSIC",9XM
+http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsAzZ4ZsThXN_e4X_o1U-GjCI/m3u8
+#EXTINF:-1 xui-id="122" tvg-id="" tvg-name="B4U MUSIC" tvg-logo="https://fcnchbd.xyz/iptv/logo/b4u.png" group-title="IND MUSIC",B4U MUSIC
+http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsAz_3LraQTJxU3GJ-hpTzFg4/m3u8
+#EXTINF:-1 xui-id="123" tvg-id="" tvg-name="MTV INDIA HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/mtv.png" group-title="IND MUSIC",MTV INDIA HD
+http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA8q3_rVkfa59V7Oxmsy9N9k/m3u8
+#EXTINF:-1 xui-id="155" tvg-id="" tvg-name="MUSIC INDIA" tvg-logo="https://fcnchbd.xyz/iptv/logo/music.png" group-title="IND MUSIC",MUSIC INDIA
+http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA-4C_pjWBcQOxF5GJoFujY0/m3u8
 
 #EXTINF:-1 xui-id="90" tvg-id="" tvg-name="DISCOVERY HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="DISCOVER",DISCOVERY HD
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA1z3cjwECSZ5PLTbs0eVnNI/m3u8
