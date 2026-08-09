@@ -16,12 +16,12 @@
 
 
 
-#EXTINF:-1 tvg-id="117" tvg-chno="206" tvg-name="sab-hd" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/ea93cb6a-cb48-4841-99d2-8d2cfd835b63.jpg" group-title="PRO✅", SAB HD🇮🇳
+#EXTINF:-1 tvg-id="117" tvg-chno="206" tvg-name="sab-hd" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/ea93cb6a-cb48-4841-99d2-8d2cfd835b63.jpg" group-title="TV💠", SAB HD
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_SAB_HD.m3u8
-#EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="PRO✅",Sony Pal🇮🇳
+#EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="TV💠",Sony Pal
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_PAL.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" group-title="TV💠",Sony Yay Bangla
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_yay.m3u8
 
 
@@ -62,7 +62,7 @@ https://yowaimo.in/Sflex-ArtlPVT0719/STAR_UTSAV_MOVIES.m3u8
 
 
 
-#EXTINF:-1 xui-id="34" tvg-id="" tvg-name="SONY ATTH" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbs8.png" group-title="💠WIFI💠",SONY ATTH
+#EXTINF:-1 xui-id="34" tvg-id="" tvg-name="SONY ATTH" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbs8.png" group-title="TV💠",SONY ATTH
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_8.m3u8
 
 https://yowaimo.in/Sflex-ArtlPVT0719/ZEE_CAFE_HD.m3u8
