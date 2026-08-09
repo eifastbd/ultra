@@ -26,18 +26,9 @@ http://103.165.93.31:8095/atnNews/tracks-v1a1/mono.m3u8
 http://103.165.93.31:8095/atnBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="💠WIFI💠",Ekattor
 http://103.165.93.31:8095/ekattorTv/tracks-v1a1/mono.m3u8
-
-
-
-
-
-http://103.165.93.31:8095/banglaVision/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:-1 tvg-id="299" tvg-name="Channel 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="💠WIFI💠",Channel 1
 http://103.165.93.31:8095/channelI/tracks-v1a1/mono.m3u8
-
-
+#EXTINF:-1 tvg-id="99000" tvg-name="NTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png" group-title="💠WIFI💠",NTV
 http://103.165.93.31:8095/ntv/tracks-v1a1/mono.m3u8
 
 
@@ -89,7 +80,7 @@ http://103.165.93.31:8095/sonyYay/tracks-v1a1/mono.m3u8
 
 
 
-
+http://103.165.93.31:8095/banglaVision/tracks-v1a1/mono.m3u8
 
 
 #EXTM3U
