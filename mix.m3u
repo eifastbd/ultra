@@ -251,14 +251,8 @@ http://94.136.188.21:8000/live/rctvdemo/index.m3u8
 http://15.235.187.72/hls/sdtv.m3u8
 #EXTINF:-1,Jaan Bangla
 http://live.dataplayer.in:8080/live/3mjaanbangla.m3u8
-
-
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="PRO✅", UPHAR BANGLA🇧🇩
 https://ranacable.duckdns.org/UpoharBangla/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="" tvg-name="ALL TIME MOVIES" group-title="PRO✅",DOYEL TV🇧🇩
-https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
-
 #EXTINF:-1 tvg-id="101" tvg-logo="" group-title="PRO✅", DESH BANGLA🇧🇩
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshbanglatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Tata_Play_BC_logo_2022.png/revision/latest?cb=20220128021535https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Tata_Play_BC_logo_2022.png/revision/latest?cb=20220128021535" group-title="Relagion Channel", tata play Bangla cinema
@@ -274,9 +268,10 @@ https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
 
 
 
+
+
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/675064828294258688/Cw-KocM0_400x400.jpg" tvg-name="star bangla" group-title="PRO✅",STAR BANGLA
 http://103.151.60.162:2122/play/a0f5/index.m3u8?hls
-
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLStHh2dnAyRzexuxwISlK8CPWNQb09Xr4tpYGBM=s900-c-k-c0x00ffffff-no-rj" group-title="PRO✅",Akash Aath
 http://103.159.180.34:5001/live/698.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yNd3WJ0/20240822-231606.png" group-title="PRO✅",Sony Aath🇮🇳
