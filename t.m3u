@@ -14,6 +14,11 @@
 
 
 
+
+#EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="TV💠",Star Sports Select 1 HD 
+http://tvsen7.aynascope.net/sspts1/index.m3u8
+#EXTINF:-1 tvg-id="TSports.bd@SD" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="TV💠",T Sports
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DzDHjCJm/20240823_024249.png" group-title="TV💠",Star Sports 1
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_1_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBgM9nK7/20240823_024306.png" group-title="TV💠",Star Sports 2
@@ -65,11 +70,6 @@ https://yowaimo.in/Sflex-ArtlPVT0719/ZEE_CAFE_HD.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="TV💠",Star Sports Select 1 HD 
-http://tvsen7.aynascope.net/sspts1/index.m3u8
-#EXTINF:-1 tvg-id="TSports.bd@SD" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="TV💠",T Sports
-https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.19.17.34:80/images/d92a7381521a7b2926fde01ecfe7fafe.png" group-title="TV💠",BTV CHATTAGRAM
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
