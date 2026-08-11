@@ -778,15 +778,12 @@ https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png",Discovery Pakistan
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png",Discovery Bangla🇧🇩
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
-#EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
-http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=225747&extension=ts&play_token=3XsiXXkdx4
+
 
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSV1py3jfF1GxTt9mLp4FaGPh_VSQkb7vlAkk6gM4lyaZ-VpKGcZjvj1bAj5XGM2z6FzZ-YcF5ypK3eSqTdiJWbUwfAcpo9gpp46XzFPdyuqWwJpN8CJVD2Eccw7THi60xgJ9rMkm-i8S83s4x6ZAO27kALxlY7ulLkwIO4CEuMz40yvj52A7yxCM1Ng/s600/Nur_20251107_000734_0000.png" group-title="PRO✅", Aakash Aath
-http://103.159.180.34:5001/live/698.m3u8
+#http://103.159.180.34:5001/live/698.m3u8
 #EXTINF:-1,group-title="PRO✅",U bangla
 http://103.159.180.34:5001/live/2184.m3u8
 #EXTINF:1 tvg-name="Orange Bangla TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Orange%20Tv.jpg?raw=true" group-title="PRO✅",Orange Bangla TV
