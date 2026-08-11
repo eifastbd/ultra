@@ -767,12 +767,9 @@ http://myxpanel.pro:80/live/Ander1/Ander1/694020.ts
 http://fastshare1.com:8080//live/25711345/late8airline/98874.ts
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Lifestyle",Travelxp HD বাংলা
-#http://103.159.180.34:5001/live/562.m3u8
-http://fastshare1.com:8080//live/25711345/late8airline/20622.ts
+http://103.159.180.34:5001/live/562.m3u8
 #EXTINF:-1 group-title="PRO✅",Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="PRO✅",Food Food
-http://103.175.73.12:8080/live/143/143_0.m3u8
 #EXTINF:-1 group-title="PRO✅",CGTN Docment
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png",Discovery Pakistan
