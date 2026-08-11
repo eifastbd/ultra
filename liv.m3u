@@ -42,14 +42,16 @@ https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_1_HD.m3u8
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_2_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65fsWLS1/20240823_024136.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Sony Ten 1
-https://stream.ottplus.bd/live/ten_1_hd_abr/index.m3u8
+http://103.165.93.31:8095/sonyTenSports1/index.m3u8
+#https://stream.ottplus.bd/live/ten_1_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjqC7RYx/20240823_024150.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Sony Ten 2
-https://stream.ottplus.bd/live/ten_2_hd_abr/index.m3u8
-
+#https://stream.ottplus.bd/live/ten_2_hd_abr/index.m3u8
+http://103.165.93.31:8095/sonyTenSports2/index.m3u8
 
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.postimg.cc/W4tx7R4Q/20240823_024232.png",Sony Ten 5
-https://stream.ottplus.bd/live/ten_5_hd_abr/index.m3u8
+http://103.165.93.31:8095/sonyTenSports5/index.m3u8
+#https://stream.ottplus.bd/live/ten_5_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="f9ab7a74fe1bc68aa297e32cd833d3a1",Star Sports 1 HD
 http://119.156.228.231:9983/stream/channelid/1954196473?ticket=FF241E2C71B78C2DEFC5B71BF9D03AF7F5F48A78&profile=pass
