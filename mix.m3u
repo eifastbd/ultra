@@ -425,9 +425,7 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png", Albania Music🌀
 https://albportal.net/albkanalemusic.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png", Party Universe🌀
-https://nomawnoijl.gpcdn.net/akash/partyuniverse/chunks.m3u8
-#EXTINF:-1 tvg-id="sangeet-bhojpuri" tvg-name="Sangeet Bhojpuri" tvg-language="Bhojpuri" tvg-country="IN" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sangeet%20Bhojpuri.jpg?raw=true" tvg-chno="sangeet-bhojpuri" group-title="PRO✅",Sangeet Bhojpuri🌀
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png",Sangeet Bhojpuri🌀
 https://cdn-4.pishow.tv/live/1293/master.m3u8
 #EXTINF:-1 tvg-id="balle-balle" tvg-name="Balle Balle" tvg-language="Punjabi" tvg-country="IN" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Balle%20Balle.jpg?raw=true" tvg-chno="balle-balle" group-title="PRO✅",Balle Balle🌀
 https://cdn-4.pishow.tv/live/987/master.m3u8
