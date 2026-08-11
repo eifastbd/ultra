@@ -293,7 +293,7 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1, group-title="PRO✅" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2022/04/Dangal-2.jpg",DANGAL 2🇮🇳
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
-EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png ",STAR GOLD THRILLS
+#EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png ",STAR GOLD THRILLS
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_GOLD_THRILLS.m3u8
 
 #EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Romance.png",STAR GOLD ROMANCE
@@ -373,9 +373,15 @@ https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
 ─────── Music───────────
 
 
-#EXTINF:-1,Vision Punjab
+
+
+
+
+#EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-logo="https://i.imgur.com/zDiIhdN.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="PRO✅",7S Music🌀
+ttp://103.175.73.12:8080/live/771/master.m3u8
+#EXTINF:-1,Vision Punjab🌀
 http://a-edge.bliscdn.com/VisionPunjabHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Nd24
+#EXTINF:-1,Nd24🌀
 https://legitpro.co.in/ndlive/nd24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1406677642PITARAMOV IES_TVSETS_TVW_720x960.webp" group-title="PRO✅",PITAARA MOVIES🌀
 https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8
