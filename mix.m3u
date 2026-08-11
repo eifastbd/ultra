@@ -286,6 +286,12 @@ http://103.165.93.31:8095/zeeBangla/tracks-v1a1/mono.m3u8
 #https://stream.ottplus.bd/live/zee_bangla_abr/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://imglink.cc/cdn/qonZADSZua.png",Zee Bangla🇮🇳
 http://103.159.180.34:5001/live/625.m3u8
+
+#EXTINF:-1, tvg-logo="https://img-cdn.publive.online/fit-in/1200x675/afaqs/media/post_attachments/10748d92781bb5c4b905c6d099a049402df8755404dd10781241db6b0fe221ad.jpg", DANGAL
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.medianews4u.com/wp-content/uploads/2022/04/Dangal-2.jpg", DANGAL 2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/JhR9HDw4/20240823_023056.png",& Tv🇮🇳
 https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/XJ1SbVzN/20240823_022738.png",& Picture🇮🇳
