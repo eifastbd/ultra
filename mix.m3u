@@ -238,10 +238,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://cdn.streamcast.xyz/ctvusa/index.fmp4.m3u8
 #EXTINF:-1,Atv Usa
 http://cdn.live247stream.com/atvusa/tv/playlist.m3u8
-#EXTINF:-1,JTV CLASSIC
-http://103.67.97.46/0.ts
-#EXTINF:-1,JTV BANGLA
-http://103.67.97.45:81/0.ts
 #EXTINF:-1,AMAR BANGLA
 http://103.172.152.218:8086/0.ts
 #EXTINF:-1,EKHON KOLKATA
