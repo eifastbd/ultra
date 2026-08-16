@@ -74,7 +74,10 @@ https://stream.ottplus.bd/live/ten_2_hd_abr/index.m3u8
 #http://103.165.93.31:8095/sonyTenSports5/index.m3u8
 https://stream.ottplus.bd/live/ten_5_hd_abr/index.m3u8
 
-
+#EXTINF:-1 tvg-name="Live Sports" group-title="Live Sports",Live Sports
+https://tvsen3.aynaott.com/Sports1/mono.m3u8
+#EXTINF:-1 tvg-name="Live Sports" group-title="Live Sports",Live Sports
+https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/football-logo-design-template-bebebf8ff1c25b66b504d37afaee99f0_screen.jpg?ts=1686017774" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",M-Sports
 http://27.124.71.27/T-Sports/index.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" tvg-logo="https://i.postimg.cc/HntSg3xw/20240823_024624.png",Willow Sports
