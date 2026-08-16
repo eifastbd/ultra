@@ -501,6 +501,9 @@ https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/btv.png" group-title="PRO✅",7
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png" group-title="PRO✅",Duronto TV👻
 http://103.165.93.31:8095/duranta/index.m3u8
 #https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
