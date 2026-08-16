@@ -17,7 +17,8 @@
 
 
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/T_Sports.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",T-SPORTS 
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/52500.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DzDHjCJm/20240823_024249.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",Star Sports 1
 https://s3.itcnbd.live/channel/2929059f34d114ca.m3u8
@@ -440,8 +441,7 @@ http://23.237.104.106:8080/USA_FX/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/T_Sports.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",T-SPORTS 
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/52500.ts
+
 
 
 
