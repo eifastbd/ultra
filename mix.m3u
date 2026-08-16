@@ -286,15 +286,6 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1, group-title="PRO✅" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2022/04/Dangal-2.jpg",DANGAL 2🇮🇳
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png ",STAR GOLD THRILLS
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_GOLD_THRILLS.m3u8
-
-#EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Romance.png",STAR GOLD ROMANCE
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_GOLD_ROMANCE.m3u8
-
-#EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav_Movies.png",STAR UTSAV MOVIES
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_UTSAV_MOVIES.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="PRO✅",Colors Bangla🇮🇳
 http://live.balajibroadband.com:3500/live/756.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="PRO✅",Sun Bangla🇮🇳
