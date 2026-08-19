@@ -57,19 +57,19 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow
 https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBgM9nK7/20240823_024306.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Star Sports 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBgM9nK7/20240823_024306.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",Star Sports 2
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/65fsWLS1/20240823_024136.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Sony Ten 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65fsWLS1/20240823_024136.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",Sony Ten 1
 #http://103.165.93.31:8095/sonyTenSports1/index.m3u8
 https://stream.ottplus.bd/live/ten_1_hd_abr/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjqC7RYx/20240823_024150.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Sony Ten 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjqC7RYx/20240823_024150.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",Sony Ten 2
 https://stream.ottplus.bd/live/ten_2_hd_abr/index.m3u8
 #http://103.165.93.31:8095/sonyTenSports2/index.m3u8
 
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.postimg.cc/W4tx7R4Q/20240823_024232.png",Sony Ten 5
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" tvg-logo="https://i.postimg.cc/W4tx7R4Q/20240823_024232.png",Sony Ten 5
 #http://103.165.93.31:8095/sonyTenSports5/index.m3u8
 https://stream.ottplus.bd/live/ten_5_hd_abr/index.m3u8
 
