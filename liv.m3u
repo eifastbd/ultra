@@ -198,9 +198,6 @@ http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
 
 
 
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="Football", Real Madrid tv Football
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="3167764d-9154-4dda-a0cc-713ca5dee5d3" tvg-logo="https://s3.aynaott.com/storage/b54495ee3cdd53ddaa19d1f98120f488" group-title="Sports",KTV Sport Plus
