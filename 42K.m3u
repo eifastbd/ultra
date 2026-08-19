@@ -724,8 +724,7 @@ https://fmftp.net/data/disk-1/movies/indianbangla/1951_2017/Hangover (2010)/Hang
 https://fmftp.net/data/disk-1/movies/indianbangla/1951_2017/Bibar (2006)/Bibar--1.wmv
 
 
-#EXTINF:-1,raavan
-https://fmftp.net/data/disk-1/movies/indianbangla/new/Raavan%20(2022)/Raavan.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM1OWU5N2QtMTQwYy00N2Q5LTg5NjUtYWZhOTgwZjkxOWFlXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Vadh 2
 https://fmftp.net/api/stream/video/stream?type=movies&id=20769
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Ikka_film_poster.jpg/250px-Ikka_film_poster.jpg" group-title="Hindi Movies",Ikka
