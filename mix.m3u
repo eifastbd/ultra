@@ -612,23 +612,16 @@ MOVIE
 
 #EXTINF:0 group-title="PRO✅" ,PTC PUNJABI
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net /logopedia/images/a/ad/Bhojpuri_cinema.png" group-title="PRO✅",ভোজপুরি সিনেমা 
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net /logopedia/images/5/58/Filamchi_Bhojpuri_new .png" group-title="PRO✅",ফিলামচি ভোজপুরি
 https://epiconvh.akamaized.net/live/filamchi/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net /logopedia/images/f/f5/0scar_movies_bhojpuri .png" group-title="PRO✅",অস্কার মুভি ভোজপুরি
 https://cdn-4.pishow.tv/live/233/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare _images/images/channel /63ca523d57c534aae4b50f9cd4d2a80c.png" group-title="PRO✅",B4U Kadak 
 https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13nLvxQx /20250630_050504.png" group-title="PRO✅",B4U
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="PRO✅",Colors Cineplex Bollywood🎬
 http://live.balajibroadband.com:3500/live/1763.m3u8
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="PRO✅",Sony PIX HD🎬
@@ -638,41 +631,31 @@ http://live.balajibroadband.com:3500/live/762.m3u8
 #EXTINF:-1 tvg-id="173" tvg-chno="511" tvg-name="sony-max-2" tvg-language="HIN" tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="PRO✅", Sony Max 2🎬
 http://live.balajibroadband.com:3500/live/483.m3u8
 #EXTINF:-1 tvg-id="167" tvg-chno="503" tvg-name="sony-max-hd" tvg-language="HIN" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" group-title="PRO✅", Sony MAX HD🎬
-https://yowaimo.in/Sflex-ArtlPVT0719/SONY_MAX_HD.m3u8
 http://live.balajibroadband.com:3500/live/476.m3u8
 
 
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/JhR9HDw4/20240823_023056.png",& Tv
 https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
-
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/XJ1SbVzN/20240823_022738.png",& Picture
 https://stream.ottplus.bd/live/and_picture_hd_abr/index.m3u8
-
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/x8BwX6QW/20240823_022929.png",Zee Tv
 https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
-
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/VN1c9Ztw/20240823_022636.png",Zee Cinema HD 
 https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
-
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/52SzwQF1/20251222_220548.png",Zee Bollywood
 https://stream.ottplus.live/live/zee_bollywood_abr/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxoVpGct1foR5mXifBQfUwKDEOfGFQESSBYEHg5=s900-c-k-c0xffffffff-no-rj-mo" group-title="PRO✅" tvg-server="Server 1",081. HUM MASALA
+http://38.101.217.46/HumMasala/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/vT4DKmf3/20240925_075103.png",HUM TV
 https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
-
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png",Sony Television
 https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
-
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png",Sony Television HD
 https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
-
-
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/YS3BdNNW/20240823_022655.png",Sony Max HD
 https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
-
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/hP59QSrm/20240825_075205.png",Sony Max 2
 https://stream.ottplus.bd/live/max_2_abr/live/max_2_720/chunks.m3u8
-
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/Gpz6FLrP/20240823_023114.png",Sony Sab HD
 https://stream.ottplus.bd/live/sub_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="PRO✅",Star Movies HD🎬
@@ -687,7 +670,6 @@ https://vods2.aynaott.com/hindimovies/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/2102fac092ee28f75652131b19d74260.png" group-title="PRO✅",MAX 1🎬
 http://live.balajibroadband.com:3500/live/3418.m3u8
-http://103.180.212.191:3500/live/3418.m3u8
 #EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyWAH.png" group-title="PRO✅",Sony WAH🎬
 http://live.balajibroadband.com:3500/live/1393.m3u8
 #EXTINF:-1 tvg-id="b80579f2-22d3-4b12-881e-60139810a791" tvg-name="Goldmines Bollywood" tvg-logo="https://s3.aynaott.com/storage/d9a0314f5f9165176f492db3923709bd" group-title="PRO✅",Goldmines Bollywood🎬
