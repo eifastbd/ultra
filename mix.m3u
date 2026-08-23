@@ -518,6 +518,10 @@ https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 
 
 
+
+#EXTINF:-1 group-title="PRO✅" tvg-id="UniqueTV.in@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Unique%20TV.webp",Unique TV
+https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="HUNGAMA HINDI" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hungama.png" group-title="PRO✅", HUNGAMA HINDI
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1097664.m3u8
 #EXTINF:-1 tvg-id="superhungama" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Super_Hungama.png" group-title="PRO✅",Super Hungama
