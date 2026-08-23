@@ -51,6 +51,33 @@ https://s2.itcnbd.live/server-2/stream/sony_sports_5_hd.m3u8
 
 
 
+#EXTINF:-1 group-title="TV💠" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/sonyaath.png", Sony 8
+http://103.114.11.37:8081/Sony-8/index.m3u8?token=dsgdfgsdfgasf
+
+#EXTINF:-1 group-title="TV💠" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/sonypixhd.png", Sony-pix
+http://103.114.11.37:8081/Sony-pix/index.m3u8?token=dsgdfgsdfgasf
+
+#EXTINF:-1 group-title="TV💠" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/star-gold.png", Star Gold
+http://103.114.11.37:8081/StarGold/index.m3u8?token=dsgdfgsdfgasf
+
+#EXTINF:-1 group-title="TV💠" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starjalsha.png", Star Jalsha
+http://103.114.11.37:8081/Star-Jalsha/index.m3u8?token=dsgdfgsdfgasf
+
+#EXTINF:-1 group-title="TV💠" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starplus.png", Star Plus HD
+http://103.114.11.37:8081/Star-Plus-HD/index.m3u8?token=dsgdfgsdfgasf
+
+#EXTINF:-1 group-title="TV💠" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/zbanglasonar.png", ZEE Bangla Sonar
+http://103.114.11.37:8081/Z-Bangla-Sonar/index.m3u8?token=dsgdfgsdfgasf
+
+#EXTINF:-1 group-title="TV💠" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/zeecinemahd.png", Z Cinema HD
+http://103.114.11.37:8081/Z-Cinema/index.m3u8?token=dsgdfgsdfgasf
+
+#EXTINF:-1 group-title="TV💠" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starmovies.png", Star Movies HD
+http://103.114.11.37:8081/Star-Movies/index.m3u8?token=dsgdfgsdfgasf
+
+#EXTINF:-1 group-title="TV💠" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starmoviesselect.png", Star Movies Select
+http://103.114.11.37:8081/Star-movies-select/index.m3u8?token=dsgdfgsdfgasf
+
 #EXTINF:-1 tvg-id="GreenTV.bd@SD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/green-tv.jpg" group-title="TV💠",Green TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
 
