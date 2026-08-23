@@ -276,11 +276,23 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/225712.
 https://madanitv.assadikb.workers.dev/live.php?id=1369&e=.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="PRO✅",Colors Bangla HD
 http://live.balajibroadband.com:3500/live/1369.m3u8
-
 #EXTINF:-1 group-title="PRO✅" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9sZttim5GLAbajaB_Jnq3xBGpj2hn3S1dOpLFU3M25kPK1dz28hOV3E4&s=10" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/akegkk.png",Star Plus HD
 http://66.102.126.10:8000/play/a008/index.m3u8
 #EXTINF:-1 group-title="PRO✅" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9sZttim5GLAbajaB_Jnq3xBGpj2hn3S1dOpLFU3M25kPK1dz28hOV3E4&s=10" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/akegkk.png",Star Plus SD
 http://103.151.60.162:2122/play/a0fo/index.m3u8?hls
+#EXTINF:-1  group-title="PRO✅" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9sZttim5GLAbajaB_Jnq3xBGpj2hn3S1dOpLFU3M25kPK1dz28hOV3E4&s=10" tvg-logo="https://assets-prod.services.toffeelive.com/ES55-JQBv9knK3AHNDWC/posters/13411be9-62b9-4a99-a062-b6e91dfb1099.webp",Sony Sab SD (Tata play)1
+http://103.151.60.162:2122/play/a01q/index.m3u8?hls
+#EXTINF:-1  group-title="PRO✅" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9sZttim5GLAbajaB_Jnq3xBGpj2hn3S1dOpLFU3M25kPK1dz28hOV3E4&s=10" tvg-logo="https://assets-prod.services.toffeelive.com/-y50-JQBv9knK3AHLzSn/posters/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp",Sony SD
+http://103.151.60.162:2122/play/a015/index.m3u8?hls
+#EXTINF:-1 group-title="PRO✅" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9sZttim5GLAbajaB_Jnq3xBGpj2hn3S1dOpLFU3M25kPK1dz28hOV3E4&s=10" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-aath.png",Sony Aat
+http://103.151.60.162:2122/play/a023/index.m3u8?hls
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="PRO✅",Colors Bangla HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/282063.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/3w6F5VZ5/20240822-231514.png",Colors Bangla🇮🇳
@@ -547,9 +559,13 @@ https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 https://s2.ideationtec.live/MiniMax/MiniMax.m3u8
 #EXTINF:-1  tvg-logo="",MINI👻
 https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="PRO✅",Disney Channel👻
+#EXTINF:-1 group-title="PRO✅" group-logo="https://www.shutterstock.com/image-vector/kids-text-logo-movie-editable-260nw-2536104593.jpg" tvg-logo="https://toppng.com/uploads/preview/new-disney-channel-logo-vector-free-download-11574247903pfuddm63lv.png",Disney 1
 http://202.70.146.135:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="PRO✅" group-logo="https://www.shutterstock.com/image-vector/kids-text-logo-movie-editable-260nw-2536104593.jpg" tvg-logo="https://toppng.com/uploads/preview/new-disney-channel-logo-vector-free-download-11574247903pfuddm63lv.png",Disney 2
+http://103.155.18.186:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="PRO✅" group-logo="https://www.shutterstock.com/image-vector/kids-text-logo-movie-editable-260nw-2536104593.jpg" tvg-logo="https://toppng.com/uploads/preview/new-disney-channel-logo-vector-free-download-11574247903pfuddm63lv.png",Disney HD
+https://s1.itcnbd.live/Disney-D/index.m3u8
+
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="PRO✅",Disney Channel2👻
 http://181.119.215.61:8000/play/a0g1/index.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png" group-title="PRO✅",Cartoon Network👻
@@ -562,7 +578,8 @@ http://live.balajibroadband.com:3500/live/1345.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="PRO✅",Nick Bangla👻
 http://live.balajibroadband.com:3500/live/1341.m3u8
 
-
+#EXTINF:-1 group-title="PRO✅" group-logo="https://www.shutterstock.com/image-vector/kids-text-logo-movie-editable-260nw-2536104593.jpg" tvg-logo="https://assets-prod.services.toffeelive.com/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp",Cartoon Network HD 1
+https://stream.ottplus.bd/live/cn_hd_abr/live/cn_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="PRO✅",Sony Yay👻
 http://live.balajibroadband.com:3500/live/872.m3u8
@@ -587,7 +604,7 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1,group-title="PRO✅",RONGEEN TV👻
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-hindi.png" group-title="PRO✅",Nick Hindi👻
-http://103.165.93.31:8095/nickJr/index.m3u8
+http://116.90.120.157:8000/play/a0i3/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Jungle Book👻
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Rangeen%20Tv.jpg?raw=true" group-title="PRO✅",Rongeen Tv👻
