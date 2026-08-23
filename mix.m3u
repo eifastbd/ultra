@@ -269,18 +269,20 @@ https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/155771.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png?20230625063343" group-title="PRO✅",Star Jalsha HD🇮🇳
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/225805.m3u8
-
+#http://103.151.60.162:2122/play/a00w/index.m3u8?hls
 #EXTINF:-1,  tvg-logo="",COLORS BANGLA SD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/225712.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://madanitv.assadikb.workers.dev/live.php?id=1369&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="PRO✅",Colors Bangla HD
+http://live.balajibroadband.com:3500/live/1369.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="PRO✅",Colors Bangla HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/282063.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/3w6F5VZ5/20240822-231514.png",Colors Bangla🇮🇳
 http://live.balajibroadband.com:3500/live/1657.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2h7Rov9K9yz6dRM5N81dYq44AUzESD-FpiykR8bVAwg&s=10" group-title="PRO✅",Zee Bangla HD🇮🇳
-http://103.165.93.31:8095/zeeBangla/tracks-v1a1/mono.m3u8
+http://103.151.60.162:2122/play/a011/index.m3u8?hls
 #https://stream.ottplus.bd/live/zee_bangla_abr/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://imglink.cc/cdn/qonZADSZua.png",Zee Bangla🇮🇳
 http://103.159.180.34:5001/live/625.m3u8
