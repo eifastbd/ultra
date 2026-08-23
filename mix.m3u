@@ -326,7 +326,20 @@ http://live.balajibroadband.com:3500/live/697.m3u8
 #EXTINF:-1,group-title="PRO✅",SONY KAL🇮🇳
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="PRO✅",Star Gold HD
+http://66.102.126.10:8000/play/a00f/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2.png" group-title="PRO✅",Star Gold 2 SD
+http://66.102.126.10:8000/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" group-title="PRO✅",Star Gold 2 HD
+http://66.102.126.10:8000/play/a077/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="PRO✅",Star Gold Select HD
+http://66.102.126.10:8000/play/a01s/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png ",  STAR GOLD THRILLS
+http://66.102.126.10:8000/play/a00c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Hum.png" group-title="PRO✅",Hum TV EUROPE
 https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
@@ -500,7 +513,10 @@ https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="HUNGAMA HINDI" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hungama.png" group-title="PRO✅", HUNGAMA HINDI
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1097664.m3u8
+#EXTINF:-1 tvg-id="superhungama" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Super_Hungama.png" group-title="PRO✅",Super Hungama
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1097624.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/btv.png" group-title="PRO✅",7
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png" group-title="PRO✅",Duronto TV👻
