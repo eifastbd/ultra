@@ -531,8 +531,7 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
 https://go.skym3u.top/live/3b1f0d3d404f707f08140108160a1a0071300a0e5d110270465f5450360e542f4a58323117070b4e020c181171230d134d0c1062565941553c1d1c3f4a2a343901014b04534b03472a6b.m3u8
 #https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/C1s5Hf5P/20240823_021444.png",Pogo👻
-http://103.165.93.31:8095/pogo/index.m3u8
-#https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
+https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 
 
 #EXTINF:-1  tvg-logo="",MINIMAX👻
@@ -547,13 +546,12 @@ http://181.119.215.61:8000/play/a0g1/index.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png" group-title="PRO✅",Cartoon Network👻
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" group-title="PRO✅",Sony Yay Bangla👻
-http://103.165.93.31:8095/sonyYay/index.m3u8
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000001971|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000001971
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="PRO✅",Sonic Bangla👻
-http://103.165.93.31:8095/sonic/index.m3u8
-#http://live.balajibroadband.com:3500/live/1345.m3u8
+http://live.balajibroadband.com:3500/live/1345.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="PRO✅",Nick Bangla👻
-http://103.165.93.31:8095/nick/index.m3u8
-#http://live.balajibroadband.com:3500/live/1341.m3u8
+http://live.balajibroadband.com:3500/live/1341.m3u8
 
 
 
