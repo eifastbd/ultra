@@ -520,16 +520,11 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1097624
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/btv.png" group-title="PRO✅",7
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png" group-title="PRO✅",Duronto TV👻
-http://103.165.93.31:8095/duranta/index.m3u8
-#https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
+https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
 #EXTINF:-51 tvg-logo="https://i.postimg.cc/jSBDsbBX/20240823_021324.png"group-title="PRO✅",Sony YaY!👻
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1787307737:KeyName=prod_linear:Signature=vdKcghwcvFoiOEfpG7l8pa19L-fcg2U3UbFvMccUw_HOBu9z82SqD26UoRhvKy0KQB_eN_PlZ9F9e0qTQkAhDw"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
-#https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
+https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/wTvMLMp2/20240823_021706.png",Discovery Kids👻
-https://go.skym3u.top/live/3b1f0d3d404f707f08140108160a1a0071300a0e5d110270465f5450360e542f4a58323117070b4e020c181171230d134d0c1062565941553c1d1c3f4a2a343901014b04534b03472a6b.m3u8
-#https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
+https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/C1s5Hf5P/20240823_021444.png",Pogo👻
 https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 
