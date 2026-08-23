@@ -35,6 +35,26 @@ http://103.151.60.162:2122/play/a02e/index.m3u8?hls
 http://103.151.60.162:2122/play/a027/index.m3u8?hls
 
 
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starselect1.png", Star-select-1
+http://103.114.11.37:8081/Star-select-1/index.m3u8?token=dsgdfgsdfgasf
+
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starselect2.png", Star-select-2
+http://103.114.11.37:8081/Star-select-2/index.m3u8?token=dsgdfgsdfgasf
+
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starsports1.png", Star-sports-1
+http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=dsgdfgsdfgasf
+
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starsports2.png", Star-sports-2
+http://103.114.11.37:8081/Star-sports-2/index.m3u8?token=dsgdfgsdfgasf
+
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starsports3.png", Star-sports-3
+http://103.114.11.37:8081/Star-sports-3/index.m3u8?token=dsgdfgsdfgasf
+
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/tsports.png", T Sports HD
+http://103.114.11.37:8081/T-Sports-HD/index.m3u8?token=dsgdfgsdfgasf
+
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/united2.png", Unite8-sports-2
+http://103.114.11.37:8081/Unite8-sports-2/index.m3u8?token=dsgdfgsdfgasf
 
 
 
