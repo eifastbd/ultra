@@ -191,16 +191,8 @@ https://cdn.dtvusa.com/dtv/index.m3u8
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/bnnbangla.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png",GREEN TV HD
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/greentv.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://khobortv.com/wp-content/uploads/2025/12/500-500.webp",Khobor TV
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ktvus.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.jagobd.com/wp-content/uploads/2026/02/galaxybd-768x768.png",Galaxy TV 
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/galaxytvbd.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png",GREEN TV HD
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png",GREEN TV
 https://app.ncare.live/streams/greentv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://media.licdn.com/dms/image/v2/C4E0BAQHjmaEVVWylZQ/company-logo_200_200/company-logo_200_200/0/1631346665003?e=2147483647&v=beta&t=zlV51ypTG07EbNDAFUR0XoLi50A_i_rHe6HbfBwIDfU",Citizen TV
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/citizentv.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvn-world.png",Tvn World
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/VWjHNn5Y/MYTV-HD.png" group-title="BANGLADESH",MY TV HD
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/04/movieplus.jpg",Movies Plus
