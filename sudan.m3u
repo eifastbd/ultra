@@ -195,8 +195,6 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app.ncare.live/streams/greentv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/VWjHNn5Y/MYTV-HD.png" group-title="BANGLADESH",MY TV HD
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/04/movieplus.jpg",Movies Plus
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/movieplus.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://eyetvbangla24.com/wp-content/uploads/2023/11/Final-jpg3-Logo-eyeTvbangla.jpg",Eye Tv Bangla
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eyetv.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/06/alponatv.jpg" group-title="BANGLA ENT.",Alpona IPTV  
@@ -205,16 +203,8 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel25usa.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/musicbangla.jpg",Music Bangla
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla44.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/parboto",Parboto Tv 
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/WhatsApp-Image-2025-01-20-at-18.12.06_400fa1d5-768x546.jpg",Green Bangla TV 
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
-#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/j5BQLDPT/images-5-23.jpg",Cumilla Tv
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/cumilla24bd.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwC1FLrSDqYkWTu0CK8zCygVIBMpoQq_ef4g&s",Doyel Tv
 https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
-#EXTINF:-1 group-title="BANGLADESH  tvg-logo="https://jatvbd.com/wp-content/uploads/2024/12/Jatv-Logo-new.png",Ja Tv 
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/sadhinbangla.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/mb-768x768.jpg",Music Bangla tv
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla2025.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/05/max-bangla--768x576.png",Max Bangla tv
