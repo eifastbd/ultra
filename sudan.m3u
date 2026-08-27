@@ -13,18 +13,6 @@
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yzwt46Q/20241126-220214.png" group-title="💠IP💠",Ten Cricket 
-https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="💠IP💠",Star Sports 1
-http://tvsen7.aynascope.net/sspts1/index.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg",Bein Sports Rediffusion
-http://145.239.5.177:80/559/index.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 1  🇷🇸 Serbia
-http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 2 🇷🇸 Serbia
-http://ua.online24.pm/play/1102/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/Tf3GP8uGY_.jpg", TUDN 🇲🇽 Mexico
 http://177.10.184.60:8002/play/a013/index.m3u8
 #EXTINF:-1 group-title="💠IP💠" tvg-id="bein_sports_1" tvg-name="Bein Sports 1" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_02eb54f07cbc8c01db3c545aca60d37c_playmist_4g.jpg",Bein Sports 1
@@ -39,14 +27,6 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
 #EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 4
 https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png", DAZN 1 HD
-http://znty.dyndns.org:5010/hls/eleven1.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png", DAZN 2 HD
-http://znty.dyndns.org:5010/hls/eleven2.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png", DAZN 3 HD
-http://znty.dyndns.org:5010/hls/eleven3.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png", DAZN 4 HD
-http://znty.dyndns.org:5010/hls/eleven4.m3u8
 #EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png", DAZN 1 HD
 http://50.7.120.34:8080/DAZN1/index.m3u8
 #EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN
