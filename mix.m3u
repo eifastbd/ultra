@@ -717,10 +717,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 https://vods2.aynaott.com/hindimovies/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/07/17/19/22/movie-7328179_1280.png" group-title="PRO✅",Hindi Dub🎬
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/2102fac092ee28f75652131b19d74260.png" group-title="PRO✅",MAX 1🎬
-http://live.balajibroadband.com:3500/live/3418.m3u8
-#EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyWAH.png" group-title="PRO✅",Sony WAH🎬
-http://live.balajibroadband.com:3500/live/1393.m3u8
 #EXTINF:-1 tvg-id="b80579f2-22d3-4b12-881e-60139810a791" tvg-name="Goldmines Bollywood" tvg-logo="https://s3.aynaott.com/storage/d9a0314f5f9165176f492db3923709bd" group-title="PRO✅",Goldmines Bollywood🎬
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
 #http://103.175.73.12:8080/live/52/52_0.m3u8
