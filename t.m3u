@@ -11,6 +11,56 @@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxn2mPcf/BTV.jpg" group-title="TV💠",BTV
 http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6rgYGJk/Jamuna-Tv.jpg" group-title="TV💠",JAMUNA TV
+#https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
+https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0L74J7k/Somoy-Tv.jpg" group-title="TV💠",SOMOY TV
+https://tvsen5.aynaott.com/somoytv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPnBR3Fs/ATN-BANGLA.jpg" group-title="TV💠",ATN BANGLA
+#https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
+https://tvsen5.aynaott.com/atnbangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmJbrY8C/ATN-NEWS.jpg" group-title="TV💠",ATN NEWS
+#https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
+https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9MFbvXhZ/RTV.jpg" group-title="TV💠",RTV HD
+#https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
+https://tvsen6.aynaott.com/rtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28vtd68S/Channel-i.jpg" group-title="TV💠",CHANNEL I
+#https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRRc1msG/NTV.jpg" group-title="TV💠",NTV
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rw19sRy5/DESH-Tv.jpg" group-title="TV💠",DESH TV
+#https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
+https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNfp63nv/Bangla-Vision.jpg" group-title="TV💠",BANGLA VISION
+https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrW66Gky/Nagorik-Tv.jpg" group-title="TV💠",NAGORIK TV
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/3802.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8m6PxQ4/ETV.jpg" group-title="TV💠",EKUSHEY TV
+https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4pBhNMB/My-Tv.jpg" group-title="",MY TV
+#https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
+https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
