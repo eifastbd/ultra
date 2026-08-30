@@ -1036,14 +1036,16 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 #EXTINF:-1 tvg-id="ZBMusic.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zbmusic.png" group-title="TV💠",ZB Music
 https://server.zillarbarta.com/zbmusic/index.m3u8
-#EXTINF:-1 tvg-id="ZeeBanglaSonar.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540" group-title="TV💠",Zee Bangla Sonar
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #EXTINF:-1 tvg-id="ZillarBartaNews.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zillarbarta.png" group-title="TV💠",ZillarBarta News
 https://server.zillarbarta.com/zillarbarta/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XxKshxT/Peace-Tv-Bangla.jpg" group-title="TV💠",PEACE TV BANGLA
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/peacetvban.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
+
+
+
+
 
 
 
