@@ -7,6 +7,229 @@
 
 
 
+
+
+
+
+
+
+
+
+#EXTINF:-1 xui-id="1" tvg-id="" tvg-name="BTV NATIONAL HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/btv.png" group-title="💠WIFI💠",BTV NATIONAL
+http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" group-title="💠WIFI💠",Shomoy TV
+http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="97" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="💠WIFI💠",Jamuna TV
+http://103.165.93.31:8095/jamunaTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="100000" tvg-name="Bangla Vision" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="💠WIFI💠",Bangla Vision
+http://103.165.93.31:8095/channel24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="93" tvg-name="ATN News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" group-title="💠WIFI💠",ATN News
+http://103.165.93.31:8095/atnNews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 xui-id="2" tvg-id="" tvg-name="ATN BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/atnbangla.png" group-title="💠WIFI💠",ATN BANGLA
+http://103.165.93.31:8095/atnBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="💠WIFI💠",Ekattor
+http://103.165.93.31:8095/ekattorTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="299" tvg-name="Channel 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="💠WIFI💠",Channel 1
+http://103.165.93.31:8095/channelI/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="99000" tvg-name="NTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png" group-title="💠WIFI💠",NTV
+http://103.165.93.31:8095/ntv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPZdDXbsGeDOGhPC-Og7bXRrJxsbaFnZ1IEVB7-bPsJtpvNE9IhcMv0Q5OnUq5GCK9UqE7mzMCZinQaN1NSjk2wqKQFs_dreX5yGnDiXNju5yYT_9BDLC3dThhXRIfKk5XQGNc4oi6qWO3fvw5-9dqydLf6pvyHsq5cske3F1FKKih75cCUk20OKVymg/s600/Nur_20251216_222101_0000.png" group-title="💠WIFI💠, Star Jalsha                                 
+http://103.165.93.31:8095/starJalsha/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89MSqI1ufAg5lZ65fLRwxILWht2QKHyBKi5uW9DYwhU-6BRGhGB7faKTXxcbYmQG_tTsWG8QxIqNH3jDTBR0_rAH0mUpSfqyBzWgukJF6tDJ8_qSx30qBvSQta3xPS5gMZPaMTxWuEymSnt6RQFbRbNu9PJQcdGBrhIcJuHwn_0YK0zNgF3XyJKuK8Q/s1080/1000019135.png" group-title="💠WIFI💠", Jalsha Movies
+http://103.165.93.31:8095/jalshaMovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSV1py3jfF1GxTt9mLp4FaGPh_VSQkb7vlAkk6gM4lyaZ-VpKGcZjvj1bAj5XGM2z6FzZ-YcF5ypK3eSqTdiJWbUwfAcpo9gpp46XzFPdyuqWwJpN8CJVD2Eccw7THi60xgJ9rMkm-i8S83s4x6ZAO27kALxlY7ulLkwIO4CEuMz40yvj52A7yxCM1Ng/s600/Nur_20251107_000734_0000.png" group-title="💠WIFI💠", Aakash Aath
+https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTFpKLo5cYb54zMuUNtSaJOOxK0aQKrC-VJ6a0_XIspxxk0aX178b0z3oO1Xn8qIiE7Jmrw3bv06A4axit55KEFhS6vgmcTo0cUqXhlbZh0IYNkPdomla8SJR7bvlBV2hGKeDDwQyzyztAWhyphenhyphenodRZ6FXnYIbNdoBoxdECEpNQBPDeTFkAh2zqISTWvag/s600/Nur_20251107_002115_0000.png" group-title="💠WIFI💠", Zee Bangla
+http://103.165.93.31:8095/zeeBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDmdOa-FrjsbmHkj3fe8cdJs7wCr8LqP44W8eCN4dB9tg-khIKtKCqyodP9MZtLtOKPRVYRHTy268xxlfWub0v5GqHWtG0wBAbfkF_uBu4vICj0EgBz3B6SQnasWV9LOi_ye4_FqTWCspD09E3Rlcwm6jESgLacRCxkb-aIorG9dZyD74alcdIxpSzYQ/s600/Nur_20251219_135028_0000.png" group-title="💠WIFI💠", Colors Bangla
+http://103.165.93.31:8095/colorsBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 xui-id="39" tvg-id="" tvg-name="ZEE BANGLA CINEMA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbzbc.png" group-title="💠WIFI💠",ZEE BANGLA CINEMA
+http://103.165.93.31:8095/colorsBanglaChinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 xui-id="34" tvg-id="" tvg-name="SONY ATTH" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbs8.png" group-title="💠WIFI💠",SONY ATTH
+http://103.165.93.31:8095/sonyAath/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sangeet-bangla.png" group-title="💠WIFI💠",Sangeet Bangla
+http://103.165.93.31:8095/sangeetBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMgAFwCYOX0V7GEToy8keJKiMiqfAxNPm68YAfUFg=s900-c-k-c0x00ffffff-no-rj" group-title="PRO✅",Enterr10 Bangla🇮🇳
+http://103.165.93.31:8095/enter10Bangla/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png" group-title="💠WIFI💠",Duronto TV
+http://103.165.93.31:8095/duranta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="💠WIFI💠",Sonic Bangla
+http://103.165.93.31:8095/sonic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="💠WIFI💠",Nick Bangla
+http://103.165.93.31:8095/nick/tracks-v1a1/mono.m3u8
+#EXTINF:-51 tvg-logo="https://i.postimg.cc/jSBDsbBX/20240823_021324.png"group-title="💠WIFI💠",Sony YaY!
+http://103.165.93.31:8095/sonyYay/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="💠WIFI💠" tvg-logo="https://i.postimg.cc/C1s5Hf5P/20240823_021444.png",Pogo
+http://103.165.93.31:8095/pogo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png" group-title="💠WIFI💠",Cartoon Network
+http://103.165.93.31:8095/cartoonNetwork/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="💠WIFI💠",Nick Jr
+http://103.165.93.31:8095/nickJr/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="134" tvg-name="Deepto TV HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="PRO✅",Deepto TV
+http://103.165.93.31:8095/deepto/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="100000" tvg-name="Bangla Vision" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="💠WIFI💠",Bangla Vision
+http://103.165.93.31:8095/banglaVision/tracks-v1a1/mono.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 group-title="-",&flix
+http://103.151.60.162:2122/play/a01m/index.m3u8?hls
+#EXTINF:-1 group-title="-",&tv
+http://103.151.60.162:2122/play/a020/index.m3u8?hls
+#EXTINF:-1 group-title="-",Al jazeera
+http://103.151.60.162:2122/play/a0ff/index.m3u8?hls
+#EXTINF:-1 group-title="-",Animal Planet
+http://103.151.60.162:2122/play/a01l/index.m3u8?hls
+#EXTINF:-1 group-title="-",BBC News
+http://103.151.60.162:2122/play/a0fl/index.m3u8?hls
+#EXTINF:-1 group-title="-",BTV-HD
+http://103.151.60.162:2122/play/a01r/index.m3u8?hls
+#EXTINF:-1 group-title="-",Bein 1
+http://103.151.60.162:2122/play/a0fb/index.m3u8?hls
+#EXTINF:-1 group-title="-",Bein 2
+http://103.151.60.162:2122/play/a0fc/index.m3u8?hls
+#EXTINF:-1 group-title="-",Bein-Xtrim
+http://103.151.60.162:2122/play/a00t/index.m3u8?hls
+#EXTINF:-1 group-title="-",CNN
+http://103.151.60.162:2122/play/a0fg/index.m3u8?hls
+#EXTINF:-1 group-title="-",CartonNetwork
+http://103.151.60.162:2122/play/a010/index.m3u8?hls
+#EXTINF:-1 group-title="-",DencyInternational
+http://103.151.60.162:2122/play/a018/index.m3u8?hls
+#EXTINF:-1 group-title="-",Discovery
+http://103.151.60.162:2122/play/a01k/index.m3u8?hls
+#EXTINF:-1 group-title="-",Discovery Science
+http://103.151.60.162:2122/play/a01j/index.m3u8?hls
+#EXTINF:-1 group-title="-",Discovery kids
+http://103.151.60.162:2122/play/a02e/index.m3u8?hls
+#EXTINF:-1 group-title="-",Disen Jr
+http://103.151.60.162:2122/play/a016/index.m3u8?hls
+#EXTINF:-1 group-title="-",ENter 10 Bangla
+http://103.151.60.162:2122/play/a0fa/index.m3u8?hls
+#EXTINF:-1 group-title="-",EuroSports
+http://103.151.60.162:2122/play/a01i/index.m3u8?hls
+#EXTINF:-1 group-title="-",FIFA unity SD 1
+http://103.151.60.162:2122/play/a0f6/index.m3u8?hls
+#EXTINF:-1 group-title="-",Fifa Unity HD 2
+http://103.151.60.162:2122/play/a0f8/index.m3u8?hls
+#EXTINF:-1 group-title="-",Fifa unity SD 2
+http://103.151.60.162:2122/play/a0f7/index.m3u8?hls
+#EXTINF:-1 group-title="-",HBO
+http://103.151.60.162:2122/play/a00q/index.m3u8?hls
+#EXTINF:-1 group-title="-",HIT DL
+http://103.151.60.162:2122/play/a02g/index.m3u8?hls
+#EXTINF:-1 group-title="-",History 18
+http://103.151.60.162:2122/play/a00y/index.m3u8?hls
+#EXTINF:-1 group-title="-",HitsMovie
+http://103.151.60.162:2122/play/a01h/index.m3u8?hls
+#EXTINF:-1 group-title="-",Hum Stury
+http://103.151.60.162:2122/play/a00u/index.m3u8?hls
+#EXTINF:-1 group-title="-",Jolsha Movie
+http://103.151.60.162:2122/play/a00x/index.m3u8?hls
+#EXTINF:-1 group-title="-",KAS Sport 1
+http://103.151.60.162:2122/play/a02c/index.m3u8?hls
+#EXTINF:-1 group-title="-",KAS Sport 2
+http://103.151.60.162:2122/play/a02d/index.m3u8?hls
+#EXTINF:-1 group-title="-",NET GIO
+http://103.151.60.162:2122/play/a01g/index.m3u8?hls
+#EXTINF:-1 group-title="-",NGC Wild
+http://103.151.60.162:2122/play/a01f/index.m3u8?hls
+#EXTINF:-1 group-title="-",NickLendo
+http://103.151.60.162:2122/play/a017/index.m3u8?hls
+#EXTINF:-1 group-title="-",PTV Sports
+http://103.151.60.162:2122/play/a0f9/index.m3u8?hls
+#EXTINF:-1 group-title="-",Pappare Tv 1 SL
+http://103.151.60.162:2122/play/a0fm/index.m3u8?hls
+#EXTINF:-1 group-title="-",Pappare Tv 2 SL
+http://103.151.60.162:2122/play/a0fn/index.m3u8?hls
+#EXTINF:-1 group-title="-",Pogo
+http://103.151.60.162:2122/play/a01e/index.m3u8?hls
+#EXTINF:-1 group-title="-",SET-MAX
+http://103.151.60.162:2122/play/a015/index.m3u8?hls
+#EXTINF:-1 group-title="-",SKYNET SPOTS
+http://103.151.60.162:2122/play/a025/index.m3u8?hls
+#EXTINF:-1 group-title="-",SRK
+http://103.151.60.162:2122/play/a00r/index.m3u8?hls
+#EXTINF:-1 group-title="-",STar Plus
+http://103.151.60.162:2122/play/a0fo/index.m3u8?hls
+#EXTINF:-1 group-title="-",SUN tv
+http://103.151.60.162:2122/play/a02a/index.m3u8?hls
+#EXTINF:-1 group-title="-",Sony Pix
+http://103.151.60.162:2122/play/a01d/index.m3u8?hls
+#EXTINF:-1 group-title="-",Sony Set
+http://103.151.60.162:2122/play/a01o/index.m3u8?hls
+#EXTINF:-1 group-title="-",Sony Sports 1
+http://103.151.60.162:2122/play/a01c/index.m3u8?hls
+#EXTINF:-1 group-title="-",Sony Sports 2
+http://103.151.60.162:2122/play/a01b/index.m3u8?hls
+#EXTINF:-1 group-title="-",Sony Sports ten
+http://103.151.60.162:2122/play/a01t/index.m3u8?hls
+#EXTINF:-1 group-title="-",Sony Sub
+http://103.151.60.162:2122/play/a01q/index.m3u8?hls
+#EXTINF:-1 group-title="-",Sony att
+http://103.151.60.162:2122/play/a023/index.m3u8?hls
+#EXTINF:-1 group-title="-",Sony set ent
+http://103.151.60.162:2122/play/a024/index.m3u8?hls
+#EXTINF:-1 group-title="-",Sony sport
+http://103.151.60.162:2122/play/a021/index.m3u8?hls
+#EXTINF:-1 group-title="-",Sony sports 5
+http://103.151.60.162:2122/play/a028/index.m3u8?hls
+#EXTINF:-1 group-title="-",SonyMaxHD
+http://103.151.60.162:2122/play/a014/index.m3u8?hls
+#EXTINF:-1 group-title="-",Star Gold
+http://103.151.60.162:2122/play/a01n/index.m3u8?hls
+#EXTINF:-1 group-title="-",Star Jolsha
+http://103.151.60.162:2122/play/a00w/index.m3u8?hls
+#EXTINF:-1 group-title="-",Star Sport 2 DL
+http://103.151.60.162:2122/play/a00v/index.m3u8?hls
+#EXTINF:-1 group-title="-",Star Sports 1
+http://103.151.60.162:2122/play/a01a/index.m3u8?hls
+#EXTINF:-1 group-title="-",Star Sports 2
+http://103.151.60.162:2122/play/a019/index.m3u8?hls
+#EXTINF:-1 group-title="-",Star sport 3
+http://103.151.60.162:2122/play/a029/index.m3u8?hls
+#EXTINF:-1 group-title="-",Star-Gold-2
+http://103.151.60.162:2122/play/a01v/index.m3u8?hls
+#EXTINF:-1 group-title="-",Start spor sel 1
+http://103.151.60.162:2122/play/a026/index.m3u8?hls
+#EXTINF:-1 group-title="-",Start spor sel 2
+http://103.151.60.162:2122/play/a027/index.m3u8?hls
+#EXTINF:-1 group-title="-",SunBangla
+http://103.151.60.162:2122/play/a01p/index.m3u8?hls
+#EXTINF:-1 group-title="-",Supper HIT
+http://103.151.60.162:2122/play/a02f/index.m3u8?hls
+#EXTINF:-1 group-title="-",Ten cricket
+http://103.151.60.162:2122/play/a0fj/index.m3u8?hls
+#EXTINF:-1 group-title="-",Travel_XP
+http://103.151.60.162:2122/play/a01s/index.m3u8?hls
+#EXTINF:-1 group-title="-",WWW 24*7
+http://103.151.60.162:2122/play/a00p/index.m3u8?hls
+#EXTINF:-1 group-title="-",Zee-Bangla
+http://103.151.60.162:2122/play/a011/index.m3u8?hls
+#EXTINF:-1 group-title="-",Zee-TV
+http://103.151.60.162:2122/play/a01u/index.m3u8?hls
+#EXTINF:-1 group-title="-",ZeeCinemaHD
+http://103.151.60.162:2122/play/a012/index.m3u8?hls
+#EXTINF:-1 group-title="-",nick jr
+http://103.151.60.162:2122/play/a00s/index.m3u8?hls
+#EXTINF:-1 group-title="-",star bang
+http://103.151.60.162:2122/play/a0f5/index.m3u8?hls
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-name="Doraemon TV" group-title="CARTOON Drama",Doraemon TV
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Tom & Jerry TV" group-title="CARTOON Drama",Tom & Jerry TV
@@ -42,6 +265,9 @@ https://cdn-2.pishow.tv/live/1460/master.m3u8
 https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Live Sports" group-title="Live Sports",Live Sports
 https://s2.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Ften_cricket_576%2Ften_cricket_576.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-name="Deepto TV" tvg-logo="https://imgur.com/79g2kMA.png" group-title="Live TV",Deepto TV
@@ -260,211 +486,7 @@ https://s3.itcnbd.live/channel/5ddddd6f407f0574.m3u8
 
 
 
-#EXTINF:-1 xui-id="1" tvg-id="" tvg-name="BTV NATIONAL HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/btv.png" group-title="💠WIFI💠",BTV NATIONAL
-http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" group-title="💠WIFI💠",Shomoy TV
-http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="97" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="💠WIFI💠",Jamuna TV
-http://103.165.93.31:8095/jamunaTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="100000" tvg-name="Bangla Vision" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="💠WIFI💠",Bangla Vision
-http://103.165.93.31:8095/channel24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="93" tvg-name="ATN News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" group-title="💠WIFI💠",ATN News
-http://103.165.93.31:8095/atnNews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 xui-id="2" tvg-id="" tvg-name="ATN BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/atnbangla.png" group-title="💠WIFI💠",ATN BANGLA
-http://103.165.93.31:8095/atnBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="💠WIFI💠",Ekattor
-http://103.165.93.31:8095/ekattorTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="299" tvg-name="Channel 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="💠WIFI💠",Channel 1
-http://103.165.93.31:8095/channelI/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="99000" tvg-name="NTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png" group-title="💠WIFI💠",NTV
-http://103.165.93.31:8095/ntv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPZdDXbsGeDOGhPC-Og7bXRrJxsbaFnZ1IEVB7-bPsJtpvNE9IhcMv0Q5OnUq5GCK9UqE7mzMCZinQaN1NSjk2wqKQFs_dreX5yGnDiXNju5yYT_9BDLC3dThhXRIfKk5XQGNc4oi6qWO3fvw5-9dqydLf6pvyHsq5cske3F1FKKih75cCUk20OKVymg/s600/Nur_20251216_222101_0000.png" group-title="💠WIFI💠, Star Jalsha                                 
-http://103.165.93.31:8095/starJalsha/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89MSqI1ufAg5lZ65fLRwxILWht2QKHyBKi5uW9DYwhU-6BRGhGB7faKTXxcbYmQG_tTsWG8QxIqNH3jDTBR0_rAH0mUpSfqyBzWgukJF6tDJ8_qSx30qBvSQta3xPS5gMZPaMTxWuEymSnt6RQFbRbNu9PJQcdGBrhIcJuHwn_0YK0zNgF3XyJKuK8Q/s1080/1000019135.png" group-title="💠WIFI💠", Jalsha Movies
-http://103.165.93.31:8095/jalshaMovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSV1py3jfF1GxTt9mLp4FaGPh_VSQkb7vlAkk6gM4lyaZ-VpKGcZjvj1bAj5XGM2z6FzZ-YcF5ypK3eSqTdiJWbUwfAcpo9gpp46XzFPdyuqWwJpN8CJVD2Eccw7THi60xgJ9rMkm-i8S83s4x6ZAO27kALxlY7ulLkwIO4CEuMz40yvj52A7yxCM1Ng/s600/Nur_20251107_000734_0000.png" group-title="💠WIFI💠", Aakash Aath
-https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTFpKLo5cYb54zMuUNtSaJOOxK0aQKrC-VJ6a0_XIspxxk0aX178b0z3oO1Xn8qIiE7Jmrw3bv06A4axit55KEFhS6vgmcTo0cUqXhlbZh0IYNkPdomla8SJR7bvlBV2hGKeDDwQyzyztAWhyphenhyphenodRZ6FXnYIbNdoBoxdECEpNQBPDeTFkAh2zqISTWvag/s600/Nur_20251107_002115_0000.png" group-title="💠WIFI💠", Zee Bangla
-http://103.165.93.31:8095/zeeBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDmdOa-FrjsbmHkj3fe8cdJs7wCr8LqP44W8eCN4dB9tg-khIKtKCqyodP9MZtLtOKPRVYRHTy268xxlfWub0v5GqHWtG0wBAbfkF_uBu4vICj0EgBz3B6SQnasWV9LOi_ye4_FqTWCspD09E3Rlcwm6jESgLacRCxkb-aIorG9dZyD74alcdIxpSzYQ/s600/Nur_20251219_135028_0000.png" group-title="💠WIFI💠", Colors Bangla
-http://103.165.93.31:8095/colorsBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 xui-id="39" tvg-id="" tvg-name="ZEE BANGLA CINEMA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbzbc.png" group-title="💠WIFI💠",ZEE BANGLA CINEMA
-http://103.165.93.31:8095/colorsBanglaChinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 xui-id="34" tvg-id="" tvg-name="SONY ATTH" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbs8.png" group-title="💠WIFI💠",SONY ATTH
-http://103.165.93.31:8095/sonyAath/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sangeet-bangla.png" group-title="💠WIFI💠",Sangeet Bangla
-http://103.165.93.31:8095/sangeetBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMgAFwCYOX0V7GEToy8keJKiMiqfAxNPm68YAfUFg=s900-c-k-c0x00ffffff-no-rj" group-title="PRO✅",Enterr10 Bangla🇮🇳
-http://103.165.93.31:8095/enter10Bangla/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png" group-title="💠WIFI💠",Duronto TV
-http://103.165.93.31:8095/duranta/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="💠WIFI💠",Sonic Bangla
-http://103.165.93.31:8095/sonic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="💠WIFI💠",Nick Bangla
-http://103.165.93.31:8095/nick/tracks-v1a1/mono.m3u8
-#EXTINF:-51 tvg-logo="https://i.postimg.cc/jSBDsbBX/20240823_021324.png"group-title="💠WIFI💠",Sony YaY!
-http://103.165.93.31:8095/sonyYay/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="💠WIFI💠" tvg-logo="https://i.postimg.cc/C1s5Hf5P/20240823_021444.png",Pogo
-http://103.165.93.31:8095/pogo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png" group-title="💠WIFI💠",Cartoon Network
-http://103.165.93.31:8095/cartoonNetwork/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="💠WIFI💠",Nick Jr
-http://103.165.93.31:8095/nickJr/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-id="134" tvg-name="Deepto TV HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="PRO✅",Deepto TV
-http://103.165.93.31:8095/deepto/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="100000" tvg-name="Bangla Vision" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="💠WIFI💠",Bangla Vision
-http://103.165.93.31:8095/banglaVision/tracks-v1a1/mono.m3u8
-
-
-#EXTM3U
-#EXTINF:-1 group-title="-",&flix
-http://103.151.60.162:2122/play/a01m/index.m3u8?hls
-#EXTINF:-1 group-title="-",&tv
-http://103.151.60.162:2122/play/a020/index.m3u8?hls
-#EXTINF:-1 group-title="-",Al jazeera
-http://103.151.60.162:2122/play/a0ff/index.m3u8?hls
-#EXTINF:-1 group-title="-",Animal Planet
-http://103.151.60.162:2122/play/a01l/index.m3u8?hls
-#EXTINF:-1 group-title="-",BBC News
-http://103.151.60.162:2122/play/a0fl/index.m3u8?hls
-#EXTINF:-1 group-title="-",BTV-HD
-http://103.151.60.162:2122/play/a01r/index.m3u8?hls
-#EXTINF:-1 group-title="-",Bein 1
-http://103.151.60.162:2122/play/a0fb/index.m3u8?hls
-#EXTINF:-1 group-title="-",Bein 2
-http://103.151.60.162:2122/play/a0fc/index.m3u8?hls
-#EXTINF:-1 group-title="-",Bein-Xtrim
-http://103.151.60.162:2122/play/a00t/index.m3u8?hls
-#EXTINF:-1 group-title="-",CNN
-http://103.151.60.162:2122/play/a0fg/index.m3u8?hls
-#EXTINF:-1 group-title="-",CartonNetwork
-http://103.151.60.162:2122/play/a010/index.m3u8?hls
-#EXTINF:-1 group-title="-",DencyInternational
-http://103.151.60.162:2122/play/a018/index.m3u8?hls
-#EXTINF:-1 group-title="-",Discovery
-http://103.151.60.162:2122/play/a01k/index.m3u8?hls
-#EXTINF:-1 group-title="-",Discovery Science
-http://103.151.60.162:2122/play/a01j/index.m3u8?hls
-#EXTINF:-1 group-title="-",Discovery kids
-http://103.151.60.162:2122/play/a02e/index.m3u8?hls
-#EXTINF:-1 group-title="-",Disen Jr
-http://103.151.60.162:2122/play/a016/index.m3u8?hls
-#EXTINF:-1 group-title="-",ENter 10 Bangla
-http://103.151.60.162:2122/play/a0fa/index.m3u8?hls
-#EXTINF:-1 group-title="-",EuroSports
-http://103.151.60.162:2122/play/a01i/index.m3u8?hls
-#EXTINF:-1 group-title="-",FIFA unity SD 1
-http://103.151.60.162:2122/play/a0f6/index.m3u8?hls
-#EXTINF:-1 group-title="-",Fifa Unity HD 2
-http://103.151.60.162:2122/play/a0f8/index.m3u8?hls
-#EXTINF:-1 group-title="-",Fifa unity SD 2
-http://103.151.60.162:2122/play/a0f7/index.m3u8?hls
-#EXTINF:-1 group-title="-",HBO
-http://103.151.60.162:2122/play/a00q/index.m3u8?hls
-#EXTINF:-1 group-title="-",HIT DL
-http://103.151.60.162:2122/play/a02g/index.m3u8?hls
-#EXTINF:-1 group-title="-",History 18
-http://103.151.60.162:2122/play/a00y/index.m3u8?hls
-#EXTINF:-1 group-title="-",HitsMovie
-http://103.151.60.162:2122/play/a01h/index.m3u8?hls
-#EXTINF:-1 group-title="-",Hum Stury
-http://103.151.60.162:2122/play/a00u/index.m3u8?hls
-#EXTINF:-1 group-title="-",Jolsha Movie
-http://103.151.60.162:2122/play/a00x/index.m3u8?hls
-#EXTINF:-1 group-title="-",KAS Sport 1
-http://103.151.60.162:2122/play/a02c/index.m3u8?hls
-#EXTINF:-1 group-title="-",KAS Sport 2
-http://103.151.60.162:2122/play/a02d/index.m3u8?hls
-#EXTINF:-1 group-title="-",NET GIO
-http://103.151.60.162:2122/play/a01g/index.m3u8?hls
-#EXTINF:-1 group-title="-",NGC Wild
-http://103.151.60.162:2122/play/a01f/index.m3u8?hls
-#EXTINF:-1 group-title="-",NickLendo
-http://103.151.60.162:2122/play/a017/index.m3u8?hls
-#EXTINF:-1 group-title="-",PTV Sports
-http://103.151.60.162:2122/play/a0f9/index.m3u8?hls
-#EXTINF:-1 group-title="-",Pappare Tv 1 SL
-http://103.151.60.162:2122/play/a0fm/index.m3u8?hls
-#EXTINF:-1 group-title="-",Pappare Tv 2 SL
-http://103.151.60.162:2122/play/a0fn/index.m3u8?hls
-#EXTINF:-1 group-title="-",Pogo
-http://103.151.60.162:2122/play/a01e/index.m3u8?hls
-#EXTINF:-1 group-title="-",SET-MAX
-http://103.151.60.162:2122/play/a015/index.m3u8?hls
-#EXTINF:-1 group-title="-",SKYNET SPOTS
-http://103.151.60.162:2122/play/a025/index.m3u8?hls
-#EXTINF:-1 group-title="-",SRK
-http://103.151.60.162:2122/play/a00r/index.m3u8?hls
-#EXTINF:-1 group-title="-",STar Plus
-http://103.151.60.162:2122/play/a0fo/index.m3u8?hls
-#EXTINF:-1 group-title="-",SUN tv
-http://103.151.60.162:2122/play/a02a/index.m3u8?hls
-#EXTINF:-1 group-title="-",Sony Pix
-http://103.151.60.162:2122/play/a01d/index.m3u8?hls
-#EXTINF:-1 group-title="-",Sony Set
-http://103.151.60.162:2122/play/a01o/index.m3u8?hls
-#EXTINF:-1 group-title="-",Sony Sports 1
-http://103.151.60.162:2122/play/a01c/index.m3u8?hls
-#EXTINF:-1 group-title="-",Sony Sports 2
-http://103.151.60.162:2122/play/a01b/index.m3u8?hls
-#EXTINF:-1 group-title="-",Sony Sports ten
-http://103.151.60.162:2122/play/a01t/index.m3u8?hls
-#EXTINF:-1 group-title="-",Sony Sub
-http://103.151.60.162:2122/play/a01q/index.m3u8?hls
-#EXTINF:-1 group-title="-",Sony att
-http://103.151.60.162:2122/play/a023/index.m3u8?hls
-#EXTINF:-1 group-title="-",Sony set ent
-http://103.151.60.162:2122/play/a024/index.m3u8?hls
-#EXTINF:-1 group-title="-",Sony sport
-http://103.151.60.162:2122/play/a021/index.m3u8?hls
-#EXTINF:-1 group-title="-",Sony sports 5
-http://103.151.60.162:2122/play/a028/index.m3u8?hls
-#EXTINF:-1 group-title="-",SonyMaxHD
-http://103.151.60.162:2122/play/a014/index.m3u8?hls
-#EXTINF:-1 group-title="-",Star Gold
-http://103.151.60.162:2122/play/a01n/index.m3u8?hls
-#EXTINF:-1 group-title="-",Star Jolsha
-http://103.151.60.162:2122/play/a00w/index.m3u8?hls
-#EXTINF:-1 group-title="-",Star Sport 2 DL
-http://103.151.60.162:2122/play/a00v/index.m3u8?hls
-#EXTINF:-1 group-title="-",Star Sports 1
-http://103.151.60.162:2122/play/a01a/index.m3u8?hls
-#EXTINF:-1 group-title="-",Star Sports 2
-http://103.151.60.162:2122/play/a019/index.m3u8?hls
-#EXTINF:-1 group-title="-",Star sport 3
-http://103.151.60.162:2122/play/a029/index.m3u8?hls
-#EXTINF:-1 group-title="-",Star-Gold-2
-http://103.151.60.162:2122/play/a01v/index.m3u8?hls
-#EXTINF:-1 group-title="-",Start spor sel 1
-http://103.151.60.162:2122/play/a026/index.m3u8?hls
-#EXTINF:-1 group-title="-",Start spor sel 2
-http://103.151.60.162:2122/play/a027/index.m3u8?hls
-#EXTINF:-1 group-title="-",SunBangla
-http://103.151.60.162:2122/play/a01p/index.m3u8?hls
-#EXTINF:-1 group-title="-",Supper HIT
-http://103.151.60.162:2122/play/a02f/index.m3u8?hls
-#EXTINF:-1 group-title="-",Ten cricket
-http://103.151.60.162:2122/play/a0fj/index.m3u8?hls
-#EXTINF:-1 group-title="-",Travel_XP
-http://103.151.60.162:2122/play/a01s/index.m3u8?hls
-#EXTINF:-1 group-title="-",WWW 24*7
-http://103.151.60.162:2122/play/a00p/index.m3u8?hls
-#EXTINF:-1 group-title="-",Zee-Bangla
-http://103.151.60.162:2122/play/a011/index.m3u8?hls
-#EXTINF:-1 group-title="-",Zee-TV
-http://103.151.60.162:2122/play/a01u/index.m3u8?hls
-#EXTINF:-1 group-title="-",ZeeCinemaHD
-http://103.151.60.162:2122/play/a012/index.m3u8?hls
-#EXTINF:-1 group-title="-",nick jr
-http://103.151.60.162:2122/play/a00s/index.m3u8?hls
-#EXTINF:-1 group-title="-",star bang
-http://103.151.60.162:2122/play/a0f5/index.m3u8?hls
 
 
 #EXTINF:-1 xui-id="1" tvg-id="" tvg-name="BTV NATIONAL HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/btv.png" group-title="💠WIFI💠",BTV NATIONAL
