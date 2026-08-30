@@ -33,10 +33,16 @@ https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281640.m3u8
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281639.m3u8
 #EXTINF:-1 group-title="Sports" group-logo="https://img.magnific.com/premium-vector/professional-tv-channel-logo-design-concept-vector-illustration_875240-1836.jpg?semt=ais_test_b&w=740&q=80" tvg-logo="https://cdn.smartads.in/images/product/television/Star-Sports-1-HD.png",Star Sports 1 HD
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281637.m3u8
+#EXTINF:-1 group-title="Sports" group-logo="https://img.magnific.com/premium-vector/professional-tv-channel-logo-design-concept-vector-illustration_875240-1836.jpg?semt=ais_test_b&w=740&q=80" tvg-logo="https://cdn.smartads.in/images/product/television/Star-Sports-HD2.png",Star Sports 2 HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281632.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starselect1.png", Star-select-1
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281636.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starselect1.png", Star-select-1
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281635.m3u8
+#EXTINF:-1 group-title="Sports" group-logo="https://img.magnific.com/premium-vector/professional-tv-channel-logo-design-concept-vector-illustration_875240-1836.jpg?semt=ais_test_b&w=740&q=80" tvg-logo="https://cdn.smartads.in/images/product/television/Star-Sports-1-HD.png",Star Sports 1 Hindi SD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281631.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow
 http://27.124.71.27/Willow_Extra/index.m3u8
