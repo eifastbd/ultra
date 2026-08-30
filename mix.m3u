@@ -294,22 +294,15 @@ http://103.151.60.162:2122/play/a015/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="PRO✅",Colors Bangla HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/282063.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/3w6F5VZ5/20240822-231514.png",Colors Bangla🇮🇳
-http://live.balajibroadband.com:3500/live/1657.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2h7Rov9K9yz6dRM5N81dYq44AUzESD-FpiykR8bVAwg&s=10" group-title="PRO✅",Zee Bangla HD🇮🇳
 http://103.151.60.162:2122/play/a011/index.m3u8?hls
 #https://stream.ottplus.bd/live/zee_bangla_abr/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://imglink.cc/cdn/qonZADSZua.png",Zee Bangla🇮🇳
 http://103.159.180.34:5001/live/625.m3u8
-
 #EXTINF:-1, group-title="PRO✅" tvg-logo="https://img-cdn.publive.online/fit-in/1200x675/afaqs/media/post_attachments/10748d92781bb5c4b905c6d099a049402df8755404dd10781241db6b0fe221ad.jpg", DANGAL🇮🇳
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-
 #EXTINF:-1, group-title="PRO✅" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2022/04/Dangal-2.jpg",DANGAL 2🇮🇳
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="PRO✅",Colors Bangla🇮🇳
-http://live.balajibroadband.com:3500/live/756.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="PRO✅",Sun Bangla🇮🇳
 http://103.159.180.34:5001/live/1669.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="PRO✅",,Colors HD🇮🇳
@@ -348,32 +341,22 @@ http://live.balajibroadband.com:3500/live/474.m3u8
 http://live.balajibroadband.com:3500/live/697.m3u8
 #EXTINF:-1,group-title="PRO✅",SONY KAL🇮🇳
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="PRO✅",Star Gold HD
 http://66.102.126.10:8000/play/a00f/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2.png" group-title="PRO✅",Star Gold 2 SD
 http://66.102.126.10:8000/play/a00g/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" group-title="PRO✅",Star Gold 2 HD
 http://66.102.126.10:8000/play/a077/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="PRO✅",Star Gold Select HD
 http://66.102.126.10:8000/play/a01s/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png ",  STAR GOLD THRILLS
 http://66.102.126.10:8000/play/a00c/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Hum.png" group-title="PRO✅",Hum TV EUROPE
 https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
-
-
 #EXTINF:-1,HUM SITERY world
 http://38.101.217.46/HumSitaray/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Express.png" group-title="PRO✅",Express Entertainment
 https://s3.ideationtec.live/Express_Entertainment/Express_Entertainment.m3u8
-
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/geo-kahani.png" group-title="PRO✅",Geo Kahani
 https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
 
