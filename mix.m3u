@@ -386,8 +386,8 @@ https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSLNzXgM/Bengali-Beats.png" group-title="PRO✅",Bengali Beats🌀
+https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-logo="https://i.imgur.com/zDiIhdN.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="PRO✅",7S Music🌀
 http://103.175.73.12:8080/live/771/master.m3u8
 #EXTINF:-1,Vision Punjab🌀
@@ -722,7 +722,8 @@ http://live.balajibroadband.com:3500/live/3418.m3u8
 #EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyWAH.png" group-title="PRO✅",Sony WAH🎬
 http://live.balajibroadband.com:3500/live/1393.m3u8
 #EXTINF:-1 tvg-id="b80579f2-22d3-4b12-881e-60139810a791" tvg-name="Goldmines Bollywood" tvg-logo="https://s3.aynaott.com/storage/d9a0314f5f9165176f492db3923709bd" group-title="PRO✅",Goldmines Bollywood🎬
-http://103.175.73.12:8080/live/52/52_0.m3u8
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
+#http://103.175.73.12:8080/live/52/52_0.m3u8
 #EXTINF:-1 tvg-id="1f8a84b3-8079-4c29-9e73-f219664e9d4d" tvg-name="Goldmines Movies" tvg-logo="https://s3.aynaott.com/storage/26c1570891267164e40563806b25ccdb" group-title="PRO✅",Goldmines Movies🎬
 http://103.175.73.12:8080/live/51/51_0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Goldmines_logo.png/1920px-Goldmines_logo.png?20250711062922" group-title="PRO✅",GoldMines🎬
@@ -749,12 +750,6 @@ https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 https://server.zillarbarta.com/zbmusic/index.m3u8
 #EXTINF:-1 tvg-id="ZillarBartaNews.in@HD",ZillarBarta News
 https://server.zillarbarta.com/zillarbarta/index.m3u8
-#EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Shemaroo%20TV.jpg?raw=true" group-title="PRO✅",Shemaroo TV🎬
-http://103.175.73.12:8080/live/274/274_0.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Shemaroo%20umang.jpg?raw=true" tvg-name="Shemaroo Umang" group-title="PRO✅",Shemaroo Umang🎬
-http://103.175.73.12:8080/live/258/258_0.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Shemaroo%20Zosh.jpg?raw=true" tvg-name="Shemaroo Zosh (chumbak)" group-title="PRO✅",Shemaroo Zosh🎬
-http://103.175.73.12:8080/live/21/21_0.m3u8
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Semaroo%20Bollywood.jpg?raw=true" tvg-name="Shemaroo Bollywood" group-title="PRO✅",Shemaroo Bollywood🎬
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
