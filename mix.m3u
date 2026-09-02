@@ -569,7 +569,7 @@ https://sony.dongobd247.workers.dev/stream.m3u8?id=1000001971|referer=https://pl
 #http://live.balajibroadband.com:3500/live/1345.m3u8
 http://103.165.93.31:8095/sonic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="PRO✅",Sonic👻
-https://s1.itcnbd.live/nick/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="PRO✅",Nick Bangla👻
 http://live.balajibroadband.com:3500/live/1341.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="PRO✅",Nick Bangla👻
