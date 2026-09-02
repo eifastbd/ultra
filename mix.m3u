@@ -18,9 +18,8 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/btv.png" group-title="PRO✅",7
-
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/btv.png" group-title="PRO✅",BTV HD
+http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8
 #EXTINF:-1 tvg-id="240000" tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png" group-title="PRO✅",BTV
 https://btv.hridoytv-channel.workers.dev/btv.m3u8
 #http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA6Leaj8pHKV9GIxfiviqUcc/m3u8
