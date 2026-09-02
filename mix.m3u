@@ -545,19 +545,12 @@ https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
 https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/C1s5Hf5P/20240823_021444.png",Pogo👻
 https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
-
-
 #EXTINF:-1  tvg-logo="",MINIMAX👻
 https://s2.ideationtec.live/MiniMax/MiniMax.m3u8
 #EXTINF:-1  tvg-logo="",MINI👻
 https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
 #EXTINF:-1 group-title="PRO✅" group-logo="https://www.shutterstock.com/image-vector/kids-text-logo-movie-editable-260nw-2536104593.jpg" tvg-logo="https://toppng.com/uploads/preview/new-disney-channel-logo-vector-free-download-11574247903pfuddm63lv.png",Disney 1
 http://202.70.146.135:8000/play/a01q/index.m3u8
-#EXTINF:-1 group-title="PRO✅" group-logo="https://www.shutterstock.com/image-vector/kids-text-logo-movie-editable-260nw-2536104593.jpg" tvg-logo="https://toppng.com/uploads/preview/new-disney-channel-logo-vector-free-download-11574247903pfuddm63lv.png",Disney 2
-http://103.155.18.186:8000/play/a01q/index.m3u8
-#EXTINF:-1 group-title="PRO✅" group-logo="https://www.shutterstock.com/image-vector/kids-text-logo-movie-editable-260nw-2536104593.jpg" tvg-logo="https://toppng.com/uploads/preview/new-disney-channel-logo-vector-free-download-11574247903pfuddm63lv.png",Disney HD
-https://s1.itcnbd.live/Disney-D/index.m3u8
-
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="PRO✅",Disney Channel2👻
 http://181.119.215.61:8000/play/a0g1/index.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png" group-title="PRO✅",Cartoon Network👻
@@ -569,7 +562,6 @@ https://sony.dongobd247.workers.dev/stream.m3u8?id=1000001971|referer=https://pl
 #http://live.balajibroadband.com:3500/live/1345.m3u8
 http://103.165.93.31:8095/sonic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="PRO✅",Sonic👻
-
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="PRO✅",Nick Bangla👻
 http://live.balajibroadband.com:3500/live/1341.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="PRO✅",Nick Bangla👻
@@ -577,7 +569,8 @@ http://103.165.93.31:8095/nick/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PRO✅" group-logo="https://www.shutterstock.com/image-vector/kids-text-logo-movie-editable-260nw-2536104593.jpg" tvg-logo="https://assets-prod.services.toffeelive.com/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp",Cartoon Network HD 1
 https://stream.ottplus.bd/live/cn_hd_abr/live/cn_hd/chunks.m3u8
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="PRO✅",Sony Yay👻
-http://live.balajibroadband.com:3500/live/872.m3u8
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/204.ts
+#http://live.balajibroadband.com:3500/live/872.m3u8
 #EXTINF:-1,Zoo Moo👻
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nXKXaGE0SkjvhnbFKc0dUWh1uwo.jpg" group-title="PRO✅",Motu Patlu👻
