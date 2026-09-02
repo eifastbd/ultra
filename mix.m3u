@@ -677,10 +677,6 @@ https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
 https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/52SzwQF1/20251222_220548.png",Zee Bollywood
 https://stream.ottplus.live/live/zee_bollywood_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxoVpGct1foR5mXifBQfUwKDEOfGFQESSBYEHg5=s900-c-k-c0xffffffff-no-rj-mo" group-title="PRO✅" tvg-server="Server 1",081. HUM MASALA
-http://38.101.217.46/HumMasala/index.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/vT4DKmf3/20240925_075103.png",HUM TV
-https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png",Sony Television
 https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png",Sony Television HD
@@ -690,7 +686,8 @@ https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/hP59QSrm/20240825_075205.png",Sony Max 2
 https://stream.ottplus.bd/live/max_2_abr/live/max_2_720/chunks.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/Gpz6FLrP/20240823_023114.png",Sony Sab HD
-https://stream.ottplus.bd/live/sub_hd_abr/index.m3u8
+https://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/145.ts
+#https://stream.ottplus.bd/live/sub_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="PRO✅",Star Movies HD🎬
 http://66.102.126.10:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="PRO✅",Star Movies Select HD🎬
