@@ -571,13 +571,11 @@ http://103.165.93.31:8095/sonic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="PRO✅",Sonic👻
 https://s1.itcnbd.live/nick/index.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="PRO✅",Nick Bangla👻
-#http://live.balajibroadband.com:3500/live/1341.m3u8
-http://116.90.120.157:8000/play/a0i3/index.m3u8
+http://live.balajibroadband.com:3500/live/1341.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="PRO✅",Nick Bangla👻
 http://103.165.93.31:8095/nick/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PRO✅" group-logo="https://www.shutterstock.com/image-vector/kids-text-logo-movie-editable-260nw-2536104593.jpg" tvg-logo="https://assets-prod.services.toffeelive.com/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp",Cartoon Network HD 1
 https://stream.ottplus.bd/live/cn_hd_abr/live/cn_hd/chunks.m3u8
-
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="PRO✅",Sony Yay👻
 http://live.balajibroadband.com:3500/live/872.m3u8
 #EXTINF:-1,Zoo Moo👻
