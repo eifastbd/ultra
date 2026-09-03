@@ -130,29 +130,6 @@ http://livetv.akr4m.com:8080/bdtv/restrem/27.m3u8
 https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
 
 
-{
-  "channels": [
-    {
-      "name": "pogo",
-      "category": "Kids",
-      "link": "google",
-      "logo": "png",
-      "type": "paid",
-      "id": "_NWleSItYz4"
-    },
-    {
-      "name": "star gold",
-      "logo": "no",
-      "category": "Cartoon",
-      "type": "Free",
-      "link": "ht",
-      "id": "7fGW12jDyLo"
-    },
-    {
-      "name": "Star Gold ",
-      "logo": "Ww",
-      "category": "Movies",
-      "type": "Free",
       "link": "http://202.70.146.135:8000/play/a04q/index.m3u8",
       "id": "hl8ew_IuoJI"
     },
@@ -763,30 +740,7 @@ https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
       "type": "Free",
       "link": "https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8",
       "id": "swQEXD3cohE"
-    },
-    {
-      "name": "Shemaroo Josh (576p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "http://103.175.73.12:8080/live/21/21_0.m3u8",
-      "id": "gEx88rA4EXY"
-    },
-    {
-      "name": "Colors Infinity (576p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "http://103.175.73.12:8080/live/29/29_0.m3u8",
-      "id": "JzuT0V2XjmY"
-    },
-    {
-      "name": "Goldmines Bollywood (576p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "http://103.175.73.12:8080/live/52/52_0.m3u8",
-      "id": "R_LS1Sy7Abw"
+"
     },
     {
       "name": "Public Movies (576p)",
@@ -2306,66 +2260,8 @@ https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
       "category": "",
       "type": "Free",
       "link": "http://59.103.38.46:8000/play/a00b/index.m3u8",
-      "id": "NooiGCT6bfA"
-    },
-    {
-      "name": "Star Sports 1 HD (1080p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "http://41.205.93.154/STARSPORTS1/index.m3u8",
-      "id": "5lmcGlnYA6Y"
-    },
-    {
-      "name": "B4U Music APAC (720p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "https://s3.itcnbd.live/channel/6f6b7b6d25fbd0e6.m3u8",
-      "id": "c7NBP3Hp5-w"
-    },
-    {
-      "name": "B4U Movies APAC (720p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "https://s3.itcnbd.live/channel/129d01070adb9ee3.m3u8",
-      "id": "361Kl-9Tcjg"
-    },
-    {
-      "name": "Zee Cinema ME (432p) [Geo-blocked]",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd",
-      "id": "pm4XZFbjB9g"
-    },
-    {
-      "name": "Star Sports 2 Hindi (720p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8",
-      "id": "4fszfqp3svs"
-    },
-    {
-      "name": "Colors Infinity (576p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "http://103.175.73.12:8080/live/29/29_0.m3u8",
-      "id": "nnTzKOrhmkM"
-    },
-    {
-      "name": "Star Sports Khel (1080p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "http://103.175.73.12:8080/live/151/151_0.m3u8",
-      "id": "xgHoHSQ4XBY"
-    },
-    {
-      "name": "WOW Kidz (720p)",
+",
+
 
 
 #EXTINF:-1 group-title="TV💠" tvg-logo="https://www.animationxpress.com/wp-content/uploads/2019/11/Wow-Kidz-Logo.jpg?utm_source=chatgpt.com",Wow Kidz
