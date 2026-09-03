@@ -306,7 +306,7 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="PRO✅",Sun Bangla🇮🇳
 http://103.159.180.34:5001/live/1669.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="PRO✅",,Colors HD🇮🇳
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="PRO✅",Colors HD🇮🇳
 http://live.balajibroadband.com:3500/live/144.m3u8
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMgAFwCYOX0V7GEToy8keJKiMiqfAxNPm68YAfUFg=s900-c-k-c0x00ffffff-no-rj" group-title="PRO✅",Enterr10 Bangla🇮🇳
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
@@ -340,7 +340,7 @@ http://live.balajibroadband.com:3500/live/471.m3u8
 http://live.balajibroadband.com:3500/live/474.m3u8
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="PRO✅",Sony Aath🇮🇳
 http://live.balajibroadband.com:3500/live/697.m3u8
-#EXTINF:-1,group-title="PRO✅",SONY KAL🇮🇳
+#EXTINF:-1,group-title="PRO✅" tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png?utm_source=chatgpt.com",SONY KAL🇮🇳
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="PRO✅",Star Gold HD
 http://66.102.126.10:8000/play/a00f/index.m3u8
