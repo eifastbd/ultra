@@ -360,11 +360,7 @@ http://38.101.217.46/HumSitaray/index.m3u8
 https://s3.ideationtec.live/Express_Entertainment/Express_Entertainment.m3u8
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/geo-kahani.png" group-title="PRO✅",Geo Kahani
 https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_BHARAT_HD/images/LOGO_HD/image.png",Star Bharat
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/199.ts
 #EXTINF:-1 tvg-chno="355" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540" group-title="PRO✅",Z Anmol
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/196.ts
