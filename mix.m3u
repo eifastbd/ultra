@@ -361,18 +361,20 @@ https://s3.ideationtec.live/Express_Entertainment/Express_Entertainment.m3u8
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/geo-kahani.png" group-title="PRO✅",Geo Kahani
 https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png" group-title="INDIAN BANGLA",Star Jalsha HD 2
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/198.ts
+
+
+
 
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/199.ts
-
+#EXTINF:-1 tvg-chno="355" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540" group-title="PRO✅",Z Anmol
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/196.ts
-
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="PRO✅",,Colors HD
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/195.ts
 
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/194.ts
 
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/192.ts
+
+
+
 
 
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/191.ts
