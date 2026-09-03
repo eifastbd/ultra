@@ -368,21 +368,11 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/196.ts
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/195.ts
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/vunjev.jpeg",MNX
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/191.ts
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Angel-TV-hd-transparent.png?utm_source=chatgpt.com
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/189.ts
-
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png?lock=720x540&utm_source=chatgpt.com",Anmol Tv
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/203.ts
-
-
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/204.ts
-
-
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/205.ts
-
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="PRO✅",Star Gold Select
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/210.ts
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="PRO✅",,Colors HD🇮🇳
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/219.ts
@@ -605,6 +595,7 @@ https://sony.dongobd247.workers.dev/stream.m3u8?id=1000001971|referer=https://pl
 #http://live.balajibroadband.com:3500/live/1345.m3u8
 http://103.165.93.31:8095/sonic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="PRO✅",Sonic👻
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/205.ts
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="PRO✅",Nick Bangla👻
 http://live.balajibroadband.com:3500/live/1341.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="PRO✅",Nick Bangla👻
