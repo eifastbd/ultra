@@ -221,8 +221,6 @@ https://ranacable.duckdns.org/UpoharBangla/tracks-v1a1/index.m3u8
 http://103.67.97.46/0.ts
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="PRO✅",JTV BANGLA
 http://103.67.97.45:81/0.ts
-#EXTINF:-1 tvg-logo="" group-title="PRO✅", TARA TV
-https://legitpro.co.in/taratv/taratv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/uploads/2024/04/Logo.png" group-title="PRO✅",Nagorik🇧🇩
 https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8?remote=103.114.23.14&token=205feaff08ac0e4c8c895093c6fc54225479a714-c02bf37325b9f215f8b11615ad227213-1782477110-1782466310
 #EXTINF:-1 tvg-logo="" group-title="PRO✅",DTV🇧🇩
@@ -237,7 +235,6 @@ http://cdn.live247stream.com/atvusa/tv/playlist.m3u8
 http://103.172.152.218:8086/0.ts
 #EXTINF:-1,EKHON KOLKATA
 http://live.dataplayer.in:8080/live/ekhonkolkata.m3u8
-
 #EXTINF:-1,Vision Punjab
 http://a-edge.bliscdn.com/VisionPunjabHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Histoire Tv
@@ -271,9 +268,6 @@ http://live.dataplayer.in:8080/live/sunskytv4.m3u8
 
 https://cdn-7.pishow.tv/live/10018/master.m3u8
 
-
-#EXTINF:-1,Sunsky TV 2
-http://live.dataplayer.in:8080/live/sunskytv2.m3u8
 #EXTINF:-1,Balurghat TV
 http://94.136.188.21:8000/live/rctvdemo/index.m3u8
 #EXTINF:-1,Jaan Bangla
