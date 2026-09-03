@@ -237,6 +237,41 @@ http://cdn.live247stream.com/atvusa/tv/playlist.m3u8
 http://103.172.152.218:8086/0.ts
 #EXTINF:-1,EKHON KOLKATA
 http://live.dataplayer.in:8080/live/ekhonkolkata.m3u8
+
+#EXTINF:-1,Vision Punjab
+http://a-edge.bliscdn.com/VisionPunjabHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Histoire Tv
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+#EXTINF:-1,Raatdin Bangla
+https://server.playontv.in/raatdinbangla/index.m3u8
+#EXTINF:-1,Nd24
+https://legitpro.co.in/ndlive/nd24/tracks-v1a1/mono.m3u8
+#EXTINF:-1,JTV CLASSIC
+http://103.67.97.46/0.ts
+#EXTINF:-1,JTV BANGLA
+http://103.67.97.45:81/0.ts
+#EXTINF:-1,AMAR BANGLA
+http://103.172.152.218:8086/0.ts
+#EXTINF:-1,EKHON KOLKATA
+http://live.dataplayer.in:8080/live/ekhonkolkata.m3u8
+#EXTINF:-1,AMAR BANGLA
+http://live.dataplayer.in:8080/live/amarbangla.m3u8
+#EXTINF:-1,MISSION TV
+http://live.dataplayer.in:8080/live/missiontv.m3u8
+#EXTINF:-1,Positive
+http://hksk.dataplayer.in:8080/channel1.m3u8
+#EXTINF:-1,Sunsky TV 1
+http://live.dataplayer.in:8080/live/sunskytv1.m3u8
+#EXTINF:-1,Sunsky TV 2
+http://live.dataplayer.in:8080/live/sunskytv2.m3u8
+#EXTINF:-1,Sunsky TV 3
+http://live.dataplayer.in:8080/live/sunskytv3.m3u8
+#EXTINF:-1,Sunsky TV 4
+http://live.dataplayer.in:8080/live/sunskytv4.m3u8
+
+https://cdn-7.pishow.tv/live/10018/master.m3u8
+
+
 #EXTINF:-1,Sunsky TV 2
 http://live.dataplayer.in:8080/live/sunskytv2.m3u8
 #EXTINF:-1,Balurghat TV
@@ -404,8 +439,14 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/227.ts
 
 
 
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSLNzXgM/Bengali-Beats.png" group-title="PRO✅",Bengali Beats🌀
 https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://p16-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/177163a62ad731af14f7a6e91b307695~c5_720x720.jpeg?utm_source=chatgpt.com",Only Music🌀
+https://livestream.unlimitedcdn.com/onlymusic/index.m3u8
 #EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-logo="https://i.imgur.com/zDiIhdN.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="PRO✅",7S Music🌀
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
 #EXTINF:-1,Vision Punjab🌀
@@ -829,9 +870,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkahtv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DeenTV.uk@SD" tvg-logo="https://i.imgur.com/Zp62Nbd.png" group-title="PRO✅",Deen TV🤲
 https://cd198.anystream.uk:9092/iqapp/d33ntv/playlist.m3u8
-
-
-
+#EXTINF:-1 tvg-id="DeenTV.uk@SD" tvg-logo="https://img1.pnghut.com/10/24/18/hCJmVEcnUq/afghan-tv-highdefinition-television-symbol-finger-noor.jpg?utm_source=chatgpt.com",NOOR TV🤲
+https://sscsott.com/srt/noortvuk/index.m3u8
 
 
 
