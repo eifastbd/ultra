@@ -16,12 +16,14 @@
 
 
 
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/T_Sports.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",T-SPORTS 
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 #https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DzDHjCJm/20240823_024249.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",Star Sports 1
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281630.m3u8
-
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/united2.png", Unite8-sports-2
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281669.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starsports3.png", Star-sports-3
@@ -44,7 +46,6 @@ https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281635.m3u8
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281631.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/SZphbKsSMx.png",Euro TV
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281625.m3u8
-
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow
 http://27.124.71.27/Willow_Extra/index.m3u8
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_5704c544bcbe25521134b299a0298be7_playmist_ptv_sports_400x400.jpg" group-title="SPORTS",PTV Sports HD
@@ -65,22 +66,16 @@ http://103.151.60.162:2122/play/a027/index.m3u8?hls
 
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starselect1.png", Star-select-1
 http://103.114.11.37:8081/Star-select-1/index.m3u8?token=dsgdfgsdfgasf
-
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starselect2.png", Star-select-2
 http://103.114.11.37:8081/Star-select-2/index.m3u8?token=dsgdfgsdfgasf
-
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starsports1.png", Star-sports-1
 http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=dsgdfgsdfgasf
-
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starsports2.png", Star-sports-2
 http://103.114.11.37:8081/Star-sports-2/index.m3u8?token=dsgdfgsdfgasf
-
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starsports3.png", Star-sports-3
 http://103.114.11.37:8081/Star-sports-3/index.m3u8?token=dsgdfgsdfgasf
-
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/tsports.png", T Sports HD
 http://103.114.11.37:8081/T-Sports-HD/index.m3u8?token=dsgdfgsdfgasf
-
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/united2.png", Unite8-sports-2
 http://103.114.11.37:8081/Unite8-sports-2/index.m3u8?token=dsgdfgsdfgasf
 
