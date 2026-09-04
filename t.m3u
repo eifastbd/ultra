@@ -188,6 +188,15 @@ http://66.102.126.10:8000/play/a05j/index.m3u8
 https://s3.ideationtec.live/A_Plus/A_Plus.m3u8
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/A-Plus_TV_Logo.png" group-title="TV💠",A Plus 2
 http://66.102.126.10:8000/play/a01b/index.m3u8
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ary-digital.png" group-title="Shoq",Ary Digital HD
+http://66.102.126.10:8000/play/a030/index.m3u8
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/bol-news.png" group-title="Shoq",Bol News
+http://66.102.126.10:8000/play/a036/index.m3u8
+
+
+
+
+
 
 
 A1 TV  
@@ -220,9 +229,6 @@ https://s4.ideationtec.live/Aaj_News/Aaj_News.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ary-news.png" group-title="Shoq",Ary News
-https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695040da296/main.m3u8
-
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/bol-news.png" group-title="Shoq",Bol News
 https://s5.ideationtec.live/BOL_News_HD/BOL_News_HD.m3u8
 
@@ -252,8 +258,7 @@ https://s3.ideationtec.live/Discover_Pakistan/Discover_Pakistan.m3u8
 #EXTINF:-1,AJJ ENTERTAINMENT HD
 https://s2.ideationtec.live/AAJ_Entertainment/AAJ_Entertainment.m3u8
 
-#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ary-digital.png" group-title="Shoq",Ary Digital HD
-https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/bol-entertainment.png" group-title="Shoq",Bol Entertainment
 https://s2.ideationtec.live/BOL_Entertainment_HD/BOL_Entertainment_HD.m3u8
@@ -283,21 +288,7 @@ https://s2.ideationtec.live/Pnn/Pnn.m3u8
 https://cdn01.medialive.one:2096/GREENENTFHD/tracks-v1a1/mono.ts.m3u8
 
 
-
-
-
-
   
-  
-
-ARYDigitalAsia HD  
-http://66.102.126.10:8000/play/a030/index.m3u8  
-
-ARYMusik  
-http://66.102.126.10:8000/play/a036/index.m3u8  
-
-ARYNewsAsia  
-http://66.102.126.10:8000/play/a02z/index.m3u8  
 
 ARYQTV  
 http://66.102.126.10:8000/play/a019/index.m3u8  
