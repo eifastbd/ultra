@@ -194,6 +194,10 @@ http://66.102.126.10:8000/play/a030/index.m3u8
 http://66.102.126.10:8000/play/a036/index.m3u8
 #EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnimalPlanetHD_Transparent_d36c0ee3-3e3f-4e0c-b3b2-23bfb3c3c2b0.png" group-title="TV💠",Animal Planet HD
 http://66.102.126.10:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/b4u-music.png" group-title="TV💠",B4U Music🌀
+http://66.102.126.10:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/B4umovies.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",B4U Movies
+http://66.102.126.10:8000/play/a01n/index.m3u8
 
 A1 TV  
 http://66.102.126.10:8000/play/a04q/index.m3u8  
@@ -293,12 +297,10 @@ ARYZindagi
 http://66.102.126.10:8000/play/a031/index.m3u8  
 
   
-
-B4U MUSIC  
-http://66.102.126.10:8000/play/a01e/index.m3u8  
+  
 
 B4U Movies - Free  
-http://66.102.126.10:8000/play/a01n/index.m3u8  
+  
 
 BBC News  
 http://66.102.126.10:8000/play/a00t/index.m3u8  
