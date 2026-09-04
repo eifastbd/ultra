@@ -129,54 +129,41 @@ http://livetv.akr4m.com:8080/bdtv/restrem/27.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/28vtd68S/Channel-i.jpg" group-title="TV💠",CHANNEL I
 https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
 
-
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://indiantvinfo.com/media/2020/01/star-gold2-channel-logo.jpg?utm_source=chatgpt.com",Star Gold 2
 http://202.70.146.135:8000/play/a04q/index.m3u
-
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://images.squarespace-cdn.com/content/v1/5ea862a8804f7204dfbb35fb/0bee299e-5816-4612-9832-3ba879cf224a/Star%2BGold_square.jpg?utm_source=chatgpt.com",Star Gold
 http://202.70.146.135:8000/play/a02a/index.m3u8
-
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_2_HD/images/LOGO_HD/image.png?utm_source=chatgpt.com",Star Gold 2 HD
 http://202.70.146.135:8000/play/a02d/index.m3u8
-
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://www.kindpng.com/picc/m/74-746473_history-channel-logo-png-history-tv-18-hd.png?utm_source=chatgpt.com",History TV
 http://202.70.146.135:8000/play/a065/index.m3u8
-
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LOGO_HD/image.png",Colors Cineplex HD
 http://202.70.146.135:8000/play/a04n/index.m3u8
-
-
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_BOLLYWOOD/images/LOGO_HD/image.png",Colors Cineplex Bollywood
 http://202.70.146.135:8000/play/a058/index.m3u8
-
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png",Movies Now
 http://202.70.146.135:8000/play/a057/index.m3u8
-
-http://202.70.146.135:8000/play/a04g/index.m3u8
-
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Romance.png",Star Gold Romance 
 http://202.70.146.135:8000/play/a044/index.m3u8
-
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_SELECT_HD/images/LOGO_HD/image.png?utm_source=chatgpt.com",Star Gold Select
 http://202.70.146.135:8000/play/a068/index.m3u8
-
-http://202.70.146.135:8000/play/a06p/index.m3u8
-
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_HD/images/LOGO_HD/image.png",Star Movies HD
 http://202.70.146.135:8000/play/a06r/index.m3u8
-
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMAND_PICTURES_HD/images/LOGO_HD/LOGO_HD_image.png",& Pictures 
 http://202.70.146.135:8000/play/a06b/index.m3u8
-
-
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/%26TV_2025.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",& TV
 http://202.70.146.135:8000/play/a06c/index.m3u8
-
-
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://www.pngkit.com/png/detail/134-1341587_discovery-hd-world-discovery-hd-world-channel-logo.png?utm_source=chatgpt.com",Discover HD
 http://202.70.146.135:8000/play/a05z/index.m3u8
-
-
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://kcltv.com/software/images/uploads/Romedy_Now_HD.jpg?utm_source=chatgpt.com",Romedy Now
 http://202.70.146.135:8000/play/a05x/index.m3u8
-
+#EXTINF:-1 group-title="TV💠" tvg-logo="",Euro Sports
 http://202.70.146.135:8000/play/a05s/index.m3u8
-
-
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://www.kindpng.com/picc/m/212-2127076_national-geographic-logo-png-national-geographic-channel-hd.png",National Geography
 http://202.70.146.135:8000/play/a05o/index.m3u8
-
-
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",Wild
 http://202.70.146.135:8000/play/a05j/index.m3u8",
-  
-
-M3u8 Live Tv:
-&Xplor HD  
+  #EXTINF:-1 group-title="TV💠" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AND_XPLOR_HD/images/LOGO_HD/image.png",& Xplor
 http://66.102.126.10:8000/play/a028/index.m3u8  
 
 &pictures HD  
