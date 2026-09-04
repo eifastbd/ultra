@@ -180,7 +180,15 @@ http://66.102.126.10:8000/play/a028/index.m3u8
 http://66.102.126.10:8000/play/a01t/index.m3u8  
 #EXTINF:-1 group-title="TV💠" tvg-logo="https://i.postimg.cc/JhR9HDw4/20240823_023056.png",& Tv
 http://66.102.126.10:8000/play/a01u/index.m3u8  
-  
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Aan-TV.png" group-title="TV💠", Aan TV
+https://s5.ideationtec.live/AAN_HD/AAN_HD.m3u8
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Aan-TV.png" group-title="TV💠", Aan TV 2
+http://66.102.126.10:8000/play/a05j/index.m3u8
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/A-Plus_TV_Logo.png" group-title="TV💠",A Plus
+https://s3.ideationtec.live/A_Plus/A_Plus.m3u8
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/A-Plus_TV_Logo.png" group-title="TV💠",A Plus 2
+http://66.102.126.10:8000/play/a01b/index.m3u8
+
 
 A1 TV  
 http://66.102.126.10:8000/play/a04q/index.m3u8  
@@ -210,8 +218,7 @@ https://s4.ideationtec.live/Channel_24_HD/Channel_24_HD.m3u8
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Aaj%20news.png" group-title="Shoq", Aaj News
 https://s4.ideationtec.live/Aaj_News/Aaj_News.m3u8
 
-#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Aan-TV.png" group-title="Shoq", Aan TV
-https://s5.ideationtec.live/AAN_HD/AAN_HD.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ary-news.png" group-title="Shoq",Ary News
 https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695040da296/main.m3u8
@@ -228,8 +235,7 @@ https://s5.ideationtec.live/GNN_HD/GNN_HD.m3u8
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ptv-national.png" group-title="Shoq", PTV National
 
 
-#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/A-Plus_TV_Logo.png" group-title="Shoq",A Plus
-https://s3.ideationtec.live/A_Plus/A_Plus.m3u8
+
 
 #EXTINF:-2, tvg-logo="https://zongmobiletv.com/storage/live.webp" group-titel="shoq",  SET ENTERTAINMENT PK
 https://s1.ideationtec.live/SET_Ent/SET_Ent.m3u8
@@ -281,11 +287,8 @@ https://cdn01.medialive.one:2096/GREENENTFHD/tracks-v1a1/mono.ts.m3u8
 
 
 
-AAN TV - HD  
-http://66.102.126.10:8000/play/a05j/index.m3u8  
-
-APlus Pakistan  
-http://66.102.126.10:8000/play/a01b/index.m3u8  
+  
+  
 
 ARYDigitalAsia HD  
 http://66.102.126.10:8000/play/a030/index.m3u8  
