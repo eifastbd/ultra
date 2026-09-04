@@ -135,7 +135,7 @@ http://202.70.146.135:8000/play/a04q/index.m3u
 http://202.70.146.135:8000/play/a02a/index.m3u8
 #EXTINF:-1 group-title="TV💠" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_2_HD/images/LOGO_HD/image.png?utm_source=chatgpt.com",Star Gold 2 HD
 http://202.70.146.135:8000/play/a02d/index.m3u8
-#EXTINF:-1 group-title="TV💠" tvg-logo="https://www.kindpng.com/picc/m/74-746473_history-channel-logo-png-history-tv-18-hd.png?utm_source=chatgpt.com",History TV
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="TV💠",History TV18
 http://202.70.146.135:8000/play/a065/index.m3u8
 #EXTINF:-1 group-title="TV💠" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LOGO_HD/image.png",Colors Cineplex HD
 http://202.70.146.135:8000/play/a04n/index.m3u8
