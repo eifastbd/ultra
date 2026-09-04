@@ -164,17 +164,17 @@ http://202.70.146.135:8000/play/a06r/index.m3u8
 http://202.70.146.135:8000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png?lock=720x540" group-title="TV💠",&TV HD
 http://202.70.146.135:8000/play/a06c/index.m3u8
-#EXTINF:-1 group-title="TV💠" tvg-logo="https://www.pngkit.com/png/detail/134-1341587_discovery-hd-world-discovery-hd-world-channel-logo.png?utm_source=chatgpt.com",Discover HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="TV💠",DISCOVERY
 http://202.70.146.135:8000/play/a05z/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="PRO✅",National Geographic
+http://202.70.146.135:8000/play/a05o/index.m3u8
 #EXTINF:-1 group-title="TV💠" tvg-logo="https://kcltv.com/software/images/uploads/Romedy_Now_HD.jpg?utm_source=chatgpt.com",Romedy Now
 http://202.70.146.135:8000/play/a05x/index.m3u8
 #EXTINF:-1 group-title="TV💠" tvg-logo="",Euro Sports
 http://202.70.146.135:8000/play/a05s/index.m3u8
-#EXTINF:-1 group-title="TV💠" tvg-logo="https://www.kindpng.com/picc/m/212-2127076_national-geographic-logo-png-national-geographic-channel-hd.png",National Geography
-http://202.70.146.135:8000/play/a05o/index.m3u8
 #EXTINF:-1 group-title="TV💠" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",Wild
 http://202.70.146.135:8000/play/a05j/index.m3u8",
-  #EXTINF:-1 group-title="TV💠" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AND_XPLOR_HD/images/LOGO_HD/image.png",& Xplor
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AND_XPLOR_HD/images/LOGO_HD/image.png",& Xplor
 http://66.102.126.10:8000/play/a028/index.m3u8  
 
 &pictures HD  
