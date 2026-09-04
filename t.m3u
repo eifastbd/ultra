@@ -160,9 +160,9 @@ http://202.70.146.135:8000/play/a044/index.m3u8
 http://202.70.146.135:8000/play/a068/index.m3u8
 #EXTINF:-1 group-title="TV💠" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_HD/images/LOGO_HD/image.png",Star Movies HD
 http://202.70.146.135:8000/play/a06r/index.m3u8
-#EXTINF:-1 group-title="TV💠" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMAND_PICTURES_HD/images/LOGO_HD/LOGO_HD_image.png",& Pictures 
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://i.postimg.cc/JhR9HDw4/20240823_023056.png",& Tv
 http://202.70.146.135:8000/play/a06b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png?lock=720x540" group-title="TV💠",&TV HD
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://i.postimg.cc/XJ1SbVzN/20240823_022738.png",& Picture
 http://202.70.146.135:8000/play/a06c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="TV💠",DISCOVERY
 http://202.70.146.135:8000/play/a05z/index.m3u8
