@@ -20,6 +20,14 @@
 
 
 
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxn2mPcf/BTV.jpg" group-title="TV💠",BTV
 http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6rgYGJk/Jamuna-Tv.jpg" group-title="TV💠",JAMUNA TV
@@ -28,8 +36,6 @@ https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0L74J7k/Somoy-Tv.jpg" group-title="TV💠",SOMOY TV
 https://tvsen5.aynaott.com/somoytv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9zqmjnW/IMG-20260429-132404.jpg" group-title="TV",CHANNEL 1
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2WWrsh6/News-24.jpg" group-title="TV💠",NEWS 24
 #https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
@@ -113,9 +119,6 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/sanandatv.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRRc1msG/NTV.jpg" group-title="TV💠",NTV UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NxrcY1p/Bangla-Tv.jpg" group-title="TV💠",BANGLA TV +
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="TV💠",SONY AATH
@@ -128,6 +131,14 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 http://livetv.akr4m.com:8080/bdtv/restrem/27.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/28vtd68S/Channel-i.jpg" group-title="TV💠",CHANNEL I
 https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="TV💠" tvg-logo="https://indiantvinfo.com/media/2020/01/star-gold2-channel-logo.jpg?utm_source=chatgpt.com",Star Gold 2
 http://202.70.146.135:8000/play/a04q/index.m3u
@@ -151,7 +162,7 @@ http://202.70.146.135:8000/play/a068/index.m3u8
 http://202.70.146.135:8000/play/a06r/index.m3u8
 #EXTINF:-1 group-title="TV💠" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMAND_PICTURES_HD/images/LOGO_HD/LOGO_HD_image.png",& Pictures 
 http://202.70.146.135:8000/play/a06b/index.m3u8
-#EXTINF:-1 group-title="TV💠" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/%26TV_2025.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",& TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png?lock=720x540" group-title="TV💠",&TV HD
 http://202.70.146.135:8000/play/a06c/index.m3u8
 #EXTINF:-1 group-title="TV💠" tvg-logo="https://www.pngkit.com/png/detail/134-1341587_discovery-hd-world-discovery-hd-world-channel-logo.png?utm_source=chatgpt.com",Discover HD
 http://202.70.146.135:8000/play/a05z/index.m3u8
