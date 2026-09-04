@@ -18,7 +18,13 @@
 
 
 
+  
 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1z5BGPZ/20240823_024712.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",A Sports HD
+http://66.102.126.10:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/T_Sports.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",T-SPORTS 
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 #https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
