@@ -176,11 +176,9 @@ http://202.70.146.135:8000/play/a05s/index.m3u8
 http://202.70.146.135:8000/play/a05j/index.m3u8",
 #EXTINF:-1 group-title="TV💠" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AND_XPLOR_HD/images/LOGO_HD/image.png",& Xplor
 http://66.102.126.10:8000/play/a028/index.m3u8  
-
-&pictures HD  
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://i.postimg.cc/XJ1SbVzN/20240823_022738.png",& Picture
 http://66.102.126.10:8000/play/a01t/index.m3u8  
-
-&tv HD - Rs 19.00  
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://i.postimg.cc/JhR9HDw4/20240823_023056.png",& Tv
 http://66.102.126.10:8000/play/a01u/index.m3u8  
 
 24 News HD  
