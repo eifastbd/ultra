@@ -569,8 +569,8 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8 
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png",TB🌀
 https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id="CompanyTV.it@SD" tvg-logo="https://i.imgur.com/ccdwsWj.png" group-title="PRO✅",Company TV🌀
+https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 
 
 
