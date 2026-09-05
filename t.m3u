@@ -2034,102 +2034,8 @@ http://202.70.146.135:8000/play/a005/index.m3u8
       "category": "",
       "type": "Free",
       "link": "https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8",
-      "id": "t_WNKRtWaFo"
-    },
-    {
-      "name": "Shalom (1080p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8",
-      "id": "HfTeKzxuLFc"
-    },
-    {
-      "name": "Shalom Global (1080p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8",
-      "id": "9z0uIhoiZgQ"
-    },
-    {
-      "name": "Shekinah TV (1080p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
-      "id": "QhTbN6JM7sA"
-    },
-    {
-      "name": "Shemaroo Filmi Gaane (1080p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8",
-      "id": "pXrh5-vubBo"
-    },
-    {
-      "name": "Shemaroo Filmi Gaane (1080p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
-      "id": "T0LEIHwzJ_k"
-    },
-    {
-      "name": "Shubh Cinema TV (720p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8",
-      "id": "903LdiUkLC4"
-    },
-    {
-      "name": "Shubh TV (1080p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8",
-      "id": "orqBEb72fIk"
-    },
-    {
-      "name": "Shubhsandesh TV (720p) [Not 24/7]",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8",
-      "id": "uNr-G9GX5iA"
-    },
-    {
-      "name": "Shubhsandesh TV",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "https://cdn-2.pishow.tv/live/457/master.m3u8",
-      "id": "RPWxPSx7Q_0"
-    },
-    {
-      "name": "Star Gold 2 (576p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "http://103.253.18.58:8000/play/a00r",
-      "id": "pEjQU_9idPw"
-    },
-    {
-      "name": "Star Gold Romance (576p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "http://103.253.18.58:8000/play/a017",
-      "id": "WBlXghCL1dw"
-    },
-    {
-      "name": "Star Gold Select HD (1080p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "http://103.253.18.58:8000/play/a02u",
+",
+",
 ",
       
 
@@ -2158,7 +2064,7 @@ https://stream.ottlive.co.in/punjabihits/index.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
 #EXTINF:-1 group-title="TV💠" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/zeecinemahd.png", Z Cinema HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zoom.png" group-title="PRO✅",ZOOM🌀
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zoom.png" group-title="TV💠",ZOOM
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 
 #EXTINF:-1 group-title="TV💠" group-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LOGO_HD/image.png",Pittara
