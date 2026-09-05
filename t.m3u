@@ -216,7 +216,7 @@ http://202.70.146.135:8000/play/a00b/index.m3u8
 http://202.70.146.135:8000/play/a009/index.m3u8  
 #EXTINF:-1 group-title="TV💠" tvg-logo="https://pluspng.com/img-png/atv-logo-png-atv-leading-news-and-entertainment-channel-of-pakistan-is-one-of-atv-pakistan-every-day-by-millions-of-top-rated-tv-programs-watch-has-a-wide-range-564.jpg?utm_source=chatgpt.com",ATV
 http://66.102.126.10:8000/play/a04q/index.m3u8  
-#EXTINF:-1 group-title="TV💠" tvg-logo="https://imgur.com/VNGnHYz",Aaj News
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Aaj%20news.png" group-title="TV💠", Aaj News
 http://66.102.126.10:8000/play/a05a/index.m3u8  
 
 
@@ -224,9 +224,6 @@ http://66.102.126.10:8000/play/a05a/index.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/8XM.png" group-title="TV💠",8XM
-https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 
 #EXTINF:-1,ARY Q TV
 https://aryqtvm.aryzap.com/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4d793457/ARYQTVH264_1080p.m3u8
@@ -1148,7 +1145,7 @@ http://202.70.146.135:8000/play/a005/index.m3u8
       "logo": "",
       "category": "",
       "type": "Free",
-      "link": "https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8",
+      "link": "",
       "id": "pyRCwLFwNoo"
     },
     {
@@ -1492,7 +1489,7 @@ http://202.70.146.135:8000/play/a005/index.m3u8
       "logo": "",
       "category": "",
       "type": "Free",
-      "link": "https://cdn-2.pishow.tv/live/415/master.m3u8",
+      "link": "",
       "id": "JFyncSx9TZU"
     },
     {
@@ -1884,7 +1881,7 @@ http://202.70.146.135:8000/play/a005/index.m3u8
       "logo": "",
       "category": "",
       "type": "Free",
-      "link": "http://103.213.31.109:90/ActionCinema/playlist.m3u8",
+      "link": "",
       "id": "4qRa0cYo2rs"
     },
     {
@@ -1892,7 +1889,7 @@ http://202.70.146.135:8000/play/a005/index.m3u8
       "logo": "",
       "category": "",
       "type": "Free",
-      "link": "https://cdn-2.pishow.tv/live/1604/master.m3u8",
+      "link": "",
       "id": "AP0qan9IerA"
     },
     {
@@ -1900,7 +1897,7 @@ http://202.70.146.135:8000/play/a005/index.m3u8
       "logo": "",
       "category": "",
       "type": "Free",
-      "link": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8",
+      "link": "",
       "id": "zwkKItyZ4iI"
     },
     {
@@ -1908,7 +1905,7 @@ http://202.70.146.135:8000/play/a005/index.m3u8
       "logo": "",
       "category": "",
       "type": "Free",
-      "link": "https://stream.ottlive.co.in/punjabihits/index.m3u8",
+      "link": "",
       "id": "E2NYML4JWJc"
     },
     {
@@ -2299,10 +2296,26 @@ http://202.70.146.135:8000/play/a005/index.m3u8
 "
 
 
+
+
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/8XM.png" group-title="TV💠",8XM
+https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
+
+https://cdn-2.pishow.tv/live/415/master.m3u8
+
+
+https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
+
+https://stream.ottlive.co.in/punjabihits/index.m3u8
+
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
+
+
+http://103.213.31.109:90/ActionCinema/playlist.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 
 
-
+https://cdn-2.pishow.tv/live/1604/master.m3u8
 
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 
