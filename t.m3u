@@ -212,18 +212,11 @@ http://66.102.126.10:8000/play/a00a/index.m3u8
 http://66.102.126.10:8000/play/a014/index.m3u8
 #EXTINF:-1 group-title="TV💠" tvg-logo="http://alixbd.com/assets/images/colors-hd.png",Colors HD
 http://202.70.146.135:8000/play/a00b/index.m3u8 
-#EXTINF:-1  group-title="TV💠" tvg-logo="http://alixbd.com/assets/images/starplus.png",Star Plus HD
-http://202.70.146.135:8000/play/a009/index.m3u8
-
-
-
-
-
-A1 TV  
+#EXTINF:-1 group-title="TV💠" tvg-logo="http://alixbd.com/assets/images/starplus.png",Star Plus HD
+http://202.70.146.135:8000/play/a009/index.m3u8  
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://pluspng.com/img-png/atv-logo-png-atv-leading-news-and-entertainment-channel-of-pakistan-is-one-of-atv-pakistan-every-day-by-millions-of-top-rated-tv-programs-watch-has-a-wide-range-564.jpg?utm_source=chatgpt.com",ATV
 http://66.102.126.10:8000/play/a04q/index.m3u8  
-  
-
-AAJ NEWS  
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://imgur.com/VNGnHYz",Aaj News
 http://66.102.126.10:8000/play/a05a/index.m3u8  
 
 
