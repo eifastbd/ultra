@@ -2300,14 +2300,15 @@ http://202.70.146.135:8000/play/a005/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/8XM.png" group-title="TV💠",8XM
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
-
-
-
-
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/b4u-music.png" group-title="TV💠",B4U Music
+https://cdn-2.pishow.tv/live/415/master.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9x-jhakaas.png" group-title="TV💠",9x Jhakaas
+https://cdn-3.pishow.tv/live/6/master.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9x-jhakaas.png" group-title="TV💠",9x Jhakaas
 https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
-
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://dtil.tmsimg.com/assets/s143691_ld_h15_aa.png?utm_source=chatgpt.com",Punjabi Hits
 https://stream.ottlive.co.in/punjabihits/index.m3u8
-
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI_GOLD/images/LOGO_HD/image.png?utm_source=chatgpt.com",PTC Punjabi Gold
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
 
 
