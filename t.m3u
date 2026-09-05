@@ -2154,119 +2154,20 @@ http://202.70.146.135:8000/play/a005/index.m3u8
       "category": "",
       "type": "Free",
       "link": "https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf",
-      "id": "Ls4QqcR4RQ8"
-    },
-    {
-      "name": "Times Now (720p) [Geo-blocked]",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8",
-      "id": "GBX4eTlBcxY"
-    },
-    {
-      "name": "Total Bhakti (1080p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8",
-      "id": "ZkuLM7PsEDI"
-    },
-    {
-      "name": "TV9 Bharatvarsh (720p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "https://vg-tv9yupp.vgcdn.net/vglive-sk-468570/v1/019dfce4b3371ea55784752988544/019dfce515ea1ea540a871e333259/main.m3u8",
-      "id": "prlrelQqCGE"
-    },
-    {
-      "name": "Unique TV (576p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8",
-      "id": "u8lQHIWhzKY"
-    },
-    {
-      "name": "VIP News (360p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
-      "id": "f6gwGo2ZZlc"
-    },
-    {
-      "name": "Vyas NIC (576p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8",
-      "id": "dv2-a9spstQ"
-    },
-    {
-      "name": "WION (1080p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
-      "id": "qpbJm7EaCWo"
-    },
-    {
-      "name": "WION (720p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8",
-      "id": "4RO8xIdnwQw"
-    },
-    {
-      "name": "WION (576p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "https://trs1.aynaott.com/wion/index.m3u8",
-      "id": "Hx287f8pa7Y"
-    },
-    {
-      "name": "WION (504p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8",
-      "id": "Yv_gL0aldKk"
-    },
-    {
-      "name": "WION (480p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "https://d7x8z4yuq42qn.cloudfront.net/index_5.m3u8",
-      "id": "b5BwrwR_7gs"
-    },
-    {
-      "name": "WION (360p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "https://d7x8z4yuq42qn.cloudfront.net/index_4.m3u8",
-      "id": "wkWWso5CH6w"
-    },
-    {
-      "name": "WION (240p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8",
+
+
+https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
 
 
 
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/WION.png",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
-
-
-
-#EXTINF:-1 group-title="TV💠" tvg-logo="   https://dtil.tmsimg.com/assets/GNLZZGG00230Y44.png?utm_source=chatgpt.com",Z Bihar
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230Y44.png?utm_source=chatgpt.com",Z Bihar
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeebiharjharkhand/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28077955-07d7-4ae2-8b11-9f318cd69420/main.m3u8
+
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png",YRF MUSIC🌀
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/8XM.png" group-title="TV💠",8XM
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/b4u-music.png" group-title="TV💠",B4U Music
