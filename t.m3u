@@ -199,6 +199,19 @@ http://66.102.126.10:8000/play/a01e/index.m3u8
 #EXTINF:-1 group-title="TV💠" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/B4umovies.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",B4U Movies
 http://66.102.126.10:8000/play/a01n/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="PRO✅",COLORS CINEPLEX HD
+http://66.102.126.10:8000/play/a06z/index.m3u8
+http://66.102.126.10:8000/play/a076/index.m3u8
+#EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="PRO✅",Colors Cineplex Bollywood
+http://66.102.126.10:8000/play/a01a/index.m3u8
+#EXTINF:-1 tvg-id="colors-cineplex-superhit" tvg-name="Colors Cineplex Superhit" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png" group-title="PRO✅",Colors Cineplex Superhit
+
+
+
+
+
+
+
 A1 TV  
 http://66.102.126.10:8000/play/a04q/index.m3u8  
   
@@ -297,21 +310,12 @@ ARYZindagi
 http://66.102.126.10:8000/play/a031/index.m3u8  
 
   
-  
-  
-  
-
-COLORS CINIPLEX HD  
-http://66.102.126.10:8000/play/a06z/index.m3u8  
-
-Capital TV  
-http://66.102.126.10:8000/play/a02y/index.m3u8  
 
 Cartoon Network  
 http://66.102.126.10:8000/play/a02n/index.m3u8  
 
 Colors Cineplex Bollywood  
-http://66.102.126.10:8000/play/a01a/index.m3u8  
+  
 
 Colors HD - Rs 19.00  
 http://66.102.126.10:8000/play/a00a/index.m3u8  
