@@ -599,22 +599,7 @@ http://202.70.146.135:8000/play/a02t/index.m3u8
 
 
 http://202.70.146.135:8000/play/a005/index.m3u8
-      "id": "_Gp6tdlcSBk"
-    },
-    {
-      "name": "Star Plus HD",
-      "category": "Serials",
-      "type": "Paid",
-      "link": "",
-      "id": "9mnlpObgYOg"
-    },
-    {
-      "name": "Star Gold Thrills HD",
-      "category": "Movies",
-      "type": "Paid",
-      "link": "http://202.70.146.135:8000/play/a024/index.m3u8",
-      "id": "DxQnH2lz7Ag"
-    },
+,
     {
       "name": "Sony SAB HD",
       "category": "Serials",
