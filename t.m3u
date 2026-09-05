@@ -198,15 +198,22 @@ http://66.102.126.10:8000/play/a001/index.m3u8
 http://66.102.126.10:8000/play/a01e/index.m3u8
 #EXTINF:-1 group-title="TV💠" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/B4umovies.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",B4U Movies
 http://66.102.126.10:8000/play/a01n/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="PRO✅",COLORS CINEPLEX HD
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="TV💠",COLORS CINEPLEX HD
 http://66.102.126.10:8000/play/a06z/index.m3u8
 http://66.102.126.10:8000/play/a076/index.m3u8
-#EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="PRO✅",Colors Cineplex Bollywood
+#EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="TV💠",Colors Cineplex Bollywood
 http://66.102.126.10:8000/play/a01a/index.m3u8
-#EXTINF:-1 tvg-id="colors-cineplex-superhit" tvg-name="Colors Cineplex Superhit" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png" group-title="PRO✅",Colors Cineplex Superhit
-
-
+#EXTINF:-1 tvg-id="colors-cineplex-superhit" tvg-name="Colors Cineplex Superhit" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png" group-title="TV💠",Colors Cineplex Superhit
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png" group-title="TV💠",Cartoon Network
+http://66.102.126.10:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="TV💠" tvg-logo="http://alixbd.com/assets/images/colors-hd.png",Colors HD
+http://66.102.126.10:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="TV💠" tvg-logo="http://alixbd.com/assets/images/colors-hd.png",Colors Infinity HD
+http://66.102.126.10:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="TV💠" tvg-logo="http://alixbd.com/assets/images/colors-hd.png",Colors HD
+http://202.70.146.135:8000/play/a00b/index.m3u8 
+#EXTINF:-1  group-title="TV💠" tvg-logo="http://alixbd.com/assets/images/starplus.png",Star Plus HD
+http://202.70.146.135:8000/play/a009/index.m3u8
 
 
 
@@ -311,17 +318,9 @@ http://66.102.126.10:8000/play/a031/index.m3u8
 
   
 
-Cartoon Network  
-http://66.102.126.10:8000/play/a02n/index.m3u8  
 
-Colors Cineplex Bollywood  
+
   
-
-Colors HD - Rs 19.00  
-http://66.102.126.10:8000/play/a00a/index.m3u8  
-
-Colors Infinity HD  
-http://66.102.126.10:8000/play/a014/index.m3u8  
 
 Discover Pakistan  
 http://66.102.126.10:8000/play/a03v/index.m3u8  
@@ -602,30 +601,21 @@ http://66.102.126.10:8000/play/a01y/index.m3u8
 
 
 
-"id": "NXo_9BATCeE"
 
 
 
+http://202.70.146.135:8000/play/a02t/index.m3u8
 
-},
-    {
-      "name": "Sonic ",
-      "category": "Cartoon",
-      "link": "http://202.70.146.135:8000/play/a02t/index.m3u8",
-      "id": "rvJTLkFI8d4"
-    },
-    {
-      "name": "Sony Entertainment Television HD",
-      "category": "Serials",
-      "type": "Paid",
-      "link": "http://202.70.146.135:8000/play/a005/index.m3u8",
+
+
+http://202.70.146.135:8000/play/a005/index.m3u8
       "id": "_Gp6tdlcSBk"
     },
     {
       "name": "Star Plus HD",
       "category": "Serials",
       "type": "Paid",
-      "link": "http://202.70.146.135:8000/play/a009/index.m3u8",
+      "link": "",
       "id": "9mnlpObgYOg"
     },
     {
@@ -645,7 +635,7 @@ http://66.102.126.10:8000/play/a01y/index.m3u8
     {
       "name": "Colors HD ",
       "category": "Serials",
-      "link": "http://202.70.146.135:8000/play/a00b/index.m3u8",
+      "link": "",
       "id": "1DIHhGJw8xo"
     },
     {
@@ -2346,7 +2336,7 @@ http://38.96.178.205/SONYHD/index.m3u8
 http://103.159.180.34:5001/live/3418.m3u8
 #EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/starplus.png",Star Plus HD
 http://tvsen7.aynascope.net/sphdbd/index.m3u8
-#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/colors-hd.png",Colors HD
+#EXTINF:-1 group-title="TV💠" tvg-logo="http://alixbd.com/assets/images/colors-hd.png",Colors HD
 http://59.103.38.46:8000/play/a00b/index.m3u8
 
 
