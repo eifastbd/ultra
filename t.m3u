@@ -2258,46 +2258,15 @@ http://202.70.146.135:8000/play/a005/index.m3u8
       "category": "",
       "type": "Free",
       "link": "https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8",
-      "id": "4vz4atuiguw"
-    },
-    {
-      "name": "YRF Music (1080p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8",
-      "id": "4Zg0LFjzkoI"
-",
-      "link": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8",
-      "id": "OoVNLp67E_M"
-    },
-    {
-      "name": "Zee Bihar Jharkhand (720p)",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeebiharjharkhand/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28077955-07d7-4ae2-8b11-9f318cd69420/main.m3u8",
-      "id": "G2aKUGlzdH8"
-    },
-    {
-      "name": "Zee Bollymovies (1080p) [Geo-blocked]",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8",
-      "id": "yWN6MwY60Qo"
-    },
-    {
-      "name": "Zee Bollymovies Australia (1080p) [Geo-blocked]",
-      "logo": "",
-      "category": "",
-      "type": "Free",
-      "link": "https://amg17931-zee-amg17931c8-samsung-au-8871.playouts.now.amagi.tv/playlist.m3u8",
-"
 
 
 
 
+
+
+
+#EXTINF:-1 group-title="TV💠" tvg-logo="   https://dtil.tmsimg.com/assets/GNLZZGG00230Y44.png?utm_source=chatgpt.com",Z Bihar
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeebiharjharkhand/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28077955-07d7-4ae2-8b11-9f318cd69420/main.m3u8
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/8XM.png" group-title="TV💠",8XM
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/b4u-music.png" group-title="TV💠",B4U Music
