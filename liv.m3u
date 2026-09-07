@@ -23,6 +23,17 @@
 
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn-1.webcatalog.io/catalog/magentasport/magentasport-icon-unplated.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",Magenta Sports 1
+http://f5944e6a.edemist.com/iptv/9EMB9V8Z6Z8CB7/31578/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/eleven-sports-1.png?utm_source=chatgpt.com" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",Eleven Sports 1
+http://vpzj3gcw.virelloso.top/iptv/W7QS9MQ998T25T/20068/index.m3u8
+#EXTINF:-1,Suspilne
+https://dtv.vol.net.ua/Suspilne-Sport/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1z5BGPZ/20240823_024712.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",A Sports HD
 http://66.102.126.10:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/T_Sports.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",T-SPORTS 
