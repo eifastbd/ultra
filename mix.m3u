@@ -650,10 +650,11 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000001971|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000001971
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="PRO✅",Sonic Bangla👻
-#http://live.balajibroadband.com:3500/live/1345.m3u8
-http://103.165.93.31:8095/sonic/tracks-v1a1/mono.m3u8
+http://live.balajibroadband.com:3500/live/1345.m3u8
+#http://103.165.93.31:8095/sonic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="PRO✅",Sonic👻
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/205.ts
+#http://live.balajibroadband.com:3500/live/1341.m3u8
+#http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/205.ts
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="PRO✅",Nick Bangla👻
 http://live.balajibroadband.com:3500/live/1341.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="PRO✅",Nick Bangla👻
