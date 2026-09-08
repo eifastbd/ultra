@@ -595,6 +595,19 @@ https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 
 
 
+
+
+
+
+
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://s3.aynaott.com/storage/a89142109d049ae325fd1681b50bfffb",Cartoon Network
+https://tvsen5.aynascope.net/cartoonnetwork/index.m3u8?e=1764396104&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=f01b3f48333e20b4895b8678841675af
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://s3.aynaott.com/storage/31a070024b6516e3738baec70168f0b6",Disney JR
+https://tvsen7.aynascope.net/disneyjr/index.m3u8?e=1764396105&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=ef459e53678afb55799b4cd3a3cb983e
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://s3.aynaott.com/storage/a130687320f6b07db4bc3729b9d5e96e",Nicktoons
+https://tvsen5.aynascope.net/nicktoons/index.m3u8?e=1764396106&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=0968e1d6ce462769afc5177f5d96b93f
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://s3.aynaott.com/storage/921409bfe77e2e3d32492116bc22fa3e",Nickjr
+https://tvsen5.aynascope.net/nickjr/index.m3u8?e=1764396106&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=e6020700d9b07a3d00574960dbabb6bf
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://s3.aynaott.com/storage/a0c74b576321da5aa33a69806401caf1",Disney Channel
 https://tvsen7.aynascope.net/disney/index.m3u8?e=1764396108&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=6a987fe96914a046626485949e910f09
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://www.animationxpress.com/wp-content/uploads/2019/11/Wow-Kidz-Logo.jpg?utm_source=chatgpt.com",Wow Kidz
