@@ -167,14 +167,16 @@ https://sscsott.com/srt/noortvuk/index.m3u8
 
 
 
-
-
-#EXTINF:-1 ,Arabica TV
+#EXTINF:0 group-title="SKO💧" tvg-logo="https://i.imgur.com/sTOoDy1.png",Arabica TV
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
 
 
-#EXTINF:-1 ,REAL WILD
+
+
+#EXTINF:-1 tvg-id="019de785-3b9e-7f03-a443-6f49d828ee88" tvg-name="Wild TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_aa21af3895b9d45aab5b8b41517ad1f7_playmist_wild_tv.jpg" group-title="SKO💧",Wild TV
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+#EXTINF:-1 tvg-id="019de785-3b9e-7f03-a443-6f49d828ee88" tvg-name="Wild TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_aa21af3895b9d45aab5b8b41517ad1f7_playmist_wild_tv.jpg" group-title="SKO💧",Wild TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 
 #EXTINF:-1 ,DW NEWS
