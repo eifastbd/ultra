@@ -17,6 +17,36 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 ,TAANDOB (2025)
+https://pub-09a44fb3d47c4fd4b548a2e5ee793301.r2.dev/Hdcam/DongoBD.com%20-%20Borbaad%20%282025%29%20HDRip%20%5BBengali%5D%201080p.mkv
+#EXTINF:-1 ,Maya: The Love
+https://pub-09a44fb3d47c4fd4b548a2e5ee793301.r2.dev/bdmov/Maya%20The%20Love%202024%20ottbangla.store-Bengali%20WEBRip%20720p.mkv
+#EXTINF:-1 ,Nell Shukh
+https://time7517jg.rustimfahum.workers.dev/0:/ottbangla.store%20Neel%20Shukh%202024%20Bengali%20Binge%20WEB-DL.mkv
+#EXTINF:-1 ,Ghumpori
+https://time7517jg.rustimfahum.workers.dev/0:/ottbangla.store-Ghumpori%202025Bengali%20Chorki%20WEB-DL.mkv
+#EXTINF:-1 ,Famale 4
+https://khagbuiya.ottbangla3s.workers.dev/0:/baji/female%204%20otttbangkla.lol.mkv
+
+
 #EXTINF:-1,tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" group-title="SKO💧",Shomoy TV
 http://116.204.149.16/somoytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/R_tv.png" group-title="SKO💧",RTV
@@ -45,6 +75,8 @@ https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 
 
 
+#EXTINF:-1 ,Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 
 
@@ -71,45 +103,13 @@ https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1,Bengali Beats
-https://tplay.live/originals/bengali-beats/index.m3u8
-#EXTINF:-1,Ilm TV
-https://tplay.live/originals/ilm-tv/index.m3u8
-#EXTINF:-1,24/7 Motu Patlu 
-https://tplay.live/playlist/kids/motu-patlu/index.m3u8
-#EXTINF:-1,24/7 Doraemon
-https://tplay.live/playlist/kids/doraemon/index.m3u8
-#EXTINF:-1,24/7 Oggy and the Cockroaches
-https://tplay.live/playlist/kids/oggy-and-the-cockroaches/index.m3u8
-#EXTINF:-1,24/7 Gopal Bhar
-https://tplay.live/playlist/kids/gopal-bhar/index.m3u8
-#EXTINF:-1,24/7 Bantul The Great 
-https://tplay.live/playlist/kids/bantul-the-great/index.m3u8
-#EXTINF:-1,24/7 Bangla Movies
-https://tplay.live/playlist/movies/bangla-movies/index.m3u8
-#EXTINF:-1,24/7 Bollywood Movies
-https://tplay.live/playlist/movies/bollywood-movies/index.m3u8
-#EXTINF:-1,24/7 Dubbed Movies
-https://tplay.live/playlist/movies/dubbed-movies/index.m3u8
-#EXTINF:-1,24/7 T Play Special
-https://tplay.live/playlist/music/tplay-special/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY বাংলা
 http://103.159.180.34:5001/live/3428.m3u8
-#EXTINF:-1 ,TAANDOB (2025) - 1080p WEB-DL
-https://pub-09a44fb3d47c4fd4b548a2e5ee793301.r2.dev/Hdcam/DongoBD.com%20-%20Borbaad%20%282025%29%20HDRip%20%5BBengali%5D%201080p.mkv
-#EXTINF:-1 ,Maya: The Love
-https://pub-09a44fb3d47c4fd4b548a2e5ee793301.r2.dev/bdmov/Maya%20The%20Love%202024%20ottbangla.store-Bengali%20WEBRip%20720p.mkv
-#EXTINF:-1 ,Nell Shukh
-https://time7517jg.rustimfahum.workers.dev/0:/ottbangla.store%20Neel%20Shukh%202024%20Bengali%20Binge%20WEB-DL.mkv
-#EXTINF:-1 ,Ghumpori
-https://time7517jg.rustimfahum.workers.dev/0:/ottbangla.store-Ghumpori%202025Bengali%20Chorki%20WEB-DL.mkv
-#EXTINF:-1 ,Female 4 Series
-https://khagbuiya.ottbangla3s.workers.dev/0:/baji/female%204%20otttbangkla.lol.mkv
 
 
-#EXTINF:-1 ,Deshi TV
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+
 #EXTINF:-1 ,Arabica TV
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 ,PBS Kids
