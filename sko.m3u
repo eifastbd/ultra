@@ -86,7 +86,21 @@ http://str24.l9574.com/513.stream/index.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1 group-title="SKO💧" group-logo="https://yt3.googleusercontent.com/AQLUH_ixhkqBRCV9M1rtWRQhUFiXB1QvX-l1DIbrfmeMjrU8kJzAeCaiupHjEPEz9M2daSfm9A=s900-c-k-c0x00ffffff-no-rj" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvdc0C6H_VHLzzCQpGTsMnY0tgMc-5MxAL63T2HVPWvaG0gVEzBxcKifo&s=10",Channel S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
+#EXTINF:-1 ,EKUSHEY TV
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 ,MOVIE BANGLA
+http://alvetv.com/moviebanglatv/8080/index.m3u8
 
+#EXTINF:-1 ,CHANNEL S BD
+https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
+#EXTINF:-1 ,Me-tv
+https://iptvbd.live/metv1080/1080.m3u8
+#EXTINF:-1 ,JAGO NEWS 24
+https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+#EXTINF:-1 ,MILLENIUM TV
+https://app.ncare.live/live-orgin/mnews24.stream/playlist.m3u8
+#EXTINF:-1 ,NRB TV
+https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 
 
 
@@ -227,8 +241,6 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:-1 ,MusicTV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-
-
 #EXTINF:-1 ,BhojpuriCinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 ,Animal Planet HD
@@ -237,26 +249,7 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 http://115.187.41.216:8080/hls/digitalfashion/index.m3u8
 #EXTINF:-1 ,FOX NEWS
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,EKUSHEY TV
-https://ekusheyserver.com/etvlivesn.m3u8
 
-#EXTINF:-1 ,GTV
-https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8
-#EXTINF:-1 ,MOVIE BANGLA
-http://alvetv.com/moviebanglatv/8080/index.m3u8
-
-#EXTINF:-1 ,Channel I
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
-#EXTINF:-1 ,CHANNEL S BD
-https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
-#EXTINF:-1 ,Me-tv
-https://iptvbd.live/metv1080/1080.m3u8
-#EXTINF:-1 ,JAGO NEWS 24
-https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
-#EXTINF:-1 ,MILLENIUM TV
-https://app.ncare.live/live-orgin/mnews24.stream/playlist.m3u8
-#EXTINF:-1 ,NRB TV
-https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 #EXTINF:-1 ,TV ONE UK
 https://app.ncare.live/live-orgin/tvoneuksni.stream/playlist.m3u8
 #EXTINF:-1 ,ZOOM
