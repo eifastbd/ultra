@@ -293,6 +293,8 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 ,Only Music
 https://livestream.unlimitedcdn.com/onlymusic/index.m3u8
+#EXTINF:-1 ,Vision Beast
+http://a-edge.bliscdn.com/Visionbeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ABP ANNANDA
 https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
 #EXTINF:-1 ,BANGLA JAGO
@@ -329,26 +331,14 @@ http://a-edge.bliscdn.com/VisionPunjabHD/tracks-v1a1/mono.m3u8
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
 #EXTINF:-1 ,Abp Ananda
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master_1280.m3u8
-#EXTINF:-1 ,R Bangla
-https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/93d674ab-f7a0-404e-88b2-b4f163373dbe/0.m3u8
-#EXTINF:-1 ,News18 Bangla
-https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/News18_Bangla_NW18_MOB-audio_108035_ben=108000-video=2297600.m3u8
-#EXTINF:-1 ,TV9 Bangla
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/pub-iotv9banaen8yq/live_720p/chunks.m3u8
-#EXTINF:-1 ,Tv News 10
-https://server.playontv.in/tvnews10/tracks-v1/mono.m3u8
-#EXTINF:-1 ,News Live
-https://prideeast.thelegitpro.in/newslive/newslive/index.fmp4.m3u8
+
 #EXTINF:-1 ,DD Assam
 https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
 #EXTINF:-1 ,DD Trippura
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/index_3.m3u8
-#EXTINF:-1 ,Zillarbarta TV
-https://server.zillarbarta.com/zillarbarta/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 ,Vision Beast
-http://a-edge.bliscdn.com/Visionbeats/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Zillarbarta TV
-https://server.zillarbarta.com/zillarbarta/index.m3u8
+
+
+
 #EXTINF:-1 ,Sananda TV
 http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
 #EXTINF:-1 ,News 18 Assam
