@@ -146,11 +146,78 @@ http://live.dataplayer.in:8080/live/3mjaanbangla.m3u8
 #EXTINF:-1 ,SNB Cinema
 http://103.182.83.246/hls/snbcinema.m3u8
 
-
+#EXTINF:-1 ,Sananda TV
+http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRVFdWp9xwlb_aBt92V8P8V52hyphenhyphen0Kn2Qz8ge4cbaijlKQdH86RXexTJrvskKsSVMrLbDaLsRwFSK7VdFzdYd9u2FhdHs6o3erPlx9NehopiqcH2tK9ApMNlavhZYLVx2WhpUhpm0efu4OxgVDTYTIZeBi59t5bK9kJHEKtfgoSzC2lNVABB2TMvbiB1w/s600/Nur_20251219_134007_0000.png" group-title="SKO💧",BD movie
 https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8
 
 
+#EXTINF:-1 ,Friends TV
+https://server.playontv.in/friendstv/index.m3u8
+
+
+#EXTINF:-1 ,Pratidin Time
+https://server.thelegitpro.in/pratidintime/pratidintime/index.fmp4.m3u8
+
+#EXTINF:-1 ,Amar Bangla
+http://115.187.41.216:8080/hls/amarbangla/index.m3u8
+#EXTINF:-1 ,Amar Digital
+http://115.187.41.216:8080/hls/amardigital/index.m3u8
+#EXTINF:-1 ,MON TV BANGLA
+http://115.187.41.216:8080/hls/montvbangla/index.m3u8
+#EXTINF:-1 ,Sananda Tv
+http://115.187.41.216:8080/hls/sanandatv/index.m3u8
+#EXTINF:-1 ,Salam Bangla
+http://115.187.41.216:8080/hls/salambangla/index.m3u8
+#EXTINF:-1 ,Bhakti Bangla
+http://115.187.41.216:8080/hls/bhaktibangla/index.m3u8
+#EXTINF:-1 ,JTV BHAKTIGITI
+http://103.67.97.44:82/0.ts
+#EXTINF:-1 ,Baktitv Bangla
+http://185.193.19.32:8082/baktitv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Gram Bangla
+http://live.dataplayer.in:8080/live/grambangla.m3u8
+
+#EXTINF:-1 ,RB TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
+#EXTINF:-1 ,ANANDA TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
+#EXTINF:-1 ,ATN BANGLA UK
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF:-1 ,CHANNEL S HD
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
+#EXTINF:-1 ,JagoNews24 TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8
+#EXTINF:-1 ,MY TV HD
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
+#EXTINF:-1 ,Biswa-Bangla HD
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/playlist.m3u8
+#EXTINF:-1 ,CHANNEL S UK
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/playlist.m3u8
+#EXTINF:-1 ,MILLENNIUM 24 USA
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mnews24.stream/playlist.m3u8
+#EXTINF:-1 ,MILLENNIUM TV USA
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/playlist.m3u8
+#EXTINF:-1 ,Ntv Europe
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
+#EXTINF:-1 ,NRB TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/playlist.m3u8
+#EXTINF:-1 ,Gseries Drama
+https://vods2.aynascope.net/gseriesDrama/index.m3u8
+#EXTINF:-1 ,Time Television
+https://cdn.streamcast.xyz/timetv/index.m3u8
+#EXTINF:-1 ,Probashinews24
+http://158.69.24.53:8080/probashi_tv/index.m3u8
+#EXTINF:-1 ,Sangeet Bangla
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/sbin.stream/playlist.m3u8
+#EXTINF:-1 ,Amar Bangla Digital
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amardigital.stream/playlist.m3u8
+#EXTINF:-1 ,Amar Bangla
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/playlist.m3u8
+#EXTINF:-1 ,Dhoom Music Bangla
+https://previewsecgire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/pr_delay_ire_sd/dhoom/master/chunklist.m3u8
+#EXTINF:-1 ,Sristi Tv
+https://legitpro.co.in/live7/sristitv/index.m3u8
 
 
 
@@ -325,13 +392,10 @@ http://115.187.41.216:8080/salambangla.ts
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 #EXTINF:-1 ,Vision Punjab
 http://a-edge.bliscdn.com/VisionPunjabHD/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:-1 ,Zee 24 Gonta
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
 #EXTINF:-1 ,Abp Ananda
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master_1280.m3u8
-
 #EXTINF:-1 ,DD Assam
 https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
 #EXTINF:-1 ,DD Trippura
@@ -339,118 +403,10 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/in
 
 
 
-#EXTINF:-1 ,Sananda TV
-http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
-#EXTINF:-1 ,News 18 Assam
-https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 ,News 18 Bangla
 https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 ,Tara TV
-https://legitpro.co.in/taratv/taratv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Ekhon Kolkata
-https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8
-#EXTINF:-1 ,Friends TV
-https://server.playontv.in/friendstv/index.m3u8
-#EXTINF:-1 ,Shree Bangla
-https://server.playontv.in/SHREEBANGLA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Kaliyaganj TV Kirton
-https://server.playontv.in/mmix/index.m3u8
-#EXTINF:-1 ,Ctv nakd Plus
-https://legitpro.co.in/ctvnakdplus/index.m3u8
-#EXTINF:-1 ,Cn News
-https://legitpro.co.in/cnnnews/index.m3u8
-#EXTINF:-1 ,Bhi Channel
-https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8
-#EXTINF:-1 ,Pratidin Time
-https://server.thelegitpro.in/pratidintime/pratidintime/index.fmp4.m3u8
-#EXTINF:-1 ,Pratham Khabar 24x7
-https://legitpro.co.in/hls2/newstime/index.m3u8
-#EXTINF:-1 ,Enter 10 Bangla
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
-#EXTINF:-1 ,Amar Bangla
-http://115.187.41.216:8080/hls/amarbangla/index.m3u8
-#EXTINF:-1 ,Amar Digital
-http://115.187.41.216:8080/hls/amardigital/index.m3u8
-#EXTINF:-1 ,MON TV BANGLA
-http://115.187.41.216:8080/hls/montvbangla/index.m3u8
-#EXTINF:-1 ,Sananda Tv
-http://115.187.41.216:8080/hls/sanandatv/index.m3u8
-#EXTINF:-1 ,Salam Bangla
-http://115.187.41.216:8080/hls/salambangla/index.m3u8
-#EXTINF:-1 ,Bhakti Bangla
-http://115.187.41.216:8080/hls/bhaktibangla/index.m3u8
-#EXTINF:-1 ,JTV BHAKTIGITI
-http://103.67.97.44:82/0.ts
-#EXTINF:-1 ,Baktitv Bangla
-http://185.193.19.32:8082/baktitv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Gram Bangla
-http://live.dataplayer.in:8080/live/grambangla.m3u8
-#EXTINF:-1 ,Home Tv
-https://server.playontv.in/hometv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Raatdin Tripura
-https://server.playontv.in/raatdintripura/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Neb harat 24
-https://ott.livelegitpro.in:9899/nebharat24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,RENGONI
-https://cdn-7.pishow.tv/live/10018/master.m3u8
-#EXTINF:-1 ,Spondon
-https://cdn-7.pishow.tv/live/10019/master.m3u8
-#EXTINF:-1 ,Rang
-https://cdn-7.pishow.tv/live/10017/master.m3u8
-#EXTINF:-1 ,RB TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
-#EXTINF:-1 ,Flix Srk Tv
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/flixsrktv.stream/playlist.m3u8
-#EXTINF:-1 ,ANANDA TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
-#EXTINF:-1 ,ATN BANGLA UK
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
-#EXTINF:-1 ,CHANNEL S HD
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
-#EXTINF:-1 ,JagoNews24 TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8
-#EXTINF:-1 ,MY TV HD
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
-#EXTINF:-1 ,Biswa-Bangla HD
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/playlist.m3u8
-#EXTINF:-1 ,CHANNEL S UK
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/playlist.m3u8
-#EXTINF:-1 ,MILLENNIUM 24 USA
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mnews24.stream/playlist.m3u8
-#EXTINF:-1 ,MILLENNIUM TV USA
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/playlist.m3u8
-#EXTINF:-1 ,Ntv Europe
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
-#EXTINF:-1 ,NRB TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/playlist.m3u8
-#EXTINF:-1 ,Gseries Drama
-https://vods2.aynascope.net/gseriesDrama/index.m3u8
-#EXTINF:-1 ,Time Television
-https://cdn.streamcast.xyz/timetv/index.m3u8
-#EXTINF:-1 ,Probashinews24
-http://158.69.24.53:8080/probashi_tv/index.m3u8
-#EXTINF:-1 ,Sangeet Bangla
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/sbin.stream/playlist.m3u8
-#EXTINF:-1 ,Amar Bangla Digital
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amardigital.stream/playlist.m3u8
-#EXTINF:-1 ,Amar Bangla
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/playlist.m3u8
-#EXTINF:-1 ,Samay Kolkata
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/samaykolkata.stream/playlist.m3u8
-#EXTINF:-1 ,MON TV BANGLA
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/montv.stream/playlist.m3u8
-#EXTINF:-1 ,Dhoom Music Bangla
-https://previewsecgire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/pr_delay_ire_sd/dhoom/master/chunklist.m3u8
-#EXTINF:-1 ,Sristi Tv
-https://legitpro.co.in/live7/sristitv/index.m3u8
-#EXTINF:-1 ,Pratham Khabar Tv
-https://livelegitpro.in/newstime/newstime/index.fmp4.m3u8
-#EXTINF:-1 ,Tara TV
-https://legitpro.co.in/taratv/taratv/index.m3u8
-#EXTINF:-1 ,SONY AATH
-http://103.180.212.191:3500/live/697.m3u8
-#EXTINF:-1 ,U Bangla TV
-http://103.180.212.191:3500/live/2184.m3u8
+
+
 #EXTINF:-1 ,Sun Bangla
 http://103.180.212.191:3500/live/1669.m3u8
 #EXTINF:-1 ,Colors Bangla
