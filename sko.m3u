@@ -32,9 +32,10 @@
 
 
 
-#EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://itcnbd.live/images/95357b2f224dabfec27bf87dffb952b2.png" group-title="TV💠",T Sports HD
+#EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://itcnbd.live/images/95357b2f224dabfec27bf87dffb952b2.png" group-title="SKO💧",T Sports HD
 http://str24.l9574.com/905.stream/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_5704c544bcbe25521134b299a0298be7_playmist_ptv_sports_400x400.jpg" group-title="SKO",PTV Sports HD
+http://str24.l9574.com/601.stream/index.m3u8
 
 http://str24.l9574.com/601.stream/index.m3u8
 
