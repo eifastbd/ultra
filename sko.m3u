@@ -35,6 +35,10 @@
 #EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://itcnbd.live/images/95357b2f224dabfec27bf87dffb952b2.png" group-title="TV💠",T Sports HD
 http://str24.l9574.com/905.stream/index.m3u8
 
+
+http://str24.l9574.com/601.stream/index.m3u8
+
+
 #EXTINF:-1 ,TAANDOB (2025)
 https://pub-09a44fb3d47c4fd4b548a2e5ee793301.r2.dev/Hdcam/DongoBD.com%20-%20Borbaad%20%282025%29%20HDRip%20%5BBengali%5D%201080p.mkv
 #EXTINF:-1 ,Maya: The Love
@@ -82,12 +86,11 @@ http://str24.l9574.com/510.stream/index.m3u8
 http://str24.l9574.com/502.stream/index.m3u8
 #EXTINF:-1 group-title="SKO💧" tvg-logo="",Time Telelvision
 http://str24.l9574.com/506.stream/index.m3u8
-
-
+#EXTINF:-1 group-title="SKO💧" tvg-logo="",Times TV
 http://str24.l9574.com/513.stream/index.m3u8
 
 
-http://str24.l9574.com/601.stream/index.m3u8
+
 
 http://str24.l9574.com/610.stream/index.m3u8
 
