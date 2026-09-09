@@ -219,7 +219,17 @@ https://previewsecgire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #EXTINF:-1 ,Sristi Tv
 https://legitpro.co.in/live7/sristitv/index.m3u8
 
+#EXTINF:-1 ,SANANDA TV
+http://115.187.41.216:8080/sanandatv.ts
 
+#EXTINF:-1 ,Ekushey TV
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-1 ,Love Nature
+https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+
+#EXTINF:-1 ,ATN BANGLA UK
+https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="SKO💧" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxW1Tk5YcPMJtI5hh47SGGuJnQWY9YwkYZS9vOt_dJtQ5lRsS1vXarCGc6ixKgdEBAp2Y-K8xJyVSdiv3D62oWv_E5An9kHP_wSawaYiflPVttCjb8BW8ayfJV0JfR-TzcMD75P5hsyNzYGmHe6BK2KvXABCLMtYBANLhYQ8RUyZVXTNQHqggCb42qYg/s1080/1000023429.png",Rongeen TV🇮🇳
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
@@ -400,201 +410,14 @@ https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master_1280.m
 https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
 #EXTINF:-1 ,DD Trippura
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/index_3.m3u8
-
-
-
 #EXTINF:-1 ,News 18 Bangla
 https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
 
 
-#EXTINF:-1 ,Sun Bangla
-http://103.180.212.191:3500/live/1669.m3u8
-#EXTINF:-1 ,Colors Bangla
-http://103.180.212.191:3500/live/1369.m3u8
-#EXTINF:-1 ,Colors Bangla Cinema
-http://103.180.212.191:3500/live/1657.m3u8
-#EXTINF:-1 ,Colors Bangla HD
-http://103.180.212.191:3500/live/756.m3u8
-#EXTINF:-1 ,Zee Bangla
-http://103.180.212.191:3500/live/625.m3u8
-#EXTINF:-1 ,BD: KOLKATA TV
-http://103.180.212.191:3500/live/1264.m3u8
-#EXTINF:-1 ,ABP Ananda
-http://103.180.212.191:3500/live/672.m3u8
-#EXTINF:-1 ,Aakaash Aath
-http://103.180.212.191:3500/live/698.m3u8
-#EXTINF:-1 ,Tv9
-http://103.180.212.191:3500/live/1735.m3u8
-#EXTINF:-1 ,Boogle Bangla
-http://103.180.212.191:3500/live/2817.m3u8
-#EXTINF:-1 ,BD: DHOOM MUSIC BANGLA
-http://103.180.212.191:3500/live/3006.m3u8
-#EXTINF:-1 ,Rongeen TV
-http://103.180.212.191:3500/live/1667.m3u8
-#EXTINF:-1 ,Tara TV
-http://103.180.212.191:3500/live/1612.m3u8
-#EXTINF:-1 ,Channel Vision
-http://103.180.212.191:3500/live/1762.m3u8
-#EXTINF:-1 ,Friends TV
-http://103.180.212.191:3500/live/2354.m3u8
-#EXTINF:-1 ,Maya Tv
-http://103.180.212.191:3500/live/3008.m3u8
-#EXTINF:-1 ,BHI Channel
-http://103.180.212.191:3500/live/2914.m3u8
-#EXTINF:-1 ,BHOOMI 24x7
-http://103.180.212.191:3500/live/1494.m3u8
-#EXTINF:-1 ,Tribe TV
-http://103.180.212.191:3500/live/1891.m3u8
-#EXTINF:-1 ,Samay Kolkata
-http://103.180.212.191:3500/live/2228.m3u8
-#EXTINF:-1 ,News Time TV
-http://103.180.212.191:3500/live/687.m3u8
-#EXTINF:-1 ,News18 Bangla News
-http://103.180.212.191:3500/live/717.m3u8
-#EXTINF:-1 ,Express News
-http://103.180.212.191:3500/live/1771.m3u8
-#EXTINF:-1 ,Ananda Barta
-http://103.180.212.191:3500/live/1796.m3u8
-#EXTINF:-1 ,Amaar Bangla
-http://103.180.212.191:3500/live/1962.m3u8
-#EXTINF:-1 ,Raatdin News Network
-http://103.180.212.191:3500/live/2027.m3u8
-#EXTINF:-1 ,NB News
-http://103.180.212.191:3500/live/2022.m3u8
-#EXTINF:-1 ,SKY 12
-http://103.180.212.191:3500/live/1708.m3u8
-#EXTINF:-1 ,24Hrs TV
-http://103.180.212.191:3500/live/1725.m3u8
-#EXTINF:-1 ,Globe TV
-http://103.180.212.191:3500/live/2188.m3u8
-#EXTINF:-1 ,NK TV Plus
-http://103.180.212.191:3500/live/1757.m3u8
-#EXTINF:-1 ,Newslive
-http://103.180.212.191:3500/live/613.m3u8
-#EXTINF:-1 ,R Bangla
-http://103.180.212.191:3500/live/2780.m3u8
-#EXTINF:-1 ,NKTV BANGLA
-http://103.180.212.191:3500/live/2933.m3u8
-#EXTINF:-1 ,Bangla Jago TV
-http://103.180.212.191:3500/live/3019.m3u8
-#EXTINF:-1 ,CTVN AKD Plus
-http://103.180.212.191:3500/live/1260.m3u8
-#EXTINF:-1 ,Calcutta News
-http://103.180.212.191:3500/live/1261.m3u8
-#EXTINF:-1 ,Rang
-http://103.180.212.191:3500/live/623.m3u8
-#EXTINF:-1 ,Ramdhenu
-http://103.180.212.191:3500/live/639.m3u8
-#EXTINF:-1 ,News18 Assam North East
-http://103.180.212.191:3500/live/627.m3u8
-#EXTINF:-1 ,Prag News
-http://103.180.212.191:3500/live/624.m3u8
-#EXTINF:-1 ,DY 365
-http://103.180.212.191:3500/live/633.m3u8
-#EXTINF:-1 ,North East Live
-http://103.180.212.191:3500/live/637.m3u8
-#EXTINF:-1 ,Assam Talks
-http://103.180.212.191:3500/live/675.m3u8
-#EXTINF:-1 ,TIME8
-http://103.180.212.191:3500/live/1432.m3u8
-#EXTINF:-1 ,ND 24
-http://103.180.212.191:3500/live/1733.m3u8
-#EXTINF:-1 ,Pratham Khabar 24x7
-http://103.180.212.191:3500/live/1856.m3u8
-#EXTINF:-1 ,Jonack
-http://103.180.212.191:3500/live/765.m3u8
-#EXTINF:-1 ,Spondon
-http://103.180.212.191:3500/live/2435.m3u8
-#EXTINF:-1 ,Current Trend Assam
-http://103.180.212.191:3500/live/2961.m3u8
-#EXTINF:-1 ,Purnima TV
-http://103.180.212.191:3500/live/1740.m3u8
-#EXTINF:-1 ,Sristi TV
-https://legitpro.co.in/live7/sristitv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,RENGONI
-https://mumt05.tangotv.in/RENGONI/index.m3u8
-#EXTINF:-1 ,Spondon
-https://mumt05.tangotv.in/SPONDON/index.m3u8
-#EXTINF:-1 ,SANANDA TV
-http://115.187.41.216:8080/sanandatv.ts
-#EXTINF:-1 ,NKTV BANGLA  (Pishow)
-https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8
-#EXTINF:-1 ,Nick Bangla
-https://mini.allinonereborn.fun/jiotv-www/app/ts_live_1341.m3u8
-#EXTINF:-1 ,Sonic Bangla
-https://mini.allinonereborn.fun/jiotv-www/app/ts_live_1345.m3u8
-#EXTINF:-1 ,Pogo Hindi
-https://mini.allinonereborn.fun/jiotv-www/app/ts_live_559.m3u8
-#EXTINF:-1 ,Discovery Kids 2
-https://mini.allinonereborn.fun/jiotv-www/app/ts_live_554.m3u8
-#EXTINF:-1 ,Chintu TV
-https://mini.allinonereborn.fun/jiotv-www/app/ts_live_555.m3u8
-#EXTINF:-1 ,Kochu TV
-https://mini.allinonereborn.fun/jiotv-www/app/ts_live_556.m3u8
-#EXTINF:-1 ,Kushi TV
-https://mini.allinonereborn.fun/jiotv-www/app/ts_live_558.m3u8
-#EXTINF:-1 ,Cartoon Network Hindi
-https://mini.allinonereborn.fun/jiotv-www/app/ts_live_816.m3u8
-#EXTINF:-1 ,CN HD+ English
-https://mini.allinonereborn.fun/jiotv-www/app/ts_live_1079.m3u8
-#EXTINF:-1 ,Highbrow
-https://mini.allinonereborn.fun/jiotv-www/app/ts_live_1216.m3u8
-#EXTINF:-1 ,Nick HD+
-https://mini.allinonereborn.fun/jiotv-www/app/ts_live_1226.m3u8
-#EXTINF:-1 ,Sonic Hindi
-https://mini.allinonereborn.fun/jiotv-www/app/ts_live_815.m3u8
-#EXTINF:-1 ,Nick Hindi
-https://mini.allinonereborn.fun/jiotv-www/app/ts_live_545.m3u8
-#EXTINF:-1 ,HooplaKidz TV
-https://mini.allinonereborn.fun/jiotv-www/app/ts_live_1780.m3u8
-#EXTINF:-1 ,AniTV
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
-#EXTINF:-1 ,Extrema Kids
-https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
-#EXTINF:-1 ,Baby Tv
-https://ml-pull-dvc-myco.io:2096/BABY_TV/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 ,MINIMAX
-https://s2.ideationtec.live/MiniMax/MiniMax.m3u8
-#EXTINF:-1 ,Kid Screation
-http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
-#EXTINF:-1 ,Cartoonito
-http://181.78.4.250:8098/play/a067/index.m3u8
-#EXTINF:-1 ,Discovery Kids
-http://181.78.4.250:8098/play/a08h/index.m3u8
-#EXTINF:-1 ,Karusel
-http://31.148.48.15/Karusel_HD/playlist.m3u8
-#EXTINF:-1 ,Tv8
-https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 #EXTINF:-1 ,Minimax
 https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
-#EXTINF:-1 ,Ani
-http://ott.watch/stream/D3FX33QMIH1/306.m3u8
-#EXTINF:-1 ,Gulli Gril
-http://ott.watch/stream/D3FX33QMIH1/305.m3u8
-#EXTINF:-1 ,Na!oc
-http://ott.watch/stream/D3FX33QMIH1/339.m3u8
-#EXTINF:-1 ,Ekattor TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-#EXTINF:-1 ,Atn Bangla
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
-#EXTINF:-1 ,Ekushey TV
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 ,Ntv
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8
-#EXTINF:-1 ,Jamuna Tv
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
-#EXTINF:-1 ,Enter10 Bangla
-https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
-#EXTINF:-1 ,Discovery Hindi
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
-#EXTINF:-1 ,Love Nature
-https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
-#EXTINF:-1 ,ATN Music
-https://owrcovcrpy.gpcdn.net/bpk-tv/1717/output/index.m3u8
-#EXTINF:-1 ,ATN BANGLA UK
-https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
-#EXTINF:-1 ,Star Jalsha HD
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/23218.ts
+
+
 #EXTINF:-1 ,DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
 #EXTINF:-1 ,MU | 8XM
