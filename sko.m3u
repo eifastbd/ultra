@@ -36,7 +36,7 @@
 http://str24.l9574.com/905.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_5704c544bcbe25521134b299a0298be7_playmist_ptv_sports_400x400.jpg" group-title="SKO",PTV Sports HD
 http://str24.l9574.com/601.stream/index.m3u8
-#EXTINF:-1,tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" group-title="SKO💧",Shomoy TV
+#EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/03d33e123989497.Y3JvcCw5MDAsNzAzLDAsOTg.jpg" group-title="SKO💧",Somoy TV
 http://116.204.149.16/somoytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/R_tv.png" group-title="SKO💧",RTV
 http://116.204.149.16/rtvhd/index.m3u8
