@@ -14,13 +14,13 @@
 #EXTINF:-1,group-title"4K",Tom & jerry
 https://server2.ftpbd.net/FTP-2/English%20Movies/English-Movies-4K/%282021%29/Tom-and-Jerry-%282021%29-4k/Tom.and.Jerry.2021.2160p.HMAX.WEB-DL.x265.10bit.HDR.DDP5.1.Atmos-SWTYBLZ_reencoded.mp4
 
-#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Только спокойствие (2009)
+#EXTINF:-1 group-title="КиноМультЗал🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Только спокойствие (2009)
 https://vs48.vcdn.biz/dd8250c2c71dd78eca7e67f0d874802a_mgg/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/105449701/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid260151475-b2000000.m3u8
-#EXTINF:-1 group-title="🎡МультЗал |  🎥 Том и Джерри  🍿" tvg-logo="https://lh3.googleusercontent.com/_sUlY4ieqnzL68wLiaqD2zKGye7NV155QKrMt907LOeumEwSm51n06zXaj0Oak-6lcA" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Том и Джерри 1
+#EXTINF:-1 group-title="🎥 Том и Джерри  🍿" tvg-logo="https://lh3.googleusercontent.com/_sUlY4ieqnzL68wLiaqD2zKGye7NV155QKrMt907LOeumEwSm51n06zXaj0Oak-6lcA" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Том и Джерри 1
 https://v.tom-dzherri.net/video/s/1.mp4
-#EXTINF:-1 group-title="🎡МультЗал |  🎥 Том и Джерри  🍿" tvg-logo="https://lh3.googleusercontent.com/_sUlY4ieqnzL68wLiaqD2zKGye7NV155QKrMt907LOeumEwSm51n06zXaj0Oak-6lcA" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Том и Джерри 10
+#EXTINF:-1 group-title="🎥 Том и Джерри  🍿" tvg-logo="https://lh3.googleusercontent.com/_sUlY4ieqnzL68wLiaqD2zKGye7NV155QKrMt907LOeumEwSm51n06zXaj0Oak-6lcA" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Том и Джерри 10
 https://v.tom-dzherri.net/video/s/10.mp4
-#EXTINF:-1 group-title="🎡МультЗал |  🎥 Том и Джерри  🍿" tvg-logo="https://lh3.googleusercontent.com/_sUlY4ieqnzL68wLiaqD2zKGye7NV155QKrMt907LOeumEwSm51n06zXaj0Oak-6lcA" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Том и Джерри 100
+#EXTINF:-1 group-title="🎥 Том и Джерри  🍿" tvg-logo="https://lh3.googleusercontent.com/_sUlY4ieqnzL68wLiaqD2zKGye7NV155QKrMt907LOeumEwSm51n06zXaj0Oak-6lcA" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Том и Джерри 100
 https://v.tom-dzherri.net/video/s/100.mp4
 #EXTINF:-1 group-title="🎡МультЗал |  🎥 Том и Джерри  🍿" tvg-logo="https://lh3.googleusercontent.com/_sUlY4ieqnzL68wLiaqD2zKGye7NV155QKrMt907LOeumEwSm51n06zXaj0Oak-6lcA" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Том и Джерри 101
 https://v.tom-dzherri.net/video/s/101.mp4
