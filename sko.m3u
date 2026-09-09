@@ -63,7 +63,8 @@ https://vods2.aynaott.com/gseriesDrama/index.m3u8
 https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4cxjxRj/Deshi-TV.jpg" group-title="SKO💧",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="SKO💧" tvg-logo="",52
+#EXTINF:-1 tvg-id="019f9d1e-903a-70f7-b217-aabdbdc97163" tvg-name="Channel 52" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-26/images_9b7bab426198d5e39dea4b494cad717b_playmist_channel52.jpg" group-title="SKO💧",Channel 52
+#https://tvsen6.aynaott.com/channel52/index.m3u8
 http://str24.l9574.com/503.stream/index.m3u8
 #EXTINF:-1 group-title="SKO💧" tvg-logo="",US Bd
 http://str24.l9574.com/510.stream/index.m3u8
