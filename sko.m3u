@@ -110,9 +110,41 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 ,Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 ,DTV USA
+https://cdn.dtvusa.com/dtv/index.m3u8
+#EXTINF:-1 ,DTV USA
+https://cdn.dtvusa.com/dtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Atv Usa
+http://cdn.live247stream.com/atvusa/tv/playlist.m3u8
+#EXTINF:-1 ,Jhankar Tv
+https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
+#EXTINF:-1 ,GREEN TV HD
+https://app.ncare.live/streams/greentv.stream/playlist.m3u8
+#EXTINF:-1 ,CTV Usa
+https://cdn.streamcast.xyz/ctvusa/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 ,CTV Usa
+https://cdn.streamcast.xyz/ctvusa/index.fmp4.m3u8
+#EXTINF:-1 ,News21
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
+#EXTINF:-1 ,News21
+http://103.190.133.68:1935/news21live/live/chunklist_w870394000.m3u8
 
-
-
+#EXTINF:-1 ,JTV CLASSIC
+http://103.67.97.46/0.ts
+#EXTINF:-1 ,JTV BANGLA
+http://103.67.97.45:81/0.ts
+#EXTINF:-1 ,AMAR BANGLA
+http://103.172.152.218:8086/0.ts
+#EXTINF:-1 ,AMAR BANGLA
+http://live.dataplayer.in:8080/live/amarbangla.m3u8
+#EXTINF:-1 ,Positive
+http://hksk.dataplayer.in:8080/channel1.m3u8
+#EXTINF:-1 ,Balurghat TV
+http://94.136.188.21:8000/live/rctvdemo/index.m3u8
+#EXTINF:-1 ,Jaan Bangla
+http://live.dataplayer.in:8080/live/3mjaanbangla.m3u8
+#EXTINF:-1 ,SNB Cinema
+http://103.182.83.246/hls/snbcinema.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRVFdWp9xwlb_aBt92V8P8V52hyphenhyphen0Kn2Qz8ge4cbaijlKQdH86RXexTJrvskKsSVMrLbDaLsRwFSK7VdFzdYd9u2FhdHs6o3erPlx9NehopiqcH2tK9ApMNlavhZYLVx2WhpUhpm0efu4OxgVDTYTIZeBi59t5bK9kJHEKtfgoSzC2lNVABB2TMvbiB1w/s600/Nur_20251219_134007_0000.png" group-title="SKO💧",BD movie
@@ -273,136 +305,26 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 http://202.70.146.135:8000/play/a05o/index.m3u8
 #EXTINF:-1 ,Vision TV
 http://82.212.74.98:8000/live/hls/7823.m3u8
-
-
-
 #EXTINF:-1 ,TV9 Bangla
 https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
-#EXTINF:-1 ,Eagle Drama Series
-https://ythls.armelin.one/channel/UC_YEeUix2bvVOuLxEUw2SnQ.m3u8
-#EXTINF:-1 ,Tribe TV (720p)
-https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
 #EXTINF:-1 ,TV9 Bangla (720p)
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 ,IBN TV
 http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8
 #EXTINF:-1 ,IBN TV Africa
 http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8
-#EXTINF:-1 ,RTV Islam
-https://protokolldns.xyz/rtvislamweb554/index.m3u8
-#EXTINF:-1 ,Noor TV (720p)
-https://sscsott.com/srt/noortvuk/index.m3u8
 #EXTINF:-1 ,MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #EXTINF:-1 ,tv9 Nusantara
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
-#EXTINF:-1 ,Quran Tv
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000067/1024.m3u8
-#EXTINF:-1 ,TvMu
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000024/1024.m3u8
-#EXTINF:-1 ,Muslim Tv
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000021/1024.m3u8
-#EXTINF:-1 ,JB CABLES TV
-http://103.229.254.25:7001/play/a07d/index.m3u8
-#EXTINF:-1 ,SALAM BANGLA
-http://202.78.232.181:8090/playontv/playon@admin/57
 #EXTINF:-1 ,SALAM BANGLA
 http://115.187.41.216:8080/salambangla.ts
-#EXTINF:-1 ,Nick Bangla
-http://103.180.212.191:3500/live/1341.m3u8
-#EXTINF:-1 ,Sonic Bangla
-http://103.180.212.191:3500/live/1345.m3u8
-#EXTINF:-1 ,Discovery Kids
-http://198.195.239.50:8095/DiscoveryKids/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Cartoon Network
-https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
-#EXTINF:-1 ,Pink Panther
-https://linear-1069.frequency.stream/dist/tcltv/1069/hls/master/playlist.m3u8
-#EXTINF:-1 ,ToonOvation
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/M43FCP9IGELUIOH4IAVQ/hls3/now,-1m/m.m3u8
-#EXTINF:-1 ,Nick Bangla  (Kids)
-http://filex.me/live/MAS101A/MAS101AABB/519972.m3u
-#EXTINF:-1 ,Sonic Bangla  (Kids)
-http://filex.me/live/MAS101A/MAS101AABB/519973.m3u8
-#EXTINF:-1 ,RONGEEN TV
-http://202.78.232.181:8090/playontv/playon@admin/95
-#EXTINF:-1 ,DTV USA
-https://cdn.dtvusa.com/dtv/index.m3u8
-#EXTINF:-1 ,DTV USA
-https://cdn.dtvusa.com/dtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Atv Usa
-http://cdn.live247stream.com/atvusa/tv/playlist.m3u8
-#EXTINF:-1 ,Star News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
-#EXTINF:-1 ,Colors Bangla Cinema
-http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Zee Bangla Sonara
-http://198.195.239.50:8095/ZeeBanglaCinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,SONY MAX HD
-http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Jhankar Tv
-https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
-#EXTINF:-1 ,GREEN TV HD
-https://app.ncare.live/streams/greentv.stream/playlist.m3u8
-#EXTINF:-1 ,CTV Usa
-https://cdn.streamcast.xyz/ctvusa/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 ,CTV Usa
-https://cdn.streamcast.xyz/ctvusa/index.fmp4.m3u8
-#EXTINF:-1 ,News21
-http://103.190.133.68:1935/news21live/live/playlist.m3u8
-#EXTINF:-1 ,News21
-http://103.190.133.68:1935/news21live/live/chunklist_w870394000.m3u8
 #EXTINF:-1 ,Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
-#EXTINF:-1 ,Discovery Channel Bengali
-https://mini.allinonereborn.fun/jiotv-www/app/ts_live_573.m3u8
 #EXTINF:-1 ,Vision Punjab
 http://a-edge.bliscdn.com/VisionPunjabHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Histoire Tv
-http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-#EXTINF:-1 ,Raatdin Bangla
-https://server.playontv.in/raatdinbangla/index.m3u8
-#EXTINF:-1 ,Nd24
-https://legitpro.co.in/ndlive/nd24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,JTV CLASSIC
-http://103.67.97.46/0.ts
-#EXTINF:-1 ,JTV BANGLA
-http://103.67.97.45:81/0.ts
-#EXTINF:-1 ,AMAR BANGLA
-http://103.172.152.218:8086/0.ts
-#EXTINF:-1 ,EKHON KOLKATA
-http://live.dataplayer.in:8080/live/ekhonkolkata.m3u8
-#EXTINF:-1 ,AMAR BANGLA
-http://live.dataplayer.in:8080/live/amarbangla.m3u8
-#EXTINF:-1 ,MISSION TV
-http://live.dataplayer.in:8080/live/missiontv.m3u8
-#EXTINF:-1 ,Positive
-http://hksk.dataplayer.in:8080/channel1.m3u8
 
-#EXTINF:-1 ,Balurghat TV
-http://94.136.188.21:8000/live/rctvdemo/index.m3u8
-#EXTINF:-1 ,SDTV PRIME
-http://15.235.187.72/hls/sdtv.m3u8
-#EXTINF:-1 ,Jaan Bangla
-http://live.dataplayer.in:8080/live/3mjaanbangla.m3u8
-#EXTINF:-1 ,SNB Cinema
-http://103.182.83.246/hls/snbcinema.m3u8
-#EXTINF:-1 ,KHABOR BANGLA
-http://103.252.165.39:8086/0.ts
-#EXTINF:-1 ,DRISHTI
-http://202.78.232.181:8090/playontv/playon@admin/41
-#EXTINF:-1 ,Sk Live News
-https://server.playontv.in/sklivenews/tracks-v1/mono.m3u8
-#EXTINF:-1 ,DCN Hindi
-https://server.playontv.in/dcnhindi/dcnhindi/tracks-v1/mono.m3u8
-#EXTINF:-1 ,RCTV Sangbad
-http://94.136.188.21:8000/live/rctvsangbad/index.m3u8
-#EXTINF:-1 ,RCTV Rai Bangla
-http://94.136.188.21:8000/live/raibangla/index.m3u8
-#EXTINF:-1 ,RCTV Sannkirtan
-http://94.136.188.21:8000/live/rctvsankirtan/index.m3u8
-#EXTINF:-1 ,Sklive News
-https://server.playontv.in/sklivenews/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 ,Zee 24 Gonta
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
 #EXTINF:-1 ,Abp Ananda
