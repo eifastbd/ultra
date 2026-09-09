@@ -183,7 +183,8 @@ https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 
 
-#EXTINF:-1 ,DW English
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://otapp.store/uploads/tv_image/sm/dw-news.png" group-title="SKO💧",DW NEWS
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 ,NDTV Hindi
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
