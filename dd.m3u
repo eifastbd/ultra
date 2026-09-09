@@ -10,11 +10,6 @@
 
 
 
-#EXTINF:-1,Bengali Beats
-https://tplay.live/originals/bengali-beats/index.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="Party Universe" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378215384.png" tvg-chno="41" group-title="Music",Party Universe
-https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
-
 
 #EXTINF:-1,group-title"4K",Tom & jerry
 https://server2.ftpbd.net/FTP-2/English%20Movies/English-Movies-4K/%282021%29/Tom-and-Jerry-%282021%29-4k/Tom.and.Jerry.2021.2160p.HMAX.WEB-DL.x265.10bit.HDR.DDP5.1.Atmos-SWTYBLZ_reencoded.mp4
