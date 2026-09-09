@@ -249,15 +249,10 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 http://115.187.41.216:8080/hls/digitalfashion/index.m3u8
 #EXTINF:-1 ,FOX NEWS
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 ,TV ONE UK
-https://app.ncare.live/live-orgin/tvoneuksni.stream/playlist.m3u8
 #EXTINF:-1 ,ZOOM
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 ,Only Music
 https://livestream.unlimitedcdn.com/onlymusic/index.m3u8
-#EXTINF:-1 ,ENTER 10 BANGLA
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 ,ABP ANNANDA
 https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
 #EXTINF:-1 ,BANGLA JAGO
@@ -268,28 +263,7 @@ https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg014
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 #EXTINF:-1 ,National Geographic
 http://202.70.146.135:8000/play/a05o/index.m3u8
-#EXTINF:-1 ,BBC Food
-http://103.175.73.12:8080/live/143/143_0.m3u8
-#EXTINF:-1 ,Al Quran Al Kareem
-https://vodzong.mjunoon.tv:8087/streamtest/SaudiQuran-142/playlist.m3u8
-#EXTINF:-1 ,Al Quran Al Kareem
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1024
-#EXTINF:-1 ,Al Sunnah Al Nabawiyah
-http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
-#EXTINF:-1 ,Al Sunnah Al Nabawiyah
-https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
-#EXTINF:-1 ,Al Sunnah Al Nabawiyah
-https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8
-#EXTINF:-1 ,Al Sunnah Al Nabawiyah
-https://vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8
-#EXTINF:-1 ,Makkah TV
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1031
-#EXTINF:-1 ,Makkah TV
-https://app.ncare.live/streams/makkahtv.stream/playlist.m3u8
-#EXTINF:-1 ,ZAD
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/88209
-#EXTINF:-1 ,Al Resalah HD
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1030
+
 #EXTINF:-1 ,Vision TV
 http://82.212.74.98:8000/live/hls/7823.m3u8
 #EXTINF:-1 ,TBN 24
