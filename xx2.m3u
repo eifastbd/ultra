@@ -1,46 +1,50 @@
 #EXTM3U
 
-# ==================== BANGLA (8) ====================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png" group-title="Bangla",BTV
 http://103.165.93.31:8095/btv/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/ATN%20BANGLA.png" group-title="Bangla",ATN Bangla HD
 http://103.165.93.31:8095/atnBangla/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/BANGLA_VISION.png" group-title="Bangla",BANGLA VISION HD
 http://103.165.93.31:8095/banglaVision/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/CHANNEL%20I.png" group-title="Bangla",CHANNEL I HD
 http://103.165.93.31:8095/channelI/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/GTV.png" group-title="Bangla",GTV HD
 http://103.165.93.31:8095/GTV/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/NTV.png" group-title="Bangla",NTV HD
 http://103.165.93.31:8095/ntv/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/MAASRANGA%20HD.png" group-title="Bangla",MASSRANGA HD
 http://103.165.93.31:8095/maasranga/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/DEEPTO.png" group-title="Bangla",DEEPTO
 http://103.165.93.31:8095/deepto/index.m3u8
-
-# ==================== NEWS (6) ====================
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/SOMOY%20TV.png" group-title="News",SHOMOY TV HD
 http://103.165.93.31:8095/somoyTv/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/NEWS24%20HD.png" group-title="News",NEWS24 HD
 http://103.165.93.31:8095/news24/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/CHANNEL%2024.png" group-title="News",CHANNEL 24
 http://103.165.93.31:8095/channel24/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/ATN%20NEWS.png" group-title="News",ATN NEWS HD
 http://103.165.93.31:8095/atnNews/video.m3u8
-
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/EKATTOR_TV.png" group-title="News",EKATTOR TV HD
 http://103.165.93.31:8095/ekattorTv/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/JAMUNA%20TV.png" group-title="News",JAMUNA TV
 http://103.165.93.31:8095/jamunaTv/index.m3u8
 
