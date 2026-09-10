@@ -297,10 +297,7 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b2628
 
 #EXTINF:-1 tvg-id="" group-logo="https://www.dangalplay.com/assets/logos/logo_dP.png" tvg-logo="https://dangaplay-json.s3.ap-south-1.amazonaws.com/entree10_16x9.jpg" group-title="PRO✅" group-logo="https://www.dangalplay.com/assets/logos/logo_dP.png",Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/STAR%20JALSHA%20HD.png" group-title="PRO✅",STAR JALSHA HD
-http://103.165.93.31:8095/starJalsha/index.m3u8
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/JALSHA%20MOVIES%20HD.png" group-title="PRO✅",JALSHA MOVIES HD
-http://103.165.93.31:8095/jalshaMovies/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/ZEE%20BANGLA%20HD.png" group-title="PRO✅",ZEE BANGLA HD
 http://103.165.93.31:8095/zeeBangla/index.m3u8
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/ZEE%20BANGLA%20CINEMA.png" group-title="PRO✅",ZEE BANGLA CHINEMA HD
