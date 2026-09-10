@@ -28,6 +28,71 @@
 
 
 
+
+#EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://itcnbd.live/images/95357b2f224dabfec27bf87dffb952b2.png" group-title="TV💠",T Sports HD
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
+#https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports
+https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yzwt46Q/20241126-220214.png" group-title="TV💠",Ten Cricket 
+https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1z5BGPZ/20240823_024712.png" group-title="TV💠",A Sports HD
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://i.postimg.cc/441hHtgZ/20250120_193746.png",Bein Sports 1
+http://host.phorious.art/validation/377?deviceMac=10:27:BE:25:67:80&split=33da9c80155413830543e27c8520ba99&smart=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzDHjCJm/20240823_024249.png" group-title="TV💠",Star Sports 1
+https://tvsen3.aynaott.com/Sports1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzDHjCJm/20240823_024249.png" group-title="TV💠",Star Sports 1
+https://s3.itcnbd.live/channel/2929059f34d114ca.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBgM9nK7/20240823_024306.png" group-title="TV💠",Star Sports 2
+https://s3.itcnbd.live/server-4/stream/aHR0cDovLzE3Mi4xOS4xNy4xMzk6ODA5MC9obHMvU3RhclNwb3J0czJIRC5tM3U4.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnzgZCLS/20240823_024321.png" group-title="TV💠",Star Sports SL 1
+http://line.boxfreshiptv.xyz:80/play/live.php?mac=00:1A:79:34:62:35&stream=282675&extension=ts&play_token=Z3C92AgbsB
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmczbb8g/20240825_060019.png" group-title="TV💠",Star Sports SL 2
+https://s3.itcnbd.live/channel/ea25a516d781cb1c.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65fsWLS1/20240823_024136.png" group-title="TV💠",Sony Ten 1
+https://s2.itcnbd.live/server-2/stream/sony_sports_1_hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjqC7RYx/20240823_024150.png" group-title="TV💠",Sony Ten 2
+https://s2.itcnbd.live/server-2/stream/sony_sports_2_hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65fsWLS1/20240823_024136.png" group-title="TV",Sony Ten 3
+https://s3.itcnbd.live/server-4/stream/aHR0cDovLzE3Mi4xOS4xNy4yMDI6ODA5MC9obHMvU29ueVRlbjJoZC5tM3U4.m3u8
+#EXTINF:-1 group-title="TV💠" tvg-logo="https://i.postimg.cc/W4tx7R4Q/20240823_024232.png",Sony Ten 5
+https://s2.itcnbd.live/server-2/stream/sony_sports_5_hd.m3u8
+
+#EXTINF:-1 group-title="-",SONY SPORTS TEN 5 HD - Rs 30.00
+http://202.70.146.135:8000/play/a0ao/index.m3u8
+
+#EXTINF:-1 group-title="-",Star Sports 1 HD - Rs 19.00
+http://202.70.146.135:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="-",Star Sports 1 Hindi HD - Rs 19.00
+http://202.70.146.135:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="-",Star Sports Select 1 HD - Rs 19.00
+http://202.70.146.135:8000/play/a0aq/index.m3u8
+#EXTINF:-1 group-title="-",Star Sports Select 2 HD - Rs 15.00
+http://202.70.146.135:8000/play/a0ap/index.m3u8
+
+
+
+
+
+#EXTM3U
+
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/spbts.png",T SPORTS HD
+http://dgj.bkdnet.xyz:8080/hls/34-tsportssd/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spbts.png",T SPORTS FHD
+http://cdn.fcnonline.xyz:8090/hls/tsportshd.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spas.png",,A Sports HD
+https://playztv-apps.pages.dev/asports/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spts.png",TEN SPORTS HD
+https://stream.ottplus.bd/live/ten_cricket_hd_abr/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/willow.png",WilloW TV HD
+https://playztv-apps.pages.dev/willow/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spss1.png",STAR SPORTS 1 HD
+https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spss2.png",STAR SPORTS 2 HD
+https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-1.webcatalog.io/catalog/magentasport/magentasport-icon-unplated.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",Magenta Sports 1
 http://f5944e6a.edemist.com/iptv/9EMB9V8Z6Z8CB7/31578/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/eleven-sports-1.png?utm_source=chatgpt.com" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",Eleven Sports 1
