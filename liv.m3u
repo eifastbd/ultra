@@ -41,7 +41,12 @@ https://playztv-apps.pages.dev/ptv-sports/index.m3u8
 http://103.151.60.162:2122/play/a030/index.m3u8?hls
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://img.magnific.com/premium-vector/professional-tv-channel-logo-design-concept-vector-illustration_875240-1836.jpg?semt=ais_test_b&w=740&q=80" tvg-logo="https://yt3.googleusercontent.com/IFgAG_o_AdtX4IauErKIzuFGCj0m4QyH81Q1Uq8H-2Si9ul3vmXkLihDUnn6-QI3xiMZech0AQ=s900-c-k-c0x00ffffff-no-rj",Tsports
 http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCRtp8T8/IMG-1741986198658-2.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",STAR SPORTS 1 HD
+http://livetv.akr4m.com:8080/bdtv/restrem/39.m3u8
+#https://stream.kliv.in/nex/oppz22_167573.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPQTMyHz/IMG-1741986445491-2.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",STAR SPORTS SELECT 1 HD
+http://livetv.akr4m.com:8080/bdtv/restrem/40.m3u8
+#https://stream.kliv.in/nex/oppz22_167578.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yzwt46Q/20241126-220214.png" group-title="TV💠",Ten Cricket 
