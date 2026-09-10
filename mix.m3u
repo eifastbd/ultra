@@ -434,8 +434,7 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/224.ts
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/225.ts
 #EXTINF:-1 tvg-chno="339" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="PRO✅",Zee Cinema HD
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/230.ts
-#EXTINF:-1  group-title="PRO✅" group-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LOGO_HD/image.png?utm_source=chatgpt.com",Pittara
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/227.ts
+
 
 
 
@@ -464,8 +463,8 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/227.ts
 
 
 
-
-
+#EXTINF:-1  group-title="PRO✅" group-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LOGO_HD/image.png?utm_source=chatgpt.com",Pittara🌀
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/227.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCbJNZwX/9xm.jpg" group-title="PRO✅",9XM🌀
 https://wiselp.wiseplayout.com/9XM/SD504/SD504.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c1MmBfHV/9x-Jalwa.jpg" group-title="PRO✅",9X JALWA🌀
@@ -480,14 +479,14 @@ https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209587/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYzR6Q61/IMG-20260420-011151.jpg" group-title="PRO✅",VISION BEATS🌀
 https://visionbeats.keralive.workers.dev/Visionbeats/index.m3u8|Referer=https://bhoomtv.org/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XvG65zK/IMG-20260420-012512.jpg" group-title="Music",HINDI HITS HD
-https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
-https://rpn3.bozztv.com/dvrfl07/ushba-t4/playlist.m3u8
-http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XvG65zK/IMG-20260420-012512.jpg" group-title="PRO✅",HINDI HITS HD🌀
+#https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
+#https://rpn3.bozztv.com/dvrfl07/ushba-t4/playlist.m3u8
+#http://146.59.253.52:8080/hindihitshd/index.m3u8
 https://bhoomtv.org/tv/restream-tv/stream.m3u8?id=29d7f16babf8|Referer=https://bhoomtv.org/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgB7qWjf/8xm.jpg" group-title="PRO✅",8XM🌀
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nh6BJLr4/Jalwa.jpg" group-title="PRO✅",JALWA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nh6BJLr4/Jalwa.jpg" group-title="PRO✅",JALWA🌀
 https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbmXThS6/Yrf-Music.jpg" group-title="PRO✅",YRF MUSIC🌀
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
@@ -504,14 +503,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
 https://livestream.unlimitedcdn.com/onlymusic/index.m3u8
 #EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-logo="https://i.imgur.com/zDiIhdN.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="PRO✅",7S Music🌀
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
-#EXTINF:-1,Vision Punjab🌀
-http://a-edge.bliscdn.com/VisionPunjabHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Nd24🌀
-https://legitpro.co.in/ndlive/nd24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1406677642PITARAMOV IES_TVSETS_TVW_720x960.webp" group-title="PRO✅",PITAARA MOVIES🌀
+#EXTINF:-1  group-title="PRO✅" group-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LOGO_HD/image.png?utm_source=chatgpt.com",Pittara🌀
 https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/8XM_2011 _logo.png" group-title="PRO✅",8XM🌀
-https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9xm.png" group-title="PRO✅",9XM🌀
 https://wiselp.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/PTC" group-title="PRO✅",PTC Chakde🌀
