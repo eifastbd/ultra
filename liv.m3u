@@ -43,6 +43,9 @@ http://103.151.60.162:2122/play/a030/index.m3u8?hls
 http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" tvg-logo="https://fcnchbd.xyz/iptv/logo/spbts.png",T SPORTS FHD
 http://cdn.fcnonline.xyz:8090/hls/tsportshd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/T_Sports.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",T-SPORTS 
+https://tvsen3.aynaott.com/Sports1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCRtp8T8/IMG-1741986198658-2.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",STAR SPORTS 1 HD
 http://livetv.akr4m.com:8080/bdtv/restrem/39.m3u8
 #https://stream.kliv.in/nex/oppz22_167573.m3u8
@@ -55,8 +58,7 @@ http://livetv.akr4m.com:8080/bdtv/restrem/40.m3u8
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="TV💠" tvg-logo="https://i.postimg.cc/441hHtgZ/20250120_193746.png",Bein Sports 1
 http://host.phorious.art/validation/377?deviceMac=10:27:BE:25:67:80&split=33da9c80155413830543e27c8520ba99&smart=1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzDHjCJm/20240823_024249.png" group-title="TV💠",Star Sports 1
-https://tvsen3.aynaott.com/Sports1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DzDHjCJm/20240823_024249.png" group-title="TV💠",Star Sports 1
 https://s3.itcnbd.live/channel/2929059f34d114ca.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBgM9nK7/20240823_024306.png" group-title="TV💠",Star Sports 2
@@ -228,8 +230,7 @@ https://s3.itcnbd.live/channel/2929059f34d114ca.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQEkzy6nAcsyag/company-logo_200_200/company-logo_200_200/0/1630662269264?e=2147483647&v=beta&t=Xyxc5WJFZRKGMmHUyjXuUmOmYGO9bgGLbkwV9uyduxo",T Sports 
 https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
 #http://103.185.24.134:3001/TSportsHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/T_Sports.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",T-SPORTS 
-https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow
 https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
 
