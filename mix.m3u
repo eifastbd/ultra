@@ -494,9 +494,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8TbRJp2/Zoom.jpg" group-title="PRO✅",ZOOM🌀
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSLNzXgM/Bengali-Beats.png" group-title="PRO✅",Bengali Beats🌀
 https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://p16-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/177163a62ad731af14f7a6e91b307695~c5_720x720.jpeg?utm_source=chatgpt.com",Only Music🌀
@@ -509,19 +506,16 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/in
 https://wiselp.wiseplayout.com/9XM/master.m3u8
  #EXTINF:-1 tvg-id="PTCMusic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_MUSIC/images/LOGO_HD/image.png" group-title="PRO✅",PTC Music🌀
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23146/saga-music/logo_20240322_183949_68 .png" group-title="PRO✅",Saga Music🌀 
 https://amg01412-xiaomiasia-sagamusic-xiaomi-h54ye.amagi.tv/playlist/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/X3ttehXK00EG5HC9KkuXk _X8hoRON7018bdibhFqXi_UVstDxXktnWGp7uQPnQJyp0-1b00L=s72-c-k-c0x00ffffff-no -rj" group-title="India",Saga Haryanvi🌀 
 https://amg01412-xiaomiasia-sagamusicharyanvi-xiaomi-0v34j.amagi.tv/playlist/amg01412-xiaomiasia-sagamusicharyanvi-xiaomi/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N6tKUZv.png"group-title="India",Sana Plus🌀
 https://galaxyott.live/hls/sanaplus.m3u8
-#EXTINF:-1 tvg-logo="https://www.yashrajfilms.com/images/default-source/about-yrf---company-info/11-yrf-music-fast-channel_1920x500.jpg",YRF🌀
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png",YRF MUSIC HD🌀
 https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zoom.png" group-title="PRO✅",ZOOM🌀
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png",YRF MUSIC🌀
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zing.jpg" group-title="PRO✅",Zing🌀
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/music-india.png" group-title="PRO✅",Music India🌀
