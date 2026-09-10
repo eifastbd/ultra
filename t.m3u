@@ -131,7 +131,8 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 http://livetv.akr4m.com:8080/bdtv/restrem/27.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/28vtd68S/Channel-i.jpg" group-title="TV💠",CHANNEL I
 https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/jhonmobhumitv.png" group-title="TV💠",Jonmo Bhumi TV
+https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="TV💠" tvg-logo="https://cdn.pmnewsnigeria.com/2017/05/Al-Jazeera.jpg",Al-jajira 
