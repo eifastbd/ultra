@@ -51,6 +51,16 @@ http://line.boxfreshiptv.xyz:80/play/live.php?mac=00:1A:79:34:62:35&stream=28267
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmczbb8g/20240825_060019.png" group-title="TV💠",Star Sports SL 2
 https://s3.itcnbd.live/channel/ea25a516d781cb1c.m3u8
 
+#EXTINF:-1 group-title="SKO💧" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein XSTRA
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="SKO💧" tvg-logo="https://www.prensario.net/Multimedios/imgs/2004_750.jpg?v=11&utm_source=chatgpt.com",Trace Sports 
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://itcnbd.live/images/95357b2f224dabfec27bf87dffb952b2.png" group-title="SKO💧",T Sports HD
+http://str24.l9574.com/905.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_5704c544bcbe25521134b299a0298be7_playmist_ptv_sports_400x400.jpg" group-title="SKO",PTV Sports HD
+http://str24.l9574.com/601.stream/index.m3u8
+#EXTINF:-1 group-title="SKO💧" tvg-logo="https://fcnchbd.xyz/iptv/logo/spts.png",TEN SPORTS HD
+http://str24.l9574.com/610.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65fsWLS1/20240823_024136.png" group-title="TV💠",Sony Ten 1
 https://s2.itcnbd.live/server-2/stream/sony_sports_1_hd.m3u8
