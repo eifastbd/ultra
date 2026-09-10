@@ -539,7 +539,7 @@ https://cdn-4.pishow.tv/live/987/master.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/e-24.png" group-title="PRO✅",E 24🌀
 #http://103.175.73.12:8080/live/159/159_0.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/b4u-music.png" group-title="PRO✅",B4U Music🌀
-https://cdn-2.pishow.tv/live/415/master.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9x-jhakaas.png" group-title="PRO",9x Jhakaas🌀
 https://cdn-3.pishow.tv/live/6/master.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zooER-oa-NqGzAR4HjEUGYBOfAcWvyoWGGIjZn3peR6xveFznWN6LvXCP_5A5zoB7gdE=w600-h300-pc0xffffff-pd" group-title="PRO✅",Joo Music🌀
@@ -578,8 +578,6 @@ https://stream.cmctv.hr:49998/cmc/live.m3u8
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="PRO✅",Trace Latino🌀 
 https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRD921TNDFEe1iA-zJLoFb-mu28rBgjGIq s3qFS_w=s900-c-k-c0x00ffffff-no-rj" group-title="PRO✅",Dewana🌀
-https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/4fun.tv _Logo_%282017%29.svg/1200px-4fun.tv_Logo_%282017%29.svg.png" group-title="PRO✅",Fun TV🌀
 https://stream.4fun.tv:8888/hls/4f_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pmc-royale-ch.png" group-title="PRO✅",PMC Royale🌀 
