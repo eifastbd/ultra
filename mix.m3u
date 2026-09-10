@@ -660,7 +660,8 @@ https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 
 
 
-
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxW1Tk5YcPMJtI5hh47SGGuJnQWY9YwkYZS9vOt_dJtQ5lRsS1vXarCGc6ixKgdEBAp2Y-K8xJyVSdiv3D62oWv_E5An9kHP_wSawaYiflPVttCjb8BW8ayfJV0JfR-TzcMD75P5hsyNzYGmHe6BK2KvXABCLMtYBANLhYQ8RUyZVXTNQHqggCb42qYg/s1080/1000023429.png",Rongeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://s3.aynaott.com/storage/a89142109d049ae325fd1681b50bfffb",Cartoon Network
 https://tvsen5.aynascope.net/cartoonnetwork/index.m3u8?e=1764396104&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=f01b3f48333e20b4895b8678841675af
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://s3.aynaott.com/storage/31a070024b6516e3738baec70168f0b6",Disney JR
@@ -743,14 +744,10 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
 #EXTINF:-1,group-title="PRO✅",ZB CARTOON👻
 https://server.zillarbarta.com/zbcatun/video.m3u8
-#EXTINF:-1,group-title="PRO✅",RONGEEN TV👻
-https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-hindi.png" group-title="PRO✅",Nick Hindi👻
 http://116.90.120.157:8000/play/a0i3/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Jungle Book👻
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
-#EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Rangeen%20Tv.jpg?raw=true" group-title="PRO✅",Rongeen Tv👻
-https://cdn-4.pishow.tv/live/1029/master.m3u8
 #EXTINF:-1,tv-logo="https://i.imgur.com/hiXQiMa.jpg" group-title="PRO✅",Khusboo Bangla😁
 https://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="PRO✅",Manoranjan PRIME😁
