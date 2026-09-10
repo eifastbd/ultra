@@ -510,10 +510,6 @@ https://wiselp.wiseplayout.com/9XM/master.m3u8
  #EXTINF:-1 tvg-id="PTCMusic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_MUSIC/images/LOGO_HD/image.png" group-title="PRO✅",PTC Music🌀
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
 
-#EXTINF:0 group-title="PRO✅" ,PTC PUNJABI GOLD🌀
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0xS51NT.png"group-title="PRO✅",Public Music🌀
-https://cdn-3.pishow.tv/live/441/master.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23146/saga-music/logo_20240322_183949_68 .png" group-title="PRO✅",Saga Music🌀 
 https://amg01412-xiaomiasia-sagamusic-xiaomi-h54ye.amagi.tv/playlist/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/X3ttehXK00EG5HC9KkuXk _X8hoRON7018bdibhFqXi_UVstDxXktnWGp7uQPnQJyp0-1b00L=s72-c-k-c0x00ffffff-no -rj" group-title="India",Saga Haryanvi🌀 
@@ -766,7 +762,8 @@ MOVIE
 
 
 
-
+#EXTINF:-1 tvg-id="PTCPunjabiGold.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI_GOLD/images/LOGO_HD/image.png" group-title="PRO✅",PTC Punjabi Gold
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYjDFVWx/Goldmines.jpg" group-title="PRO✅",GOLDMINES
 https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y8wszpw/Goldmines-Movies.jpg" group-title="PRO✅",GOLDMINES MOVIES
