@@ -254,8 +254,6 @@ https://server.playontv.in/raatdinbangla/index.m3u8
 https://legitpro.co.in/ndlive/nd24/tracks-v1a1/mono.m3u8
 #EXTINF:-1,AMAR BANGLA
 http://live.dataplayer.in:8080/live/amarbangla.m3u8
-#EXTINF:-1,MISSION TV
-http://live.dataplayer.in:8080/live/missiontv.m3u8
 #EXTINF:-1,Positive
 http://hksk.dataplayer.in:8080/channel1.m3u8
 #EXTINF:-1,Sunsky TV 1
@@ -272,8 +270,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
 #EXTINF:-1,Gram Bangla
 http://live.dataplayer.in:8080/live/grambangla.m3u8
-#EXTINF:-1,Bangla Cinema
-http://103.151.60.162:2122/play/a02m/index.m3u8?hls
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0ykfppN3/20240822-231405.png" group-title="PRO✅",Star Jalsha HD
 http://flowutc.com:80/live/34FQ94W/64CW3PG/76204.ts
@@ -296,12 +293,6 @@ http://livetv.akr4m.com:8080/bdtv/restrem/42.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/34.m3u8
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/COLORS%20BANGLA%20CINEMA.png" group-title="PRO✅",COLOR BANGLA CHINEMA HD
 
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/SONY%20AATH.png" group-title="PRO✅",SONY AATH
-http://103.165.93.31:8095/sonyAath/index.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/675064828294258688/Cw-KocM0_400x400.jpg" tvg-name="star bangla" group-title="PRO✅",STAR BANGLA
-http://103.151.60.162:2122/play/a0f5/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLStHh2dnAyRzexuxwISlK8CPWNQb09Xr4tpYGBM=s900-c-k-c0x00ffffff-no-rj" group-title="PRO✅",Akash Aath
-http://103.159.180.34:5001/live/698.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPZdDXbsGeDOGhPC-Og7bXRrJxsbaFnZ1IEVB7-bPsJtpvNE9IhcMv0Q5OnUq5GCK9UqE7mzMCZinQaN1NSjk2wqKQFs_dreX5yGnDiXNju5yYT_9BDLC3dThhXRIfKk5XQGNc4oi6qWO3fvw5-9dqydLf6pvyHsq5cske3F1FKKih75cCUk20OKVymg/s600/Nur_20251216_222101_0000.png" group-title="PRO", Star Jalsha                                 
 https://flussonic.defineatoz.com/StarjalshaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 xui-id="34" tvg-id="" tvg-name="SONY ATTH" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbs8.png" group-title="PRO✅",SONY ATTH
