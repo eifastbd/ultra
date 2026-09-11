@@ -616,7 +616,7 @@ https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 #EXTINF:-1 tvg-id="ETVJosh.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Josh.png" group-title="PRO✅",ETV Josh
 https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Oli TV (1080p)
+#EXTINF:-1 tvg-id="ETVJosh.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Josh.png" group-title="PRO✅",OITV
 https://live.olidigital.in/olitv/olitv/index.m3u8
 #EXTINF:-1 tvg-id="PublicMusic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_MUSIC/images/LOGO_HD/image.png" group-title="PRO✅",Public HITS 
 https://stream.ottlive.co.in/punjabihits/index.m3u8
