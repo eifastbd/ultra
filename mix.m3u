@@ -764,8 +764,6 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/151.ts
 #http://live.balajibroadband.com:3500/live/476.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/JhR9HDw4/20240823_023056.png",& Tv
 https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/XJ1SbVzN/20240823_022738.png",& Picture
-https://stream.ottplus.bd/live/and_picture_hd_abr/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/x8BwX6QW/20240823_022929.png",Zee Tv
 https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/VN1c9Ztw/20240823_022636.png",Zee Cinema HD 
@@ -776,15 +774,8 @@ https://stream.ottplus.live/live/zee_bollywood_abr/index.m3u8
 https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png",Sony Television HD
 https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/YS3BdNNW/20240823_022655.png",Sony Max HD
-https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/hP59QSrm/20240825_075205.png",Sony Max 2
-https://stream.ottplus.bd/live/max_2_abr/live/max_2_720/chunks.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/Gpz6FLrP/20240823_023114.png",Sony Sab HD
-https://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/145.ts
-#https://stream.ottplus.bd/live/sub_hd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="PRO✅",Star Movies HD🎬
-http://66.102.126.10:8000/play/a021/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/bollywood-cinema-vintage-indian-movie-cinematography-theater-poster-welcome-neon-retro-d-classic-film-posters-board-gold-logo-118624129.jpg?w=768" group-title="PRO✅",Bollywood🎬
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/bollywood-cinema-vintage-indian-movie-cinematography-theater-poster-welcome-neon-retro-d-classic-film-posters-board-gold-logo-118624129.jpg?w=768" group-title="PRO✅",Bollywood OLD🎬
