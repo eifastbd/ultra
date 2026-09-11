@@ -1178,8 +1178,6 @@ http://iptv.fcnonline.xyz/live/ontest1/ontest1/139.m3u8
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/satv.png",SKTV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-
-
 #EXTINF:-1 group-title="BD NEWS" tvg-logo="https://fcnchbd.xyz/iptv/logo/atnnews.png",ATN NEWS HD
 https://playztv-apps.pages.dev/atn-news/index.m3u8
 #EXTINF:-1 group-title="BD NEWS" tvg-logo="https://fcnchbd.xyz/iptv/logo/indi.png",INDEPENDENT HD
@@ -1190,8 +1188,7 @@ https://playztv-apps.pages.dev/dbc-news/index.m3u8
 https://playztv-apps.pages.dev/jamuna-tv/index.m3u8
 #EXTINF:-1 group-title="BD NEWS" tvg-logo="https://fcnchbd.xyz/iptv/logo/ch71.png",EKATTOR TV HD
 https://playztv-apps.pages.dev/ekattor-tv/index.m3u8
-#EXTINF:-1 group-title="BD NEWS" tvg-logo="https://fcnchbd.xyz/iptv/logo/somoy.png",SOMOY TV HD
-https://tvsen5.aynaott.com/somoytv/tracks-v1a1/mono.m3u8
+
 
 
 
