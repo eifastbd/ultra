@@ -273,10 +273,6 @@ http://live.dataplayer.in:8080/live/grambangla.m3u8
 
 #EXTINF:-1 tvg-id="AakaashAath.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540" group-title="PRO✅",Aakaash Aath
 https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
-#EXTINF:-1 tvg-id="AamarBangla.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Amaar_Bangla.png" group-title="PRO✅",Aamar Bangla
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png?20230625063343" group-title="PRO✅",Star Jalsha HD🇮🇳
 #http://103.151.60.162:2122/play/a00w/index.m3u8?hls
 http://flowutc.com:80/live/34FQ94W/64CW3PG/76204.ts
