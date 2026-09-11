@@ -459,10 +459,10 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/230.ts
 
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8TbRJp2/Zoom.jpg" group-title="PRO✅",ZOOM🌀
+https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+#EXTINF:-1 tvg-id="ETVBeats.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETVBeats1.png" group-title="PRO✅",ETV Beats
+https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
 #EXTINF:-1  group-title="PRO✅" group-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LOGO_HD/image.png?utm_source=chatgpt.com",Pittara🌀
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/227.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCbJNZwX/9xm.jpg" group-title="PRO✅",9XM🌀
@@ -614,24 +614,15 @@ https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CompanyTV.it@SD" tvg-logo="https://i.imgur.com/ccdwsWj.png" group-title="PRO✅",Company TV🌀
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
-
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ETV Josh (1080p)
 https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Oli TV (1080p)
 https://live.olidigital.in/olitv/olitv/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",PTC Punjabi (1080p)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",PTC Punjabi Gold (1080p)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ETV Music (1080p)
-https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",PTC Music (720p)
-https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Punjabi Hits (1080p)
 https://stream.ottlive.co.in/punjabihits/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zoom (720p)
-https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+
+
 
 
 
