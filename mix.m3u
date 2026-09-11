@@ -248,8 +248,7 @@ http://cdn.live247stream.com/atvusa/tv/playlist.m3u8
 http://103.172.152.218:8086/0.ts
 #EXTINF:-1,EKHON KOLKATA
 http://live.dataplayer.in:8080/live/ekhonkolkata.m3u8
-#EXTINF:-1,Vision Punjab
-http://a-edge.bliscdn.com/VisionPunjabHD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,Histoire Tv
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1,Raatdin Bangla
@@ -456,7 +455,8 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/230.ts
 
 
 
-
+#EXTINF:-1,Vision Punjab
+http://a-edge.bliscdn.com/VisionPunjabHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8TbRJp2/Zoom.jpg" group-title="PRO✅",ZOOM🌀
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-id="ETVBeats.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETVBeats1.png" group-title="PRO✅",ETV Beats
