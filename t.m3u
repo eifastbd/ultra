@@ -1742,8 +1742,7 @@ http://mysave23.com/live/PeH5kPWFfG/infamous7funny/4083.ts
 http://mysave23.com/live/PeH5kPWFfG/infamous7funny/271038.ts
 #EXTINF:-1,Channel  S Uk
 https://cd198.anystream.uk:9092/web/tvchsuk03/chunks.m3u8
-#EXTINF:-1,N Tv Urup
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8
+
 #EXTINF:-1,Fight Network
 https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
 #EXTINF:-1,Fight Mma Tv
@@ -1756,22 +1755,6 @@ https://linear-893.frequency.stream/mt/plex/893/hls/master/playlist_640x360.m3u8
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
 #EXTINF:-1,Colours Ceneplex
 https://vods2.aynaott.com/hindimovies/index.m3u8
-#EXTINF:-1,B Flix
-https://cdn-2.pishow.tv/live/1459/master.m3u8
-#EXTINF:-1,Goldmine Movies
-https://cdn-2.pishow.tv/live/1461/master.m3u8
-#EXTINF:-1,GOLD MINE Bolliwood
-http://103.175.73.12:8080/live/52/52_0.m3u8
-#EXTINF:-1,Gold Mine Movie  3
-https://cdn-2.pishow.tv/live/1460/master.m3u8
-#EXTINF:-1,Monorknjon Tv
-http://103.175.73.12:8080/live/19/19_0.m3u8
-#EXTINF:-1,Z Anmol
-http://103.175.73.12:8080/live/256/256_0.m3u8
-#EXTINF:-1,E 24 Music
-http://103.175.73.12:8080/live/159/159_0.m3u8
-#EXTINF:-1,Music India
-http://103.175.73.12:8080/live/158/158_0.m3u8
 #EXTINF:-1,SOUTH MOVIES
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,8 Xm Music
@@ -1790,8 +1773,6 @@ https://wiselp.wiseplayout.com/9XM/master.m3u8
 https://amg01412-xiaomiasia-sagamusic-xiaomi-h54ye.amagi.tv/playlist/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
 #EXTINF:-1,YRF MUSIC
 https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1,Sangeet Bangla
-https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1,Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1,Hindi Hits
@@ -1799,17 +1780,6 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 
 #EXTINF:-1,Hbo Movies
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
-#EXTINF:-1,Sony Aahat
-https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
-#EXTINF:-1,Fight Network
-https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
-#EXTINF:-1,Fight Lucha Plus
-https://amg17334-amg17334c1-freelivesports-emea-7386.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17334-luchalibrefast-luchalibre-freelivesportsemea/playlist.m3u8
-#EXTINF:-1,Fight PFL
-https://d2w9b8sam7j3zv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5g55ahrn9ajah/v1/pfl_pflmma_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1,Tna Wrestling
-https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8
-
 
 #EXTINF:-1,Ekhan Tv
 https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
