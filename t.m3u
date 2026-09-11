@@ -1132,16 +1132,6 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
     
 
 
-
-
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/quraantv.png",SAUDI QURAN
-https://stream.ottplus.bd/live/islamic_tv/index.m3u8
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/iqra.png",Iqra Bangla
-https://tvsen5.aynaott.com/iqrabangla/index.m3u8
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/btv.png",BTV
-https://playztv-apps.pages.dev/btv/index.m3u8
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/btv_world.png",BTV World
-https://playztv-apps.pages.dev/btv-world/index.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/asian.png",Asian TV
 https://playztv-apps.pages.dev/asian-tv/index.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/anando.png",Ananda TV
@@ -1154,16 +1144,12 @@ https://playztv-apps.pages.dev/bijoy-tv/index.m3u8
 https://stream.ottplus.bd/live/bangla_tv_hd_abr/index.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/boishaki.png",Boishakhi TV
 https://playztv-apps.pages.dev/boishakhi-tv/index.m3u8
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/banglav.png",BANGLAVISION
-https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/chi.png",Channel i
 https://playztv-apps.pages.dev/channel-i/index.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/ch9.png",Channel 9
 https://playztv-apps.pages.dev/channel-9/index.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/desh.png",Desh TV
 https://playztv-apps.pages.dev/desh-tv/index.m3u8
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/21se.png",EKUSHY TV HD
-http://dgj.bkdnet.xyz:8080/hls/7-ekushy/index.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/ntv.png",NTV
 https://playztv-apps.pages.dev/ntv/index.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/rtv.png",RTV
