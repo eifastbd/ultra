@@ -418,14 +418,12 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/230.ts
 
 
 
-#EXTINF:-1  group-title="PRO✅" group-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LOGO_HD/image.png?utm_source=chatgpt.com",Pittara🌀
+#EXTINF:-1 group-title="PRO✅" group-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LOGO_HD/image.png?utm_source=chatgpt.com",Pittara🌀
 https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
-#EXTINF:-1,¡Viva Latino! (1080p)
-http://stream.mcquack.net/285/index.m3u8
-#EXTINF:-1,Afrobeats (1080p)
-https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1,Baraza TV (1080p)
-https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
+
+
+
+
 #EXTINF:-1,Epic Music (576p)
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 #EXTINF:-1,Epic Music Digital
@@ -531,7 +529,8 @@ https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGP3pRsh/Balle-Balle.jpg" group-title="PRO✅", Balle Balle🌀
 https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rEhhYpe.png"group-title="PRO✅",Baraza Music🌀
-https://eco.streams.ovh:8081/barazatv/index.m3u8
+#https://eco.streams.ovh:8081/barazatv/index.m3u8
+https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/bizmusic.jpg" group-title="PRO✅",BIZ Music🌀
 https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_IwJvv14dF9eFwXh4Xv7z9mutXZq6zF xmzIMkcWUopI08EFt1PfkFD36Y08kJKu-uys2m5nr2-s=s72-c-k-c0x00ffffff-no-rj" group-title="PRO✅",Academy TV🌀
@@ -596,8 +595,10 @@ https://live.olidigital.in/olitv/olitv/index.m3u8
 https://stream.ottlive.co.in/punjabihits/index.m3u8
 #EXTINF:-1 tvg-id="PublicMusic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_MUSIC/images/LOGO_HD/image.png" group-title="PRO✅",Public Music
 https://mumt04.tangotv.in/m18aqlK4PUBLICMUSIC/index.m3u8
-
-
+#EXTINF:-1 group-title="PRO✅" group-logo="https://static.sweet.tv/images/cache/channel_banners/BCNQ4IAM/1819-viva-latino-hd.png?utm_source=chatgpt.com",¡Viva Latino!
+http://stream.mcquack.net/285/index.m3u8
+#EXTINF:-1 group-title="PRO✅" group-logo="https://imgur.com/232ndRK",Afrobeats
+https://stream.ecable.tv/afrobeats/index.m3u8
 
 
 
