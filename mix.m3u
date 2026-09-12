@@ -273,12 +273,9 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
 #EXTINF:-1,Gram Bangla
 http://live.dataplayer.in:8080/live/grambangla.m3u8
-#EXTINF:-1,jalsh
-http://103.151.60.162:2122/play/a02m/index.m3u8?hls
+
 #EXTINF:-1,জালসা বাংলা BD
-http://103.151.60.162:2122/play/a02x/index.m3u8?hls
-#EXTINF:-1,Star Bangla
-http://103.151.60.162:2122/play/a0f5/index.m3u8?hls
+https://dish.porosh.com.bd/hls/jalshabangla.m3u8
 
 
 
