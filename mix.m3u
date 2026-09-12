@@ -728,8 +728,8 @@ MOVIE
 
 
 
-
-
+#EXTINF:-1,G11 HD
+https://cdn.pishow.tv/ott/live/10022/master.m3u8
 #EXTINF:-1 tvg-id="BSFilm.pk" tvg-name="BS Film" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3953-640x360-FFFFFF.jpg" group-title="PRO✅",BS Film
 https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8
 #https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8
