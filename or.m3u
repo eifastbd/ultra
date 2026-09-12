@@ -6,11 +6,10 @@
 
 
 
-#EXTM3U
-#EXTINF:-1 group-title="-",&flix
-http://103.151.60.162:2122/play/a01m/index.m3u8?hls
-#EXTINF:-1 group-title="-",&tv
-http://103.151.60.162:2122/play/a020/index.m3u8?hls
+
+
+
+
 #EXTINF:-1 group-title="-",0000_T-Sports
 http://103.151.60.162:2122/play/a030/index.m3u8?hls
 #EXTINF:-1 group-title="-",A Sports
