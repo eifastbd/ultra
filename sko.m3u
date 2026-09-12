@@ -666,85 +666,9 @@ https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/in
 https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
 #EXTINF:-1 tvg-id="SiriKannada.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143790_ld_h9_aa.png?lock=720x540" group-title="Entertainment",Siri Kannada (576p)
 https://mumt02.tangotv.in/SIRIKANNADAALLTIME/index.m3u8
-#EXTINF:-1 tvg-id="SirippoliTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143791_ld_h9_aa.png?lock=720x540" group-title="Comedy",Sirippoli TV (576p)
-https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
-#EXTINF:-1 tvg-id="SohamTV.in@SD" tvg-logo="https://i.imgur.com/cpedJ0L.png" group-title="Religious",Soham TV (576p)
-https://mumt03.tangotv.in/SOHAMTV/index.m3u8
-#EXTINF:-1 tvg-id="SomoyNewsTV.bd@SD" tvg-logo="https://i.imgur.com/i54AQic.png" group-title="News",Somoy News TV (1080p)
-https://bozztv.com/rongo/rongo-somoy/index.m3u8
-#EXTINF:-1 tvg-id="SongdewTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142920_ld_h9_aa.png?lock=720x540" group-title="Music",Songdew TV (576p)
-http://103.72.101.252:8080/live/1411.m3u8
-#EXTINF:-1 tvg-id="Sonic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png" group-title="Kids",Sonic (576p)
-http://103.229.254.25:7001/play/a0dl/index.m3u8
-#EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" group-title="Documentary",Sony BBC Earth HD English (1080p) [Geo-blocked]
-https://sl.vodep39240327.workers.dev/channel/SONY%20BBC%20EARTH%20HD.m3u8
-#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Sony Entertainment Television HD (1080p)
-http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SET_HD&uid=gana-sunega&pass=krish-ka
-#EXTINF:-1 tvg-id="SonyMarathi.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MARATHI/images/LOGO_HD/image.png" group-title="Entertainment",Sony Marathi (1080p) [Geo-blocked]
-https://sl.vodep39240327.workers.dev/channel/SONY%20MARATHI.m3u8
-#EXTINF:-1 tvg-id="SonyMax.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Movies",Sony Max (1080p) [Geo-blocked]
-https://sl.vodep39240327.workers.dev/channel/SONY%20MAX.m3u8
-#EXTINF:-1 tvg-id="SonyMax2.in@SD" tvg-logo="https://i.imgur.com/gqUYk6C.png" group-title="Movies",Sony Max 2 (1080p) [Geo-blocked]
-https://sl.vodep39240327.workers.dev/channel/SONY%20MAX%202.m3u8
-#EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Movies",Sony Max HD (1080p) [Geo-blocked]
-https://sl.vodep39240327.workers.dev/channel/SONY%20MAX%20HD.m3u8
-#EXTINF:-1 tvg-id="SonyPix.in@HD" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" group-title="Movies",Sony Pix HD (1080p) [Geo-blocked]
-https://sl.vodep39240327.workers.dev/channel/SONY%20PIX%20HD.m3u8
-#EXTINF:-1 tvg-id="SonySAB.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="Entertainment",Sony SAB HD (1080p)
-http://103.229.254.25:7001/play/a0db/index.m3u8
 
-#EXTINF:-1 tvg-id="SonyWah.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_WAH/images/LOGO_HD/image.png" group-title="Movies",Sony Wah (1080p) [Geo-blocked]
-https://sl.vodep39240327.workers.dev/channel/SONY%20WAH.m3u8
-#EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LOGO_HD/image.png" group-title="Animation;Kids",Sony Yay! (1080p) [Geo-blocked]
-https://sl.vodep39240327.workers.dev/channel/SONY%20YAY.m3u8
-#EXTINF:-1 tvg-id="SouthStation.in@HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260325T012316SQUARE.png" group-title="Movies",South Station (1080p)
-https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
-#EXTINF:-1 tvg-id="Spondon.in@SD" tvg-logo="https://www.spondontv.com/wp-content/uploads/2025/10/cropped-SPONDON_Blue-Violet_1-copy-300x100.png" group-title="Entertainment",Spondon (1080p)
-https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8
-#EXTINF:-1 tvg-id="StarBharat.in@SD" tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="News",Star Bharat (576p)
-http://103.253.18.58:8000/play/a00u
-#EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-logo="https://i.imgur.com/G0ZfzZr.png" group-title="Movies",Star Gold 2 (576p)
-http://103.253.18.58:8000/play/a00r
-#EXTINF:-1 tvg-id="StarGold.in@HD" tvg-logo="https://i.imgur.com/xC460sj.png" group-title="Movies",Star Gold HD (1080p)
-http://103.229.254.25:7001/play/a0dd/index.m3u8
-#EXTINF:-1 tvg-id="StarGoldRomance.in@SD" tvg-logo="https://i.imgur.com/gSWv9U3.png" group-title="Movies",Star Gold Romance (576p)
-http://103.253.18.58:8000/play/a017
-#EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="Movies",Star Gold Select HD (1080p)
-http://103.229.254.25:7001/play/a032/index.m3u8
-#EXTINF:-1 tvg-id="StarGoldThrills.in@SD" tvg-logo="https://i.imgur.com/azqtpYh.png" group-title="Movies",Star Gold Thrills (576p)
-http://103.253.18.58:8000/play/a00o
-#EXTINF:-1 tvg-id="StarMaaGold.in@SD" tvg-logo="https://i.imgur.com/8v4JXYu.png" group-title="Entertainment",Star Maa Gold (576p)
-http://103.121.6.5:8000/play/a063/index.m3u8
-#EXTINF:-1 tvg-id="StarMaa.in@HD" tvg-logo="https://i.imgur.com/5c9PVS0.png" http-referrer="https://tulnit.com" group-title="Entertainment",Star Maa HD (1080p)
-#EXTVLCOPT:http-referrer=https://tulnit.com
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starmaa1_live_https/index.m3u8
-#EXTINF:-1 tvg-id="StarMaaMovies.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540" http-referrer="https://tulnit.com" group-title="Movies",Star Maa Movies HD (1080p)
-#EXTVLCOPT:http-referrer=https://tulnit.com
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/maamovies_live_https/index.m3u8
-#EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Movies",Star Movies HD (1080p)
-http://103.157.248.140:8000/play/a01t/index.m3u8
-#EXTINF:-1 tvg-id="StarPravah.in@HD" tvg-logo="https://i.imgur.com/ZT0u7AK.png" http-referrer="https://tulnit.com" group-title="Entertainment",Star Pravah HD (1080p)
-#EXTVLCOPT:http-referrer=https://tulnit.com
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starpravah_live_https/index.m3u8
-#EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports",Star Sports 1 HD (1080p)
-http://103.253.18.58:8000/play/a00m
-#EXTINF:-1 tvg-id="StarSports1Hindi.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png" group-title="Sports",Star Sports 1 Hindi (576p)
-http://103.253.18.58:8000/play/a03o
-#EXTINF:-1 tvg-id="StarSports2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="Sports",Star Sports 2 HD (1080p)
-https://mini.allinonereborn.fun/tata.php?id=11819
-#EXTINF:-1 tvg-id="StarSports2Hindi.in@HD" tvg-logo="https://i.imgur.com/kHerF19.png" group-title="Sports",Star Sports 2 Hindi HD (1080p)
-http://103.157.248.140:8000/play/a01m/index.m3u8
-#EXTINF:-1 tvg-id="StarSuvarna.in@HD" tvg-logo="https://i.imgur.com/U9FA4Gs.png" http-referrer="https://tulnit.com" group-title="Entertainment",Star Suvarna HD (1080p)
-#EXTVLCOPT:http-referrer=https://tulnit.com
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/suvarnatv_live_https/index.m3u8
-#EXTINF:-1 tvg-id="StarUtsavMovies.in@SD" tvg-logo="https://i.imgur.com/k5QHfH2.png" group-title="Movies",Star Utsav Movies (576p)
-http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES&uid=gana-sunega&pass=krish-ka
-#EXTINF:-1 tvg-id="StarVijay.in@SD" tvg-logo="https://i.imgur.com/dZtJHAe.png" group-title="Entertainment",Star Vijay (576p)
-http://ptuf.ridsys.in/riptv/live/STAR_VIJAY/index.m3u8
-#EXTINF:-1 tvg-id="Starnet.in@SD" tvg-logo="https://i.imgur.com/J3jB7Kr.png" group-title="General",Starnet (480p)
-https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
-#EXTINF:-1 tvg-id="StarPlus.in@HD" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Entertainment",StarPlus HD (1080p)
-http://103.229.254.25:7001/play/a09z/index.m3u8
+
+
 #EXTINF:-1 tvg-id="SteelbirdMusic.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Steelbird_Music.png" group-title="Music",Steelbird Music (720p) [Not 24/7]
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 #EXTINF:-1 tvg-id="StudioOnePlus.in@SD" tvg-logo="https://i.imgur.com/yOPB7JB.png" group-title="Movies",Studio One + (720p)
