@@ -282,11 +282,9 @@ https://dish.porosh.com.bd/hls/jalshabangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSV1py3jfF1GxTt9mLp4FaGPh_VSQkb7vlAkk6gM4lyaZ-VpKGcZjvj1bAj5XGM2z6FzZ-YcF5ypK3eSqTdiJWbUwfAcpo9gpp46XzFPdyuqWwJpN8CJVD2Eccw7THi60xgJ9rMkm-i8S83s4x6ZAO27kALxlY7ulLkwIO4CEuMz40yvj52A7yxCM1Ng/s600/Nur_20251107_000734_0000.png" group-title="PRO✅", Aakash Aath
 https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png?20230625063343" group-title="PRO✅",Star Jalsha HD🇮🇳
-#http://103.151.60.162:2122/play/a00w/index.m3u8?hls
-http://flowutc.com:80/live/34FQ94W/64CW3PG/76204.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tjSrbLS/20240822-231445.png" group-title="PRO✅",Zee Bangla HD
-http://flowutc.com:80/live/34FQ94W/64CW3PG/78981.ts
+
+#EXTINF:-1 xui-id="34" tvg-id="" tvg-name="SONY ATTH" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbs8.png" group-title="PRO✅",SONY ATTH
+http://27.124.71.27/Sony_Aath/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPZdDXbsGeDOGhPC-Og7bXRrJxsbaFnZ1IEVB7-bPsJtpvNE9IhcMv0Q5OnUq5GCK9UqE7mzMCZinQaN1NSjk2wqKQFs_dreX5yGnDiXNju5yYT_9BDLC3dThhXRIfKk5XQGNc4oi6qWO3fvw5-9dqydLf6pvyHsq5cske3F1FKKih75cCUk20OKVymg/s600/Nur_20251216_222101_0000.png" group-title="PRO✅", Star Jalsha
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
@@ -320,8 +318,6 @@ http://103.151.60.162:2122/play/a015/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2h7Rov9K9yz6dRM5N81dYq44AUzESD-FpiykR8bVAwg&s=10" group-title="PRO✅",Zee Bangla HD🇮🇳
 http://103.151.60.162:2122/play/a011/index.m3u8?hls
 #https://stream.ottplus.bd/live/zee_bangla_abr/index.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://imglink.cc/cdn/qonZADSZua.png",Zee Bangla🇮🇳
-http://103.159.180.34:5001/live/625.m3u8
 #EXTINF:-1, group-title="PRO✅" tvg-logo="https://img-cdn.publive.online/fit-in/1200x675/afaqs/media/post_attachments/10748d92781bb5c4b905c6d099a049402df8755404dd10781241db6b0fe221ad.jpg", DANGAL🇮🇳
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1, group-title="PRO✅" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2022/04/Dangal-2.jpg",DANGAL 2🇮🇳
