@@ -284,10 +284,12 @@ https://stream.channeleuropetvboxlondon.co.uk/live/abcnews/playlist.m3u8
 https://cdn.livestreambd.com/IBTV/index.m3u8
 #EXTINF:-1,USB Tv
 https://stream.channeleuropetvboxlondon.co.uk/live/nextplanet/chunklist_w598636500.m3u8
-#EXTINF:-1,Cine জমজমাট
-https://amg13779-amg13779c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13779-amg13779c1-amgplt0016/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSV1py3jfF1GxTt9mLp4FaGPh_VSQkb7vlAkk6gM4lyaZ-VpKGcZjvj1bAj5XGM2z6FzZ-YcF5ypK3eSqTdiJWbUwfAcpo9gpp46XzFPdyuqWwJpN8CJVD2Eccw7THi60xgJ9rMkm-i8S83s4x6ZAO27kALxlY7ulLkwIO4CEuMz40yvj52A7yxCM1Ng/s600/Nur_20251107_000734_0000.png" group-title="PRO✅", Aakash Aath
 https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
+
+#EXTINF:-1,Cine জমজমাট
+https://mumt04.tangotv.in/m18aqlK4SONARBANGLA/index.m3u8
 
 #EXTINF:-1 xui-id="34" tvg-id="" tvg-name="SONY ATTH" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbs8.png" group-title="PRO✅",SONY ATTH
 http://27.124.71.27/Sony_Aath/index.m3u8
