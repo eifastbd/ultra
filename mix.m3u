@@ -286,7 +286,8 @@ https://stream.channeleuropetvboxlondon.co.uk/live/abcnews/playlist.m3u8
 https://cdn.livestreambd.com/IBTV/index.m3u8
 #EXTINF:-1,USB Tv
 https://stream.channeleuropetvboxlondon.co.uk/live/nextplanet/chunklist_w598636500.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NGkpvww2/jatv.png" group-title="PRO✅",JA TV
+
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3ABK7g4ZwY1Kre_fjEa2ItzSVcUFWhf6856ogWQEhbLS6I6Zrwfa40ctvKHFiv9d63aoJOekbffCjcdMXipWT2QWAHOUWgpgyk0Agodv-MwUqAvP57w92iu8nXQlViVICM6R98H5L0q-Wor0lf1umABAiveSXg6pYYegAJNsucF4SXwmv1j9b8BtWOA/s1080/1000060521.png",Ja TV
 https://dish.porosh.com.bd/hls/jtvnews.m3u8
 
 
