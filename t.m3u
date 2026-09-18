@@ -30,8 +30,6 @@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxn2mPcf/BTV.jpg" group-title="TV💠",BTV
 http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8
-#EXTINF:-1 group-title="TV💠" tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg",মুভি বাংলা
-http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmwaUF5gRgTQ31kirZy14fDEVgfNrx5hJwZg&s",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6rgYGJk/Jamuna-Tv.jpg" group-title="TV💠",JAMUNA TV
