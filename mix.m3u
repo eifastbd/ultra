@@ -418,9 +418,9 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/230.ts
 
 #EXTINF:-1 group-title="PRO✅" group-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LOGO_HD/image.png?utm_source=chatgpt.com",Pittara🌀
 https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
-#EXTINF:-1, group-title="PRO✅" group-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png",88 Stereo
+#EXTINF:-1, group-title="PRO✅" group-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png",88 Stereo🌀
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1, group-title="PRO✅" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/360_TuneBox_logo.svg/1000px-360_TuneBox_logo.svg.png",360 Tune
+#EXTINF:-1, group-title="PRO✅" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/360_TuneBox_logo.svg/1000px-360_TuneBox_logo.svg.png",360 Tune🌀
 https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 
 
@@ -431,8 +431,7 @@ https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 #EXTINF:-1,Epic Music Digital
 https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
-#EXTINF:-1,ETV Music
-https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
+
 #EXTINF:-1,Music Box Classic
 http://88.212.15.19/live/mb_classic/index.m3u8
 #EXTINF:-1,One Music Television
@@ -444,7 +443,7 @@ https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/ind
 http://a-edge.bliscdn.com/VisionPunjabHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8TbRJp2/Zoom.jpg" group-title="PRO✅",ZOOM🌀
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-#EXTINF:-1 tvg-id="ETVBeats.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETVBeats1.png" group-title="PRO✅",ETV Beats
+#EXTINF:-1 tvg-id="ETVBeats.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETVBeats1.png" group-title="PRO✅",ETV Beats🌀
 https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
 #EXTINF:-1  group-title="PRO✅" group-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LOGO_HD/image.png?utm_source=chatgpt.com",Pittara🌀
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/227.ts
