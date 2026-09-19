@@ -556,7 +556,9 @@ https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xia
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zoom.png" group-title="PRO✅",ZOOM🌀
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zing.jpg" group-title="PRO✅",Zing🌀
-http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTGRP:ZEE5 Worldwide
+#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
+https://premiumplug.fun/zee/zee5.php/0-9-channel_1643519345.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9x-tashan.png" group-title="PRO✅",9X Tashan🌀
 https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9x-tashan.png" group-title="PRO✅",9X Tashan🌀
@@ -565,7 +567,6 @@ https://cdn.pishow.tv/ott/live/1613/master.m3u8
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9x-jalwa.png" group-title="PRO✅",9X Jalwa🌀
 https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9x-jhakaas.png" group-title="PRO",9x Jhakaas🌀
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 #EXTINF:0 group-title="PRO✅" tvg-logo="https://persiana.unaux.com/wp-content/uploads/2024/05/persiana-4kurdhd.png",4 KURD🌀
@@ -669,6 +670,9 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
 https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zoom.png" group-title="PRO✅",ZOOM🌀
 https://mumbai-edge.smartplaytv.in/Zoom/index.m3u8
+
+
+
 
 
 
