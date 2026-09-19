@@ -845,15 +845,11 @@ https://cdn.pishow.tv/ott/live/1461/master.m3u8
 #EXTINF:-1 tvg-id="KhushbooBangla.in@SD" group-title="Firoj Khan",Khushboo Bangla (720p)
 https://cdn.pishow.tv/ott/live/1473/master.m3u8
 
-#EXTINF:-1 tvg-id="GoldminesAction.in@SD" group-title="Firoj Khan",Goldmines Action (576p)
-https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
-
 
 
 #EXTINF:-1 tvg-id="AnjanTV.in@SD" group-title="Firoj Khan",Anjan TV (576p)
 https://mumt06.tangotv.in/qYyB8fXVANJANTV/index.m3u8
-#EXTINF:-1 tvg-id="Goldmines.in@SD" group-title="Firoj Khan",Goldmines (576p)
-https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
+
 
 #EXTINF:-1 tvg-id="B4UKadak.in@SD" group-title="Firoj Khan",B4U Kadak (576p)
 https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
@@ -895,28 +891,20 @@ https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net /logopedia/images/a/ad/Bhojpuri_cinema.png" group-title="PRO✅",Bhojpuri Cinema
 https://cdn.pishow.tv/ott/live/1033/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bollywood 4U" tvg-logo="" group-title="Bollywood & Indian Movies",Bollywood 4U (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="Bollywood 4U" tvg-logo="" group-title="PRO✅",Bollywood 4U
 https://streams2.sofast.tv/umaxx/v1/0196d96223231ea506ec2e7986613e/0196d96312d71ebd416a37ff7b3317/playlist.m3u8
-#EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-name="Bollywood Classic" tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="Bollywood & Indian Movies",Bollywood Classic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://flash1.bogulus1.cfd/boly/usergenr9j8s2t.m3u8
-#EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-name="Bollywood HD" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Bollywood & Indian Movies",Bollywood HD (576p)
+#EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-name="Bollywood HD" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="PRO✅",Bollywood HD🎬
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bollywood Masala" tvg-logo="" group-title="Bollywood & Indian Movies",Bollywood Masala (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="Bollywood Masala" tvg-logo="" group-title="PRO✅",Bollywood Masala🎬
 https://streams2.sofast.tv/vglive-sk-373192/index.m3u8
-#EXTINF:-1 tvg-id="EpicBhojpuri.in" tvg-name="Epic Bhojpuri" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540" group-title="Bollywood & Indian Movies",Epic Bhojpuri (1080p)
+#EXTINF:-1 tvg-id="EpicBhojpuri.in" tvg-name="Epic Bhojpuri" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540" group-title="Bollywood & Indian Movies",Epic Bhojpuri🎬
 https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8
-#EXTINF:-1 tvg-id="EpicBhojpuri.in" tvg-name="Epic Bhojpuri" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540" group-title="Bollywood & Indian Movies",Epic Bhojpuri (576p)
+#EXTINF:-1 tvg-id="EpicBhojpuri.in" tvg-name="Epic Bhojpuri" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540" group-title="PRO✅",Epic Bhojpuri🎬
 https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8
-#EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" tvg-logo="https://dtil.tmsimg.com/assets/s143087_ld_h15_aa.png?lock=720x540" group-title="Bollywood & Indian Movies",Goldmines (576p)
+#EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" tvg-logo="https://dtil.tmsimg.com/assets/s143087_ld_h15_aa.png?lock=720x540" group-title="PRO✅",Goldmines🎬
 https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" tvg-logo="https://dtil.tmsimg.com/assets/s143087_ld_h15_aa.png?lock=720x540" group-title="Bollywood & Indian Movies",Goldmines (576p)
-https://tvsen3.aynaott.com/VamXuQH8/index.m3u8
-#EXTINF:-1 tvg-id="GoldminesAction.in" tvg-name="Goldmines Action" tvg-logo="https://yt3.googleusercontent.com/_X6U6bMLF-pTu5wBMFwsSI6aubGrXk2B0kUKdGiLIMqFLyDIne4Ot4ro76BS1S8fX3pWcCwS=s900-c-k-c0x00ffffff-no-rj" group-title="Bollywood & Indian Movies",Goldmines Action (576p)
+#EXTINF:-1 tvg-id="GoldminesAction.in" tvg-name="Goldmines Action" tvg-logo="https://yt3.googleusercontent.com/_X6U6bMLF-pTu5wBMFwsSI6aubGrXk2B0kUKdGiLIMqFLyDIne4Ot4ro76BS1S8fX3pWcCwS=s900-c-k-c0x00ffffff-no-rj" group-title="PRO✅",Goldmines Action🎬
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
-
-
 #EXTINF:-1 tvg-id="b80579f2-22d3-4b12-881e-60139810a791" tvg-name="Goldmines Bollywood" tvg-logo="https://s3.aynaott.com/storage/d9a0314f5f9165176f492db3923709bd" group-title="PRO✅",Goldmines Bollywood🎬
 https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in" tvg-name="Goldmines Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540" group-title="PRO✅",Goldmines Movies🎬
