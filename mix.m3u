@@ -459,7 +459,10 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/230.ts
 
 
 
-
+#EXTINF:-1 tvg-id="TabbarHits.in@SD" group-title="Firoj Khan",Tabbar Hits (1080p)
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8
+#EXTINF:-1 tvg-id="TabbarHits.in@SD" group-title="Firoj Khan",Tabbar Hits (576p)
+https://mumt04.tangotv.in/m18aqlK4TABBARHITS/index.m3u8
 #EXTINF:-1 tvg-id="Mastiii.in@SD" group-title="Firoj Khan",Mastiii (576p)
 https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
 #EXTINF:-1 tvg-id="UBangla.in@SD" group-title="Firoj Khan",U Bangla (1080p)
@@ -830,14 +833,11 @@ MOVIE
 #EXTINF:-1 group-title="PRO✅" group-title="India" tvg-id="ptc-punjabi" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1414934314PTCPUNJABI_TVSETS_TVW_720x960.webp",PTC PUNJABI
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
 
-#EXTINF:-1 tvg-id="TabbarHits.in@SD" group-title="Firoj Khan",Tabbar Hits (576p)
-https://mumt04.tangotv.in/m18aqlK4TABBARHITS/index.m3u8
+
+
 #EXTINF:-1 tvg-id="BalleBalle.in@SD" group-title="Firoj Khan",Balle Balle (576p)
 https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8
-#EXTINF:-1 tvg-id="AKDCalcuttaNews.in@SD" group-title="Firoj Khan",AKD Calcutta News (576p)
-https://cdn.pishow.tv/ott/live/237/master.m3u8
-#EXTINF:-1 tvg-id="DhoomMusic.in@SD" group-title="Firoj Khan",Dhoom Music (720p)
-https://cdn.pishow.tv/ott/live/1456/master.m3u8
+
 #EXTINF:-1 tvg-id="Goldmines.in@SD" group-title="Firoj Khan",Goldmines (576p)
 https://cdn.pishow.tv/ott/live/1459/master.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in@SD" group-title="Firoj Khan",Goldmines Movies (576p)
@@ -853,12 +853,9 @@ https://mumt06.tangotv.in/qYyB8fXVANJANTV/index.m3u8
 
 #EXTINF:-1 tvg-id="B4UKadak.in@SD" group-title="Firoj Khan",B4U Kadak (576p)
 https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in@India" group-title="Firoj Khan",B4U Movies (576p)
-https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
 
 
-#EXTINF:-1 tvg-id="TabbarHits.in@SD" group-title="Firoj Khan",Tabbar Hits (1080p)
-https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8
+
 #EXTINF:-1 tvg-id="TheMovieClub.in@HD" group-title="Firoj Khan",The Movie Club (1080p)
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 #EXTINF:-1 tvg-id="TheMovieClub.in@Plus2" group-title="Firoj Khan",The Movie Club +2 (1080p)
@@ -876,22 +873,15 @@ https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist
 #EXTINF:-1 group-title="PRO✅" group-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/All-Time-Movies-Logo_2000_X_1125_Transpharent.png?utm_source=chatgpt.com",All Time Movie
 https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8
 
-
-#EXTINF:-1,G11 HD
-https://cdn.pishow.tv/ott/live/10022/master.m3u8
-#EXTINF:-1 tvg-id="BSFilm.pk" tvg-name="BS Film" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3953-640x360-FFFFFF.jpg" group-title="PRO✅",BS Film
-https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8
-#https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmax.pk" tvg-name="Filmax" tvg-logo="https://i.imgur.com/eLmdZ6k.png" group-title="PRO✅",Filmax
+#EXTINF:-1 tvg-id="Filmax.pk" tvg-name="Filmax" tvg-logo="https://i.imgur.com/eLmdZ6k.png" group-title="PRO✅",Filmax🎬
 https://s3.ideationtec.live/Filmax/Filmax.m3u8
-#EXTINF:-1 tvg-id="B4UBhojpuri.in" tvg-name="B4U Bhojpuri" tvg-logo="https://i.imgur.com/NwOQUDp.png" group-title="PRO✅",B4U Bhojpuri
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHOJPURI_CINEMA/images/LOGO_HD/image.png" group-title="PRO✅",Bhojpuri Cinema🎬
 https://streams.tangotv.in/B4UBHOJPURI/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png?lock=720x540" group-title="PRO✅",B4U Movies
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png?lock=720x540" group-title="PRO✅",B4U Movies🎬
 https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net /logopedia/images/a/ad/Bhojpuri_cinema.png" group-title="PRO✅",Bhojpuri Cinema
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net /logopedia/images/a/ad/Bhojpuri_cinema.png" group-title="PRO✅",Bhojpuri Cinema🎬
 https://cdn.pishow.tv/ott/live/1033/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bollywood 4U" tvg-logo="" group-title="PRO✅",Bollywood 4U
+#EXTINF:-1 tvg-id="" tvg-name="Bollywood 4U" tvg-logo="" group-title="PRO✅",Bollywood 4U🎬
 https://streams2.sofast.tv/umaxx/v1/0196d96223231ea506ec2e7986613e/0196d96312d71ebd416a37ff7b3317/playlist.m3u8
 #EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-name="Bollywood HD" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="PRO✅",Bollywood HD🎬
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
