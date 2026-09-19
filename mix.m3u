@@ -318,7 +318,7 @@ http://livetv.akr4m.com:8080/bdtv/restrem/42.m3u8
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/COLORS%20BANGLA%20HD.png" group-title="PRO✅",COLOR BANGLA HD
 http://livetv.akr4m.com:8080/bdtv/restrem/34.m3u8
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/COLORS%20BANGLA%20CINEMA.png" group-title="PRO✅",COLOR BANGLA CHINEMA HD
-
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPZdDXbsGeDOGhPC-Og7bXRrJxsbaFnZ1IEVB7-bPsJtpvNE9IhcMv0Q5OnUq5GCK9UqE7mzMCZinQaN1NSjk2wqKQFs_dreX5yGnDiXNju5yYT_9BDLC3dThhXRIfKk5XQGNc4oi6qWO3fvw5-9dqydLf6pvyHsq5cske3F1FKKih75cCUk20OKVymg/s600/Nur_20251216_222101_0000.png" group-title="PRO", Star Jalsha                                 
 https://flussonic.defineatoz.com/StarjalshaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 xui-id="34" tvg-id="" tvg-name="SONY ATTH" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbs8.png" group-title="PRO✅",SONY ATTH
@@ -423,7 +423,8 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1, group-title="PRO✅" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/360_TuneBox_logo.svg/1000px-360_TuneBox_logo.svg.png",360 Tune🌀
 https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="DesiChannel.in@SD" group-title="PRO✅",Desi
+https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
 
 
 
@@ -616,7 +617,11 @@ https://streamtv.mediasector.es/hls/activatv/index.m3u8
 https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="http://www.nettv.live/uploads/allimg/25/1-2501121243320-L.png",Capital Tv
 https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8
-#EXTINF:-1 group-title="PRO✅" group-logo="
+#EXTINF:-1 group-title="PRO✅" group-logo="https://bilder.fernsehserien.de/gfx/pics/1200/Mtv-Logo-Gross.jpg.jpg?utm_source=chatgpt.com",MTV
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
+
+
+
 
 #EXTINF:-1 group-title="PRO✅" group-logo="
 
@@ -650,7 +655,8 @@ https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="ManoranjanPrime.in@SD" group-title="PRO✅",Manoranjan Prime
+https://cdn.pishow.tv/ott/live/1474/master.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Epic-Bharat.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",EPIC Bharat
 https://mumt06.tangotv.in/qYyB8fXVEPICTV/index.m3u8
 #EXTINF:-1 group-title="PRO✅" group-logo="https://i.imgur.com/HQZQyWt.png",ADN TV+
