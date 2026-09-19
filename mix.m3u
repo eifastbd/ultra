@@ -370,7 +370,7 @@ https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/
 
 http://38.96.178.205/SONYHD/index.m3u8
 
-
+https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 
 #EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="PRO✅",Colors Cineplex Bollywood
@@ -421,8 +421,10 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/230.ts
 
 
 
-
-
+#EXTINF:-1 tvg-id="Mastiii.in@SD" group-title="Firoj Khan",Mastiii (576p)
+https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
+#EXTINF:-1 tvg-id="UBangla.in@SD" group-title="Firoj Khan",U Bangla (1080p)
+https://stream.ottlive.co.in/ubangla/index.m3u8
 #EXTINF:-1 tvg-id="PTCMusic.in@SD" group-title="Firoj Khan",PTC Music (720p)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
 #EXTINF:-1 tvg-id="PTCMusic.in@SD" group-title="Firoj Khan",PTC Music
@@ -642,7 +644,8 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SongdewTV.in@SD" group-title="Firoj Khan",Songdew TV (396p)
 https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-
+#EXTINF:-1 tvg-id="Zoom.in@SD" group-title="Firoj Khan",Zoom (576p)
+https://mumbai-edge.smartplaytv.in/Zoom/index.m3u8
 
 #EXTINF:-1 group-title="PRO✅" group-logo="
 
@@ -784,7 +787,20 @@ MOVIE
 
 
 
-
+#EXTINF:-1 tvg-id="TabbarHits.in@SD" group-title="Firoj Khan",Tabbar Hits (576p)
+https://mumt04.tangotv.in/m18aqlK4TABBARHITS/index.m3u8
+#EXTINF:-1 tvg-id="BalleBalle.in@SD" group-title="Firoj Khan",Balle Balle (576p)
+https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8
+#EXTINF:-1 tvg-id="AKDCalcuttaNews.in@SD" group-title="Firoj Khan",AKD Calcutta News (576p)
+https://cdn.pishow.tv/ott/live/237/master.m3u8
+#EXTINF:-1 tvg-id="DhoomMusic.in@SD" group-title="Firoj Khan",Dhoom Music (720p)
+https://cdn.pishow.tv/ott/live/1456/master.m3u8
+#EXTINF:-1 tvg-id="Goldmines.in@SD" group-title="Firoj Khan",Goldmines (576p)
+https://cdn.pishow.tv/ott/live/1459/master.m3u8
+#EXTINF:-1 tvg-id="GoldminesMovies.in@SD" group-title="Firoj Khan",Goldmines Movies (576p)
+https://cdn.pishow.tv/ott/live/1461/master.m3u8
+#EXTINF:-1 tvg-id="KhushbooBangla.in@SD" group-title="Firoj Khan",Khushboo Bangla (720p)
+https://cdn.pishow.tv/ott/live/1473/master.m3u8
 
 #EXTINF:-1 tvg-id="GoldminesAction.in@SD" group-title="Firoj Khan",Goldmines Action (576p)
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
@@ -1067,6 +1083,8 @@ https://sscsott.com/srt/noortvuk/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209617/tracks-v1a1/mono.ts.m3u8
 
 
+#EXTINF:-1 tvg-id="MercyTV.in@SD" group-title="Firoj Khan",Mercy TV (576p)
+https://mumbai-edge.smartplaytv.in/MercyTV/index.m3u8
 
 
 
