@@ -787,7 +787,26 @@ MOVIE
 
 
 
-
+#EXTINF:-1 tvg-id="ManoranjanGrand.in@SD" group-title="Firoj Khan",Manoranjan Grand (576p)
+https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="ManoranjanTV.in@SD" group-title="Firoj Khan",Manoranjan TV (576p)
+https://streams.tangotv.in/MANORANJANTV/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="ManoranjanPrime.in@SD" group-title="Firoj Khan",Manoranjan Prime (576p)
+https://mumt06.tangotv.in/qYyB8fXVMANORANJANPRIME/index.m3u8
+#EXTINF:-1 tvg-id="AnjanTV.in@SD" group-title="Firoj Khan",Anjan TV (576p)
+https://mumt06.tangotv.in/qYyB8fXVANJANTV/index.m3u8
+#EXTINF:-1 tvg-id="Goldmines.in@SD" group-title="Firoj Khan",Goldmines (576p)
+https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="GoldminesMovies.in@SD" group-title="Firoj Khan",Goldmines Movies (576p)
+https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="GoldminesBollywood.in@SD" group-title="Firoj Khan",Goldmines Bollywood (576p)
+https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="B4UKadak.in@SD" group-title="Firoj Khan",B4U Kadak (576p)
+https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="B4UMovies.in@India" group-title="Firoj Khan",B4U Movies (576p)
+https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="ManoranjanMovies.in@SD" group-title="Firoj Khan",Manoranjan Movies (576p)
+https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
 
 #EXTINF:-1 tvg-id="TabbarHits.in@SD" group-title="Firoj Khan",Tabbar Hits (1080p)
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8
