@@ -773,8 +773,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000001971|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000001971
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="PRO✅",Sonic Bangla👻
-http://live.balajibroadband.com:3500/live/1345.m3u8
-#http://103.165.93.31:8095/sonic/tracks-v1a1/mono.m3u8
+
 
 
 hug
@@ -782,14 +781,10 @@ https://premiumtvs.space:80/live/samsung2861/manager5554/66162.ts
 https://premiumtvs.space:80/live/samsung2861/manager5554/18456.ts
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="PRO✅",Sonic👻
 https://premiumtvs.space:80/live/samsung2861/manager5554/207.ts
-
-#http://live.balajibroadband.com:3500/live/1341.m3u8
-#http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/205.ts
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="PRO✅",Nick Bangla👻
 https://premiumtvs.space:80/live/samsung2861/manager5554/98880.ts
 https://premiumtvs.space:80/live/samsung2861/manager5554/7438.ts
 https://premiumtvs.space:80/live/samsung2861/manager5554/98880.ts
-http://live.balajibroadband.com:3500/live/1341.m3u8
 #EXTINF:-1 group-title="PRO✅" group-logo="https://www.shutterstock.com/image-vector/kids-text-logo-movie-editable-260nw-2536104593.jpg" tvg-logo="https://assets-prod.services.toffeelive.com/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp",Cartoon Network HD 1
 http://202.70.146.135:8000/play/a0a3/index.m3u8
 #https://stream.ottplus.bd/live/cn_hd_abr/live/cn_hd/chunks.m3u8
