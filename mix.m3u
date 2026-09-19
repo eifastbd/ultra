@@ -786,7 +786,8 @@ MOVIE
 
 
 
-
+#EXTINF:-1 tvg-id="GoldminesAction.in@SD" group-title="Firoj Khan",Goldmines Action (576p)
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
 #EXTINF:-1 tvg-id="ManoranjanGrand.in@SD" group-title="Firoj Khan",Manoranjan Grand (576p)
 https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="ManoranjanTV.in@SD" group-title="Firoj Khan",Manoranjan TV (576p)
