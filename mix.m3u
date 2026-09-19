@@ -831,31 +831,29 @@ MOVIE
 
 
 
-#EXTINF:-1 group-title="PRO✅" group-title="India" tvg-id="ptc-punjabi" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1414934314PTCPUNJABI_TVSETS_TVW_720x960.webp",PTC PUNJABI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="PRO✅" group-title="India" tvg-id="ptc-punjabi" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1414934314PTCPUNJABI_TVSETS_TVW_720x960.webp",PTC PUNJABI🎬
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="Goldmines.in@SD" group-title="Firoj Khan",Goldmines (576p)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y8wszpw/Goldmines-Movies.jpg" group-title="PRO✅",GOLDMINES MOVIES🎬
 https://cdn.pishow.tv/ott/live/1459/master.m3u8
-#EXTINF:-1 tvg-id="GoldminesMovies.in@SD" group-title="Firoj Khan",Goldmines Movies (576p)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y8wszpw/Goldmines-Movies.jpg" group-title="PRO✅",GOLDMINES MOVIES🎬
 https://cdn.pishow.tv/ott/live/1461/master.m3u8
 #EXTINF:-1 tvg-id="KhushbooBangla.in@SD" group-title="Firoj Khan",Khushboo Bangla (720p)
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KHUSHBOO_BANGLA/images/LOGO_HD/image.png",Khusboo Bangla😁
 https://cdn.pishow.tv/ott/live/1473/master.m3u8
-
-
-
-#EXTINF:-1 tvg-id="AnjanTV.in@SD" group-title="Firoj Khan",Anjan TV (576p)
-https://mumt06.tangotv.in/qYyB8fXVANJANTV/index.m3u8
-
-
-#EXTINF:-1 tvg-id="B4UKadak.in@SD" group-title="Firoj Khan",B4U Kadak (576p)
-https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
-
-
-
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.imgur.com/8QmZQ7S.png",Movie Club🎬
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.imgur.com/8QmZQ7S.png",Movie Club2🎬
@@ -933,6 +931,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 https://vods2.aynaott.com/hindimovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5GR2LYM/B4u-Movies.jpg" group-title="PRO✅",B4U KADAK🎬
 https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5GR2LYM/B4u-Movies.jpg" group-title="PRO✅",B4U KADAK🎬
+https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Goldmines%20Movie.jpg?raw=true" group-title="PRO✅",GOLD Star🎬
 https://moviethls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NHBollyRaga.in" tvg-name="NH BollyRaga" tvg-logo="https://i.ibb.co/BKB9mv1K/NH-Bolly-Raga.png" tvg-chno="262" group-title="PRO✅",NH BollyRaga🎬
