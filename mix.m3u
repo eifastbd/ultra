@@ -1098,14 +1098,9 @@ https://cd198.anystream.uk:9092/iqapp/d33ntv/playlist.m3u8
 https://sscsott.com/srt/noortvuk/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://image2url.com/r2/default/images/1771151280861-b16e9421-f744-4922-83f4-791f990fd900.jpg",Bangla Waz
 https://live20.bozztv.com/giatvplayout7/giatv-209617/tracks-v1a1/mono.ts.m3u8
-
-
-#EXTINF:-1 tvg-id="MercyTV.in@SD" group-title="Firoj Khan",Mercy TV (576p)
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.imgur.com/klNH4tV.png",Mercy Tv🤲
 https://mumbai-edge.smartplaytv.in/MercyTV/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="TakbeerTV.uk@SD" group-title="Firoj Khan",Takbeer TV (720p)
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.imgur.com/Cvnps2J.jpg",Takbeer TV🤲
 https://cd198.anystream.uk:9092/iqapp/t5kb86tv/playlist.m3u8
 
 
