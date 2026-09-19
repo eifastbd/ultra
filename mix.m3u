@@ -381,6 +381,31 @@ http://38.96.178.205/SONYHD/index.m3u8
 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png",Sony Television
+https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png",Sony Television HD
+https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
+#EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="PRO✅",Colors Cineplex Bollywood🎬
+http://live.balajibroadband.com:3500/live/1763.m3u8
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="PRO✅",Sony PIX HD🎬
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/147.ts
+#EXTINF:-1 tvg-id="173" tvg-chno="511" tvg-name="sony-max-2" tvg-language="HIN" tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="PRO✅", Sony Max 2🎬
+http://live.balajibroadband.com:3500/live/483.m3u8
+#EXTINF:-1 tvg-id="167" tvg-chno="503" tvg-name="sony-max-hd" tvg-language="HIN" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" group-title="PRO✅", Sony MAX HD🎬
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/151.ts
+#http://live.balajibroadband.com:3500/live/476.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="UtsavBharat.uk@SD" group-title="Firoj Khan",Utsav Bharat (720p)
 https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
@@ -945,15 +970,7 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 https://cdn-4.pishow.tv/live/233/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13nLvxQx /20250630_050504.png" group-title="PRO✅",B4U
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="PRO✅",Colors Cineplex Bollywood🎬
-http://live.balajibroadband.com:3500/live/1763.m3u8
-#EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="PRO✅",Sony PIX HD🎬
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/147.ts
-#EXTINF:-1 tvg-id="173" tvg-chno="511" tvg-name="sony-max-2" tvg-language="HIN" tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="PRO✅", Sony Max 2🎬
-http://live.balajibroadband.com:3500/live/483.m3u8
-#EXTINF:-1 tvg-id="167" tvg-chno="503" tvg-name="sony-max-hd" tvg-language="HIN" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" group-title="PRO✅", Sony MAX HD🎬
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/151.ts
-#http://live.balajibroadband.com:3500/live/476.m3u8
+
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/JhR9HDw4/20240823_023056.png",& Tv
 https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/x8BwX6QW/20240823_022929.png",Zee Tv
@@ -962,10 +979,7 @@ https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
 https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/52SzwQF1/20251222_220548.png",Zee Bollywood
 https://stream.ottplus.live/live/zee_bollywood_abr/index.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png",Sony Television
-https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png",Sony Television HD
-https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/bollywood-cinema-vintage-indian-movie-cinematography-theater-poster-welcome-neon-retro-d-classic-film-posters-board-gold-logo-118624129.jpg?w=768" group-title="PRO✅",Bollywood🎬
