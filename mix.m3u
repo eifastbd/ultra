@@ -722,30 +722,12 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/
 
 #EXTINF:-1 tvg-id="ToonGoggles.us@SD" group-title="Firoj Khan",Toon Goggles (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
-
-
-
-#EXTINF:-1 tvg-id="ManoranjanPrime.in@SD" group-title="PRO✅",Manoranjan Prime
-https://cdn.pishow.tv/ott/live/1474/master.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Epic-Bharat.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",EPIC Bharat
-https://mumt06.tangotv.in/qYyB8fXVEPICTV/index.m3u8
 #EXTINF:-1 group-title="PRO✅" group-logo="https://i.imgur.com/HQZQyWt.png",ADN TV+
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
 #EXTINF:-1 group-title="PRO✅" group-logo="https://sales.planbkino.tv//b/c/471.png?utm_source=chatgpt.com",Cartoon Classic 
 http://5.188.159.128:8070/Cartoon_Network/index.m3u8
-
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxW1Tk5YcPMJtI5hh47SGGuJnQWY9YwkYZS9vOt_dJtQ5lRsS1vXarCGc6ixKgdEBAp2Y-K8xJyVSdiv3D62oWv_E5An9kHP_wSawaYiflPVttCjb8BW8ayfJV0JfR-TzcMD75P5hsyNzYGmHe6BK2KvXABCLMtYBANLhYQ8RUyZVXTNQHqggCb42qYg/s1080/1000023429.png",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://s3.aynaott.com/storage/a89142109d049ae325fd1681b50bfffb",Cartoon Network
-https://tvsen5.aynascope.net/cartoonnetwork/index.m3u8?e=1764396104&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=f01b3f48333e20b4895b8678841675af
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://s3.aynaott.com/storage/31a070024b6516e3738baec70168f0b6",Disney JR
-https://tvsen7.aynascope.net/disneyjr/index.m3u8?e=1764396105&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=ef459e53678afb55799b4cd3a3cb983e
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://s3.aynaott.com/storage/a130687320f6b07db4bc3729b9d5e96e",Nicktoons
-https://tvsen5.aynascope.net/nicktoons/index.m3u8?e=1764396106&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=0968e1d6ce462769afc5177f5d96b93f
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://s3.aynaott.com/storage/921409bfe77e2e3d32492116bc22fa3e",Nickjr
-https://tvsen5.aynascope.net/nickjr/index.m3u8?e=1764396106&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=e6020700d9b07a3d00574960dbabb6bf
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://s3.aynaott.com/storage/a0c74b576321da5aa33a69806401caf1",Disney Channel
-https://tvsen7.aynascope.net/disney/index.m3u8?e=1764396108&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=6a987fe96914a046626485949e910f09
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://s3.aynaott.com/storage/a0c74b576321da5aa33a69806401caf1",Disney Channel
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/19741.ts
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://www.animationxpress.com/wp-content/uploads/2019/11/Wow-Kidz-Logo.jpg?utm_source=chatgpt.com",Wow Kidz
@@ -826,6 +808,13 @@ http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 
 
 
+
+
+
+
+
+
+
 MOVIE
 
 
@@ -845,6 +834,15 @@ MOVIE
 
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-id="ManoranjanPrime.in@SD" group-title="PRO✅",Manoranjan Prime
+https://cdn.pishow.tv/ott/live/1474/master.m3u8
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Epic-Bharat.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",EPIC Bharat
+https://mumt06.tangotv.in/qYyB8fXVEPICTV/index.m3u8
 #EXTINF:-1 group-title="PRO✅" group-title="India" tvg-id="ptc-punjabi" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1414934314PTCPUNJABI_TVSETS_TVW_720x960.webp",PTC PUNJABI🎬
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y8wszpw/Goldmines-Movies.jpg" group-title="PRO✅",GOLDMINES MOVIES🎬
