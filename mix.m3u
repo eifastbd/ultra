@@ -784,6 +784,15 @@ MOVIE
 
 
 
+#EXTINF:-1 tvg-id="ShemarooFilmiGaane.in@HD" group-title="Firoj Khan",Shemaroo Filmi Gaane (1080p)
+https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
+#EXTINF:-1 tvg-id="ShemarooJosh.in@SD" group-title="Firoj Khan",Shemaroo Josh (720p)
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ShemarooTV.in@SD" group-title="Firoj Khan",Shemaroo TV (720p)
+https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ShemarooUmang.in@SD" group-title="Firoj Khan",Shemaroo Umang (720p)
+https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="PRO✅" group-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/All-Time-Movies-Logo_2000_X_1125_Transpharent.png?utm_source=chatgpt.com",All Time Movie
 https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8
 
