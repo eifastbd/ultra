@@ -474,8 +474,6 @@ https://cdn.pishow.tv/ott/live/1501/master.m3u8
 #EXTINF:-1 tvg-id="PTCPunjabi.in@SD" group-title="Firoj Khan",PTC Punjabi
 https://cdn.pishow.tv/ott/live/1604/master.m3u8
 
-#EXTINF:-1 tvg-id="PunjabiHits.in@SD" group-title="Firoj Khan",Punjabi Hits (1080p)
-https://stream.ottlive.co.in/punjabihits/index.m3u8
 
 #EXTINF:-1 group-title="PRO✅" group-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LOGO_HD/image.png?utm_source=chatgpt.com",Pittara🌀
 https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
@@ -662,8 +660,6 @@ https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 #EXTINF:-1 tvg-id="ETVJosh.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Josh.png" group-title="PRO✅",ETV Josh
 https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
-#EXTINF:-1 tvg-id="ETVJosh.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Josh.png" group-title="PRO✅",OITV
-https://live.olidigital.in/olitv/olitv/index.m3u8
 #EXTINF:-1 tvg-id="PublicMusic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_MUSIC/images/LOGO_HD/image.png" group-title="PRO✅",Public HITS 
 https://stream.ottlive.co.in/punjabihits/index.m3u8
 #EXTINF:-1 tvg-id="PublicMusic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_MUSIC/images/LOGO_HD/image.png" group-title="PRO✅",Public Music
@@ -672,26 +668,14 @@ https://mumt04.tangotv.in/m18aqlK4PUBLICMUSIC/index.m3u8
 http://stream.mcquack.net/285/index.m3u8
 #EXTINF:-1 group-title="PRO✅" group-logo="https://imgur.com/232ndRK",Afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8
-
 #EXTINF:-1 group-title="PRO✅" group-logo="https://i.imgur.com/VCUZKiw.png",Activa Tv
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
-#EXTINF:-1 group-title="PRO✅" group-logo="https://epg.serbianforum.org/logo_znaci_4/AFN%20Music.png",AFN
-https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="http://www.nettv.live/uploads/allimg/25/1-2501121243320-L.png",Capital Tv
-https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8
 #EXTINF:-1 group-title="PRO✅" group-logo="https://bilder.fernsehserien.de/gfx/pics/1200/Mtv-Logo-Gross.jpg.jpg?utm_source=chatgpt.com",MTV
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SongdewTV.in@SD" group-title="Firoj Khan",Songdew TV (396p)
+#EXTINF:-1 tvg-id="SongdewTV.in@SD" group-title="PRO✅",Songdew TV
 https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="Zoom.in@SD" group-title="Firoj Khan",Zoom (576p)
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zoom.png" group-title="PRO✅",ZOOM🌀
 https://mumbai-edge.smartplaytv.in/Zoom/index.m3u8
-
-#EXTINF:-1 group-title="PRO✅" group-logo="
-
-
-#EXTINF:-1 group-title="PRO✅" group-logo="
-
 
 
 
@@ -710,6 +694,9 @@ https://mumbai-edge.smartplaytv.in/Zoom/index.m3u8
 
 
  ───────────  Cartoon ───────────
+
+
+
 
 
 
@@ -845,7 +832,8 @@ MOVIE
 
 
 
-
+#EXTINF:-1 tvg-id="ETVJosh.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Josh.png" group-title="PRO✅",OITV
+https://live.olidigital.in/olitv/olitv/index.m3u8
 #EXTINF:-1 tvg-id="ManoranjanPrime.in@SD" group-title="PRO✅",Manoranjan Prime
 https://cdn.pishow.tv/ott/live/1474/master.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Epic-Bharat.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",EPIC Bharat
