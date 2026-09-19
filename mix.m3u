@@ -598,6 +598,7 @@ https://atomic.streamnet.ro/atomictv.m3u8
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGP3pRsh/Balle-Balle.jpg" group-title="PRO✅", Balle Balle🌀
 https://mcncdndigital.com/balleballetv/index.m3u8
+#https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGP3pRsh/Balle-Balle.jpg" group-title="PRO✅", Balle Balle🌀
 https://cdn.pishow.tv/ott/live/987/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rEhhYpe.png"group-title="PRO✅",Baraza Music🌀
@@ -814,7 +815,7 @@ https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg0
 http://116.90.120.157:8000/play/a0i3/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Jungle Book👻
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
-#EXTINF:-1,Carton
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Cartoons👻
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 
 
@@ -835,8 +836,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/in
 
 
 
-#EXTINF:-1 tvg-id="BalleBalle.in@SD" group-title="Firoj Khan",Balle Balle (576p)
-https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Goldmines.in@SD" group-title="Firoj Khan",Goldmines (576p)
 https://cdn.pishow.tv/ott/live/1459/master.m3u8
