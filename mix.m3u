@@ -987,7 +987,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Goldmines%20Movie.jpg?raw=true" group-title="PRO✅",GOLDMINES MOVIES🎬
 https://moviethls.wns.live/hls/stream.m3u8
-#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/NH%20BollyRaja.jpg?raw=true" tvg-name="NH BollyRaja" group-title="PRO✅",NH BollyRaja🎬
+#EXTINF:-1 tvg-id="NHBollyRaga.in" tvg-name="NH BollyRaga" tvg-logo="https://i.ibb.co/BKB9mv1K/NH-Bolly-Raga.png" tvg-chno="262" group-title="PRO✅",NH BollyRaga🎬
 https://209a7ee785af4abf93eeff4c5a7a62cf.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollyraga-airtel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="PRO✅",Sheemaroo Bollywood🎬
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
@@ -995,6 +995,8 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="e061189b-415d-4241-b0ab-7077924c6775" tvg-name="Movie Sphere" tvg-logo="https://s3.aynaott.com/storage/4d343b446b1e7164bb7239bbe822a570" group-title="PRO✅",Movie Sphere🎬
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NHBollyRaga.in" tvg-name="NH BollyRaga" tvg-logo="https://i.ibb.co/BKB9mv1K/NH-Bolly-Raga.png" tvg-chno="262" group-title="PRO✅",NH BollyRaga🎬
+https://cc-up9j649x4thrj.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/SBUM/RunnTV/BollyRaga_IN/BollyRaga_IN.m3u8
 #EXTINF:-1 tvg-id="NHBollyFlix.in" tvg-name="NH BollyFlix" tvg-logo="https://i.ibb.co/yF9MPTDK/blyflx.png" tvg-chno="197" group-title="PRO✅",NH BollyFlix🎬
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
 #EXTINF:-1 tvg-id="ZeeBollywood.in" tvg-name="Zee Bollywood" tvg-logo="https://i.postimg.cc/52SzwQF1/20251222_220548.png" tvg-chno="227" group-title="PRO✅",Zee Bollywood🎬
