@@ -144,12 +144,10 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
 #EXTINF:-1 tvg-id="AamarBangla.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Amaar_Bangla.png" group-title="TV💠",Aamar Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="TV💠" tvg-logo="https://cdn.pmnewsnigeria.com/2017/05/Al-Jazeera.jpg",Al-jajira 
 https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 group-title="TV💠" tvg-logo="https://www.adgully.com/img/800/202011/bhojpuri-cinema-logo.jpg",Bhojpuri Cinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
-
 
 
 
@@ -189,42 +187,10 @@ http://202.70.146.135:8000/play/a05x/index.m3u8
 http://202.70.146.135:8000/play/a05s/index.m3u8
 #EXTINF:-1 group-title="TV💠" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",Wild
 http://202.70.146.135:8000/play/a05j/index.m3u8",
-#EXTINF:-1 group-title="TV💠" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AND_XPLOR_HD/images/LOGO_HD/image.png",& Xplor
-http://66.102.126.10:8000/play/a028/index.m3u8  
-#EXTINF:-1 group-title="TV💠" tvg-logo="https://i.postimg.cc/XJ1SbVzN/20240823_022738.png",& Picture
-http://66.102.126.10:8000/play/a01t/index.m3u8  
-#EXTINF:-1 group-title="TV💠" tvg-logo="https://i.postimg.cc/JhR9HDw4/20240823_023056.png",& Tv
-http://66.102.126.10:8000/play/a01u/index.m3u8  
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Aan-TV.png" group-title="TV💠", Aan TV
 https://s5.ideationtec.live/AAN_HD/AAN_HD.m3u8
-#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Aan-TV.png" group-title="TV💠", Aan TV 2
-http://66.102.126.10:8000/play/a05j/index.m3u8
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/A-Plus_TV_Logo.png" group-title="TV💠",A Plus
 https://s3.ideationtec.live/A_Plus/A_Plus.m3u8
-#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/A-Plus_TV_Logo.png" group-title="TV💠",A Plus 2
-http://66.102.126.10:8000/play/a01b/index.m3u8
-#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ary-digital.png" group-title="Shoq",Ary Digital HD
-http://66.102.126.10:8000/play/a030/index.m3u8
-#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/bol-news.png" group-title="Shoq",Bol News
-http://66.102.126.10:8000/play/a036/index.m3u8
-#EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnimalPlanetHD_Transparent_d36c0ee3-3e3f-4e0c-b3b2-23bfb3c3c2b0.png" group-title="TV💠",Animal Planet HD
-http://66.102.126.10:8000/play/a001/index.m3u8
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/b4u-music.png" group-title="TV💠",B4U Music🌀
-http://66.102.126.10:8000/play/a01e/index.m3u8
-#EXTINF:-1 group-title="TV💠" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/B4umovies.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",B4U Movies
-http://66.102.126.10:8000/play/a01n/index.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="TV💠",COLORS CINEPLEX HD
-http://66.102.126.10:8000/play/a06z/index.m3u8
-http://66.102.126.10:8000/play/a076/index.m3u8
-#EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="TV💠",Colors Cineplex Bollywood
-http://66.102.126.10:8000/play/a01a/index.m3u8
-#EXTINF:-1 tvg-id="colors-cineplex-superhit" tvg-name="Colors Cineplex Superhit" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png" group-title="TV💠",Colors Cineplex Superhit
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png" group-title="TV💠",Cartoon Network
-http://66.102.126.10:8000/play/a02n/index.m3u8
-#EXTINF:-1 group-title="TV💠" tvg-logo="http://alixbd.com/assets/images/colors-hd.png",Colors HD
-http://66.102.126.10:8000/play/a00a/index.m3u8
-#EXTINF:-1 group-title="TV💠" tvg-logo="http://alixbd.com/assets/images/colors-hd.png",Colors Infinity HD
-http://66.102.126.10:8000/play/a014/index.m3u8
 #EXTINF:-1 group-title="TV💠" tvg-logo="http://alixbd.com/assets/images/colors-hd.png",Colors HD
 http://202.70.146.135:8000/play/a00b/index.m3u8 
 #EXTINF:-1 group-title="TV💠" tvg-logo="http://alixbd.com/assets/images/starplus.png",Star Plus HD
