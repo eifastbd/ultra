@@ -394,7 +394,8 @@ http://live.balajibroadband.com:3500/live/483.m3u8
 #EXTINF:-1 tvg-id="167" tvg-chno="503" tvg-name="sony-max-hd" tvg-language="HIN" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" group-title="PRO✅", Sony MAX HD🎬
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/151.ts
 #http://live.balajibroadband.com:3500/live/476.m3u8
-
+#EXTINF:-1 tvg-id="UBangla.in@SD" group-title="PRO✅",U Bangla
+https://stream.ottlive.co.in/ubangla/index.m3u8
 
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-id="ZEENews" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Zee_News_HD.jpg",NEWS | ZEE News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
@@ -484,34 +485,31 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/230.ts
 
 
 
-#EXTINF:-1 tvg-id="TabbarHits.in@SD" group-title="Firoj Khan",Tabbar Hits (1080p)
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="PRO✅" group-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TABBAR_HITS/images/LOGO_HD/image.png",Tabbar Hits🌀
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8
-#EXTINF:-1 tvg-id="TabbarHits.in@SD" group-title="Firoj Khan",Tabbar Hits (576p)
+#EXTINF:-1 group-title="PRO✅" group-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TABBAR_HITS/images/LOGO_HD/image.png",Tabbar Hits🌀
 https://mumt04.tangotv.in/m18aqlK4TABBARHITS/index.m3u8
-#EXTINF:-1 tvg-id="Mastiii.in@SD" group-title="Firoj Khan",Mastiii (576p)
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.ibb.co/HGFpm7c/20240803-104435.png",Masti Music🌀 
 https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
-#EXTINF:-1 tvg-id="UBangla.in@SD" group-title="Firoj Khan",U Bangla (1080p)
-https://stream.ottlive.co.in/ubangla/index.m3u8
-
-#EXTINF:-1 tvg-id="PTCMusic.in@SD" group-title="Firoj Khan",PTC Music
-https://cdn.pishow.tv/ott/live/1501/master.m3u8
-#EXTINF:-1 tvg-id="PTCPunjabi.in@SD" group-title="Firoj Khan",PTC Punjabi
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI/images/LOGO_HD/image.png?utm_source=chatgpt.com",PTC Punjabi🌀
 https://cdn.pishow.tv/ott/live/1604/master.m3u8
-
-
 #EXTINF:-1 group-title="PRO✅" group-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LOGO_HD/image.png?utm_source=chatgpt.com",Pittara🌀
 https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
 #EXTINF:-1, group-title="PRO✅" group-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png",88 Stereo🌀
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1, group-title="PRO✅" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/360_TuneBox_logo.svg/1000px-360_TuneBox_logo.svg.png",360 Tune🌀
 https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
-
 #EXTINF:-1 tvg-id="DesiChannel.in@SD" group-title="PRO✅",Desi
 https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
-
-
-
-#EXTINF:-1,Epic Music (576p)
+#EXTINF:-1,Epic Music
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 #EXTINF:-1,Epic Music Digital
 https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
@@ -725,7 +723,7 @@ https://mumbai-edge.smartplaytv.in/Zoom/index.m3u8
 
 
 
-https://premiumtvs.space:80/live/samsung2861/manager5554/433.ts
+
 #EXTINF:-1 group-title="PRO✅" group-logo="https://popfun.co.uk/sites/uk.pop/files/logo_0.png",POP 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
 #EXTINF:-1 group-title="PRO✅" group-logo="https://www.toongoggles.com/themes/custom/tg/toon_goggles/logo.png",Toon Goggle 
@@ -763,7 +761,6 @@ https://s2.ideationtec.live/MiniMax/MiniMax.m3u8
 #EXTINF:-1  tvg-logo="",MINI👻
 https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
 #EXTINF:-1 group-title="PRO✅" group-logo="https://www.shutterstock.com/image-vector/kids-text-logo-movie-editable-260nw-2536104593.jpg" tvg-logo="https://toppng.com/uploads/preview/new-disney-channel-logo-vector-free-download-11574247903pfuddm63lv.png",Disney 1
-https://premiumtvs.space:80/live/samsung2861/manager5554/19741.ts
 http://202.70.146.135:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="PRO✅",Disney Channel2👻
 http://181.119.215.61:8000/play/a0g1/index.m3u8
@@ -773,16 +770,10 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000001971|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000001971
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="PRO✅",Sonic Bangla👻
-
-
-
-hug
-https://premiumtvs.space:80/live/samsung2861/manager5554/66162.ts
 https://premiumtvs.space:80/live/samsung2861/manager5554/18456.ts
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="PRO✅",Sonic👻
 https://premiumtvs.space:80/live/samsung2861/manager5554/207.ts
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="PRO✅",Nick Bangla👻
-https://premiumtvs.space:80/live/samsung2861/manager5554/7438.ts
 https://premiumtvs.space:80/live/samsung2861/manager5554/98880.ts
 #EXTINF:-1 group-title="PRO✅" group-logo="https://www.shutterstock.com/image-vector/kids-text-logo-movie-editable-260nw-2536104593.jpg" tvg-logo="https://assets-prod.services.toffeelive.com/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp",Cartoon Network HD 1
 http://202.70.146.135:8000/play/a0a3/index.m3u8
