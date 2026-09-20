@@ -21,9 +21,9 @@
   
 
 
-#EXTINF:-1 tvg-id="PKSports.pk@SD" group-title="Firoj Khan",PK Sports (720p)
+#EXTINF:-1 tvg-id="PKSports.pk@SD" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",PK Sports
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
-#EXTINF:-1 tvg-id="MSports.pk@SD" group-title="Firoj Khan",M Sports (1080p)
+#EXTINF:-1 tvg-id="MSports.pk@SD" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",M Sports
 https://cdn.rabta.stream/M-Sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/football-logo-design-template-bebebf8ff1c25b66b504d37afaee99f0_screen.jpg?ts=1686017774" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",Euro Sports 
 https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
