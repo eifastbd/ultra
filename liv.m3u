@@ -21,6 +21,12 @@
   
 
 
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="PKSports.pk@SD" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",PK Sports
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 #EXTINF:-1 tvg-id="MSports.pk@SD" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",M Sports
@@ -114,7 +120,6 @@ http://str24.l9574.com/601.stream/index.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" tvg-logo="https://fcnchbd.xyz/iptv/logo/spts.png",TEN SPORTS HD
 http://str24.l9574.com/610.stream/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen1.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",Sony Sports Ten 1
-
 #EXTINF:-1 tvg-id="SonySportsTen2.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",Sony Sports Ten 2 
 https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%202.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",Sony Sports Ten 3 Hindi
