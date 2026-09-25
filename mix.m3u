@@ -353,6 +353,8 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/ZEE%20BANGLA%20HD.png" group-title="PRO✅",ZEE BANGLA HD
 http://livetv.akr4m.com:8080/bdtv/restrem/35.m3u8
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/ZEE%20BANGLA%20CINEMA.png" group-title="PRO✅",ZEE BANGLA CHINEMA HD
+http://103.141.70.136:8080//bdtv/restrem/3.m3u8
+#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/ZEE%20BANGLA%20CINEMA.png" group-title="PRO✅",ZEE BANGLA CHINEMA HD
 http://livetv.akr4m.com:8080/bdtv/restrem/42.m3u8
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/COLORS%20BANGLA%20HD.png" group-title="PRO✅",COLOR BANGLA HD
 http://livetv.akr4m.com:8080/bdtv/restrem/34.m3u8
