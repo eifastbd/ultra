@@ -145,6 +145,7 @@ https://tvsen6.aynaott.com/channel52/index.m3u8
 #http://str24.l9574.com/503.stream/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://fcnchbd.xyz/iptv/logo/nago.png",NAGORIK TV🇧🇩
 https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
+#http://103.141.70.136:8080//bdtv/restrem/38.m3u8
 #https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8?remote=103.114.23.14&token=205feaff08ac0e4c8c895093c6fc54225479a714-c02bf37325b9f215f8b11615ad227213-1782477110-1782466310
 #EXTINF:-0 tvg-logo="https://www.tbn24.com/logo.png" group-title="PRO✅",TBN 24🇧🇩
 http://cdn01.palki.tv/live/TBN24-M/index.m3u8
@@ -880,6 +881,8 @@ MOVIE
 
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/HBO_Hits_IVP_LAND_917x516.jpg",HBO HITS🎬
 http://103.141.70.136:8080//bdtv/restrem/29.m3u8
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://logodix.com/logo/95882.jpg",HBO🎬
+http://103.141.70.136:8080//bdtv/restrem/47.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="",Vision Punjabi 
 http://a-edge.bliscdn.com/VisionPunjabHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ETVJosh.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Josh.png" group-title="PRO✅",OITV
