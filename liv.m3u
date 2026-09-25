@@ -26,6 +26,11 @@
 
 
 
+
+#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/tsports.png",T Sports HD
+http://198.195.239.50:8095/T-SPORTS-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/starselect2.png",Star-select-2
+http://198.195.239.50:8095/STAR.SPORTS-SEL1.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PKSports.pk@SD" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",PK Sports
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 #EXTINF:-1 tvg-id="MSports.pk@SD" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",M Sports
