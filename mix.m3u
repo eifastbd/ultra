@@ -759,7 +759,10 @@ https://mumbai-edge.smartplaytv.in/Zoom/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="HUNGAMA HINDI" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hungama.png" group-title="PRO✅", HUNGAMA HINDI👻
+http://103.139.145.9:8082/HUNGAMA/video.m3u8?token=B8ZzNTvPEhHwZ0
+#EXTINF:-1 tvg-id="superhungama" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Super_Hungama.png" group-title="PRO✅",Super Hungama👻
+http://103.139.145.9:8082/SUPER.HUNGAMA/video.m3u8?token=B8ZzNTvPEhHwZ0
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://fcnchbd.xyz/iptv/logo/duronto.png",DURONTO TV👻
 https://box.bbaria.net/DurontoTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PRO✅" group-logo="https://popfun.co.uk/sites/uk.pop/files/logo_0.png",POP 
