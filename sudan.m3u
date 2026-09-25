@@ -10,9 +10,9 @@
 
 
 
-
-
-#EXTINF:-1 group-title="kids" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png",SONY AATH 📺
+#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/10/matribhumi.jpg",MatriBhumi
+http://27.124.71.27/T-Sports/index.m3u8
+#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png",SONY AATH
 http://27.124.71.27/Sony_Aath/index.m3u8
 #EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/Tf3GP8uGY_.jpg", TUDN 🇲🇽 Mexico
 http://177.10.184.60:8002/play/a013/index.m3u8
