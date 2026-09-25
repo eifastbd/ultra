@@ -266,7 +266,8 @@ http://livetv.akr4m.com:8080/bdtv/restrem/9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rwd1rei.png" group-title="PRO✅",Anirban
 https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="dd8c50e9-5dad-4cb9-9df8-5763e95281ad" tvg-name="Desh TV" tvg-logo="https://s3.aynaott.com/storage/9ef657aca7c0009e4f0675af3b5190d8" group-title="PRO✅",Desh TV🇧🇩
-https://stream.ottplus.live/live/desh_tv_abr/index.m3u8
+http://103.141.70.136:8080//bdtv/restrem/18.m3u8
+#https://stream.ottplus.live/live/desh_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="PRO✅", UPHAR BANGLA
 https://ranacable.duckdns.org/UpoharBangla/tracks-v1a1/index.m3u8
 #EXTINF:1 tvg-logo="" tvg-name="" group-title="PRO✅",JTV CLASSIC
