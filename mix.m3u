@@ -377,7 +377,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
 #http://103.151.60.162:2122/play/a023/index.m3u8?hls
 https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="PRO✅",Colors Bangla HD
-http://live.balajibroadband.com:3500/live/1369.m3u8
+http://103.141.70.136:8080//bdtv/restrem/60.m3u8
 #EXTINF:-1 group-title="PRO✅" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9sZttim5GLAbajaB_Jnq3xBGpj2hn3S1dOpLFU3M25kPK1dz28hOV3E4&s=10" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/akegkk.png",Star Plus HD
 http://202.70.146.135:8000/play/a009/index.m3u8
 #EXTINF:-1  group-title="PRO✅" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9sZttim5GLAbajaB_Jnq3xBGpj2hn3S1dOpLFU3M25kPK1dz28hOV3E4&s=10" tvg-logo="https://assets-prod.services.toffeelive.com/ES55-JQBv9knK3AHNDWC/posters/13411be9-62b9-4a99-a062-b6e91dfb1099.webp",Sony Sab SD (Tata play)1
@@ -812,7 +812,7 @@ https://premiumtvs.space:80/live/samsung2861/manager5554/18456.ts
 https://premiumtvs.space:80/live/samsung2861/manager5554/207.ts
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="PRO✅",Nick Bangla👻
 http://livetv.akr4m.com:8080/bdtv/restrem/53.m3u8
-
+#http://103.141.70.136:8080//bdtv/restrem/53.m3u8
 
 #EXTINF:-1 group-title="PRO✅" group-logo="https://www.shutterstock.com/image-vector/kids-text-logo-movie-editable-260nw-2536104593.jpg" tvg-logo="https://assets-prod.services.toffeelive.com/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp",Cartoon Network HD 1
 http://202.70.146.135:8000/play/a0a3/index.m3u8
