@@ -52,34 +52,23 @@ http://46.151.196.223:14438/.ts
 http://27.124.71.27/Sun_Bangla/index.m3u8
 #EXTINF:-1 group-title="💠IP💠" tvg-id="tsn_3" tvg-name="TSN 3" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-19/images_905f151dfde79e14a2b9e7b934683ba6_playmist_tsn3_300.jpg",TSN 3
 http://27.124.71.27/Willow_Extra/index.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN
-http://168.228.44.241:9998/play/a04p/index.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN
-http://168.228.44.241:9998/play/a03n/index.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN
-http://168.228.44.241:9998/play/a03o/index.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN
-http://168.228.44.241:9998/play/a05t/index.m3u8
 #EXTINF:-1 group-title="💠IP💠" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ni61-JQBv9knK3AHcDYc/posters/c16e8633-6b2a-401a-9cd6-ac26a4fcdedb.webp",Animal Planet
 http://27.124.71.27/Animal_Planet/index.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="http://watchindia.net/images/channels/usa/CNN.png",CNN 📺
+#EXTINF:-1 group-title="💠IP💠" tvg-logo="http://watchindia.net/images/channels/usa/CNN.png",CNN 📺
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
-#EXTINF:-1 group-title="Islam Channel" tvg-logo="https://i.ibb.co/VWsJmLnm/55339228349a.jpg",Quran Redio 📻
+#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://i.ibb.co/VWsJmLnm/55339228349a.jpg",Quran Redio 📻
 http://66.45.232.131:9994/;stream.mp3
-#EXTINF:-1 group-title="Islam Channel" tvg-logo="https://i.ibb.co/y2nJsbF/986f430a0b59.jpg",Noor TV 📺
+#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://i.ibb.co/y2nJsbF/986f430a0b59.jpg",Noor TV 📺
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
-#EXTINF:-1 group-title="kids" tvg-logo="https://s3.aynaott.com/storage/53b61525cccd385419ef395273f66077",CARTOON NETWORK 📺
+#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://s3.aynaott.com/storage/53b61525cccd385419ef395273f66077",CARTOON NETWORK 📺
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
-#EXTINF:-1 group-title="kids" tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png",Jungle Book 📺
+#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png",Jungle Book 📺
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
-
-#EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png",Sheemaroo Bollywood
+#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSisiK50nT9KXOAVZcRYy4aTrv4cVP9btrY4_s2KvXzXaSzGeUEmvgE3Gj4&s=10",Joo Music
+#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSisiK50nT9KXOAVZcRYy4aTrv4cVP9btrY4_s2KvXzXaSzGeUEmvgE3Gj4&s=10",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/4NVxpW6t/Maasranga.jpg",Me TV
 https://iptvbd.live/metv1080/1080.m3u8
 
 #EXTINF:-1 group-title="Music",Saga Music Haryanvi
