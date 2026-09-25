@@ -171,8 +171,6 @@ http://202.70.146.135:8000/play/a04n/index.m3u8
 http://202.70.146.135:8000/play/a058/index.m3u8
 #EXTINF:-1 group-title="TV💠" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png",Movies Now
 http://202.70.146.135:8000/play/a057/index.m3u8
-#EXTINF:-1 group-title="TV💠" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Romance.png",Star Gold Romance 
-http://202.70.146.135:8000/play/a044/index.m3u8
 #EXTINF:-1 group-title="TV💠" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_SELECT_HD/images/LOGO_HD/image.png?utm_source=chatgpt.com",Star Gold Select
 http://202.70.146.135:8000/play/a068/index.m3u8
 #EXTINF:-1 group-title="TV💠" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starmovies.png", Star Movies HD
