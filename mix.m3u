@@ -875,8 +875,8 @@ MOVIE
 
 
 
-
-
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/HBO_Hits_IVP_LAND_917x516.jpg",HBO HITS🎬
+http://103.141.70.136:8080//bdtv/restrem/29.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="",Vision Punjabi 
 http://a-edge.bliscdn.com/VisionPunjabHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ETVJosh.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Josh.png" group-title="PRO✅",OITV
