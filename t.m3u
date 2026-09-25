@@ -197,11 +197,6 @@ https://s3.ideationtec.live/A_Plus/A_Plus.m3u8
 http://202.70.146.135:8000/play/a00b/index.m3u8 
 #EXTINF:-1 group-title="TV💠" tvg-logo="http://alixbd.com/assets/images/starplus.png",Star Plus HD
 http://202.70.146.135:8000/play/a009/index.m3u8  
-#EXTINF:-1 group-title="TV💠" tvg-logo="https://pluspng.com/img-png/atv-logo-png-atv-leading-news-and-entertainment-channel-of-pakistan-is-one-of-atv-pakistan-every-day-by-millions-of-top-rated-tv-programs-watch-has-a-wide-range-564.jpg?utm_source=chatgpt.com",ATV
-http://66.102.126.10:8000/play/a04q/index.m3u8  
-#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Aaj%20news.png" group-title="TV💠", Aaj News
-http://66.102.126.10:8000/play/a05a/index.m3u8  
-
 
 #EXTINF:-1,Zee Tv
 https://drk6xq0vhn.gpcdn.net/live/zee_tv_hd_abr/index.m3u8
@@ -213,16 +208,8 @@ https://drk6xq0vhn.gpcdn.net/live/zee_bollywood_abr/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
 #EXTINF:-1,Sony Television
 https://drk6xq0vhn.gpcdn.net/live/sony_ent_sd_abr/index.m3u8
-#EXTINF:-1,Sony Television HD
-https://drk6xq0vhn.gpcdn.net/live/sony_ent_hd_abr/index.m3u8
-#EXTINF:-1,Sony Max
-https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/index.m3u8
-#EXTINF:-1,Sony Max HD
-https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
 #EXTINF:-1,Sony Max 2
 https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
-#EXTINF:-1,Sony Sab HD
-https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
 #EXTINF:-1,B4U Movie
 https://drk6xq0vhn.gpcdn.net/live/b4u_movies_abr/index.m3u8
 
@@ -253,15 +240,6 @@ https://s3.ideationtec.live/LTN_Family_HD/LTN_Family_HD.m3u8
 #EXTINF:-1,GNN HD
 https://s5.ideationtec.live/GNN_HD/GNN_HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ptv-national.png" group-title="Shoq", PTV National
-
-
-
-
-#EXTINF:-2, tvg-logo="https://zongmobiletv.com/storage/live.webp" group-titel="shoq",  SET ENTERTAINMENT PK
-https://s1.ideationtec.live/SET_Ent/SET_Ent.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Shoq",Ary Zindagi
 
 
 #EXTINF:-1,SAB ENTERTAINMENT
@@ -280,18 +258,8 @@ https://s2.ideationtec.live/BOL_Entertainment_HD/BOL_Entertainment_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Express.png" group-title="Shoq",Express Entertainment
 https://s3.ideationtec.live/Express_Entertainment/Express_Entertainment.m3u8
-
-#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/geo.png" group-title="Shoq",Geo Entertainment
-
-
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/geo-kahani.png" group-title="Shoq",Geo Kahani
 https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
-
-#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Geo-taiz.png" group-title="Shoq", Geo Taiz
-
-
-#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Hum.png" group-title="Shoq",Hum TV HD
-https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Hum.png" group-title="Shoq",Hum TV EUROPE
 https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
@@ -301,18 +269,9 @@ https://s2.ideationtec.live/Pnn/Pnn.m3u8
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/GreenTV.png" group-title="Shoq", Green TV HD
 https://cdn01.medialive.one:2096/GREENENTFHD/tracks-v1a1/mono.ts.m3u8
-
-
-
-#EXTM3U
 #EXTINF:-1 group-title="-", BBC EARTH HD 
 http://202.70.146.135:8000/play/a067/index.m3u8
-#EXTINF:-1 group-title="-", TEN 2 HD 
-http://202.70.146.135:8000/play/a06n/index.m3u8
-#EXTINF:-1 group-title="-",&pictures HD - Rs 19.00
-http://202.70.146.135:8000/play/a06b/index.m3u8
-#EXTINF:-1 group-title="-",&tv HD - Rs 19.00
-http://202.70.146.135:8000/play/a06c/index.m3u8
+
 #EXTINF:-1 group-title="-",Animal Planet HD  - Rs 5.00
 http://202.70.146.135:8000/play/a0aa/index.m3u8
 #EXTINF:-1 group-title="-",CBeebies - Rs 3.00
@@ -321,14 +280,10 @@ http://202.70.146.135:8000/play/a0a2/index.m3u8
 http://202.70.146.135:8000/play/a0a8/index.m3u8
 #EXTINF:-1 group-title="-",Cartoon Network HD+ - Rs 7.00
 http://202.70.146.135:8000/play/a0a3/index.m3u8
-#EXTINF:-1 group-title="-",Colors Cineplex Bollywood - Rs 0.10
-http://202.70.146.135:8000/play/a058/index.m3u8
-#EXTINF:-1 group-title="-",Colors HD - Rs 19.00
-http://202.70.146.135:8000/play/a00b/index.m3u8
+
 #EXTINF:-1 group-title="-",Colors Infinity HD - Rs 15.00
 http://202.70.146.135:8000/play/a0ab/index.m3u8
-#EXTINF:-1 group-title="-",Discovery HD - Rs 8.00
-http://202.70.146.135:8000/play/a05z/index.m3u8
+
 #EXTINF:-1 group-title="-",Discovery Kids - Rs 4.00
 http://202.70.146.135:8000/play/a0a6/index.m3u8
 #EXTINF:-1 group-title="-",Discovery Science - Rs 1.00
@@ -339,16 +294,12 @@ http://202.70.146.135:8000/play/a050/index.m3u8
 http://202.70.146.135:8000/play/a01q/index.m3u8
 #EXTINF:-1 group-title="-",Disney International HD - Rs 19.00
 http://202.70.146.135:8000/play/a04p/index.m3u8
-#EXTINF:-1 group-title="-",Eurosport HD - Rs 6.00
-http://202.70.146.135:8000/play/a05s/index.m3u8
-#EXTINF:-1 group-title="-",History TV18 HD - Rs 7.00 
-http://202.70.146.135:8000/play/a065/index.m3u8
+
 #EXTINF:-1 group-title="-",MNX - Rs 5.00
 http://202.70.146.135:8000/play/a052/index.m3u8
 #EXTINF:-1 group-title="-",Movies Now HD - Rs 14.00
 http://202.70.146.135:8000/play/a057/index.m3u8
-#EXTINF:-1 group-title="-",NATIONAL GEOGRAPHIC HD - Rs 14.00
-http://202.70.146.135:8000/play/a05o/index.m3u8
+
 #EXTINF:-1 group-title="-",Nat Geo Wild HD - Rs 8.00
 http://202.70.146.135:8000/play/a05j/index.m3u8
 #EXTINF:-1 group-title="-",Nick  - Rs 6.00
@@ -410,10 +361,6 @@ https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
 
 
 
-https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
-
-
-https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
 
 
 
@@ -1222,19 +1169,6 @@ https://stream.ottplus.bd/live/hum_tv_abr/index.m3u8
 
 
 
-
-#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/tsports.png",T Sports HD
-http://103.114.11.37:8081/T-Sports-HD/index.m3u8?token=dsgdfgsdfgasf
-#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/starselect2.png",Star-select-2
-http://103.114.11.37:8081/Star-select-2/index.m3u8?token=dsgdfgsdfgasf
-#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/starsports1.png",Star-sports-1
-http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=dsgdfgsdfgasf
-#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/starsports2.png",Star-sports-2
-http://103.114.11.37:8081/Star-sports-2/index.m3u8?token=dsgdfgsdfgasf
-#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/starsports3.png",Star-sports-3
-http://103.114.11.37:8081/Star-sports-3/index.m3u8?token=dsgdfgsdfgasf
-#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/sonysports3.png",Sony-sports-3
-http://103.114.11.37:8081/Sony-sports-3/index.m3u8?token=dsgdfgsdfgasf
 
 
 #EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/starjalsha.png",Star Jalsha
