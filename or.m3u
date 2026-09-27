@@ -142,7 +142,10 @@ http://198.195.239.50:8095/jalshaMovies/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/STAR-SPORTS.3/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/JALSHA.MOVIES.HD/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/EUROSPORTS.HD/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 group-title="💠WIFI💠",0000_T-Sports
+http://103.151.60.162:2122/play/a030/index.m3u8?hls
+#EXTINF:-1 group-title="💠WIFI💠",A Sports
+http://103.151.60.162:2122/play/a02z/index.m3u8?hls
 
 
 
