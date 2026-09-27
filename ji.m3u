@@ -342,14 +342,10 @@ https://premiumplugx.me/jee/zee5.php/0-9-209.m3u8
 #EXTINF:-1 tvg-id="0-9-channel_1510237423" tvg-name="&TV HD USA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-channel_1510237423/list/1920x1080list26d04b21315949609f8b5a37a0b2d679.png" group-title="Zee5",&TV HD USA
 https://premiumplugx.me/jee/zee5.php/0-9-channel_1510237423.m3u8
 
-#EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-name="&TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-tvhd_0/list/1920x1080list8cecf80ef6884ff09063a5abd21f81d6.png" group-title="Zee5",&TV HD
-https://premiumplugx.me/jee/zee5.php/0-9-tvhd_0.m3u8
-
-#EXTINF:-1 tvg-id="0-9-channel_122044711" tvg-name="&TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-channel_122044711/list/1920x1080list823b2c22c4344831a7e5f42e44410e50.png" group-title="Zee5",&TV HD
-https://premiumplugx.me/jee/zee5.php/0-9-channel_122044711.m3u8
-
-#EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-name="&Pictures HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-tvpictureshd/list/1920x1080listead02d49416241ce89c60432d7b879a6.png" group-title="Zee5",&Pictures HD
-https://premiumplugx.me/jee/zee5.php/0-9-tvpictureshd.m3u8
-
 #EXTINF:-1 tvg-id="0-9-pictures" tvg-name="&Pictures" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-pictures/list/1920x1080liste1864f84ee8f422e9a726e5fe401050c.png" group-title="Zee5",&Pictures
 https://premiumplugx.me/jee/zee5.php/0-9-pictures.m3u8
+
+
+
+
+
