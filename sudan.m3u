@@ -2170,48 +2170,7 @@ https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 https://sportsgrid-tribal.amagi.tv/playlistR432p.m3u8
 #EXTINF:0 group-title="SPORTS" ,Stadium (720p)
 https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8
-#EXTINF:0 group-title="SPORTS" ,Star Sports 1 (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0412/master.m3u8
-#EXTINF:22 group-title="SPORTS" ,Star Sports 1 HD
-http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:0 group-title="SPORTS" ,Star Sports 1 HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0441/master.m3u8
-#EXTINF:0 group-title="SPORTS" ,Star Sports 1 Hindi (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0415/master.m3u8
-#EXTINF:0 group-title="SPORTS" ,Star Sports 1 Hindi HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0443/master.m3u8
-#EXTINF:0 group-title="SPORTS" ,Star Sports 1 Kannada (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0420/master.m3u8
-#EXTINF:0 group-title="SPORTS" ,Star Sports 1 Tamil (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0419/master.m3u8
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png" ,Star Sports 1 Tamil HD
-https://live20.bozztv.com/akamaissh101/ssh101/vboxsungosttamil/playlist.m3u8
-#EXTINF:0 group-title="SPORTS" ,Star Sports 1 Tamil HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0472/master.m3u8
-#EXTINF:0 group-title="SPORTS" ,Star Sports 1 Telugu (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0421/master.m3u8
-#EXTINF:0 group-title="SPORTS" ,Star Sports 2 (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0413/master.m3u8
-#EXTINF:0 group-title="SPORTS" ,Star Sports 2 HD (1080p)
-http://103.121.6.5:8000/play/a05u/index.m3u8
-#EXTINF:0 group-title="SPORTS" ,Star Sports 2 Hindi (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0416/master.m3u8
-#EXTINF:0 group-title="SPORTS" ,Star Sports 2 Hindi HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0446/master.m3u8
-#EXTINF:0 group-title="SPORTS" ,Star Sports 2 Kannada (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0422/master.m3u8
-#EXTINF:0 group-title="SPORTS" ,Star Sports 2 Tamil (576p)
-http://103.229.254.25:7001/play/a0dc/index.m3u8
-#EXTINF:0 group-title="SPORTS" ,Star Sports 2 Tamil HD (1080p)
-http://103.229.254.25:7001/play/a0d1/index.m3u8
-#EXTINF:0 group-title="SPORTS" ,Star Sports 2 Telugu (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0424/master.m3u8
-#EXTINF:0 group-title="SPORTS" ,Star Sports 2 Telugu HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0513/master.m3u8
-#EXTINF:0 group-title="SPORTS" ,Star Sports 3 (576p)
-http://103.121.6.5:8000/play/a05y/index.m3u8
-#EXTINF:0 group-title="SPORTS" ,Star Sports Khel (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0423/master.m3u8
+
 #EXTINF:0 group-title="SPORTS" ,Strongman (720p)
 https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="SPORTS" ,Strongman Champions League (720p)
@@ -2220,7 +2179,6 @@ https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
 #EXTINF:0 group-title="SPORTS" ,Swerve Combat (1080p)
 https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
-
 #EXTINF:0 group-title="SPORTS" ,Tennis Channel (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #EXTINF:0 group-title="SPORTS" ,Tour Spot TV (1280p) [Not 24/7]
