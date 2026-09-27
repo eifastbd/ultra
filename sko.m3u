@@ -81,14 +81,17 @@ http://str24.l9574.com/513.stream/index.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1 group-title="SKO💧" group-logo="https://yt3.googleusercontent.com/AQLUH_ixhkqBRCV9M1rtWRQhUFiXB1QvX-l1DIbrfmeMjrU8kJzAeCaiupHjEPEz9M2daSfm9A=s900-c-k-c0x00ffffff-no-rj" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvdc0C6H_VHLzzCQpGTsMnY0tgMc-5MxAL63T2HVPWvaG0gVEzBxcKifo&s=10",Channel S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
-#EXTINF:-1 ,EKUSHEY TV
+#EXTINF:-1 tvg-id="b3f0df76-15ba-4ede-a7de-bbaaf23a630e" tvg-name="ETV" tvg-logo="https://s3.aynaott.com/storage/d805cf57543080b49de8a2621cd54da4" group-title="SKO💧",ETV
+#http://103.141.70.136:8080//bdtv/restrem/21.m3u8
+#https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 ,CHANNEL S BD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Channel_S.png" group-title="SKO💧",Channel S
 https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
-#EXTINF:-1 ,Me-tv
+#EXTINF:-0 tvg-logo="https://www.metvbd.com/media/common/logo-fb.png" group-title="SKO💧",ME TV
 https://iptvbd.live/metv1080/1080.m3u8
-#EXTINF:-1 ,JAGO NEWS 24
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/jagonews.jpg" group-title="SKO💧",Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+
 #EXTINF:-1 ,MILLENIUM TV
 https://app.ncare.live/live-orgin/mnews24.stream/playlist.m3u8
 #EXTINF:-1 ,NRB TV
