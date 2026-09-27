@@ -2220,38 +2220,9 @@ https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
 #EXTINF:0 group-title="SPORTS" ,Swerve Combat (1080p)
 https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
-#EXTINF:0 group-title="SPORTS" ,T Sports 7
-https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
-#EXTINF:0 group-title="SPORTS" ,Tabii Spor 6 (720p) [Geo-blocked]
-https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
-#EXTINF:0 group-title="SPORTS" ,talkSPORT (1080p)
-https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
-#EXTINF:0 group-title="SPORTS" ,TDM Sports
-https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:0 group-title="SPORTS" ,Tele Rebelde (480p) [Not 24/7]
-https://tv.picta.cu/telerebelde/telerebelde_1.m3u8
-#EXTINF:0 group-title="SPORTS" ,Teletrak (720p)
-https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:0 group-title="SPORTS" ,Telewebion Sport
-https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/sport1/live/1080p/index.m3u8
-#EXTINF:0 group-title="SPORTS" ,Telewebion Sport 2
-https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/sport2/live/1080p/index.m3u8
-#EXTINF:0 group-title="SPORTS" ,Telewebion Sport 3
-https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1103.telewebion.com/ek/sport3/live/1080p/index.m3u8
-#EXTINF:0 group-title="SPORTS" ,Tennis Channel
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
 #EXTINF:0 group-title="SPORTS" ,Tennis Channel (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
-#EXTINF:0 group-title="SPORTS" ,TennisChannel 2
-https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
-#EXTINF:0 group-title="SPORTS" ,Tigo Sports TV El Salvador (720p) [Geo-blocked]
-https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
-#EXTINF:0 group-title="SPORTS" ,TJK TV (1080p)
-https://tjktv-live.tjk.org/tjktv.m3u8
-#EXTINF:0 group-title="SPORTS" ,TJK TV 2 (1080p) [Not 24/7]
-https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
-#EXTINF:0 group-title="SPORTS" ,TNC Sports (1080p)
-https://streamer1.nexgen.bz/TNC_SPORTS/index.m3u8
 #EXTINF:0 group-title="SPORTS" ,Tour Spot TV (1280p) [Not 24/7]
 https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
 #EXTINF:0 group-title="SPORTS" ,TR Sport
@@ -2264,26 +2235,10 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="SPORTS" ,Trace Sports Stars
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="SPORTS" ,TRT Spor (1080p) [Geo-blocked]
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:0 group-title="SPORTS" ,TRT Spor Yildiz (1080p) [Geo-blocked]
-https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="SPORTS" ,TSN The Ocho
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
-#EXTINF:0 group-title="SPORTS" ,TSN1 (1080p) [Not 24/7]
-https://tvpass.org/live/tsn1/hd
-#EXTINF:0 group-title="SPORTS" ,TSN2 (1080p) [Not 24/7]
-https://tvpass.org/live/tsn2/hd
-#EXTINF:0 group-title="SPORTS" ,TSN3 (1080p) [Not 24/7]
-https://tvpass.org/live/tsn3/hd
-#EXTINF:0 group-title="SPORTS" ,TSN4 (720p) [Not 24/7]
-https://tvpass.org/live/tsn4/hd
-#EXTINF:0 group-title="SPORTS" ,TSN5 (1080p) [Not 24/7]
-https://tvpass.org/live/tsn5/hd
 #EXTINF:0 group-title="SPORTS" ,Turf Movil (720p)
 https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
-#EXTINF:0 group-title="SPORTS" ,TVP Sport (1080p)
-https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 #EXTINF:0 group-title="SPORTS" ,TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
 #EXTINF:0 group-title="SPORTS" ,TVRI Sport (720p)
@@ -2302,18 +2257,10 @@ https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8
 #EXTINF:0 group-title="SPORTS" ,TVS Women Sports (720p)
 https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
-#EXTINF:0 group-title="SPORTS" ,TyC Sports (1080p) [Geo-blocked]
-https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 #EXTINF:0 group-title="SPORTS" ,Türkmenistan Sport (406p) [Not 24/7]
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:0 group-title="SPORTS" ,Unbeaten Sports Channel (1080p)
 https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
-#EXTINF:0 group-title="SPORTS" ,USA Network East (1080p) [Not 24/7]
-https://tvpass.org/live/USANetworkEast/hd
-#EXTINF:0 group-title="SPORTS" ,Viaplay TV (Finland) (720p) [Not 24/7]
-https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true
-#EXTINF:0 group-title="SPORTS" ,VITAL Drive
-https://autopilot.catcast.tv/content/37909/index.m3u8
 #EXTINF:0 group-title="SPORTS" ,W14DK-D 14.5 All Sports Television Network
 https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
 #EXTINF:0 group-title="SPORTS" ,World of Freesports
