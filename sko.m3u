@@ -970,8 +970,7 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1064000.m3u8
 #EXTINF:-1,MAD
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
-#EXTINF:-1, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
+
 #EXTINF:-1,NOW 70s
 https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
 #EXTINF:-1,NOW 70s [Backup 1]
@@ -1272,8 +1271,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f
 http://88.212.15.19/live/test_minimax/playlist.m3u8
 #EXTINF:-1,Minimax [Backup 1]
 https://s2.ideationtec.live/MiniMax/MiniMax.m3u8
-#EXTINF:-1,Moonbug Kids
-https://tvsen6.aynaott.com/MoonbugKids/index.m3u8?e=1784102587&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=bb483e4de44847e04d2d1fbbf8098cd7
+
 #EXTINF:-1,Moonbug Kids [Backup 1]
 https://dq2a9ghraf7sw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zxq18dopv0o6q/Moonbug.m3u8
 #EXTINF:-1,Motu Patlu
@@ -1282,14 +1280,10 @@ https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
 #EXTINF:-1,Mr Bean Animated [Backup 1]
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
-#EXTINF:-1,Nick Bangla
-http://live.balajibroadband.com:3500/live/1341.m3u8
 #EXTINF:-1,Nick Jr.
 http://202.70.146.135:8000/play/a02n/index.m3u8
 #EXTINF:-1,Oggy and the cockroaches
 https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Pogo
-https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 #EXTINF:-1,Pogo [Backup 1]
 https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
 #EXTINF:-1,POP
