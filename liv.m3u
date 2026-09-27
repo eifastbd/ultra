@@ -202,25 +202,22 @@ http://103.151.60.162:2122/play/a027/index.m3u8?hls
 
 
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starselect1.png", Star-select-1
-http://103.114.11.37:8081/Star-select-1/index.m3u8?token=dsgdfgsdfgasf
+http://198.195.239.50:8095/STAR.SPORTS-SEL1.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starselect2.png", Star-select-2
-http://103.114.11.37:8081/Star-select-2/index.m3u8?token=dsgdfgsdfgasf
+http://198.195.239.50:8095/STAR.SPORTS.SEL.2.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starsports1.png", Star-sports-1
-http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=dsgdfgsdfgasf
+http://198.195.239.50:8095/STAR.SPORTS1.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starsports2.png", Star-sports-2
-http://103.114.11.37:8081/Star-sports-2/index.m3u8?token=dsgdfgsdfgasf
+http://198.195.239.50:8095/STAR.SPORTS2.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starsports3.png", Star-sports-3
-http://103.114.11.37:8081/Star-sports-3/index.m3u8?token=dsgdfgsdfgasf
+http://198.195.239.50:8095/STAR-SPORTS.3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/tsports.png", T Sports HD
-http://103.114.11.37:8081/T-Sports-HD/index.m3u8?token=dsgdfgsdfgasf
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/211.ts
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/united2.png", Unite8-sports-2
-http://103.114.11.37:8081/Unite8-sports-2/index.m3u8?token=dsgdfgsdfgasf
-
-
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/192.ts
 
 
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/211.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yzwt46Q/20241126-220214.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",Ten Cricket 
 https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
@@ -283,20 +280,12 @@ http://dns.fontedecanais.com.br:80//live/playercodestv/947942/511.ts
 http://dns.fontedecanais.com.br:80//live/playercodestv/947942/514.ts
 #EXTINF:-1,ESPN 2 HD
 http://46.151.196.223:14438/.ts
-#EXTINF:-1,ESPN 4 HD
-http://46.151.196.223:14453/.ta
-#EXTINF:-1,ESPN 5 HD
-http://46.151.196.223:14454/.ts
 #EXTINF:-1,SeSanta Sports
 http://178.134.1.158:8081/foodnetwork/index.m3u8
 #EXTINF:-1,Russian Sp
 http://195.201.243.254/stream8/index.m3u8
 #EXTINF:-1,QazSport HD
 http://195.201.243.254/stream10/index.m3u8
-#EXTINF:-1,ESPNU
-http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-#EXTINF:50,Sporty TV
-https://dash2.antik.sk/live/sporty_tv/index.m3u8
 #EXTINF:-1 ,Pardesi TV
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Fox sport 1
