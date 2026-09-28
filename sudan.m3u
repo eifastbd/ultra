@@ -14,10 +14,16 @@ https://cdn.ghuddi.live/tvapp/Bangla_TV_EU_New/playlist.m3u8|Referer=https://ghu
 http://27.124.71.27/T-Sports/index.m3u8
 #EXTINF:-1 group-title="💠IP💠" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png",SONY AATH
 http://27.124.71.27/Sony_Aath/index.m3u8
+#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/vyWRYIqnfy.png", Sun Bangla
+http://27.124.71.27/Sun_Bangla/index.m3u8
+#EXTINF:-1 group-title="💠IP💠" tvg-id="tsn_3" tvg-name="TSN 3" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-19/images_905f151dfde79e14a2b9e7b934683ba6_playmist_tsn3_300.jpg",TSN 3
+http://27.124.71.27/Willow_Extra/index.m3u8
+#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ni61-JQBv9knK3AHcDYc/posters/c16e8633-6b2a-401a-9cd6-ac26a4fcdedb.webp",Animal Planet
+http://27.124.71.27/Animal_Planet/index.m3u8
 
 http://27.124.71.27/Zee_Bangla/tracks-v1a1/mono.m3u8
 
-http://27.124.71.27/Sun_Bangla/index.m3u8
+
 
 
 http://27.124.71.27/Love_Nature/index.m3u8
@@ -104,12 +110,6 @@ http://dns.fontedecanais.com.br:80//live/playercodestv/947942/511.ts
 http://dns.fontedecanais.com.br:80//live/playercodestv/947942/514.ts
 #EXTINF:-1 group-title="💠IP💠" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",ESPN 2
 http://46.151.196.223:14438/.ts
-#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://imglink.cc/cdn/vyWRYIqnfy.png", Sun Bangla
-http://27.124.71.27/Sun_Bangla/index.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-id="tsn_3" tvg-name="TSN 3" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-19/images_905f151dfde79e14a2b9e7b934683ba6_playmist_tsn3_300.jpg",TSN 3
-http://27.124.71.27/Willow_Extra/index.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ni61-JQBv9knK3AHcDYc/posters/c16e8633-6b2a-401a-9cd6-ac26a4fcdedb.webp",Animal Planet
-http://27.124.71.27/Animal_Planet/index.m3u8
 #EXTINF:-1 group-title="💠IP💠" tvg-logo="http://watchindia.net/images/channels/usa/CNN.png",CNN 📺
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="💠IP💠" tvg-logo="https://i.ibb.co/VWsJmLnm/55339228349a.jpg",Quran Redio 📻
