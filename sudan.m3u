@@ -1790,44 +1790,7 @@ https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8
 #EXTINF:0 group-title="SPORTS" ,ADO TV (720p)
 https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
-#EXTINF:0 group-title="SPORTS" ,Africa 24 Sport (1080p)
-https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
-#EXTINF:0 group-title="SPORTS" ,AfroSport Nigeria
-https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
-#EXTINF:0 group-title="SPORTS" ,Alfa Sport (1080p) [Not 24/7]
-https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
-#EXTINF:0 group-title="SPORTS" ,Alkass Five (1080p)
-https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
-#EXTINF:0 group-title="SPORTS" ,Alkass Four (1080p)
-https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
-#EXTINF:0 group-title="SPORTS" ,Alkass One (1080p)
-https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
-#EXTINF:0 group-title="SPORTS" ,Alkass Seven (1080p)
-https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
-#EXTINF:0 group-title="SPORTS" ,Alkass SHOOF (1080p)
-https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
-#EXTINF:0 group-title="SPORTS" ,Alkass SHOOF 2 (1080p)
-https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
-#EXTINF:0 group-title="SPORTS" ,Alkass Six (1080p)
-https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
-#EXTINF:0 group-title="SPORTS" ,Alkass Three (1080p)
-https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
-#EXTINF:0 group-title="SPORTS" ,Alkass Two (1080p)
-https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
-#EXTINF:0 group-title="SPORTS" ,AntenaSport (1280p) [Not 24/7]
-https://hls.rundletv.eu.org/LIVE$AntenaSport/6.m3u8/Level/300720051?end=END&start=LIVE
-#EXTINF:0 group-title="SPORTS" ,Arryadia (576p)
-http://5.253.46.190:8000/play/a0ea/index.m3u8
-#EXTINF:0 group-title="SPORTS" ,Arryadia HD (1080p)
-http://5.253.46.190:8000/play/a0bi/index.m3u8
-#EXTINF:0 group-title="SPORTS" ,Arryadia HD1 (1080p)
-http://5.253.46.190:8000/play/a0dq/index.m3u8
-#EXTINF:0 group-title="SPORTS" ,AS3 Sport TV (1080p)
-https://streamtv.as3sport.online:3394/hybrid/play.m3u8
-#EXTINF:0 group-title="SPORTS" ,ATG Live (720p)
-https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
-#EXTINF:0 group-title="SPORTS" ,Awapa Sports TV (1080p) [Not 24/7]
-https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
+
 #EXTINF:0 group-title="SPORTS" ,Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:0 group-title="SPORTS" ,Bahrain Sports 1 (720p) [Not 24/7]
@@ -1836,62 +1799,16 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 #EXTINF:0 group-title="SPORTS" ,Bahrain Sports 2 (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-#EXTINF:0 group-title="SPORTS" ,Barca TV
-https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
 #EXTINF:0 group-title="SPORTS" ,beIN Sports XTRA en Espanol (1080p)
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
-#EXTINF:0 group-title="SPORTS" ,BEK TV Sports West (720p)
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-#EXTINF:0 group-title="SPORTS" ,Bellator MMA
-https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
-#EXTINF:0 group-title="SPORTS" ,Billiard TV (1080p)
-https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
-#EXTINF:0 group-title="SPORTS" ,Cafe Futbol (1080p) [Geo-blocked]
-http://cdn-s-lb2.pluscdn.pl/lv/1517831/350/dash/e32e6046/live.mpd
-#EXTINF:0 group-title="SPORTS" ,CBC Sport [Geo-blocked]
-https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-#EXTINF:0 group-title="SPORTS" ,CBS Sports Golazo Network
-https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
-#EXTINF:0 group-title="SPORTS" ,CBS Sports HQ
-https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 #EXTINF:0 group-title="SPORTS" ,ColimdoT TV (720p)
 https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
-#EXTINF:0 group-title="SPORTS" ,Combate Global
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 #EXTINF:0 group-title="SPORTS" ,Cricket Gold
 https://d382r3rgbxdixq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CricketGold/418.m3u8
 #EXTINF:0 group-title="SPORTS" ,Cricket Gold (1080p)
 https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
-#EXTINF:0 group-title="SPORTS" ,DAZN Combat
-https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-#EXTINF:0 group-title="SPORTS" ,DD SPORTS
-https://cdn-6.pishow.tv/live/13/master.m3u8
-#EXTINF:0 group-title="SPORTS" ,DD Sports SD (1080p)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-#EXTINF:0 group-title="SPORTS" ,DraftKings Network (1080p)
-https://d2obyvq5go60aw.cloudfront.net/DraftKings_Network.m3u8
-#EXTINF:0 group-title="SPORTS" ,Equidia (1080p)
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
-#EXTINF:0 group-title="SPORTS" ,ERT Sports 1 (1080p)
-http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
-#EXTINF:0 group-title="SPORTS" ,ERT Sports 2 (1080p)
-http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
 #EXTINF:0 group-title="SPORTS" ,ESPN8 The Ocho (1080p)
 https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
-#EXTINF:0 group-title="SPORTS" ,Esport3
-https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
-#EXTINF:0 group-title="SPORTS" ,Esport3 (1080p) [Geo-blocked]
-https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8
-#EXTINF:0 group-title="SPORTS" ,Esport3 (1080p) [Not 24/7]
-https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
-#EXTINF:0 group-title="SPORTS" ,F1 Channel
-https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
-#EXTINF:0 group-title="SPORTS" ,F1 Channel (1080p) [Geo-blocked]
-https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="SPORTS" ,FanDuel Racing
-https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
-#EXTINF:0 group-title="SPORTS" ,FanDuel TV (720p)
-https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
 #EXTINF:0 group-title="SPORTS" ,FB TV
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:0 group-title="SPORTS" ,FIFA+
@@ -1916,15 +1833,6 @@ https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
 #EXTINF:0 group-title="SPORTS" ,FITE 24/7 (1080p)
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
-#EXTINF:0 group-title="SPORTS" ,Fox Sports 2 (720p) [Not 24/7]
-https://tvpass.org/live/FoxSports2/hd
-#EXTINF:0 group-title="SPORTS" ,Fox Sports en Espanol (720p)
-https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
-
-#EXTINF:0 group-title="SPORTS" ,FTV
-https://master.tucableip.com/ftvhd/index.m3u8
-#EXTINF:0 group-title="SPORTS" ,fubo Sports Network (1080p)
-https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
 #EXTINF:0 group-title="SPORTS" ,FUEL TV (1080p)
 https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
 #EXTINF:0 group-title="SPORTS" ,Horse TV (720p)
