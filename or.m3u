@@ -17,7 +17,8 @@
 http://27.124.71.27/T-Sports/index.m3u8
 #EXTINF:-1 group-title="💠WIFI💠" group-logo="https://img.magnific.com/premium-vector/professional-tv-channel-logo-design-concept-vector-illustration_875240-1836.jpg?semt=ais_test_b&w=740&q=80" tvg-logo="https://yt3.googleusercontent.com/IFgAG_o_AdtX4IauErKIzuFGCj0m4QyH81Q1Uq8H-2Si9ul3vmXkLihDUnn6-QI3xiMZech0AQ=s900-c-k-c0x00ffffff-no-rj",T-sports      
 http://198.195.239.50:8095/T-SPORTS-HD/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-id="GreenTV.bd@SD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/green-tv.jpg" group-title="💠WIFI💠",Green TV
+http://103.238.115.159:8080/111/tracks-v1a1/mono.m3u8
 
 
 
