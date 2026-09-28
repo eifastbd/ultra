@@ -22,20 +22,12 @@ http://27.124.71.27/Willow_Extra/index.m3u8
 http://27.124.71.27/Animal_Planet/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2h7Rov9K9yz6dRM5N81dYq44AUzESD-FpiykR8bVAwg&s=10" group-title="💠WIFI💠",Zee Bangla HD
 http://27.124.71.27/Zee_Bangla/tracks-v1a1/mono.m3u8
-
-
-
-
+#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/piomt51nAsU9Koux119OWNRtGBg=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6635/love-nature-29f1c8.jpg",Love Nature                   
 http://27.124.71.27/Love_Nature/index.m3u8
-http://27.124.71.27/HBO/index.m3u8
-#EXTINF:-1 ,BEIN SPORTS 1
-http://27.124.71.27/beIN_Sports_1/index.m3u8
-#EXTINF:-1 ,BEIN SPORTS 2
-http://27.124.71.27/beIN_Sports_2/index.m3u8
-#EXTINF:-1 ,BEIN SPORTS 3
-http://27.124.71.27/beIN_Sports_3/index.m3u8
-#EXTINF:-1 ,T SPORTS
-http://27.124.71.27/T-Sports/index.m3u8
+
+
+
+
 #EXTINF:-1 ,TNT SPORTS 1
 http://27.124.71.27/TNT_Sports_1/index.m3u8
 #EXTINF:-1 ,TNT SPORTS 2
@@ -44,10 +36,8 @@ http://27.124.71.27/TNT_Sports_2/index.m3u8
 http://27.124.71.27/TNT_Sports_3/index.m3u8
 #EXTINF:-1 ,TNT SPORTS 4
 http://27.124.71.27/TNT_Sports_4/index.m3u8
-#EXTINF:-1 ,WILLOW
-http://27.124.71.27/Willow_Extra/index.m3u8
-#EXTINF:-1 ,ANIMAL PLANET
-http://27.124.71.27/Animal_Planet/index.m3u8
+
+
 #EXTINF:-1 ,AXN
 http://27.124.71.27/AXN/index.m3u8
 #EXTINF:-1 ,BOLLYWOOD
@@ -56,16 +46,12 @@ http://27.124.71.27/Bollywood_HD/index.m3u8
 http://27.124.71.27/Cinemax/index.m3u8
 #EXTINF:-1 ,HBO
 http://27.124.71.27/HBO/index.m3u8
-#EXTINF:-1 ,LOVE NATURE
-http://27.124.71.27/Love_Nature/index.m3u8
+
 #EXTINF:-1 ,MBC BOLLYWOOD
 http://27.124.71.27/MBC-Bollywood/index.m3u8
 #EXTINF:-1 ,MOVIES NOW
 http://27.124.71.27/Movies_Now/index.m3u8
-#EXTINF:-1 ,SUN BANGLA
-http://27.124.71.27/Sun_Bangla/index.m3u8
-#EXTINF:-1 ,ZEE BANGLA
-http://27.124.71.27/Zee_Bangla/index.m3u8
+
 #EXTINF:-1 ,ONEMUZ
 http://27.124.71.27/OneMUZ/index.m3u8
 #EXTINF:-1 ,TRACE LATINA
