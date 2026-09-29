@@ -24,7 +24,8 @@
 
 
 
-
+#EXTINF:-1 ,Zona TUDN
+https://linear-357.frequency.stream/dist/vizio/357/hls/master/playlist.m3u8?ads.did=%7bADID%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.lmt=%7bLMT%7d&ads.ifa_type=%7bIFATYPE%7d&vizdartoken=eyJhdWQiOiIxNDkiLCJ3ZnBjaWQiOjQzNTg0MzY2ODB9
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/7ko4g0YM7E49IIbhfMhYJOWGTCIAuASHcPXRsBPWMOiBIuM0tBHe2Z9OVkzO1vVSxGSDZ1f1Sg=s900-c-k-c0x00ffffff-no-rj",A SPORTS HD
 http://175.107.244.52:4456/play/a04p/index.m3u8
 #EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1750321954030.webp?id=68",PTV SPORTS HD
