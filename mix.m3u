@@ -347,7 +347,8 @@ http://27.124.71.27/T-Sports/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="ed1ad924-f9f2-4302-97df-987bffb2b32e" tvg-logo="https://s3.aynaott.com/storage/5883baa80bff7c66005cc9d63b26e645" group-title="PRO✅",Aakaash Bangla TV
+https://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8?e=1759879680&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=c8a4aa410ce279c733746ef2591aed17
 
 #EXTINF:-1 group-title="PRO✅" group-logo="https://dtil.tmsimg.com/assets/s143871_ld_h15_aa.png",SUN Bangla🇮🇳
 http://103.141.70.136:8080//bdtv/restrem/52.m3u8
