@@ -28,6 +28,61 @@ http://27.124.71.27/Love_Nature/index.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+http://27.124.71.27/Zee_Bangla_Cinema/index.m3u8
+
+
+
+
+
+
+
+
+http://27.124.71.27/music-India/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+
+
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a_208000_eng=2.m3u8
+
+
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
+
+
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1 ,TNT SPORTS 1
 http://27.124.71.27/TNT_Sports_1/index.m3u8
 #EXTINF:-1 ,TNT SPORTS 2
@@ -715,60 +770,6 @@ http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 
 
 
-
-
-http://27.124.71.27/Bollywood_HD/index.m3u8
-
-
-
-http://27.124.71.27/Love_Nature/index.m3u8
-
-
-
-http://27.124.71.27/MBC-Bollywood/index.m3u8
-
-
-
-
-http://27.124.71.27/Movies_Now/index.m3u8
-
-
-
-http://27.124.71.27/Zee_Bangla_Cinema/index.m3u8
-
-
-http://27.124.71.27/Zee_Bangla/index.m3u8
-
-
-
-
-
-http://27.124.71.27/music-India/index.m3u8
-
-http://27.124.71.27/tv9_Hindi/index.m3u8
-
-http://27.124.71.27/Trace_Urban/index.m3u8
-
-http://27.124.71.27/OneMUZ/index.m3u8
-
-
-http://27.124.71.27/Trace_Latina/index.m3u8
-
-
-http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-
-
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a_208000_eng=2.m3u8
-
-
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-
-
-
-https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
-
-
-http://27.124.71.27/Sony_Aath/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/10/iontvuk.jpg?x49520" group-title="PRO✅",iON TV UK🇧🇩
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iontvuk.stream/live-orgin/iontvuk.stream/chunks.m3u8
