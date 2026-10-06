@@ -271,7 +271,7 @@ https://cdn.streamcast.xyz/ctvusa/index.fmp4.m3u8
 http://cdn.live247stream.com/atvusa/tv/playlist.m3u8
 #EXTINF:-1,AMAR BANGLA
 http://103.172.152.218:8086/0.ts
-#EXTINF:-1,Unmochon 
+#EXTINF:-1,Unmochon not 24
 https://jagroniakash.ncare.live/unmochontv/unmochontv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1,EKHON KOLKATA
 http://live.dataplayer.in:8080/live/ekhonkolkata.m3u8
@@ -314,10 +314,6 @@ https://mumt04.tangotv.in/m18aqlK4SONARBANGLA/index.m3u8
 #EXTINF:-1,matribgumi
 https://live.playmax.live/matribhumi/tracks-v1a1/mono.m3u8
 http://27.124.71.27/T-Sports/index.m3u8
-
-
-
-
 
 
 
@@ -873,8 +869,8 @@ MOVIE
 
 
 
-
-
+#EXTINF:-1 group-title="PRO✅" tvg-logo="",ACN Cimena 
+https://app.ashokadigital.net/app/ea6afbb7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="MN MOVIES"tvg-id=""tvg-logo="https://i.ibb.co/kxGm6mr/Picsart-23-06-28-01-42-01-892.png"group-title="PRO✅",MN MOVIES
 https://mntv.livebox.co.in/mntvhls/live.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="",KTV 
