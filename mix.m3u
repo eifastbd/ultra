@@ -87,8 +87,8 @@ http://198.195.239.50:8095/INDEPENDENT.TV/tracks-v1a1/mono.m3u8
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 #https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
 #EXTINF:-1 tvg-id="100000" tvg-name="Bangla Vision" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="PRO✅",Bangla Vision🇧🇩
-http://103.141.70.136:8080//bdtv/restrem/7.m3u8
-#https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
+#http://103.141.70.136:8080//bdtv/restrem/7.m3u8
+https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
 #EXTINF:-1 tvg-id="addb7014-1d2e-41d8-982d-7cafbdc48770" tvg-name="Bangla TV" tvg-logo="https://s3.aynaott.com/storage/5b22893ae4e816ef2cf87e63c96e9e08" group-title="PRO✅",Bangla TV🇧🇩
 #http://103.141.70.136:8080//bdtv/restrem/8.m3u8
 http://116.204.149.16/banglatv/index.m3u8
@@ -122,8 +122,6 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 http://158.69.24.53:8080/probashi_tv/index.m3u8
 #EXTINF:-1 group-title="PRO✅" group-logo="https://yt3.googleusercontent.com/AQLUH_ixhkqBRCV9M1rtWRQhUFiXB1QvX-l1DIbrfmeMjrU8kJzAeCaiupHjEPEz9M2daSfm9A=s900-c-k-c0x00ffffff-no-rj" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvdc0C6H_VHLzzCQpGTsMnY0tgMc-5MxAL63T2HVPWvaG0gVEzBxcKifo&s=10",Channel S🇧🇩
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
-#EXTINF:-1 xui-id="17" tvg-id="" tvg-name="GAZI TV HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/gazi.png" group-title="PRO✅",GAZI TV🇧🇩
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Channel_S.png" group-title="PRO✅",Channel S🇧🇩
 https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/ekhon-tv.png" group-title="PRO✅",Ekhon TV🇧🇩
