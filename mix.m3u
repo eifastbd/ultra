@@ -834,34 +834,13 @@ MOVIE
 
 
 
-https://vg-pitaaratvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/bf10c75b-624d-47e1-9354-9ca66a08e62d/0.m3u8
+
 
 https://amigofx.com:1936/bigstarmovie/bigstarmovie/chunklist_w895905011.m3u8
 
 https://stream.rojatv.cloud/rojatv/rojatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="PRO✅" group-logo="",Bollywood
-https://bhoomtv.org/tv/restream-tv/stream.m3u8?live=f7864e36f1790dc4069812f5a2847117353b586467f0424edef42b56f51612da8caaf6911fa1d9e91ca2b3101e2e97278f89bdf20601d171db95bebb826b8ff5808d88b0d877e1edbc9903cd57cf1942
-
-https://runn-tv.keralive.workers.dev/runntv/stream/p_supjio/manifest/1.m3u8
-#EXTINF:-1 group-title="PRO✅" group-logo="",ENG Movie
-https://aka-live1050.delivery.roku.com/356588e6-ed76-4c21-9d31-d37a12ca86ed/t2-origin/out/v1/live_216_low.m3u8
-
-https://09e3020901654256a51f2f2e9213765a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/LG-gb_IconFilmChannelClassics/f3c3ec69-8cc4-4774-98fc-b2084ee4b1a6/3.m3u8
-
-https://runn-tv.keralive.workers.dev/runntv/stream/p_supflm/manifest/1.m3u8
-
-https://runn-tv.keralive.workers.dev/nhstdz/stream/blygld/manifest/1.m3u8
-https://a70d5913cb70475b8104ec98bf35723a.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-798-MIRAMAXMOVIES-TCLTV/85ebf221-56f8-4de3-a42b-3052159b9e2c/0.m3u8
 
 https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
-
-
-
-https://runn-tv.keralive.workers.dev/nhstdz/stream/blygld/manifest/2.m3u8
-
-
-https://techtraveleat.in/stream.php?proxy=on&url=aHR0cHM6Ly9hbWcwMDg2Mi1hbWcwMDg2MmM4LWFtZ3BsdDAxNzMucGxheW91dC5ub3czLmFtYWdpLnR2L3RzLWV1LXcxLW4yL3BsYXlsaXN0L2FtZzAwODYyLWFtZzAwODYyYzgtYW1ncGx0MDE3My9jYjUzMzgxNzY1NzE2MzkwOWFkNDNmNDQ4ZjhjMWZlYTgyNWEzZWQwNDgzNWNhMzU3ZmIyMzNjZTJiOTU0MDFlYzZhYzhmYTdmZDRhZWY3NjVjOTQwZmI5Mzg1NDZiNTU1Njc3ODMxZmRhNjUxMWI2OWUzYWY0MDQ1MzI5NDUwZmMzZGNhZDdlZGE5ZTBjMGFiNGM4MTc1MTUyZDcwNzYyNGRlZTUyNGM4YjcwNDM1NWRjZWExMTA3Y2M3ZDk2NzExNzFjZTUwYzIxMDc2M2Q4ZjM1OWIzNzY0Y2M1OTA2OWRhMjk3OGM5ZjRjMjY0M2E3YTQ0NWM5OTRmNDllM2E4MGFmMmZlZTkwZTQwYzUzZmEwYjk0YTU1OTQyZTEzZTY5ZjEzYzlkMjFhYTZkNjg1NWVjZjQyOGU3NmY3MTc5NDkyZjRlOTk4MmFiZGJlNTdlY2Q0N2Q4MDFkMjcxYTQ3NTQ5Nzg0NzA5MmJiMzJkY2I4YmI1YTQ5NTdmNWI1MjQ2NDMxYzdiMDlhZmYzNDRlZWVmNGEyYTg5YjhkYTA5MTY0ZTkxYThlYTQzMDhjNjIzNmIyNDJlZDI3NDZjNmE3MTljODI0OGY5YjI1OGRhY2IzZGU1MDQwMmFhY2QwNDk2MDZkYzg4ZmM2ZGVhYTY1NjFlYzM2YTllMDgxYjcwMjQ0YzAyMmJjNmUyOTlhNGRhMWM1ZWMwZjNhYWZlZjI2YTQ4OTc5YjdhNTJhODRmYjQyMTIzNGNiOTA1MTlhYTc3ZmUyODViZmEwNDU4NjJjYzZjYmY1ZDc2ODBjMWUyMzRjMzU4ZjUzYTY5NTdhYzg2OWYzNGNlODlmNDM2ZjBjMTYwNDlhOTM1YjkyZDI4MjFlMjgzNDFiY2ZjMDdmYzQwMzE3YmNlYzhlODFmNDA3MmY4NTM1NDgwZGE2MzM4ZjFiNGQ0N2U0MDA0MTUwYTk2ZGY1OTMzNzY5YzkwMTBmODYzZTMyYjIxODE2ODg1MGYzYjUyOWJhZjY4YWIwNDg2YmZiOGU4OTEyYmY1Y2VlYjMwYmMwZmY0ZGZjM2U2YjE3NTFlNTgwNTkzNTJmN2I3NGRlZWE2OTFhMjMzOTkyMTU5NmI0ZTRkNTM3NTg1MGEyYTdiN2JkYWEzNTFmMDgzNjEwNWUwOWYxOTJjNDc4ODk4MWNkMmM1ZDViODE2NDJmNmU3MDFmMDA4NTQ2YjE0ZGRhMTM0MjE0MjFkOTE0YjBmZDVjMjY2NTY3OWZjYzEyMTE1OTcwZjU4YjcyZDRiNmQxNzk2YjZhZDY1ZWMyNjkwMzMzLzE1Mi8xOTIweDEwODBfNjI4MDU2MC9pbmRleC5tM3U4
-
 
 #EXTINF:-1 group-title="PRO✅" group-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/All-Time-Movies-Logo_2000_X_1125_Transpharent.png?utm_source=chatgpt.com",All Time Movie
 https://mumt03.tangotv.in/ADDsly5z3HALLTIMEMOVIES/tracks-v1a1/mono.m3u8
