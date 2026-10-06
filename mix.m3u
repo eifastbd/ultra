@@ -317,6 +317,24 @@ http://27.124.71.27/T-Sports/index.m3u8
 
 
 
+#EXTINF:-1 group-title="PRO✅" tvg-logo="",  Rana Cable Movie 
+https://ranacable.duckdns.org/RanaMovie/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="PRO✅" tvg-logo=" ",Rana Cable Music 
+https://ethersoftwaresolution.com/live/sgcnmusic/index.m3u8
+
+#EXTINF:-1 group-title="PRO✅" tvg-logo=" ", Rana Cable TV 
+https://ranacable.duckdns.org/RanaCableTV/index.m3u8
+
+
+Star Jalsha HD 
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starjalsha_live_https/index.m3u8
+
+
+
+
+
+
 
 
 
@@ -863,8 +881,17 @@ MOVIE
 
 
 
+#EXTINF:-1,  Epic Music 
+https://cc-3cyxq80qusspd.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/d68f6612-3a4e-4ed4-9853-fc41801678d1/2.m3u8
 
 
+#EXTINF:-1, Korean Tv 
+https://d2ta4bqxv3hgr7.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-y5gitldbaizaw/e45a2de9-e522-4ba0-a0fc-34a998350d65/2.m3u8
+
+
+#EXTINF:-1 group-title="PRO✅" group-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/All-Time-Movies-Logo_2000_X_1125_Transpharent.png?utm_source=chatgpt.com",All Time Movie
+https://mumt03.tangotv.in/ADDsly5z3HALLTIMEMOVIES/tracks-v1a1/mono.m3u8
+#https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="",ACN Cimena 
 https://app.ashokadigital.net/app/ea6afbb7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="MN MOVIES"tvg-id=""tvg-logo="https://i.ibb.co/kxGm6mr/Picsart-23-06-28-01-42-01-892.png"group-title="PRO✅",MN MOVIES
@@ -904,10 +931,6 @@ https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/
 https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo=" https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_UMANG/images/LOGO_HD/image.png",Sheemaroo Umang🎬
 https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="PRO✅" group-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/All-Time-Movies-Logo_2000_X_1125_Transpharent.png?utm_source=chatgpt.com",All Time Movie
-https://mumt03.tangotv.in/ADDsly5z3HALLTIMEMOVIES/tracks-v1a1/mono.m3u8
-#https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8
 #EXTINF:-1 tvg-id="Filmax.pk" tvg-name="Filmax" tvg-logo="https://i.imgur.com/eLmdZ6k.png" group-title="PRO✅",Filmax🎬
 https://s3.ideationtec.live/Filmax/Filmax.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHOJPURI_CINEMA/images/LOGO_HD/image.png" group-title="PRO✅",Bhojpuri Cinema🎬
