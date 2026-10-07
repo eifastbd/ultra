@@ -706,22 +706,23 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="ManoranjanPrime.in@SD" group-title="PRO✅",Manoranjan Prime
+https://cdn.pishow.tv/ott/live/1474/master.m3u8
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Epic-Bharat.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",EPIC Bharat
+https://mumt06.tangotv.in/qYyB8fXVEPICTV/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://www.pngkit.com/png/detail/139-1397705_naruto-title-naruto-logo.png?utm_source=chatgpt.com",Naruto👻
 https://mumbai-edge.smartplaytv.in/BeepBeep/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TOON GOOGLE"tvg-id=""tvg-logo="https://i.imgur.com/oyIMxzM.png"group-title="KIDS CHANNELS",TOON GOOGLE
+#EXTINF:-1 tvg-name="TOON GOOGLE"tvg-id=""tvg-logo="https://i.imgur.com/oyIMxzM.png"group-title="PRO✅",TOON GOOGLE
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
-#EXTINF:-1 tvg-name="KIDS FLIX"tvg-id=""tvg-logo="https://www.kidsflix.com/themes/custom/viva/kidsflix/logo.png"group-title="KIDS CHANNELS",KIDS FLIX
+#EXTINF:-1 tvg-name="KIDS FLIX"tvg-id=""tvg-logo="https://www.kidsflix.com/themes/custom/viva/kidsflix/logo.png"group-title="PRO✅",KIDS FLIX
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-
-#EXTINF:-1,Disney_Junior
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://s3.aynaott.com/storage/a0c74b576321da5aa33a69806401caf1",Disney Junior
 http://78.108.251.7/Disney_Junior/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="HUNGAMA HINDI" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hungama.png" group-title="PRO✅", HUNGAMA HINDI👻
 http://198.195.239.50:8095/HUNGAMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="superhungama" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Super_Hungama.png" group-title="PRO✅",Super Hungama👻
 http://198.195.239.50:8095/SUPER.HUNGAMA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://fcnchbd.xyz/iptv/logo/duronto.png",DURONTO TV👻
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://imgur.com/gXsddRK",DURONTO TV👻
 https://box.bbaria.net/DurontoTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PRO✅" group-logo="https://popfun.co.uk/sites/uk.pop/files/logo_0.png",POP 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
@@ -753,8 +754,6 @@ https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
 https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/C1s5Hf5P/20240823_021444.png",Pogo👻
 https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
-#EXTINF:-1  tvg-logo="",MINIMAX👻
-https://s2.ideationtec.live/MiniMax/MiniMax.m3u8
 #EXTINF:-1  tvg-logo="",MINI👻
 https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
 #EXTINF:-1 group-title="PRO✅" group-logo="https://www.shutterstock.com/image-vector/kids-text-logo-movie-editable-260nw-2536104593.jpg" tvg-logo="https://toppng.com/uploads/preview/new-disney-channel-logo-vector-free-download-11574247903pfuddm63lv.png",Disney 1
@@ -771,7 +770,6 @@ http://103.139.145.9:8082/SONIC/video.m3u8?token=B8ZzNTvPEhHwZ0
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="PRO✅",Nick Bangla👻
 http://livetv.akr4m.com:8080/bdtv/restrem/53.m3u8
 #http://103.141.70.136:8080//bdtv/restrem/53.m3u8
-
 #EXTINF:-1 group-title="PRO✅" group-logo="https://www.shutterstock.com/image-vector/kids-text-logo-movie-editable-260nw-2536104593.jpg" tvg-logo="https://assets-prod.services.toffeelive.com/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp",Cartoon Network HD 1
 http://202.70.146.135:8000/play/a0a3/index.m3u8
 #https://stream.ottplus.bd/live/cn_hd_abr/live/cn_hd/chunks.m3u8
@@ -835,13 +833,12 @@ MOVIE
 
 
 
-
+#EXTINF:-1 group-title="PRO✅" group-logo="",Big star
 https://amigofx.com:1936/bigstarmovie/bigstarmovie/chunklist_w895905011.m3u8
-
+#EXTINF:-1 group-title="PRO✅" group-logo="",Roja
 https://stream.rojatv.cloud/rojatv/rojatv/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 group-title="PRO✅" group-logo="",ENT
 https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1 group-title="PRO✅" group-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/All-Time-Movies-Logo_2000_X_1125_Transpharent.png?utm_source=chatgpt.com",All Time Movie
 https://mumt03.tangotv.in/ADDsly5z3HALLTIMEMOVIES/tracks-v1a1/mono.m3u8
 #https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8
@@ -861,10 +858,6 @@ http://103.141.70.136:8080//bdtv/restrem/47.m3u8
 http://a-edge.bliscdn.com/VisionPunjabHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ETVJosh.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Josh.png" group-title="PRO✅",OITV
 https://live.olidigital.in/olitv/olitv/index.m3u8
-#EXTINF:-1 tvg-id="ManoranjanPrime.in@SD" group-title="PRO✅",Manoranjan Prime
-https://cdn.pishow.tv/ott/live/1474/master.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Epic-Bharat.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",EPIC Bharat
-https://mumt06.tangotv.in/qYyB8fXVEPICTV/index.m3u8
 #EXTINF:-1 group-title="PRO✅" group-title="India" tvg-id="ptc-punjabi" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1414934314PTCPUNJABI_TVSETS_TVW_720x960.webp",PTC PUNJABI🎬
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y8wszpw/Goldmines-Movies.jpg" group-title="PRO✅",GOLDMINES MOVIES🎬
@@ -884,8 +877,6 @@ https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/
 https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo=" https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_UMANG/images/LOGO_HD/image.png",Sheemaroo Umang🎬
 https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmax.pk" tvg-name="Filmax" tvg-logo="https://i.imgur.com/eLmdZ6k.png" group-title="PRO✅",Filmax🎬
-https://s3.ideationtec.live/Filmax/Filmax.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHOJPURI_CINEMA/images/LOGO_HD/image.png" group-title="PRO✅",Bhojpuri Cinema🎬
 https://streams.tangotv.in/B4UBHOJPURI/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png?lock=720x540" group-title="PRO✅",B4U Movies🎬
