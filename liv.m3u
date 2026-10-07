@@ -23,24 +23,7 @@
 
 
 
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" tvg-logo="https://imglink.cc/cdn/GGm9H9tLHP.png",Willow HD
-https://df3xownvf1f4t.cloudfront.net/v1/manifest/071c0467fcd02420cdf0d8a1ca3524b96c27a151/willow_tv/f304f011-93a2-48be-9d66-c09dff57bf56/4.m3u8
- 
 
-Star Sports 
-https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
-
-Star Sports
-https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
-
-Sony Ten 1
-https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
-
-Sony Ten 2
-https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8
-
-Sony Ten 5 
-https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.district.in/assets/events/publisher/event_cover_image_vertical/01M3VC2DDB8PB7PG3121BKQTPT.jpg" group-title="LIVE SPORTS",Brazil VS India | Friendly Match 2026
@@ -261,18 +244,15 @@ http://str24.l9574.com/601.stream/index.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" tvg-logo="https://fcnchbd.xyz/iptv/logo/spts.png",TEN SPORTS HD
 http://str24.l9574.com/610.stream/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen1.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",Sony Sports Ten 1
+https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen2.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",Sony Sports Ten 2 
-https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%202.m3u8
+https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",Sony Sports Ten 3 Hindi
-https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%203.m3u8
+https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen4.in@Tamil" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025T4PV.png?lock=720x540" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",Sony Sports Ten 4
-https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%204.m3u8
+
 #EXTINF:-1 tvg-id="SonySportsTen5.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",Sony Sports Ten 5
 http://202.70.146.135:8000/play/a0ao/index.m3u8
-
-
-
-
 
 #EXTINF:-1 group-title="-",Star Sports 1 HD - Rs 19.00
 http://202.70.146.135:8000/play/a00a/index.m3u8
@@ -284,6 +264,12 @@ http://202.70.146.135:8000/play/a0aq/index.m3u8
 http://202.70.146.135:8000/play/a0ap/index.m3u8
 
 
+
+Star Sports 
+https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
+
+Star Sports
+https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
 
 
 
