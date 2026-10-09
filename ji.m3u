@@ -538,40 +538,14 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sansadtvhd2/default/main.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f21752a2fa0a4fa3b49b973cf7a97a6d:49305a9be6a4470ab0725e8dc0115296
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Epictv2/default/main.mpd
-
-
-
-
-#EXTINF:-1 tvg-chno="1185" tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" group-title="Punjabi",9X Tashan
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5774f9c8093547ac8796445049163c00:2716fd8f71974ffa82e68e198c8d91d6
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xtashan2/default/mainfest.mpd
-#EXTINF:-1 tvg-chno="1202" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022S28S.png?lock=720x540" group-title="Marathi",Zee Marathi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2a8d6c938ea647248f7a10eedc39f097:7d81feb84ed84bd88fdc5ca9de3c16da
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathi/default/manifest.mpd
 #EXTINF:-1 tvg-chno="1213" tvg-logo="https://dtil.tmsimg.com/assets/s143038_ld_h15_aa.png?lock=720x540" group-title="Marathi",Fakt Marathi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2bce8d71c7545249c84099da4fb7d7c:c710e4af595949d3bc8916d224a9fef4
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Faktmarathi2/default/main.mpd
-#EXTINF:-1 tvg-chno="1243" tvg-logo="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540" group-title="Marathi",9X Jhakkas
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5911de35875644f4a48ee9d426be297f:4316b9b0a9814b4381425e1b01886dc5
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xjhakaas2/default/main.mpd
 #EXTINF:-1 tvg-chno="1302" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00239YNG.png?lock=720x540" group-title="Odia",Zee Sarthak
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecad0b097b574078a4a1bde24bfdb2e5:568bb13d04db4b738864f6c849474cd5
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeesarthak/default/main.mpd
-#EXTINF:-1 tvg-chno="1409" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6CT.png?lock=720x540" group-title="Bengali",Zee Bangla
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
-#EXTINF:-1 tvg-chno="1433" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540" group-title="Bengali",Zee Bangla Sonar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
-#EXTINF:-1 tvg-chno="1433" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540" group-title="Bengali",Zee Bangla Sonar
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #EXTINF:-1 tvg-chno="1461" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00211H7T.png?lock=720x540" group-title="Bengali",Sangeet Bangla
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=55ef53e7216640ea862b98c3864000f7:11c2726ab75d4e6aaf54e0e09b5ae593
@@ -580,10 +554,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbangla2/default/main.mpd?
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eeb0cd6768be49eeb8eac3df17638a4e:3496163276404b46906865eadd195e67
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri2/default/main.mpd
-#EXTINF:-1 tvg-chno="1575" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230Y44.png?lock=720x540" group-title="Bhojpuri",Zee Bihar Jharkhand
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e1ec6098b5014ac7aae0b37f72d5e85e:c04950f25d8e4107a96e828e7911e53b
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebiharjharkhand/default/manifest.mpd
 #EXTINF:-1 tvg-chno="2363" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022S8HZ.png?lock=720x540" group-title="Telugu",Zee Telugu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
@@ -596,10 +566,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/main.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50e714b65ead453cbfab9b20bed5c79d:bc08e108b9ee4f65b99cb9dad9532f3f
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada/default/main.mpd
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music",9X Jalwa
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0538cf4c5ed546a9956aadab2fdf3366:b0af534e1a5f459f9c751a0cb9d12d4c
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xjalwa2/default/main.mpd
+
 
 
 
