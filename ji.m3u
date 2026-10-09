@@ -700,7 +700,6 @@ https://unlimited1-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
 
 
 
-#EXTM3U
 #EXTINF:-1,7Green 4K
 https://account33.livebox.co.in/7GREEN4Khls/live.m3u8
 #EXTINF:-1,7Star TV
@@ -709,8 +708,6 @@ https://annainew.livebox.co.in/7startvhls/livestream.m3u8
 https://annainew.livebox.co.in/ammatvhls/live.m3u8
 #EXTINF:-1,Annai TV
 https://annainew.livebox.co.in/annailivehls/live.m3u8
-#EXTINF:-1,Annai Tamil
-https://annainew.livebox.co.in/annaitamilhls/live.m3u8
 #EXTINF:-1,Awaaz India
 https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 #EXTINF:-1,Bangla Jago TV
@@ -751,8 +748,6 @@ https://mntv.livebox.co.in/mntvhls/live.m3u8
 https://account21.livebox.co.in/oscartvhls/live.m3u8
 #EXTINF:-1,Ragam TV
 https://account26.livebox.co.in/RAGAMMTPhls/live.m3u8
-#EXTINF:-1,RMK TV
-https://account23.livebox.co.in/RMKTVhls/live.m3u8
 #EXTINF:-1,SB News 24x7
 https://sbnews.livebox.co.in/sbnewshls/live.m3u8
 #EXTINF:-1,Sivan TV
@@ -848,10 +843,6 @@ https://login.bheem.tv/bpk-tv/22389/output/index.mpd?
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=513e09e96cd355198d22a63f3259452f:8b5c7793bba86d6e885fc08b9ff9e5e0
 https://login.bheem.tv/bpk-tv/22391/output/index.mpd?
-#EXTINF:-1 tvg-id="22411" tvg-logo="https://dtil.tmsimg.com/assets/s143248_ld_h15_aa.png" group-title="Malayalam Entertainment",Kairali We
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a78509d336ba5e58a79f80792b648c47:e4da90d5040db158a71c04e8ac48f2cc
-https://login.bheem.tv/bpk-tv/22411/output/index.mpd
 #EXTINF:-1 tvg-id="22412" tvg-logo="https://dtil.tmsimg.com/assets/s143247_ld_h15_aa.png" group-title="Malayalam Entertainment",Kairali TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1382b4f8623151e88c52787ae11f11ab:de71cbb248a62cc2c4a66c8546b49d7d
