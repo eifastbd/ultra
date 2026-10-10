@@ -120,6 +120,12 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzayWMQexbfPV-jTx3ZNoq-XOmlHKSX1SCjg&s" group-title="PRO✅",Probashi🇧🇩
 http://158.69.24.53:8080/probashi_tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Independent" tvg-logo="https://i.postimg.cc/gr9VXZTM/20240822-230259.png" group-title="Bangladeshi",Independent
+https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8
+#EXTINF:-1 tvg-id="JagoNews24" tvg-name="Jago News 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS8QoffUmrOUwmi18WkifDfSOlgg3Egxhsi2nojWAVnw&s" group-title="Bangladeshi",Jago News 24
+https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg335AmdqAfP2k7vRd0bvVZHhcQ4_-nr1fV52x7YR2VQ&s=10" group-title="Bangladeshi",Star News
+http://103.135.253.32:8080/Star-News/index.m3u8
 #EXTINF:-1 group-title="PRO✅" group-logo="https://yt3.googleusercontent.com/AQLUH_ixhkqBRCV9M1rtWRQhUFiXB1QvX-l1DIbrfmeMjrU8kJzAeCaiupHjEPEz9M2daSfm9A=s900-c-k-c0x00ffffff-no-rj" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvdc0C6H_VHLzzCQpGTsMnY0tgMc-5MxAL63T2HVPWvaG0gVEzBxcKifo&s=10",Channel S🇧🇩
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Channel_S.png" group-title="PRO✅",Channel S🇧🇩
@@ -478,7 +484,8 @@ https://drk6xq0vhn.gpcdn.net/live/sony_ent_sd_abr/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="7X Music" tvg-name="7X Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcah7H-5mM2w9PtLLSOersfEjAlT0_MmGj09XgtUp7Pw&s=10" group-title="PRO✅",7X Music
+https://cdn2.in/7xPunjabihls/live.m3u8
 #EXTINF:-1 group-title="PRO✅" group-logo="",🌀
 https://rpn3.bozztv.com/dvrfl07/ushba-t4/tracks-v1a1/mono.ts.m3u8?nimblesessionid=1149423666
 #EXTINF:-1 group-title="PRO✅" group-logo="",V Music🌀
@@ -827,7 +834,36 @@ MOVIE
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="ROMEDY NOW" tvg-logo="http://198.195.239.50/img/channels/ROMEDY%20NOW.png" group-title="Indian",ROMEDY NOW
+http://198.195.239.50:8095/ROMEDY.NOW/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rupashi Bangla TV (720p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rupashi_Bangla.png" group-title="Indian",Rupashi Bangla TV (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:rupashibangla.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sananda TV" tvg-logo="https://i.postimg.cc/Kc7BJRCy/20240823-020704.png" group-title="Indian",Sananda TV
+http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sheemaroo Bollywood" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Indian",Sheemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="https://i.postimg.cc/2yNd3WJ0/20240822-231606.png" group-title="Indian",Sony Aath
+https://drk6xq0vhn.gpcdn.net/live/sony_aath_abr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max 2" tvg-logo="https://i.postimg.cc/hP59QSrm/20240825_075205.png" group-title="Indian",Sony Max 2
+https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max HD" tvg-logo="https://i.postimg.cc/YS3BdNNW/20240823_022655.png" group-title="Indian",Sony Max HD
+https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pix" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" group-title="Indian",Sony Pix
+http://198.195.239.50:8095/SONY.PIX.HD/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Television HD" tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png" group-title="Indian",Sony Television HD
+https://drk6xq0vhn.gpcdn.net/live/sony_ent_hd_abr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star BHARAT" tvg-logo="http://198.195.239.50/img/channels/STAR%20BHARAT%20HD.png" group-title="Indian",Star BHARAT
+http://198.195.239.50:8095/STAR.BHARAT.HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold HD" tvg-logo="https://i.postimg.cc/6pCXvxyz/20240823_022553.png" group-title="Indian",Star Gold HD
+http://198.195.239.50:8095/STAR.GOLD.HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png" group-title="Indian",Star Jalsha HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies HD" tvg-logo="http://198.195.239.50/img/channels/STAR%20MOVIES%20HD.png" group-title="Indian",Star Movies HD
+http://198.195.239.50:8095/STAR.MOVIES.HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies SEL" tvg-logo="http://198.195.239.50/img/channels/images__3_.png" group-title="Indian",Star Movies SEL
+http://198.195.239.50:8095/STAR.MOVIES.SEL.HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus" tvg-logo="http://198.195.239.50/img/channels/STAR%20PLUS%20HD.png" group-title="Indian",Star Plus
+http://198.195.239.50:8095/STAR.PLUS.HD/tracks-v1a1/mono.m3u8
 
 
 
