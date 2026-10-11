@@ -3954,40 +3954,8 @@ https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8#skym3
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Tennis Channel (1080p)" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Tennis Channel (1080p)
 https://amg01444-tennischannelth-tennischannelnl-samsungnl-x3dq1.amagi.tv/playlist/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="TJK TV (1080p)" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",TJK TV (1080p)
-https://tjktv-live.tjk.org/tjktv.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="TSN The Ocho (1080p)" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",TSN The Ocho (1080p)
-https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Turf Movil (720p)" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Turf Movil (720p)
-https://tvturf4.janus.cl/playlist/stream.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="TV Cuatro 4.3 (1080p)" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",TV Cuatro 4.3 (1080p)
-https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="TVS Bowling Network (720p)" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",TVS Bowling Network (720p)
-https://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="TVS Boxing (360p)" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",TVS Boxing (360p)
-https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="TVS Turbo (360p)" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",TVS Turbo (360p)
-https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="UDAR (1080p)" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",UDAR (1080p)
-http://5.188.159.128:8070/udar/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Varzesh TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Varzesh TV
-https://live-aburayhan1110.telewebion.net/ek/varzesh/live/playlist.m3u8?isp=NA&city=NA#skym3u.dev
-#EXTINF:-1 tvg-name="Vinh Long TV 4 (720p)" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Vinh Long TV 4 (720p)
-https://livecdn-vthcm-bp.vieon.vn/d61f68769a7c899b3d51d0fca241a289/1790615553000/livetv/group-02/759df25e7b439639ed0c2588b776735b/playlist.m3u8?c=a#skym3u.dev
-#EXTINF:-1 tvg-name="VTV6 (1080p)" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",VTV6 (1080p)
-https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Win Sports (1080p)" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Win Sports (1080p)
-http://138.121.15.230:9002/WIN-SPORT/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Win+ Futbol (1080p)" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Win+ Futbol (1080p)
-http://181.78.12.119:16123/play/ch19/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="World Poker Tour (1080p)" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",World Poker Tour (1080p)
-https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="World Poker Tour UK (1080p)" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",World Poker Tour UK (1080p)
-https://amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlist/amg00477-samsungelectron-worldpokertour-samsunguk/playlist.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="YES" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",YES
-https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/24/index.m3u8#skym3u.dev
+
+
 
 
 
