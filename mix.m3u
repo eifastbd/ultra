@@ -316,20 +316,15 @@ https://stream.channeleuropetvboxlondon.co.uk/live/nextplanet/chunklist_w5986365
 https://dish.porosh.com.bd/hls/jtvnews.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSV1py3jfF1GxTt9mLp4FaGPh_VSQkb7vlAkk6gM4lyaZ-VpKGcZjvj1bAj5XGM2z6FzZ-YcF5ypK3eSqTdiJWbUwfAcpo9gpp46XzFPdyuqWwJpN8CJVD2Eccw7THi60xgJ9rMkm-i8S83s4x6ZAO27kALxlY7ulLkwIO4CEuMz40yvj52A7yxCM1Ng/s600/Nur_20251107_000734_0000.png" group-title="PRO✅", Aakash Aath
 https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
+#https://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8?e=1759879680&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=c8a4aa410ce279c733746ef2591aed17
 #EXTINF:-1,Cine জমজমাট
 https://mumt04.tangotv.in/m18aqlK4SONARBANGLA/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/10/matribhumi.jpg",MatriBhumi
 http://27.124.71.27/T-Sports/index.m3u8
-
-
-
-
 #EXTINF:-1 group-title="PRO✅" tvg-logo="",Cable Movie 
 https://ranacable.duckdns.org/RanaMovie/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="PRO✅" tvg-logo=" "Cable Music 
 https://ethersoftwaresolution.com/live/sgcnmusic/index.m3u8
-
 #EXTINF:-1 group-title="PRO✅" tvg-logo=" ",Cable TV 
 https://ranacable.duckdns.org/RanaCableTV/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo=" ",BPrime
@@ -343,11 +338,6 @@ https://ranacable.duckdns.org/Bprimebangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeebangla" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeebangla/list/1920x1080listb2674154e8ac473f8f37ad418ac013ec.png" group-title="Entertainment", Zee Bangla HD
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
-
-
-#EXTINF:-1 tvg-id="ed1ad924-f9f2-4302-97df-987bffb2b32e" tvg-logo="https://s3.aynaott.com/storage/5883baa80bff7c66005cc9d63b26e645" group-title="PRO✅",Aakaash Bangla TV
-https://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8?e=1759879680&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=c8a4aa410ce279c733746ef2591aed17
-
 #EXTINF:-1 group-title="PRO✅" group-logo="https://dtil.tmsimg.com/assets/s143871_ld_h15_aa.png",SUN Bangla🇮🇳
 http://103.141.70.136:8080//bdtv/restrem/52.m3u8
 #EXTINF:-1 xui-id="34" tvg-id="" tvg-name="SONY ATTH" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbs8.png" group-title="PRO✅",SONY ATTH🇮🇳
