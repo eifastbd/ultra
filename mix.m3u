@@ -401,10 +401,8 @@ https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-
 https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
 #EXTINF:-0 group-title="PRO✅" tvg-logo="https://akm-img-a-in.tosshub.com/sites/visualstory/stories/2023_04/story_31381/assets/2.png?time=1681544765&size=*:900",GNT🇮🇳
 https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8
-
 #EXTINF:-1,group-title="PRO✅" tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png?utm_source=chatgpt.com",SONY KAL🇮🇳
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
-
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png",Sony Television
 https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
@@ -412,7 +410,7 @@ https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
 http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 tvg-id="UBangla.in@SD" group-title="PRO✅",U Bangla
 https://stream.ottlive.co.in/ubangla/index.m3u8
-#EXTINF:-1 group-title="Indian Hindi" group-title="PRO✅" tvg-id="ZEENews" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Zee_News_HD.jpg",ZEE News
+#EXTINF:-1 group-title="PRO✅" tvg-id="ZEENews" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Zee_News_HD.jpg",ZEE News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1 tvg-id="UtsavBharat.uk@SD" group-title="PRO✅",Utsav Bharat
 https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
@@ -476,10 +474,8 @@ https://drk6xq0vhn.gpcdn.net/live/sony_ent_sd_abr/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="7X Music" tvg-name="7X Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcah7H-5mM2w9PtLLSOersfEjAlT0_MmGj09XgtUp7Pw&s=10" group-title="PRO✅",7X Music
+#EXTINF:-1 tvg-id="7X Music" tvg-name="7X Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcah7H-5mM2w9PtLLSOersfEjAlT0_MmGj09XgtUp7Pw&s=10" group-title="PRO✅",7X Music🌀
 https://cdn2.in/7xPunjabihls/live.m3u8
-#EXTINF:-1 group-title="PRO✅" group-logo="",🌀
-https://rpn3.bozztv.com/dvrfl07/ushba-t4/tracks-v1a1/mono.ts.m3u8?nimblesessionid=1149423666
 #EXTINF:-1 group-title="PRO✅" group-logo="",V Music🌀
 https://allchannels.in/live/vvmusic_100/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PRO✅" group-logo="",M Music🌀
@@ -510,8 +506,6 @@ https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-id="ETVBeats.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETVBeats1.png" group-title="PRO✅",ETV Beats🌀
 https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
-#EXTINF:-1  group-title="PRO✅" group-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LOGO_HD/image.png?utm_source=chatgpt.com",Pittara🌀
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/227.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCbJNZwX/9xm.jpg" group-title="PRO✅",9XM🌀
 https://wiselp.wiseplayout.com/9XM/SD504/SD504.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c1MmBfHV/9x-Jalwa.jpg" group-title="PRO✅",9X JALWA🌀
@@ -627,8 +621,6 @@ https://stream.cmctv.hr:49998/cmc/live.m3u8
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="PRO✅",Trace Latino🌀 
 https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/4fun.tv _Logo_%282017%29.svg/1200px-4fun.tv_Logo_%282017%29.svg.png" group-title="PRO✅",Fun TV🌀
-https://stream.4fun.tv:8888/hls/4f_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pmc-royale-ch.png" group-title="PRO✅",PMC Royale🌀 
 https://pmcrohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/8/80/Radionorba_tv_logo_2021.png" group-title="PRO✅",Norba Tv🌀
@@ -697,6 +689,13 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 
 
  ───────────  Cartoon ───────────
+
+
+
+
+
+
+
 
 
 
