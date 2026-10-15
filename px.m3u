@@ -13,62 +13,22 @@
 
 
 
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-63eecb32ac23d1ee072087cb-us" tvg-id="5e20b730f2f8d5003d739db7-63eecb32ac23d1ee072087cb" tvg-chno="" tvg-name="123GO!" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png" group-title="United States",123GO!
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63eecb32ac23d1ee072087cb.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-63eecb32ac23d1ee072087cb-nz" tvg-id="5e20b730f2f8d5003d739db7-63eecb32ac23d1ee072087cb" tvg-chno="" tvg-name="123GO!" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png" group-title="New Zealand",123GO!
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63eecb32ac23d1ee072087cb.m3u8
-#EXTINF:-1 channel-id="697140a85d851f5e69414688-63eecb32ac23d1ee072087cb-au" tvg-id="697140a85d851f5e69414688-63eecb32ac23d1ee072087cb" tvg-chno="" tvg-name="123GO!" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png" group-title="Australia",123GO!
-https://jmp2.uk/plex-697140a85d851f5e69414688-63eecb32ac23d1ee072087cb.m3u8
-#EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-63eecb32ac23d1ee072087cb-mx" tvg-id="608049aefa2b8ae93c2c3a63-63eecb32ac23d1ee072087cb" tvg-chno="" tvg-name="123GO!" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png" group-title="Mexico",123GO!
-https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-63eecb32ac23d1ee072087cb.m3u8
-#EXTINF:-1 channel-id="643054b1fc3be59477853717-63eecb32ac23d1ee072087cb-es" tvg-id="643054b1fc3be59477853717-63eecb32ac23d1ee072087cb" tvg-chno="" tvg-name="123GO!" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png" group-title="Spain",123GO!
-https://jmp2.uk/plex-643054b1fc3be59477853717-63eecb32ac23d1ee072087cb.m3u8
-#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-63eecb32ac23d1ee072087cb-ca" tvg-id="647f8d22a2fc3fadb4721685-63eecb32ac23d1ee072087cb" tvg-chno="" tvg-name="123GO!" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png" group-title="Canada",123GO!
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-63eecb32ac23d1ee072087cb.m3u8
-#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-63eecb32ac23d1ee072087cb-fr" tvg-id="6430aa45fc3be5947780904e-63eecb32ac23d1ee072087cb" tvg-chno="" tvg-name="123GO!" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png" group-title="France",123GO!
-https://jmp2.uk/plex-6430aa45fc3be5947780904e-63eecb32ac23d1ee072087cb.m3u8
-#EXTINF:-1 channel-id="64305451fc3be5947773c339-63eecb32ac23d1ee072087cb-gb" tvg-id="64305451fc3be5947773c339-63eecb32ac23d1ee072087cb" tvg-chno="" tvg-name="123GO!" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png" group-title="United Kingdom",123GO!
-https://jmp2.uk/plex-64305451fc3be5947773c339-63eecb32ac23d1ee072087cb.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-66f6b947515e742745f5ca34-us" tvg-id="5e20b730f2f8d5003d739db7-66f6b947515e742745f5ca34" tvg-chno="" tvg-name="21 Jump Street" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png" group-title="United States",21 Jump Street
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66f6b947515e742745f5ca34.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-66f6b947515e742745f5ca34-nz" tvg-id="5e20b730f2f8d5003d739db7-66f6b947515e742745f5ca34" tvg-chno="" tvg-name="21 Jump Street" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png" group-title="New Zealand",21 Jump Street
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66f6b947515e742745f5ca34.m3u8
-#EXTINF:-1 channel-id="697140a85d851f5e69414688-66f6b947515e742745f5ca34-au" tvg-id="697140a85d851f5e69414688-66f6b947515e742745f5ca34" tvg-chno="" tvg-name="21 Jump Street" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png" group-title="Australia",21 Jump Street
-https://jmp2.uk/plex-697140a85d851f5e69414688-66f6b947515e742745f5ca34.m3u8
-#EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-66f6b947515e742745f5ca34-mx" tvg-id="608049aefa2b8ae93c2c3a63-66f6b947515e742745f5ca34" tvg-chno="" tvg-name="21 Jump Street" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png" group-title="Mexico",21 Jump Street
-https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-66f6b947515e742745f5ca34.m3u8
-#EXTINF:-1 channel-id="643054b1fc3be59477853717-66f6b947515e742745f5ca34-es" tvg-id="643054b1fc3be59477853717-66f6b947515e742745f5ca34" tvg-chno="" tvg-name="21 Jump Street" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png" group-title="Spain",21 Jump Street
-https://jmp2.uk/plex-643054b1fc3be59477853717-66f6b947515e742745f5ca34.m3u8
-#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-66f6b947515e742745f5ca34-ca" tvg-id="647f8d22a2fc3fadb4721685-66f6b947515e742745f5ca34" tvg-chno="" tvg-name="21 Jump Street" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png" group-title="Canada",21 Jump Street
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-66f6b947515e742745f5ca34.m3u8
-#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-66f6b947515e742745f5ca34-fr" tvg-id="6430aa45fc3be5947780904e-66f6b947515e742745f5ca34" tvg-chno="" tvg-name="21 Jump Street" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png" group-title="France",21 Jump Street
-https://jmp2.uk/plex-6430aa45fc3be5947780904e-66f6b947515e742745f5ca34.m3u8
-#EXTINF:-1 channel-id="64305451fc3be5947773c339-66f6b947515e742745f5ca34-gb" tvg-id="64305451fc3be5947773c339-66f6b947515e742745f5ca34" tvg-chno="" tvg-name="21 Jump Street" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png" group-title="United Kingdom",21 Jump Street
-https://jmp2.uk/plex-64305451fc3be5947773c339-66f6b947515e742745f5ca34.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d-us" tvg-id="5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-chno="" tvg-name="24 Hour Free Movies" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/24hrfreemovies_logo_dark.png" group-title="United States",24 Hour Free Movies
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d.m3u8
-#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-5fd115bab7ef8d002dcf181d-ca" tvg-id="647f8d22a2fc3fadb4721685-5fd115bab7ef8d002dcf181d" tvg-chno="" tvg-name="24 Hour Free Movies" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/24hrfreemovies_logo_dark.png" group-title="Canada",24 Hour Free Movies
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5fd115bab7ef8d002dcf181d.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6745dca72832b870acf53220-us" tvg-id="5e20b730f2f8d5003d739db7-6745dca72832b870acf53220" tvg-chno="" tvg-name="365BLK [FAST]" tvg-logo="https://provider-static.plex.tv/1/epg/channels/logos/gracenote/15a11cfd0f014785527aa0c87cbf6752.png" group-title="United States",365BLK [FAST]
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6745dca72832b870acf53220.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-64149a3c238e21f260e7844c-us" tvg-id="5e20b730f2f8d5003d739db7-64149a3c238e21f260e7844c" tvg-chno="" tvg-name="4UV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e9b9dba-391b-4b39-8fad-a33f563f1925/4UV_FULL_COLOR_Logo_1500x1000.png" group-title="United States",4UV
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-64149a3c238e21f260e7844c.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-63894c1965b848bf2c8a7800-us" tvg-id="5e20b730f2f8d5003d739db7-63894c1965b848bf2c8a7800" tvg-chno="" tvg-name="5-Minute Crafts" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png" group-title="United States",5-Minute Crafts
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63894c1965b848bf2c8a7800.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-63894c1965b848bf2c8a7800-nz" tvg-id="5e20b730f2f8d5003d739db7-63894c1965b848bf2c8a7800" tvg-chno="" tvg-name="5-Minute Crafts" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png" group-title="New Zealand",5-Minute Crafts
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63894c1965b848bf2c8a7800.m3u8
-#EXTINF:-1 channel-id="697140a85d851f5e69414688-63894c1965b848bf2c8a7800-au" tvg-id="697140a85d851f5e69414688-63894c1965b848bf2c8a7800" tvg-chno="" tvg-name="5-Minute Crafts" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png" group-title="Australia",5-Minute Crafts
-https://jmp2.uk/plex-697140a85d851f5e69414688-63894c1965b848bf2c8a7800.m3u8
-#EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-63894c1965b848bf2c8a7800-mx" tvg-id="608049aefa2b8ae93c2c3a63-63894c1965b848bf2c8a7800" tvg-chno="" tvg-name="5-Minute Crafts" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png" group-title="Mexico",5-Minute Crafts
-https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-63894c1965b848bf2c8a7800.m3u8
-#EXTINF:-1 channel-id="643054b1fc3be59477853717-63894c1965b848bf2c8a7800-es" tvg-id="643054b1fc3be59477853717-63894c1965b848bf2c8a7800" tvg-chno="" tvg-name="5-Minute Crafts" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png" group-title="Spain",5-Minute Crafts
-https://jmp2.uk/plex-643054b1fc3be59477853717-63894c1965b848bf2c8a7800.m3u8
-#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-63894c1965b848bf2c8a7800-ca" tvg-id="647f8d22a2fc3fadb4721685-63894c1965b848bf2c8a7800" tvg-chno="" tvg-name="5-Minute Crafts" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png" group-title="Canada",5-Minute Crafts
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-63894c1965b848bf2c8a7800.m3u8
-#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-63894c1965b848bf2c8a7800-fr" tvg-id="6430aa45fc3be5947780904e-63894c1965b848bf2c8a7800" tvg-chno="" tvg-name="5-Minute Crafts" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png" group-title="France",5-Minute Crafts
-https://jmp2.uk/plex-6430aa45fc3be5947780904e-63894c1965b848bf2c8a7800.m3u8
-#EXTINF:-1 channel-id="64305451fc3be5947773c339-63894c1965b848bf2c8a7800-gb" tvg-id="64305451fc3be5947773c339-63894c1965b848bf2c8a7800" tvg-chno="" tvg-name="5-Minute Crafts" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png" group-title="United Kingdom",5-Minute Crafts
-https://jmp2.uk/plex-64305451fc3be5947773c339-63894c1965b848bf2c8a7800.m3u8
+
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55-us" tvg-id="5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" tvg-chno="" tvg-name="50 Cent Action" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bcfb9977-809f-49ae-acc7-430f2c6ffb26/50CentAction_Logo_1500x1000_DarkBG_-_Chris_Connors.png" group-title="United States",50 Cent Action
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-65fca98c60dc164e8f272332-us" tvg-id="5e20b730f2f8d5003d739db7-65fca98c60dc164e8f272332" tvg-chno="" tvg-name="80's Sitcom Flashback" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6a33b82d-db12-4f5d-8f8f-d49c803dce6a/LogoColor1500RDX.png" group-title="United States",80's Sitcom Flashback
