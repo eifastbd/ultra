@@ -17,15 +17,8 @@
 
 
 
-
-#EXTINF:-1 tvg-id="ch_167" tvg-name="T Sports" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/T%20Sports.webp" group-title="TV",T Sports
-http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8
 #EXTINF:-1 tvg-id="ch_168" tvg-name="PTV Sports" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/PTV%20Sports.webp" group-title="TV",PTV Sports
 http://103.135.253.32:8080/PTV-SPORTS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch_169" tvg-name="Star Sports 1" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Star%20Sports%201.webp" group-title="TV",Star Sports 1
-http://103.141.70.136:8080/bdtv/restrem/39.m3u8
-#EXTINF:-1 tvg-id="ch_170" tvg-name="Star Sports 1 Hindi" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Star%20Sports%201.webp" group-title="TV",Star Sports 1 Hindi
-http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-id="ch_171" tvg-name="Star Sports Select 1" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Star%20Sports%20Select%201.webp" group-title="TV",Star Sports Select 1
 http://103.135.253.32:8080/STAR-SPORTS-SELECT-1/index.m3u8
 #EXTINF:-1 tvg-id="ch_172" tvg-name="Star Sports Select 2" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Star%20Sports%20Select%202.webp" group-title="TV",Star Sports Select 2
@@ -36,8 +29,6 @@ http://103.135.253.32:8080/STAR-SPORTS-2-HD/index.m3u8
 https://playztv-apps.pages.dev/a-sports/index.m3u8
 #EXTINF:-1 tvg-id="ch_175" tvg-name="Ten Sports" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Ten%20Sports.webp" group-title="TV",Ten Sports
 http://103.135.253.32:8080/Ten-Sports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch_176" tvg-name="Ten Cricket" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Ten%20Cricket.webp" group-title="TV",Ten Cricket
-https://prod-linear-media.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8?edge-cache-token=Expires=1791271821~Starts=1791268221~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=f2fNJpuwZeqAjt6TrgpB2cwhcmT3w-rHfqzRsjqmYwA8qygTnUop8MGa1uiM8MWnnX796txNZqrDZ0dE_AucCw
 #EXTINF:-1 tvg-id="ch_177" tvg-name="Sony Ten  Sports 1" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Sony%20Sports%20Ten%201.webp" group-title="TV",Sony Ten  Sports 1
 http://103.135.253.32:8080/TEN-1/index.m3u8
 #EXTINF:-1 tvg-id="ch_178" tvg-name="Sony Ten Sports 2" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Sony%20Sports%20Ten%202.webp" group-title="TV",Sony Ten Sports 2
