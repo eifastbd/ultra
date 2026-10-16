@@ -671,7 +671,8 @@ https://mumbai-edge.smartplaytv.in/Zoom/index.m3u8
 http://hz1.teleport.cc/HLS/HD.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdddb1bs/20250529_120025.png" group-title="𝐌𝐮𝐬𝐢𝐜 🎶",Sangeet Bangla
+http://flowutc.com:80/live/34FQ94W/64CW3PG/34727.ts
 
 
 
@@ -849,6 +850,53 @@ MOVIE
 
 
 
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_c5adf129be936d1f292d53f697e9e4ef_playmist_hbo400x400.jpg" group-title="MOVIE 🍿",HBO
+https://tvsen7.aynaott.com/hbo/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8k3QXzvt/20240823_022853.png" group-title="Bangladesh",Star Plus HD
+http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/1019856.ts
+
+#EXTINF:-1 tvg-name="HBO 2 HD" tvg-logo="https://s3.aynaott.com/storage/b64c028d8c0895ed81f3201d5979f7ba" tvg-country="Unknown" group-title="MOVIE 🍿",HBO 3
+http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/68811.ts
+
+#EXTINF:-1 group-title="MOVIE 🍿" tvg-logo="https://go4.pw/ASIA/INDIAN/CINEPLEXHD.png" tvg-id="sports18.in",HINDI - CINEPLEX HD
+http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72176.ts
+#EXTINF:-1 group-title="MOVIE 🍿" tvg-logo="https://go4.pw/India/SONY_PAL.png" tvg-id="sports18.in",HINDI - SONY PAL
+http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72151.ts
+#EXTINF:-1 group-title="MOVIE 🍿" tvg-logo="https://go4.pw/India/SONY_wah.png" tvg-id="sonywah.in",HINDI - SONY WAH
+http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72152.ts
+#EXTINF:-1 group-title="MOVIE 🍿" tvg-logo="https://go4.pw/ASIA/INDIA/and-picture.png" tvg-id="sports18.in",HINDI - AND PICTURES HD
+http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72165.ts
+#EXTINF:-1 group-title="MOVIE 🍿" tvg-logo="https://go4.pw/ASIA/INDIAN/ENTER10MOVIES.png" tvg-id="enterr10.in",HINDI - ENTER 10 MOVIES
+http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72195.ts
+#EXTINF:-1 group-title="MOVIE 🍿" tvg-logo="https://go4.pw/ASIA/INDIA/B4YOUMOVIES.png" tvg-id="b4umovies.in",HINDI - B4U MOVIES
+http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72155.ts
+#EXTINF:-1 group-title="MOVIE 🍿" tvg-logo="https://go4.pw/India/_BIG MAGIC .png" tvg-id="bigmagic.in",HINDI - BIG MAGIC HD
+http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72173.ts
+#EXTINF:-1 group-title="MOVIE 🍿" tvg-logo="https://go4.pw/ASIA/INDIA/comedy-active.png" tvg-id="sports18.in",HINDI - COMEDY ACTIVE
+http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72177.ts
+#EXTINF:-1 group-title="MOVIE 🍿" tvg-logo="https://go4.pw/India/&explorer.png" tvg-id="sports18.in",HINDI - AND EXPLORER HD
+http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/510293.ts
+#EXTINF:-1 group-title="MOVIE 🍿" tvg-logo="https://go4.pw/ASIA/INDIA/miniplex-1.png" tvg-id="sports18.in",HINDI - MINIPLEX HD
+http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72212.ts
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://go4.pw/PHILIPINES/MTV_Asia.png" tvg-id="sports18.in",HINDI - MTV HD
+http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/510261.ts
+#EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜 🎶" tvg-logo="https://go4.pw/ASIA/INDIAN/ZOOMTVHD.png" tvg-id="zoom.in",HINDI - ZOOM TV HD
+http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72160.ts
+#EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜 🎶" tvg-logo="https://go4.pw/ASIA/INDIA/SHOWBOX_MUSIC.png" tvg-id="sports18.in",HINDI - SHOWBOX MUSIC
+http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/510230.ts
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://go4.pw/ASIA/INDIA/AND-XPLOR.png" ,AND XPLOR
+http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/809016.ts
 #EXTINF:-1 tvg-id="" tvg-name="ROMEDY NOW" tvg-logo="http://198.195.239.50/img/channels/ROMEDY%20NOW.png" group-title="Indian",ROMEDY NOW
 http://198.195.239.50:8095/ROMEDY.NOW/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rupashi Bangla TV (720p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rupashi_Bangla.png" group-title="Indian",Rupashi Bangla TV (720p)
