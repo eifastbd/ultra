@@ -697,9 +697,8 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_lq.m3u8
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="MUZIK",Ócko STAR
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_lq.m3u8
-
-
-
+#EXTINF:-1 group-title="PRO✅"tvg-logo="https://i.postimg.cc/RFrMsR7Y/download-1.jpg",Desi Tahsan🌀
+https://cloudcdn.in/livetv/DesiTashan/index.m3u8
 
 
 
