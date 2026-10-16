@@ -1203,7 +1203,8 @@ https://mumbai-edge.smartplaytv.in/MercyTV/index.m3u8
 https://cd198.anystream.uk:9092/iqapp/t5kb86tv/playlist.m3u8
 
 
-
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrDA-jAFNps3Xy53N5Uf8BM34sgzLlxtgA79nsXAnZP1XmT-d3571ozLE&s=10",Mercy
+https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
 
 
 
