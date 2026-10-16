@@ -835,13 +835,14 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
 
 
 
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/80d0b169bd027e8bf54a5e75f31d1d75" group-title="Channels", Cartoon Network 
+https://tvsen5.aynaott.com/cartoonnetwork/index.fmp4.m3u8?token=cd8f63dca3ab189eb4ab339508ee2ffb31793613-40118e655906f60e436a5632f59a041c-1753734607-1753733707&remote=no_check_ip
 
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/d3e8d014002832d32c029f445c105aae" group-title="Channels", Nicktoons
+https://tvsen5.aynaott.com/nicktoons/index.fmp4.m3u8?token=-1753734607-1753733707&remote=no_check_ip
 
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/722bc45fb2bc26f967c2e22714095ad5" group-title="Channels", Nickjr 
+https://tvsen5.aynaott.com/nickjr/index.fmp4.m3u8?token=dff9e92ec0a272d1e6d411b5108ebfdf6d213ff7-e52236c5135078cb32d5c3a29f393d92-1753734608-1753733708&remote=no_check_ip
 
 
 
