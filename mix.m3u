@@ -874,7 +874,8 @@ MOVIE
 
 
 
-
+#EXTINF:-1 ,CINEMAX 5 STARMAX
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 
 #EXTINF:-1 group-title="WORLD IPTV" tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" tvg-country="CA" tvg-url="" group-title="Canada",Pardesi TV
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
