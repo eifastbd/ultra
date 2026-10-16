@@ -61,7 +61,10 @@ https://m.vidio.com/videos/7044516/common_tokenized_playlist.m3u8
 #EXTINF:-1,group-title="4K🎲" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif ",gengsi dong
 https://m.vidio.com/videos/7183997/common_tokenized_playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Surongo.jpeg" group-title="Bangla Movies",Surongo
+https://pub-d8f5af7f053343ed8295b16a145f6c1c.r2.dev/siam/[FGBDVibes]Surongo.(2023).480p.mkv
+#EXTINF:-1,group-title="E.I.🇧🇩", Antarjal
+http://103.225.94.27/Infobase/hdd-2/Bangla/Antarjal%20(2023)%201080p%20WEBDL.mp4
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif" group-title="Hindhi⏰",10 Nahi 40 (2022) 1080p WEBDL.mp4
 http://103.225.94.27/Infobase/hdd-1/Hindi/10%20Nahi%2040%20(2022)%201080p%20WEBDL.mp4
