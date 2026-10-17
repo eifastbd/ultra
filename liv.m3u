@@ -17,7 +17,7 @@
 
 
 
-#EXTINF:-1 tvg-id="ch_168" tvg-name="PTV Sports" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/PTV%20Sports.webp" group-title="TV",PTV Sports
+#EXTINF:-1 tvg-id="ch_168" tvg-name="PTV Sports" tvg-logo="https://i.ibb.co/jPRJ1dxw/Sport-On-Ais-Logo-GIF.gif" group-title="TV",PTV Sports
 http://103.135.253.32:8080/PTV-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ch_171" tvg-name="Star Sports Select 1" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Star%20Sports%20Select%201.webp" group-title="TV",Star Sports Select 1
 http://103.135.253.32:8080/STAR-SPORTS-SELECT-1/index.m3u8
