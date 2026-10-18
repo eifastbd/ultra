@@ -329,6 +329,8 @@ https://ethersoftwaresolution.com/live/sgcnmusic/index.m3u8
 https://ranacable.duckdns.org/RanaCableTV/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo=" ",BPrime
 https://ranacable.duckdns.org/Bprimebangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PRO✅" tvg-logo=" ",SAMI TV
+https://bdix.ottking.top:8082/Sami-TV/tracks-v1a1/mono.m3u8?token=Sami-TV
 
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ktv.jpg" group-title="BANGLA",Ktv bangla HD [BD]
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
