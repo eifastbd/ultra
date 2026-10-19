@@ -351,6 +351,14 @@ https://server1.jolshabd.com/biswabanglaworld/biswabanglaworld/chunklist_w841542
 https://server1.jolshabd.com/biswabanglaworld/biswabanglaworld/chunklist_w52375757.m3u8
 https://server1.jolshabd.com/biswabanglaworld/biswabanglaworld/chunklist_w496605319.m3u8
 
+
+
+
+
+
+#EXTINF:-1 tvg-name="Sony Aath" tvg-logo="https://i.postimg.cc/ZqgJkbLq/20250529-111438.png" group-title="Indian Bangla",Sony Aath
+#EXTVLCOPT:http-referrer=https://techandeat.online
+https://techandeat.online/sliv/stream.m3u8?id=1000009255
 #EXTINF:-1 tvg-id="0-9-zeebangla" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeebangla/list/1920x1080listb2674154e8ac473f8f37ad418ac013ec.png" group-title="Entertainment", Zee Bangla HD
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
 #EXTINF:-1 xui-id="34" tvg-id="" tvg-name="SONY ATTH" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbs8.png" group-title="PRO✅",SONY ATTH🇮🇳
@@ -359,12 +367,10 @@ http://27.124.71.27/Sony_Aath/index.m3u8
 https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPZdDXbsGeDOGhPC-Og7bXRrJxsbaFnZ1IEVB7-bPsJtpvNE9IhcMv0Q5OnUq5GCK9UqE7mzMCZinQaN1NSjk2wqKQFs_dreX5yGnDiXNju5yYT_9BDLC3dThhXRIfKk5XQGNc4oi6qWO3fvw5-9dqydLf6pvyHsq5cske3F1FKKih75cCUk20OKVymg/s600/Nur_20251216_222101_0000.png" group-title="PRO✅", Star Jalsha🇮🇳
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPZdDXbsGeDOGhPC-Og7bXRrJxsbaFnZ1IEVB7-bPsJtpvNE9IhcMv0Q5OnUq5GCK9UqE7mzMCZinQaN1NSjk2wqKQFs_dreX5yGnDiXNju5yYT_9BDLC3dThhXRIfKk5XQGNc4oi6qWO3fvw5-9dqydLf6pvyHsq5cske3F1FKKih75cCUk20OKVymg/s600/Nur_20251216_222101_0000.png" group-title="PRO✅", Star Jalsha HD🇮🇳
-http://103.141.70.136:8080//bdtv/restrem/33.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89MSqI1ufAg5lZ65fLRwxILWht2QKHyBKi5uW9DYwhU-6BRGhGB7faKTXxcbYmQG_tTsWG8QxIqNH3jDTBR0_rAH0mUpSfqyBzWgukJF6tDJ8_qSx30qBvSQta3xPS5gMZPaMTxWuEymSnt6RQFbRbNu9PJQcdGBrhIcJuHwn_0YK0zNgF3XyJKuK8Q/s1080/1000019135.png" group-title="PRO✅", Jalsha Movies🇮🇳
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89MSqI1ufAg5lZ65fLRwxILWht2QKHyBKi5uW9DYwhU-6BRGhGB7faKTXxcbYmQG_tTsWG8QxIqNH3jDTBR0_rAH0mUpSfqyBzWgukJF6tDJ8_qSx30qBvSQta3xPS5gMZPaMTxWuEymSnt6RQFbRbNu9PJQcdGBrhIcJuHwn_0YK0zNgF3XyJKuK8Q/s1080/1000019135.png" group-title="PRO✅", Jalsha Movies HD🇮🇳
-http://103.141.70.136:8080//bdtv/restrem/27.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTFpKLo5cYb54zMuUNtSaJOOxK0aQKrC-VJ6a0_XIspxxk0aX178b0z3oO1Xn8qIiE7Jmrw3bv06A4axit55KEFhS6vgmcTo0cUqXhlbZh0IYNkPdomla8SJR7bvlBV2hGKeDDwQyzyztAWhyphenhyphenodRZ6FXnYIbNdoBoxdECEpNQBPDeTFkAh2zqISTWvag/s600/Nur_20251107_002115_0000.png" group-title="PRO✅",Zee Bangla🇮🇳
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://www.dangalplay.com/assets/logos/logo_dP.png" tvg-logo="https://dangaplay-json.s3.ap-south-1.amazonaws.com/entree10_16x9.jpg" group-title="PRO✅" group-logo="https://www.dangalplay.com/assets/logos/logo_dP.png",Enterr10 Bangla
@@ -373,19 +379,13 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/35.m3u8
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/ZEE%20BANGLA%20CINEMA.png" group-title="PRO✅",ZEE BANGLA CHINEMA HD
 http://103.141.70.136:8080//bdtv/restrem/3.m3u8
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/ZEE%20BANGLA%20CINEMA.png" group-title="PRO✅",ZEE BANGLA CHINEMA HD
-http://livetv.akr4m.com:8080/bdtv/restrem/42.m3u8
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/COLORS%20BANGLA%20HD.png" group-title="PRO✅",COLOR BANGLA HD
 http://livetv.akr4m.com:8080/bdtv/restrem/34.m3u8
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/COLORS%20BANGLA%20CINEMA.png" group-title="PRO✅",COLOR BANGLA CHINEMA HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
 #EXTINF:-1 xui-id="34" tvg-id="" tvg-name="SONY ATTH" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbs8.png" group-title="PRO✅",SONY ATTH
-#http://103.151.60.162:2122/play/a023/index.m3u8?hls
-https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="PRO✅",Colors Bangla HD
-http://103.141.70.136:8080//bdtv/restrem/60.m3u8
-#EXTINF:-1 group-title="PRO✅" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9sZttim5GLAbajaB_Jnq3xBGpj2hn3S1dOpLFU3M25kPK1dz28hOV3E4&s=10" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/akegkk.png",Star Plus HD
-http://103.141.70.136:8080//bdtv/restrem/62.m3u8
+http://103.151.60.162:2122/play/a023/index.m3u8?hls
+#https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 #EXTINF:-1  group-title="PRO✅" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9sZttim5GLAbajaB_Jnq3xBGpj2hn3S1dOpLFU3M25kPK1dz28hOV3E4&s=10" tvg-logo="https://assets-prod.services.toffeelive.com/ES55-JQBv9knK3AHNDWC/posters/13411be9-62b9-4a99-a062-b6e91dfb1099.webp",Sony Sab SD (Tata play)1
 http://103.151.60.162:2122/play/a01q/index.m3u8?hls
 #EXTINF:-1  group-title="PRO✅" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9sZttim5GLAbajaB_Jnq3xBGpj2hn3S1dOpLFU3M25kPK1dz28hOV3E4&s=10" tvg-logo="https://assets-prod.services.toffeelive.com/-y50-JQBv9knK3AHLzSn/posters/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp",Sony SD
@@ -441,7 +441,6 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/195.ts
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/219.ts
 #EXTINF:-1  group-title="PRO✅" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9sZttim5GLAbajaB_Jnq3xBGpj2hn3S1dOpLFU3M25kPK1dz28hOV3E4&s=10" tvg-logo="https://assets-prod.services.toffeelive.com/-y50-JQBv9knK3AHLzSn/posters/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp",Sony Entertained 
 https://drk6xq0vhn.gpcdn.net/live/sony_ent_sd_abr/index.m3u8
-
 
 
 
