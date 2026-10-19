@@ -107,16 +107,15 @@ https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chu
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg335AmdqAfP2k7vRd0bvVZHhcQ4_-nr1fV52x7YR2VQ&s=10" group-title="PRO✅",Star News🇧🇩
 http://103.135.253.32:8080/Star-News/index.m3u8
-#http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA06U3q4n_iIyTNl59S5xOPk/m3u8
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8
 #EXTINF:-1 group-title="PRO✅" group-logo="https://yt3.googleusercontent.com/AQLUH_ixhkqBRCV9M1rtWRQhUFiXB1QvX-l1DIbrfmeMjrU8kJzAeCaiupHjEPEz9M2daSfm9A=s900-c-k-c0x00ffffff-no-rj" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvdc0C6H_VHLzzCQpGTsMnY0tgMc-5MxAL63T2HVPWvaG0gVEzBxcKifo&s=10",Channel S🇧🇩
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Channel_S.png" group-title="PRO✅",Channel S🇧🇩
-https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
+https://box.bbaria.net:8083/ChannelS/video.m3u8
+#https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/ekhon-tv.png" group-title="PRO✅",Ekhon TV🇧🇩
 https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://fcnchbd.xyz/iptv/logo/asian.png",Asian TV🇧🇩
-#http://103.141.70.136:8080//bdtv/restrem/1.m3u8
 https://playztv-apps.pages.dev/asian-tv/index.m3u8
 #https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
 #EXTINF:-0 tvg-logo="https://www.metvbd.com/media/common/logo-fb.png" group-title="PRO✅",ME TV🇧🇩
@@ -130,14 +129,14 @@ https://tvsen6.aynaott.com/channel52/index.m3u8
 #http://str24.l9574.com/503.stream/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://fcnchbd.xyz/iptv/logo/nago.png",NAGORIK TV🇧🇩
 https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
-#http://103.141.70.136:8080//bdtv/restrem/38.m3u8
 #https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8?remote=103.114.23.14&token=205feaff08ac0e4c8c895093c6fc54225479a714-c02bf37325b9f215f8b11615ad227213-1782477110-1782466310
 #EXTINF:-0 tvg-logo="https://www.tbn24.com/logo.png" group-title="PRO✅",TBN 24🇧🇩
 http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/10/iontvuk.jpg?x49520" group-title="PRO✅",iON TV UK🇧🇩
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iontvuk.stream/live-orgin/iontvuk.stream/chunks.m3u8
 #EXTINF:-1 xui-id="17" tvg-id="" tvg-name="GAZI TV HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/gazi.png" group-title="PRO✅",GTV🇧🇩
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+http://103.135.253.32:8080/Gazi-TV/index.m3u8
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZB0sFvLdP7M4KDcmzxAvR1zlOB1K1FqXuaGjdZOUgSfh1waicWf63g&s=10" group-title="PRO✅" group-logo="https://yt3.googleusercontent.com/AQLUH_ixhkqBRCV9M1rtWRQhUFiXB1QvX-l1DIbrfmeMjrU8kJzAeCaiupHjEPEz9M2daSfm9A=s900-c-k-c0x00ffffff-no-rj",SA TV🇧🇩
 http://116.204.149.16/satv/index.m3u8
 #EXTINF:-1 tvg-id="0ac6af3d-acce-4d9d-9ce5-32d4b53f9326" tvg-name="Global TV" tvg-logo="https://s3.aynaott.com/storage/bda05e1c2173251baebc20ffe43dea0b" group-title="PRO✅",Global TV🇧🇩
@@ -237,15 +236,12 @@ https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/tracks-v1a1/mono.ts.m3u8
 #https://stream.ottplus.live/live/mohona_tv_abr/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/Tw4qxSqv/20240822-230126.png",Bijoy Tv
-#https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
-#http://103.141.70.136:8080//bdtv/restrem/9.m3u8
-http://livetv.akr4m.com:8080/bdtv/restrem/9.m3u8
+https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 #https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rwd1rei.png" group-title="PRO✅",Anirban
 https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="dd8c50e9-5dad-4cb9-9df8-5763e95281ad" tvg-name="Desh TV" tvg-logo="https://s3.aynaott.com/storage/9ef657aca7c0009e4f0675af3b5190d8" group-title="PRO✅",Desh TV🇧🇩
-http://103.141.70.136:8080//bdtv/restrem/18.m3u8
-#https://stream.ottplus.live/live/desh_tv_abr/index.m3u8
+https://stream.ottplus.live/live/desh_tv_abr/index.m3u8
 #EXTINF:1 tvg-logo="" tvg-name="" group-title="PRO✅",JTV CLASSIC
 http://103.67.97.46/0.ts
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="PRO✅",JTV BANGLA
@@ -305,7 +301,7 @@ https://mumt04.tangotv.in/m18aqlK4SONARBANGLA/index.m3u8
 http://27.124.71.27/T-Sports/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="",Cable Movie 
 https://ranacable.duckdns.org/RanaMovie/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo=" "Cable Music 
+#EXTINF:-1 group-title="PRO✅" tvg-logo=" ",Cable Music 
 https://ethersoftwaresolution.com/live/sgcnmusic/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo=" ",Cable TV 
 https://ranacable.duckdns.org/RanaCableTV/index.m3u8
@@ -313,25 +309,16 @@ https://ranacable.duckdns.org/RanaCableTV/index.m3u8
 https://ranacable.duckdns.org/Bprimebangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo=" ",SAMI TV
 https://bdix.ottking.top:8082/Sami-TV/tracks-v1a1/mono.m3u8?token=Sami-TV
-
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ktv.jpg" group-title="BANGLA",Ktv bangla HD [BD]
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2LWHMLeQR_RCoxUGae5HTqqA7y7a-0A2IUfR6aNVjFPRHOa-iiP8Hv3HK_iTuJKpiUBPCNGgBSMmXPjbqprI3t2YeLf-_QhE1ZhafnGD6FEFxGXcw5g1yE2dz2TEhF7eXoTTpmcS4TlOd75ptLZEuJVdnTo2qCY_mxKm2wbpZL4QqudSaRat3I9Qphg/s600/Nur_20251226_221413_0000.png",Jhankar TV
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2LWHMLeQR_RCoxUGae5HTqqA7y7a-0A2IUfR6aNVjFPRHOa-iiP8Hv3HK_iTuJKpiUBPCNGgBSMmXPjbqprI3t2YeLf-_QhE1ZhafnGD6FEFxGXcw5g1yE2dz2TEhF7eXoTTpmcS4TlOd75ptLZEuJVdnTo2qCY_mxKm2wbpZL4QqudSaRat3I9Qphg/s600/Nur_20251226_221413_0000.png",Jhankar TV
 https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVHvCz2LvHBsKAUnb6Bp910Ud7v5_GpsmU9VVZ6rlq9CJB5Adxd2CkUvtfzKoP4kS2y30H2EQxOA3_BM23vDwe6stKuzsTyq28P6ivN5AmKG4hy_tdLHyvGDXnlW5BweV2hkoaq0PMRpR8KKpGKHWAGrYwLdgdtcoFw5feL2hDKK7Z_LnfD90STRQ6Gw/s600/Nur_20251226_221441_0000.png",DesheBideshe TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshebideshe.stream/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://porosh.com.bd/upload/tv/tv_1770821919_9282.png" group-title="Bangladesh",channel-16
+#EXTINF:-1 tvg-logo="https://porosh.com.bd/upload/tv/tv_1770821919_9282.png" group-title="PRO✅",channel-16
 https://iptv.porosh.com.bd/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
-#EXTINF:-1 tvg-logo="https://porosh.com.bd/upload/tv/tv_1771585053_6632.jpg" group-title="Bangladesh",Vtv
+#EXTINF:-1 tvg-logo="https://porosh.com.bd/upload/tv/tv_1771585053_6632.jpg" group-title="PRO✅",Vtv
 http://157.245.116.246:8080/hls/islamnow/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://porosh.com.bd/upload/tv/tv_1770821919_9282.png" group-title="Bangladesh",channel-16
+#EXTINF:-1 tvg-logo="https://porosh.com.bd/upload/tv/tv_1770821919_9282.png" group-title="PRO✅",channel-16
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
-
-
 #EXTINF:-1,Stv Bangla
 https://server.playontv.in/sailendar/tracks-v1a1/index.m3u8
 
