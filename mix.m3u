@@ -578,17 +578,15 @@ https://cdn.pishow.tv/ott/live/1613/master.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9x-jalwa.png" group-title="PRO✅",9X Jalwa🌀
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9x-jalwa.png" group-title="PRO✅",9X Jalwa🌀
-http://103.141.70.136:8080//bdtv/restrem/70.m3u8
 https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9x-jhakaas.png" group-title="PRO",9x Jhakaas🌀
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
-#EXTINF:0 group-title="PRO✅" tvg-logo="https://persiana.unaux.com/wp-content/uploads/2024/05/persiana-4kurdhd.png",4 KURD🌀
+#EXTINF:0 group-title="PRO✅" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png",4 KURD🌀
 https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png", Albania Music🌀
 https://albportal.net/albkanalemusic.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/e-24.png" group-title="PRO✅",E 24🌀
 https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8
-#http://103.175.73.12:8080/live/159/159_0.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/b4u-music.png" group-title="PRO✅",B4U Music🌀
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/b4u-music.png" group-title="PRO✅",B4U Music🌀
@@ -596,7 +594,7 @@ https://drk6xq0vhn.gpcdn.net/live/b4u_music_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zooER-oa-NqGzAR4HjEUGYBOfAcWvyoWGGIjZn3peR6xveFznWN6LvXCP_5A5zoB7gdE=w600-h300-pc0xffffff-pd" group-title="PRO✅",Joo Music🌀
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/music-india.png" group-title="PRO✅",Music India🌀
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia2/default/main.mpd
+https://cdn.pishow.tv/ott/live/226/master.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sun-music-black.png" group-title="PRO✅",SUN MUSIC🌀
 https://hls.sunmusic.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM11esPHeZC ladYjWXfrQge8vRXASBy8VMgw&s" group-title="PRO✅",Atomic TV🌀
@@ -617,7 +615,7 @@ https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/tracks-v1a1/mono
 https://atomic.streamnet.ro/academia.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/298/radio-m20 .24a4d505.jpg" group-title="PRO✅",M20 Music🌀
 https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWB1kC1Ao0/chunklist_b1064000.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/NOW_80s .png" group-title="Music",NOW 80's🌀
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/NOW_80s .png" group-title="PRO✅",NOW 80's🌀
 https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/0xygen _2017.svg" group-title="PRO✅",Oxygen Music🌀 
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
@@ -681,19 +679,21 @@ https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u
 https://mumbai-edge.smartplaytv.in/Zoom/index.m3u8
 #EXTINF:-1 group-title="PRO✅"tvg-logo="https://i.postimg.cc/RFrMsR7Y/download-1.jpg",1 Mus🌀
 http://hz1.teleport.cc/HLS/HD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdddb1bs/20250529_120025.png" group-title="𝐌𝐮𝐬𝐢𝐜 🎶",Sangeet Bangla
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdddb1bs/20250529_120025.png" group-title="PRO✅",Sangeet Bangla🌀
 http://flowutc.com:80/live/34FQ94W/64CW3PG/34727.ts
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="MUZIK",Ócko
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="PRO✅",Ócko🌀
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_lq.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="MUZIK",Ócko Expres
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="PRO✅",Ócko Expres🌀
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="MUZIK",Ócko STAR
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="PRO✅",Ócko STAR🌀
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_lq.m3u8
 #EXTINF:-1 group-title="PRO✅"tvg-logo="https://i.postimg.cc/RFrMsR7Y/download-1.jpg",Desi Tahsan🌀
 https://cloudcdn.in/livetv/DesiTashan/index.m3u8
+
+
+
+
+
 
 
 
