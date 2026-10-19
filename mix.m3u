@@ -192,7 +192,7 @@ http://103.182.83.246/hls/snbcinema.m3u8
 http://115.187.41.216:8080/hls/amarbangla/index.m3u8
 #EXTINF:0 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/amardigital-1-150x150.jpg?x71442" group-title="PRO✅",Amar Bangla Digital🇧🇩
 http://115.187.41.216:8080/hls/amardigital/index.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3ABK7g4ZwY1Kre_fjEa2ItzSVcUFWhf6856ogWQEhbLS6I6Zrwfa40ctvKHFiv9d63aoJOekbffCjcdMXipWT2QWAHOUWgpgyk0Agodv-MwUqAvP57w92iu8nXQlViVICM6R98H5L0q-Wor0lf1umABAiveSXg6pYYegAJNsucF4SXwmv1j9b8BtWOA/s1080/1000060521.png",Ten Prime
+#EXTINF:-1 tvg-id="prime-ten-tv" tvg-name="Prime Ten TV" tvg-logo="https://i.postimg.cc/Dftwzy8N/Hridoy-TV-bangla-(11).webp" group-title="PRO✅",Prime Ten TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/primetv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/rw8iAU9ZcB.jpg" group-title="PRO✅",Thikana
 https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
@@ -248,9 +248,9 @@ http://103.67.97.46/0.ts
 http://103.67.97.45:81/0.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="PRO✅",Amar Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PRO✅",DTV🇧🇩
+#EXTINF:-1 tvg-id="dtv-usa" tvg-name="DTV USA" tvg-logo="https://i.postimg.cc/0jdcdt2V/In-Shot-20260809-120606005.jpg" group-title="PRO✅",DTV USA
 https://cdn.dtvusa.com/dtv/index.m3u8
-#EXTINF:-1,CTV Usa
+#EXTINF:-1 tvg-id="community-tv" tvg-name="Community TV" tvg-logo="https://iili.io/n9dEvIV.md.jpg" group-title="PRO✅",Community TV
 https://cdn.streamcast.xyz/ctvusa/index.fmp4.m3u8
 #EXTINF:-1,Atv Usa
 http://cdn.live247stream.com/atvusa/tv/playlist.m3u8
@@ -278,17 +278,19 @@ http://94.136.188.21:8000/live/rctvdemo/index.m3u8
 http://live.dataplayer.in:8080/live/3mjaanbangla.m3u8
 #EXTINF:-1 tvg-id="101" tvg-logo="" group-title="PRO✅", DESH BANGLA🇧🇩
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshbanglatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="DoyelTV.ca@SD" tvg-logo="https://i.imgur.com/8pR8Q4J.png" group-title="PRO✅",Doyel TV
+
+#EXTINF:-1 tvg-id="DoyelTV.ca@SD" tvg-logo="https://i.postimg.cc/C5S3tvXh/Hridoy-TV-new-channels-(37).webp" group-title="PRO✅",Doyel TV
 https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
 #EXTINF:-1,Gram Bangla
 http://live.dataplayer.in:8080/live/grambangla.m3u8
-#EXTINF:-1,জালসা বাংলা BD
+#EXTINF:-1 tvg-id="jalsha-bangla-hd" tvg-name="Jalsha Bangla HD" tvg-logo="https://i.postimg.cc/prTsFTp7/Hridoy-TV.jpg" group-title="PRO✅",Jalsha Bangla HD
 https://dish.porosh.com.bd/hls/jalshabangla.m3u8
-#EXTINF:-1,ABC Tv
+#EXTINF:-1 tvg-id="america-bangla-channel" tvg-name="America Bangla Channel" tvg-logo="https://i.ibb.co.com/XxP6LhMk/Hridoy-TV-new-bd-channel-3.jpg" group-title="PRO✅",America Bangla Channel
 https://stream.channeleuropetvboxlondon.co.uk/live/abcnews/playlist.m3u8
 #EXTINF:-1,IBYV
 https://cdn.livestreambd.com/IBTV/index.m3u8
-#EXTINF:-1,USB Tv
+
+#EXTINF:-1 tvg-id="usb-24-news" tvg-name="USB 24 News" tvg-logo="https://i.postimg.cc/y69FN9QJ/Usb-Hridoy-TV.jpg" group-title="PRO✅",USB 24 News
 https://stream.channeleuropetvboxlondon.co.uk/live/nextplanet/chunklist_w598636500.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3ABK7g4ZwY1Kre_fjEa2ItzSVcUFWhf6856ogWQEhbLS6I6Zrwfa40ctvKHFiv9d63aoJOekbffCjcdMXipWT2QWAHOUWgpgyk0Agodv-MwUqAvP57w92iu8nXQlViVICM6R98H5L0q-Wor0lf1umABAiveSXg6pYYegAJNsucF4SXwmv1j9b8BtWOA/s1080/1000060521.png",Ja TV
 https://dish.porosh.com.bd/hls/jtvnews.m3u8
@@ -322,44 +324,19 @@ http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 #EXTINF:-1,Stv Bangla
 https://server.playontv.in/sailendar/tracks-v1a1/index.m3u8
 
-
-#EXTINF:-1,S Bangla Tv
+#EXTINF:-1 tvg-id="s-bangla-tv" tvg-name="S Bangla TV" tvg-logo="https://i.postimg.cc/FsQqPB1P/In-Shot-20260904-211315320.jpg" group-title="PRO✅",S Bangla TV
 https://server1.jolshabd.com/sbanglatv/sbanglatv/chunklist_w1326217964.m3u8
-
-
-
 #EXTINF:-1,Magic Bangla Tv
 http://live.magicbanglatv.com/
 
-#EXTINF:-1,Biswa bangla World
+#EXTINF:-1 tvg-id="biswa-bangla-world-tv" tvg-name="Biswa Bangla World TV" tvg-logo="https://i.ibb.co.com/jjKhkmv/Hridoy-TV-new-bd-channel-1.jpg" group-title="PRO✅",Biswa Bangla World TV
 https://server1.jolshabd.com/biswabanglaworld/biswabanglaworld/chunklist_w841542938.m3u8
+#EXTINF:-1 tvg-id="biswa-bangla-world-tv" tvg-name="Biswa Bangla World TV" tvg-logo="https://i.ibb.co.com/jjKhkmv/Hridoy-TV-new-bd-channel-1.jpg" group-title="PRO✅",Biswa Bangla World
 https://server1.jolshabd.com/biswabanglaworld/biswabanglaworld/chunklist_w52375757.m3u8
 https://server1.jolshabd.com/biswabanglaworld/biswabanglaworld/chunklist_w496605319.m3u8
-#EXTINF:-1,Biswa bangla24
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/biswabanglatv.stream/tracks-v1a1/mono.m3u8
 
-
-
-
-http://jalshabd.com/stream/75/segment?expires=1792420126&path=chunklist_w287146437.m3u8&signature=7b79e9ed1f1bd15cc129173cd13d3e2ae1c9a0233b1f716ff69fe98425c62b9f
-http://jalshabd.com/stream/75/segment?expires=1792420125&path=chunklist_w965528522.m3u8&signature=05049863d8d9f5f9b56820230c2985304c1ca3c6ddc5f611c9ab5c1933aac49e
-http://jalshabd.com/stream/75/segment?expires=1792420125&path=chunklist_w1488255520.m3u8&signature=990e01bbd093779a9e8ed18af9f4effd3494b22019117ee6bde6b16d7d0c9b5e
-
-
-
-#EXTINF:-1,Vision 24
-https://proxy2.hridoytvstream.workers.dev/link-copy-kore-lav-nai=expire43738831219634/vision24.m3u8
-#EXTINF:-1,Visio
-https://proxy2.hridoytvstream.workers.dev/link-copy-kore-lav-nai=expire43738831219634/_proxy?q=LNgj2TTFByAtT8DtIv_8DuaztQXI6y8ojIMq8uK-LAvMCGuKln977JQBZ91BBgJ2B4V7wTi9Sw0NsKIqJmp9icScXGpHjcss1lMQR33VUI_idWAsiw
-https://proxy2.hridoytvstream.workers.dev/link-copy-kore-lav-nai=expire43738831219634/_proxy?q=C3g-_UHAPYh25LIQU3Ms8YLk4Om2jl7bKUhlAWuJBVJUVP3blaSCkS-7aNZKCe44V1qXB1HM93IyL0S7GLS_yQ3iYVUry9NGk8loNdyYSq629gb4mw
-#EXTINF:-1,Rai Bangla
-https://proxy2.hridoytvstream.workers.dev/link-copy-kore-lav-nai=expire43738831219634/raibangla.m3u8
-
-https://proxy2.hridoytvstream.workers.dev/link-copy-kore-lav-nai=expire43738831219634/d24.m3u8
 #EXTINF:-1 tvg-id="0-9-zeebangla" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeebangla/list/1920x1080listb2674154e8ac473f8f37ad418ac013ec.png" group-title="Entertainment", Zee Bangla HD
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
-#EXTINF:-1 group-title="PRO✅" group-logo="https://dtil.tmsimg.com/assets/s143871_ld_h15_aa.png",SUN Bangla🇮🇳
-http://103.141.70.136:8080//bdtv/restrem/52.m3u8
 #EXTINF:-1 xui-id="34" tvg-id="" tvg-name="SONY ATTH" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbs8.png" group-title="PRO✅",SONY ATTH🇮🇳
 http://27.124.71.27/Sony_Aath/index.m3u8
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="PRO✅",Zee Bangla🇮🇳
