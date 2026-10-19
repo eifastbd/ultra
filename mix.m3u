@@ -331,18 +331,13 @@ https://server1.jolshabd.com/sbanglatv/sbanglatv/chunklist_w1326217964.m3u8
 #EXTINF:-1,Magic Bangla Tv
 http://live.magicbanglatv.com/
 
-
-
-
-#EXTINF:-1,Biswa bangla
-
+#EXTINF:-1,Biswa bangla World
+https://server1.jolshabd.com/biswabanglaworld/biswabanglaworld/chunklist_w841542938.m3u8
+https://server1.jolshabd.com/biswabanglaworld/biswabanglaworld/chunklist_w52375757.m3u8
+https://server1.jolshabd.com/biswabanglaworld/biswabanglaworld/chunklist_w496605319.m3u8
+#EXTINF:-1,Biswa bangla24
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/biswabanglatv.stream/tracks-v1a1/mono.m3u8
 
-
-
-http://jalshabd.com/stream/66/segment?expires=1792420254&path=chunklist_w1608274457.m3u8&signature=7b38ddf0c8280aa389ebc7fc7d31cbf617803d433e88e2b574488ea5b87d86f6
-http://jalshabd.com/stream/66/segment?expires=1792420253&path=chunklist_w1503165201.m3u8&signature=f0481e081ca74644d28107d3b1412e0070f4fd8c6210331303eb6cccd255df8c
-http://jalshabd.com/stream/66/segment?expires=1792420253&path=chunklist_w485725449.m3u8&signature=53627579710f65e8447af713871d83dd33a6eb03c13713db803b147bc3cfaf60
 
 
 
