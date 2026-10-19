@@ -324,11 +324,9 @@ https://server.playontv.in/sailendar/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1,S Bangla Tv
-https://jalshabd.com/stream/125/segment?expires=1792418533&path=chunklist_w31089219.m3u8&signature=da7cd041afc287aa5084a9b63df19f090dba0f1d96294122821fc6d1d1725c93
-https://jalshabd.com/stream/125/segment?expires=1792418734&path=chunklist_w1027661469.m3u8&signature=c60c0a2fa0d547531aa2ad25ae6b632a2699a80ec959dfa8bc1e17c8aa90251e
-https://jalshabd.com/stream/125/segment?expires=1792418734&path=chunklist_w470831012.m3u8&signature=045f35061cf6d79ad10c877a599c1724bf1d56891dcefdd558a8c029041bea4a
-https://jalshabd.com/stream/125/segment?expires=1792418539&path=chunklist_w2106533957.m3u8&signature=5d348a773ac3b15c91469684c6d7b222bd90b09cb5f38be6ff37f1c7116f6f56
-https://jalshabd.com/stream/125/segment?expires=1792418732&path=chunklist_w215656170.m3u8&signature=e388c1587dde1ede62d980d5b4dff5bc127b2a2204c455003c21d19dadb27302
+https://server1.jolshabd.com/sbanglatv/sbanglatv/chunklist_w1326217964.m3u8
+
+
 
 #EXTINF:-1,Magic Bangla Tv
 https://jalshabd.com/stream/79/segment?expires=1792418825&path=chunklist_w1115133752.m3u8&signature=deebc67727c7c3a96f0f57e92107f64dd6cc007d6994ca967125f6e09c090541
