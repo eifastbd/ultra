@@ -884,9 +884,9 @@ MOVIE
 
 
 
-
-
-#EXTINF:-1,Free Movies
+#EXTINF:-1,Bollywood Film🎬
+https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8#skym3u.dev
+#EXTINF:-1,Free Movies🎬
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 #EXTINF:-1 ,CINEMAX 5🎬
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
