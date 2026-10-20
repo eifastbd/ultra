@@ -692,7 +692,8 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_lq.m3u8
 #EXTINF:-1 group-title="PRO✅"tvg-logo="https://i.postimg.cc/RFrMsR7Y/download-1.jpg",Desi Tahsan🌀
 https://cloudcdn.in/livetv/DesiTashan/index.m3u8
-
+#EXTINF:-1 group-title="PRO✅" tvg-logo="",Vision Punjabi🌀
+http://a-edge.bliscdn.com/VisionPunjabHD/tracks-v1a1/mono.m3u8
 
 
 
@@ -929,53 +930,27 @@ http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/809016.ts
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:rupashibangla.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sheemaroo Bollywood" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="PRO✅",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Sony Max 2" tvg-logo="https://i.postimg.cc/hP59QSrm/20240825_075205.png" group-title="Indian",Sony Max 2
 https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Max HD" tvg-logo="https://i.postimg.cc/YS3BdNNW/20240823_022655.png" group-title="Indian",Sony Max HD
 https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Pix" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" group-title="Indian",Sony Pix
-http://198.195.239.50:8095/SONY.PIX.HD/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Television HD" tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png" group-title="Indian",Sony Television HD
 https://drk6xq0vhn.gpcdn.net/live/sony_ent_hd_abr/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star BHARAT" tvg-logo="http://198.195.239.50/img/channels/STAR%20BHARAT%20HD.png" group-title="Indian",Star BHARAT
-http://198.195.239.50:8095/STAR.BHARAT.HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Gold HD" tvg-logo="https://i.postimg.cc/6pCXvxyz/20240823_022553.png" group-title="Indian",Star Gold HD
-http://198.195.239.50:8095/STAR.GOLD.HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png" group-title="Indian",Star Jalsha HD
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Movies HD" tvg-logo="http://198.195.239.50/img/channels/STAR%20MOVIES%20HD.png" group-title="Indian",Star Movies HD
-http://198.195.239.50:8095/STAR.MOVIES.HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Movies SEL" tvg-logo="http://198.195.239.50/img/channels/images__3_.png" group-title="Indian",Star Movies SEL
-http://198.195.239.50:8095/STAR.MOVIES.SEL.HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Plus" tvg-logo="http://198.195.239.50/img/channels/STAR%20PLUS%20HD.png" group-title="Indian",Star Plus
-http://198.195.239.50:8095/STAR.PLUS.HD/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 group-title="PRO✅" group-logo="",Big star
+#EXTINF:-1 group-title="PRO✅" group-logo="",Big star🎬
 https://amigofx.com:1936/bigstarmovie/bigstarmovie/chunklist_w895905011.m3u8
-#EXTINF:-1 group-title="PRO✅" group-logo="",Roja
+#EXTINF:-1 group-title="PRO✅" group-logo="",Roja🎬
 https://stream.rojatv.cloud/rojatv/rojatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="PRO✅" group-logo="",ENT
+#EXTINF:-1 group-title="PRO✅" group-logo="",ENT🎬
 https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="PRO✅" group-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/All-Time-Movies-Logo_2000_X_1125_Transpharent.png?utm_source=chatgpt.com",All Time Movie
+#EXTINF:-1 group-title="PRO✅" group-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/All-Time-Movies-Logo_2000_X_1125_Transpharent.png?utm_source=chatgpt.com",All Time Movie🎬
 https://mumt03.tangotv.in/ADDsly5z3HALLTIMEMOVIES/tracks-v1a1/mono.m3u8
 #https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="",ACN Cimena 
+#EXTINF:-1 group-title="PRO✅" tvg-logo="",ACN Cimena🎬
 https://app.ashokadigital.net/app/ea6afbb7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="MN MOVIES"tvg-id=""tvg-logo="https://i.ibb.co/kxGm6mr/Picsart-23-06-28-01-42-01-892.png"group-title="PRO✅",MN MOVIES
+#EXTINF:-1 tvg-name="MN MOVIES"tvg-id=""tvg-logo="https://i.ibb.co/kxGm6mr/Picsart-23-06-28-01-42-01-892.png"group-title="PRO✅",MN MOVIES🎬
 https://mntv.livebox.co.in/mntvhls/live.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="",KTV 
+#EXTINF:-1 group-title="PRO✅" tvg-logo="",KTV🎬
 https://mumbai-edge.smartplaytv.in/KTVHOLLYWOOD/index.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.imgur.com/syn2wzP.png",Z Cinema
-http://103.141.70.136:8080//bdtv/restrem/63.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/HBO_Hits_IVP_LAND_917x516.jpg",HBO HITS🎬
-http://103.141.70.136:8080//bdtv/restrem/29.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://logodix.com/logo/95882.jpg",HBO🎬
-http://103.141.70.136:8080//bdtv/restrem/47.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="",Vision Punjabi 
-http://a-edge.bliscdn.com/VisionPunjabHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ETVJosh.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Josh.png" group-title="PRO✅",OITV
 https://live.olidigital.in/olitv/olitv/index.m3u8
 #EXTINF:-1 group-title="PRO✅" group-title="India" tvg-id="ptc-punjabi" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1414934314PTCPUNJABI_TVSETS_TVW_720x960.webp",PTC PUNJABI🎬
@@ -984,7 +959,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/in
 https://cdn.pishow.tv/ott/live/1459/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y8wszpw/Goldmines-Movies.jpg" group-title="PRO✅",GOLDMINES MOVIES🎬
 https://cdn.pishow.tv/ott/live/1461/master.m3u8
-#EXTINF:-1 tvg-id="KhushbooBangla.in@SD" group-title="Firoj Khan",Khushboo Bangla (720p)
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KHUSHBOO_BANGLA/images/LOGO_HD/image.png",Khusboo Bangla😁
 https://cdn.pishow.tv/ott/live/1473/master.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.imgur.com/8QmZQ7S.png",Movie Club🎬
@@ -1063,11 +1037,7 @@ https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist
 https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Goldmines%20Movie.jpg?raw=true" group-title="PRO✅",GOLD Star🎬
 https://moviethls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="NHBollyRaga.in" tvg-name="NH BollyRaga" tvg-logo="https://i.ibb.co/BKB9mv1K/NH-Bolly-Raga.png" tvg-chno="262" group-title="PRO✅",NH BollyRaga🎬
-https://209a7ee785af4abf93eeff4c5a7a62cf.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollyraga-airtel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="PRO✅",Sheemaroo Bollywood🎬
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="PRO✅",Sheemaroo Bollywood2🎬
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="f1acb290-c4c1-4010-8226-3f88b203c79c" tvg-name="Action Hollywood Movies" tvg-logo="https://s3.aynaott.com/storage/baef6dd41c3ee6fabbb59bb8403cc1eb" group-title="PRO✅",Action Hollywood Movies🎬
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
@@ -1092,6 +1062,10 @@ https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 https://server.zillarbarta.com/zbmusic/index.m3u8
 #EXTINF:-1 tvg-id="ZillarBartaNews.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zillarbarta.png" group-title="PRO✅",ZillarBarta News🎬
 https://server.zillarbarta.com/zillarbarta/index.m3u8
+
+
+
+
 
 
 
