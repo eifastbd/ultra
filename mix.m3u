@@ -307,6 +307,10 @@ https://dish.porosh.com.bd/hls/jalshabangla.m3u8
 https://stream.channeleuropetvboxlondon.co.uk/live/abcnews/playlist.m3u8
 #EXTINF:-1,IBYV
 https://cdn.livestreambd.com/IBTV/index.m3u8
+#EXTINF:-1 group-title="PRI✅", VISION 24
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvc EdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/vision24.stream/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1 tvg-id="usb-24-news" tvg-name="USB 24 News" tvg-logo="https://i.postimg.cc/y69FN9QJ/Usb-Hridoy-TV.jpg" group-title="PRO✅",USB 24 News
 https://stream.channeleuropetvboxlondon.co.uk/live/nextplanet/chunklist_w598636500.m3u8
