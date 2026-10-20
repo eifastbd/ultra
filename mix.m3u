@@ -910,6 +910,34 @@ MOVIE
 
 
 
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1
+
+tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCinepl exHD.png" group-title="FIROJ KHAN SPECIAL", COLORS CINEPLEX UK https://raw.githubusercontent.com/amazeyourself/adaptive-streams /6c2dad79b7261eb3553da450272e25279ea0bfaa/streams/gb/YuppTV /ColorsCineplexUK.m3u8
+
+#EXTINF:-1 tvg-id="colorscineplexbollywood"
+
+tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images /ColorsCineplexBollywood.png" group-title="FIROJ KHAN SPECIAL", Colors Cineplex Bollywood
+
+http://live.balajibroadband.com:3500/live/1763.m3u8
+
+#EXTINF:-1 tvg-id="colors-cineplex-superhit"
+
+tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images
+
+/ColorsCineplexSuperhit.png" group-title="FIROJ KHAN SPECIAL", Colors Cineplex Superhit
+
+http://live.balajibroadband.com:3500/live/1450.m3u8
+
 #EXTINF:-1 tvg-logo="https://amigofx.com /livetvlogo/bigstarmovie.png" group-title="PRO✅", Big Star Bollywood
 https://amigofx.com:1936/bigstarmovie/bigstarmovie/playlist.m3u8
 
