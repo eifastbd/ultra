@@ -341,11 +341,18 @@ http://157.245.116.246:8080/hls/islamnow/index.m3u8
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 #EXTINF:-1,Stv Bangla
 https://server.playontv.in/sailendar/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="PRO✅", US BD TV 
+http://str24.19574.com/510.stream/index.m3u8
+
 
 #EXTINF:-1 tvg-id="s-bangla-tv" tvg-name="S Bangla TV" tvg-logo="https://i.postimg.cc/FsQqPB1P/In-Shot-20260904-211315320.jpg" group-title="PRO✅",S Bangla TV
 https://server1.jolshabd.com/sbanglatv/sbanglatv/chunklist_w1326217964.m3u8
 #EXTINF:-1,Magic Bangla Tv
 http://live.magicbanglatv.com/
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjwGg2XyMGx FITXm_54WBnNF_zBYcYw9n1E_P1Cxoo=s900-c-k-c0x00ffffff -no-rj" group-title="PRO✅", KTV Bangla
+https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?token=soheliptv01826655778
+
 
 #EXTINF:-1 tvg-id="biswa-bangla-world-tv" tvg-name="Biswa Bangla World TV" tvg-logo="https://i.ibb.co.com/jjKhkmv/Hridoy-TV-new-bd-channel-1.jpg" group-title="PRO✅",Biswa Bangla World TV
 https://server1.jolshabd.com/biswabanglaworld/biswabanglaworld/chunklist_w841542938.m3u8
@@ -355,7 +362,8 @@ https://server1.jolshabd.com/biswabanglaworld/biswabanglaworld/chunklist_w496605
 
 #EXTINF:-1 tvg-id="3331"tvg-logo="https://jiotvimages.cdn .jio.com/dare_images/images /sailendar.png" group-title="PRO✅", STV Bangla
 https://server.playontv.in/sailendar /index.m3u8
-
+#EXTINF:-1 tvg-id="183"tvg-logo="http://casomsapi.smartmobiletv.in/uploads /channels/channel_158_1729599506.png" group-title="PRO✅", Rongeen TV 
+https://mumbai-edge.smartplaytv.in/RongeenTV/index .m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="https://i.postimg.cc/2yNd3WJ0/20240822-231606.png" group-title="PRO✅",Sony Aath
@@ -900,6 +908,13 @@ MOVIE
 
 
 
+
+
+#EXTINF:-1tvg-logo="https://amigofx.com/livetvlogo/hitzenterta inment.png" group-title="PRO✅", Hitz Entertainment
+https://amigofx.com:1936/hitzentertainment/hitzentertainment/playlist.m3u8
+
+#EXTINF:-1 group-title="PRO✅", STV Gold 
+https://amigofx.com:1936/stv/stv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="389"tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C389-1770751354.png"group-title="FIROJ KHAN SPECIAL",RUN THRILLERS 
 https://mumbai-edge.smartplaytv.in/runthrillers /index.m3u8
