@@ -18,7 +18,39 @@
 
 
 
+#EXTINF:-1 tvg-id="ptv_sports_hd"
 
+tvg-logo="http://monirul.bro.bd/assets/images/PTV SPORTS HD1745044993.png"
+
+group-title="FIROZ KHAN SPECIAL", PTV SPORTS HD
+
+https://flussonic.defineatoz.com/PTV/index.m3u8
+
+#EXTINF:-1 group-title="FIROJ KHAN SPECIAL", sony ten 1HD
+
+https://flussonic.defineatoz.com/SonySports1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Ten2HD"
+
+tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2 _HD_Logo_CLR.png" group-title="FIROJ KHAN SPECIAL", Sony Sports Ten 2 HD
+
+https://flussonic.defineatoz.com/sonysport2L/index.m3u8
+
+#EXTINF:-1 tvg-id="Ten5HD.in"
+
+tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5 _HD_Logo_CLR.png" group-title="FIROJ KHAN SPECIAL", Sony Sports Ten 5 HD http://103.185.24.134:3001/SONY-SPORTS.5HD/index.m3u8
+
+#EXTINF:-1 tvg-id="460"
+
+tvg-logo="https://img.media.jio.com/tvpimages/96/65/302113_1749664252703_1 _medium.jpg" group-title="FIROJ KHAN SPECIAL", Star Sports Select 1 HD https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
+
+#EXTINF:-1 tvg-id="1106"
+
+tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_1 _medium.jpg" group-title="FIROJ KHAN SPECIAL", Star Sports 1 HD https://p4kp.rjmbts.workers.dev/25121.m3u8
+
+#EXTINF:-1 group-title="FIROJ KHAN SPECIAL", star sports 1 HD
+
+https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FIROJ KHAN SPECIAL", star sports 1 HD
 https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8?
 
