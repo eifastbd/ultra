@@ -19,7 +19,15 @@
 
 
 
+#EXTINF:-1 group-title="FIROJ KHAN SPECIAL", star sports 1 HD
+https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8?
 
+#EXTINF:-1 tvg-id="1109" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_1 _medium.jpg" group-title="FIROJ KHAN SPECIAL", Star Sports 2 HD 
+https://p4kp.rjmbts.workers.dev/7458.m3u8
+#EXTINF:-1 group-title="FIROJ KHAN SPECIAL", star sports 2 hd 
+https://flussonic.defineatoz.com/Starsports2/index.m3u8
+#EXTINF:-1 tvg-id="461" tvg-logo="https://img.media.jio.com/tvpimages/98/79/302114_1749665414817_1_medium.jpg" group-title="FIROJ KHAN SPECIAL", Star Sports Select 2 HD
+https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive .com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG91/posters /795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="FIROJ KHAN SPECIAL", w_300,q_85/ra2x_pQBrjBfS2_RWG91/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="", Ten Cricket 
 https://stream.ottplus.bd/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://msports.pk/wp-content/uploads/2026 /02/m-sports-300.png" group-title="Sport",M Sports (PK)
