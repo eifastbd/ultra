@@ -1163,20 +1163,24 @@ https://cc-qgrxgp51645lw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://wildearth-plex.amagi.tv/master.m3u8
 
 
-#EXTINF:-1 tvg-id="WildEarth" tvg-logo="https://wildearth.tv/wp-content/uploads/2024/11/WE-LOGO-2025 -WHITE-WEB-1.png" group-title="FIROJ KHAN SPECIAL", Wild Earth 
+#EXTINF:-1 tvg-id="WildEarth" tvg-logo="https://wildearth.tv/wp-content/uploads/2024/11/WE-LOGO-2025 -WHITE-WEB-1.png" group-title="PRO✅", Wild Earth 
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 
-#EXTINF:-1 tvg-id="Wild Flix" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc /00/02/34/IN460000585_20250416T020413SQUARE.png" group-title="FIROJ KHAN SPECIAL", Wild Flix Hindi
+#EXTINF:-1 tvg-id="Wild Flix" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc /00/02/34/IN460000585_20250416T020413SQUARE.png" group-title="PRO✅", Wild Flix Hindi
 https://cc-qgrxgp516451w.akamaized.net/v1/master /3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qgrxgp516451w/IQJW/WBD /WildFlix_IN/WildFlix_IN.m3u8
 
-#EXTINF:-1 tvg-id="GBBB5000002PL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc /00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" group-title="FIROJ KHAN SPECIAL", Wild Planet
+#EXTINF:-1 tvg-id="GBBB5000002PL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc /00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" group-title="PRO✅", Wild Planet
 https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB .m3u8
 
-#EXTINF:-1 tvg-id="Wild TV" tvg-logo="https://s3.aynaott.com/storage/597c839e577e81813e44812cedc50892" group-title="FIROJ KHAN SPECIAL", Wild TV
+#EXTINF:-1 tvg-id="Wild TV" tvg-logo="https://s3.aynaott.com/storage/597c839e577e81813e44812cedc50892" group-title="PRO✅", Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 
 
+#EXTINF:-1 tvg-id="REALWILD" tvg-logo="https://i.ibb.co/sRhcqHT/realwild.png" group-title="PRO✅", REAL WILD 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SonyBBCEarthHD" tvg-logo="https://assets-prod.services.toffeelive.com/f_png, w_300,q_85/MC6C -JQBv9knK3AHUzUT/posters/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp" group-title="FIROJ KHAN SPECIAL", w_300,q_85/MC6C-JQBv9knK3AHUzUT/posters/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp" group-title="PRO✅", Sony BBC Earth HD
+https://amg00793-bbcstudios-amg00793c3-1g-us-2528.playouts.now.amagi.tv /playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 
 
 
