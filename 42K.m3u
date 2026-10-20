@@ -506,7 +506,75 @@ http://103.225.94.27/Infobase/hdd-1/KIDS/Movie/King%20Tweety%20(2022)%201080p%20
 #EXTINF:-1,group-title="🐯" tvg-logo="https://i.ibb.co/KcJYcVwc/vertical-759d34dd-8efd-4744-b3f0-fd0f8fbb67ae-1.jpg",JANA NAYAGAN BD
 https://www.googleapis.com/drive/v3/files/1kY1TxwHuENNF6gpT2UCbzI9PpoY6x7YT?alt=media&key=AIzaSyBIROBpb9p49Fpikb7NPGpStBdGrsBZjwQ
 
-
+#EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://kinozal.tv/i/poster/4/2/1788042.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",The One and Only Ivan (2020)
+https://o4.anwap.be/ohls/LqXdeqyRe2k60a41D3XWRw/1745456137/Ajvan_edinstvennyj_i_nepovtorimyj-26990_(anwap.org).m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/4/45/Alexander_poster.JPG" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Alexander (2004)
+https://ashdi.vip/video22/1/new4/alexander_2004_open_matte_webdlripavc_3xukr_eng_hurtom_11596/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://i115.fastpic.org/big/2021/0713/38/12b7b3221ac146b2c50c9684d31cdd38.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Beowulf (2007)
+https://ashdi.vip/video22/2/films/beowulf_2007_directors_cut_bdrip_1080p_h.265_ukr_eng_hurtom_154066/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://uakino.me/uploads/mini/poster/17/54f56cbb81b1df6ba2cbefc063098d.webp" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",By the Sea (2015)
+https://ashdi.vip/video19/1/films/by.the.sea.2015.bdremux.1080p_94006/hls/AamXiHaGjuRfnxH9Bw==/index.m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://uakino.me/uploads/mini/poster/73/81808b00ce8f61e1b1f633eae2566a.webp" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Playing God (1997)
+https://ashdi.vip/video19/1/films/playing.god.1997.bdremux.1080p.ukr.eng.sub.eng_73367/hls/AamXiHaGjuRfnxH9Bw==/index.m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://kinozal.tv/i/poster/2/3/1888223.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Eternals (2021)
+https://kinoleha.net/load/vechnye?original
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://kinozal.tv/i/poster/0/3/518203.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",The Bone Collector (2000)
+https://ashdi.vip/video22/1/new/the_bone_collector_1999_2xukr_eng_sub._eng_webdl_1080p_hurtom_16164/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://kinozal.tv/i/poster/6/6/1210266.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Gia (1998)
+https://ashdi.vip/video22/2/films/gia_1998_unrated_bdremux_1080p_135700/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://kinozal.tv/i/poster/9/7/364397.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",A Mighty Heart (2007)
+https://ashdi.vip/video19/1/films/a_mighty_heart_2007_bdrip_1080p_ukreng_hurtom_103318/hls/AamXiHaGjuRfnxH9Bw==/index.m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/e/e6/Life_or_Something_Like_It.jpg/208px-Life_or_Something_Like_It.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Life or Something Like It (2002)
+https://ashdi.vip/video22/1/films/life_or_something_like_it_2002_webdl_720p_124160/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/1/18/Beyond_Borders.jpg/202px-Beyond_Borders.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Beyond Borders (2003)
+https://ashdi.vip/video22/1/new/beyond_borders_2003_bdrip_1080p_16753/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/8/8b/Taking_Lives.jpg/211px-Taking_Lives.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Taking Lives (2004)
+https://ashdi.vip/video22/1/new4/taking_lives_2004_3xukr_eng_sub._eng_bdrip_1080p_hurtom_4664/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://uakino.me/uploads/mini/mainpics/71/f217adc795c6046d92c943a6df7746.webp" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Cyborg 2 (1993)
+https://ashdi.vip/video19/1/films/cyborg_2_1993_webdlripavc_63834/hls/AamXiHaGjuRfnxH9Bw==/index.m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/9/98/Lara_Croft_film.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Lara Croft: Tomb Raider (2001)
+https://ashdi.vip/video22/2/films/rozkradachka_grobnicz_1057/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="http://lostpix.com/img/2022-02/13/z3db715deknudcnyfdj4ktzlh.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Lara Croft: Tomb Raider – The Cradle of Life (2003)
+https://ashdi.vip/video22/2/films/rozkradachka_grobnicz_2_1058/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://static.hdrezka.ac/i/2014/12/19/f856771d690afni43h10g.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Fever (2003)
+https://o3.anwap.be/ohls/xItFfLEGEPOabX8V2GO2Ug/1745456315/Lihoradka-36564_(anwap.org).m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://kinozal.tv/i/poster/1/2/359012.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",The Good Shepherd (2006)
+https://ashdi.vip/video22/1/films/the_good_shepherds_2006_bdremux_1080p_ukr_eng_hurtom_63035/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://uaserial.top/images/serials/67/6767201398c5c889269777.webp" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Maria (2024)
+https://ashdi.vip/video22/1/new/maria.2024.ua.dub.cinemaker_159238/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/d/d2/Mr_and_mrs_smith_box_s.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Mr. & Mrs. Smith (2005)
+https://ashdi.vip/video22/2/new4/mster__mss_smt_3588/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/4/4f/Sky_captain.jpg/203px-Sky_captain.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Sky Captain and the World of Tomorrow (2004)
+https://ashdi.vip/video22/1/films/sky_captain_and_the_world_of_tomorrow_2004_bdremux_1080p_ukreng__sub_eng_hurtom_104213/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://kinozal.tv/i/poster/1/0/1300310.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Unbroken (2015)
+https://s1.hdvbua.pro/media/hls/chest/unbroken_2014_bdrip_1080p_67776/hls/index.m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/d/dd/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0_%D0%9E%D1%81%D0%BE%D0%B1%D0%BE_%D0%BE%D0%BF%D0%B0%D1%81%D0%B5%D0%BD.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Wanted (2008)
+https://ashdi.vip/video22/1/films/osoblivo_nebezpechnij_1684/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/9/99/ComeAway.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Come Away (2020)
+https://ashdi.vip/video22/1/new3/come_away_2020_bdrip_1080p_ukr_eng_hurtom_40694/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://uakino.me/uploads/mini/mainpics/26/3d9aa68cbef7dd05a91418312b5bcb.webp" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Changeling (2009)
+https://ashdi.vip/video19/1/films/changeling_2008_bdrip_1080p_h.265_2xukr_eng_hurtom_64862/hls/AamXiHaGjuRfnxH9Bw==/index.m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://static.hdrezka.ac/i/2015/5/11/na5ec9b669334wr30v57j.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Playing by Heart (1998)
+https://ashdi.vip/video22/1/films/playing.by.heart.1998.1080p.bdrip.ukr.eng.sub.eng_71052/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://kinozal.tv/i/poster/1/1/165511.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Girl, Interrupted (1999)
+https://ashdi.vip/video22/1/new/girl_interrupted_1999_hdtvrip_1080i_ukr_eng_hurtom_17309/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://uakino.me/uploads/mini/mainpics/bf/f3cfb82d2fa2dff3dc45b161814e55.webp" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Original Sin (2001)
+https://ashdi.vip/video19/1/new/original_sin_2001_bdrip_1080p_2xukr_eng_hurtom_19467/hls/AamXiHaGjuRfnxH9Bw==/index.m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://uakino.me/uploads/mini/mainpics/e3/1cf7e9a417eec41993c9baaa82d2bb.webp" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Salt (2010)
+https://ashdi.vip/video19/1/films/solt_1732/hls/AamXiHaGjuRfnxH9Bw==/index.m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://uakino.me/uploads/mini/mainpics/a5/a51474bbb3b3eb54836fdfe272fe93.webp" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",The Tourist (2011)
+https://ashdi.vip/video19/1/new3/the_tourist_2010_bdrip_1080p_3xukr_enghurtom_14196/hls/AamXiHaGjuRfnxH9Bw==/index.m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://uakino.me/uploads/mini/mainpics/83/edd74c8c2a21fbe55357dca82b0b63.webp" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Those Who Wish Me Dead (2021)
+https://ashdi.vip/video19/1/films/those_who_wish_me_dead_2021_webdl_2160p_ukr_eng_hurtom_45533/hls/AamXiHaGjuRfnxH9Bw==/index.m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://uakino.me/uploads/mini/mainpics/20/862c074b237232134daedc956f097e.webp" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Gone in 60 Seconds (2000)
+https://ashdi.vip/video19/1/serials/deadly_intelligence_s01/gone_in_sixty_seconds_2000_bdrip_1080p_h.265_ukr_eng_hurtom_14216/hls/AamXiHaGjuRfnxH9Bw==/index.m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://uakino.me/uploads/mini/mainpics/bd/e21af4090a49dbb4a6ce81df5d098a.webp" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Hackers (1995)
+https://ashdi.vip/video19/1/new/hackers_1995_bdrip_rm_1080p_h.265_3xukr_eng_20181/hls/AamXiHaGjuRfnxH9Bw==/index.m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://uakino.me/uploads/mini/mainpics/47/b78ac128bd67b00b58c2a54a1e5e82.webp" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Maleficent (2014)
+https://ashdi.vip/video19/1/films/chaklunka_575/hls/AamXiHaGjuRfnxH9Bw==/index.m3u8
+#EXTINF:-1 group-title="🌻4K🌻" tvg-logo="https://uakino.me/uploads/mini/mainpics/d7/ef15b1de9acf25c69ec8378fa48748.webp" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Maleficent: Mistress of Evil (2019)
+https://ashdi.vip/video19/1/new4/maleficent_mistress_of_evil_2019_bdrip_1080p_ukr_eng_video_hurtom_4064/hls/AamXiHaGjuRfnxH9Bw==/index.m3u8
 
 
 Republic: 
