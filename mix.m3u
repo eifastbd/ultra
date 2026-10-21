@@ -1155,8 +1155,6 @@ https://server.zillarbarta.com/zillarbarta/index.m3u8
 http://198.195.239.50:8095/NATGEO.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Discovery Hindi" tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="PRO✅",Discovery বাংলা🦋
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98872.ts
-#EXTINF:-1 tvg-name="Discovery Hindi" tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="PRO✅",Discovery বাংলা🦋
-http://198.195.239.50:8095/DISCOVERY.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://www.kindpng.com/picc/m/162-1621297_logo-canal-love-nature-hd-png-download.png",Love Nature🦋
 http://27.124.71.27/Love_Nature/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/43NXkFx5/20240823_023458.png" group-title="PRO✅",Animal Planet🦋
@@ -1175,8 +1173,7 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/223.ts
 #EXTINF:-1 tvg-id="22c31d4b-491c-4eca-ac07-e9b1f131f5fd" tvg-name="Travel XP" tvg-logo="https://s3.aynaott.com/storage/a676d2f5ddf6e5f978b3d51876dceecf" group-title="PRO✅",Travel XP🦋
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
 #EXTINF:-1 tvg-id="22c31d4b-491c-4eca-ac07-e9b1f131f5fd" tvg-name="Travel XP" tvg-logo="https://s3.aynaott.com/storage/a676d2f5ddf6e5f978b3d51876dceecf" group-title="PRO✅",Travel BD🦋
-http://198.195.239.50:8095/travelXp/tracks-v1a1/mono.m3u8
-#http://premiumtvs.space/live/YqXTywueEV/damp2purchase/20622.ts
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/20622.ts
 #EXTINF:-1 tvg-id="ae2febd5-b25c-4977-a117-fc4fadcc44f6" tvg-name="Wild TV" tvg-logo="https://s3.aynaott.com/storage/597c839e577e81813e44812cedc50892" group-title="PRO✅",Wild TV🦋
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 #EXTINF:-1 tvg-id="fb4c9119-ad73-4e37-8091-b26126d200b9" tvg-name="Animal Planet HD" tvg-logo="https://s3.aynaott.com/storage/18d95033c5d53fc3b159141a842fdeac" group-title="PRO✅",Animal Planet🦋
@@ -1185,26 +1182,17 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 https://cc-qgrxgp51645lw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qgrxgp51645lw/IQJW/WBD/WildFlix_IN/WildFlix_IN.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T13v3f10/Wild-Earth.jpg" group-title="PRO✅",WILD EARTH🦋
 https://wildearth-plex.amagi.tv/master.m3u8
-
-
-#EXTINF:-1 tvg-id="WildEarth" tvg-logo="https://wildearth.tv/wp-content/uploads/2024/11/WE-LOGO-2025 -WHITE-WEB-1.png" group-title="PRO✅", Wild Earth 
+#EXTINF:-1 tvg-id="WildEarth" tvg-logo="https://wildearth.tv/wp-content/uploads/2024/11/WE-LOGO-2025-WHITE-WEB-1.png" group-title="PRO✅", Wild Earth 
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-
-#EXTINF:-1 tvg-id="Wild Flix" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc /00/02/34/IN460000585_20250416T020413SQUARE.png" group-title="PRO✅", Wild Flix Hindi
-https://cc-qgrxgp516451w.akamaized.net/v1/master /3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qgrxgp516451w/IQJW/WBD /WildFlix_IN/WildFlix_IN.m3u8
-
-#EXTINF:-1 tvg-id="GBBB5000002PL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc /00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" group-title="PRO✅", Wild Planet
-https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB .m3u8
-
-#EXTINF:-1 tvg-id="Wild TV" tvg-logo="https://s3.aynaott.com/storage/597c839e577e81813e44812cedc50892" group-title="PRO✅", Wild TV
-https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
-
-
+#EXTINF:-1 tvg-id="Wild Flix" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000585_20250416T020413SQUARE.png" group-title="PRO✅", Wild Flix Hindi
+https://cc-qgrxgp516451w.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qgrxgp516451w/IQJW/WBD /WildFlix_IN/WildFlix_IN.m3u8
+#EXTINF:-1 tvg-id="GBBB5000002PL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" group-title="PRO✅", Wild Planet
+https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
 #EXTINF:-1 tvg-id="REALWILD" tvg-logo="https://i.ibb.co/sRhcqHT/realwild.png" group-title="PRO✅", REAL WILD 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyBBCEarthHD" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/MC6C -JQBv9knK3AHUzUT/posters/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp" group-title="PRO✅", w_300,q_85/MC6C-JQBv9knK3AHUzUT/posters/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp" group-title="PRO✅",BBC Earth HD
+https://amg00793-bbcstudios-amg00793c3-1g-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SonyBBCEarthHD" tvg-logo="https://assets-prod.services.toffeelive.com/f_png, w_300,q_85/MC6C -JQBv9knK3AHUzUT/posters/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp" group-title="FIROJ KHAN SPECIAL", w_300,q_85/MC6C-JQBv9knK3AHUzUT/posters/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp" group-title="PRO✅", Sony BBC Earth HD
-https://amg00793-bbcstudios-amg00793c3-1g-us-2528.playouts.now.amagi.tv /playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 
 
 
@@ -1230,8 +1218,6 @@ https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/ind
 https://drk6xq0vhn.gpcdn.net/live/islamic_tv/index.m3u8
 #EXTINF:-1 tvg-name="Peace TV Bangla" tvg-logo="https://i.postimg.cc/vTYq396x/20250529-071345.png" group-title="PRO✅",Peace TV Bangla🤲
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://www.jagobd.com/wp-content/uploads/2026/01/Islamictvbd-768x768.jpeg",Islamic TV🤲
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/20240803-172433-removebg-preview.png",Iqra Bangla🤲
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2022/09/islam-channel001.jpg",ISLAM CHANNEL🤲
@@ -1255,8 +1241,8 @@ https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-id="202995ff-6d89-4f7e-9bcb-ab36cf530a17" tvg-name="Quran" tvg-logo="https://s3.aynaott.com/storage/35088d7015b1509b2c9cbc94503d5a6e" group-title="PRO✅",Quran🤲
 https://vodzong.mjunoon.tv:8087/streamtest/SaudiQuran-142/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGPh6VKY/Hridoy-TV-(3).webp" group-title="PRO✅",MADANI CHANNEL🤲
-http://103.141.70.136:8080//bdtv/restrem/20.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGPh6VKY/Hridoy-TV-(3).webp" group-title="PRO✅",MADANI CHANNEL🤲
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGPh6VKY/Hridoy-TV-(3).webp" group-title="PRO✅",PEACE TV URDU  🤲
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DwYGH8LV/Hridoy-TV-(2).webp" group-title="PRO✅",PEACE TV BANGLA🤲
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
@@ -1282,10 +1268,19 @@ https://live20.bozztv.com/giatvplayout7/giatv-209617/tracks-v1a1/mono.ts.m3u8
 https://mumbai-edge.smartplaytv.in/MercyTV/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.imgur.com/Cvnps2J.jpg",Takbeer TV🤲
 https://cd198.anystream.uk:9092/iqapp/t5kb86tv/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrDA-jAFNps3Xy53N5Uf8BM34sgzLlxtgA79nsXAnZP1XmT-d3571ozLE&s=10",Mercy
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrDA-jAFNps3Xy53N5Uf8BM34sgzLlxtgA79nsXAnZP1XmT-d3571ozLE&s=10",Mercy🤲
 https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 
 
