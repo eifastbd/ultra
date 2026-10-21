@@ -22,43 +22,19 @@
 
 
 
+
+
+
+
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-63eecb32ac23d1ee072087cb-us" tvg-id="5e20b730f2f8d5003d739db7-63eecb32ac23d1ee072087cb" tvg-chno="" tvg-name="123GO!" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png" group-title="United States",123GO!
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63eecb32ac23d1ee072087cb.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-66f6b947515e742745f5ca34-us" tvg-id="5e20b730f2f8d5003d739db7-66f6b947515e742745f5ca34" tvg-chno="" tvg-name="21 Jump Street" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png" group-title="United States",21 Jump Street
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66f6b947515e742745f5ca34.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-63894c1965b848bf2c8a7800-us" tvg-id="5e20b730f2f8d5003d739db7-63894c1965b848bf2c8a7800" tvg-chno="" tvg-name="5-Minute Crafts" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png" group-title="United States",5-Minute Crafts
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63894c1965b848bf2c8a7800.m3u8
-
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55-us" tvg-id="5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" tvg-chno="" tvg-name="50 Cent Action" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bcfb9977-809f-49ae-acc7-430f2c6ffb26/50CentAction_Logo_1500x1000_DarkBG_-_Chris_Connors.png" group-title="United States",50 Cent Action
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-65fca98c60dc164e8f272332-us" tvg-id="5e20b730f2f8d5003d739db7-65fca98c60dc164e8f272332" tvg-chno="" tvg-name="80's Sitcom Flashback" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6a33b82d-db12-4f5d-8f8f-d49c803dce6a/LogoColor1500RDX.png" group-title="United States",80's Sitcom Flashback
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-65fca98c60dc164e8f272332.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6674b595f04cf4bb9233c914-us" tvg-id="5e20b730f2f8d5003d739db7-6674b595f04cf4bb9233c914" tvg-chno="" tvg-name="A Touch of Frost" tvg-logo="https://provider-static.plex.tv/epg/cms/production/43848ac4-62a9-4cdc-ace0-e15661a2e748/FilmRise_TouchOfFrostA_Logo_WhiteRDX.png" group-title="United States",A Touch of Frost
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6674b595f04cf4bb9233c914.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41-us" tvg-id="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" tvg-chno="" tvg-name="A&E Crime 360" tvg-logo="https://provider-static.plex.tv/epg/cms/production/06c3d1f2-d57d-438d-a589-049a07abc5a0/AE_Crime_360_color_WHT_TXT.png" group-title="United States",A&E Crime 360
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-698a79b4c2d4abeac5f2ce1f-us" tvg-id="5e20b730f2f8d5003d739db7-698a79b4c2d4abeac5f2ce1f" tvg-chno="" tvg-name="A&E Live PD Greatest Shifts" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fd548cf2-fcba-4c23-80cb-65a80bdeaad4/LivePD_Greatest_Shifts_channel_logo_4c_1500x1000.png" group-title="United States",A&E Live PD Greatest Shifts
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-698a79b4c2d4abeac5f2ce1f.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5f8ee3727c75fa002d9e47c1-us" tvg-id="5e20b730f2f8d5003d739db7-5f8ee3727c75fa002d9e47c1" tvg-chno="" tvg-name="ACCDN" tvg-logo="https://provider-static.plex.tv/epg/cms/production/755bfa66-9d86-449b-9af3-8abd5c3b9f10/ACCDN_Logo_1500x1000_Dark_Background_-_Mathew_Carstens.png" group-title="United States",ACCDN
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f8ee3727c75fa002d9e47c1.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6151d74593dbf246f0843f01-us" tvg-id="5e20b730f2f8d5003d739db7-6151d74593dbf246f0843f01" tvg-chno="" tvg-name="AccuWeather NOW" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/ff4384fb627d8efc1adbd65cf13b64da.png" group-title="United States",AccuWeather NOW
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6151d74593dbf246f0843f01.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01-us" tvg-id="5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01" tvg-chno="" tvg-name="ACL Cornhole TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d1076185-58d6-411b-ba73-1126837074dd/Plex_cornhole__1500x1000_white_-_Brendan_Canning_white_rdx.png" group-title="United States",ACL Cornhole TV
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01-nz" tvg-id="5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01" tvg-chno="" tvg-name="ACL Cornhole TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d1076185-58d6-411b-ba73-1126837074dd/Plex_cornhole__1500x1000_white_-_Brendan_Canning_white_rdx.png" group-title="New Zealand",ACL Cornhole TV
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01.m3u8
-#EXTINF:-1 channel-id="697140a85d851f5e69414688-63504925a97bd70eaef54f01-au" tvg-id="697140a85d851f5e69414688-63504925a97bd70eaef54f01" tvg-chno="" tvg-name="ACL Cornhole TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d1076185-58d6-411b-ba73-1126837074dd/Plex_cornhole__1500x1000_white_-_Brendan_Canning_white_rdx.png" group-title="Australia",ACL Cornhole TV
-https://jmp2.uk/plex-697140a85d851f5e69414688-63504925a97bd70eaef54f01.m3u8
-#EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-63504925a97bd70eaef54f01-mx" tvg-id="608049aefa2b8ae93c2c3a63-63504925a97bd70eaef54f01" tvg-chno="" tvg-name="ACL Cornhole TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d1076185-58d6-411b-ba73-1126837074dd/Plex_cornhole__1500x1000_white_-_Brendan_Canning_white_rdx.png" group-title="Mexico",ACL Cornhole TV
-https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-63504925a97bd70eaef54f01.m3u8
-#EXTINF:-1 channel-id="643054b1fc3be59477853717-63504925a97bd70eaef54f01-es" tvg-id="643054b1fc3be59477853717-63504925a97bd70eaef54f01" tvg-chno="" tvg-name="ACL Cornhole TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d1076185-58d6-411b-ba73-1126837074dd/Plex_cornhole__1500x1000_white_-_Brendan_Canning_white_rdx.png" group-title="Spain",ACL Cornhole TV
-https://jmp2.uk/plex-643054b1fc3be59477853717-63504925a97bd70eaef54f01.m3u8
-#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-63504925a97bd70eaef54f01-ca" tvg-id="647f8d22a2fc3fadb4721685-63504925a97bd70eaef54f01" tvg-chno="" tvg-name="ACL Cornhole TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d1076185-58d6-411b-ba73-1126837074dd/Plex_cornhole__1500x1000_white_-_Brendan_Canning_white_rdx.png" group-title="Canada",ACL Cornhole TV
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-63504925a97bd70eaef54f01.m3u8
-#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-63504925a97bd70eaef54f01-fr" tvg-id="6430aa45fc3be5947780904e-63504925a97bd70eaef54f01" tvg-chno="" tvg-name="ACL Cornhole TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d1076185-58d6-411b-ba73-1126837074dd/Plex_cornhole__1500x1000_white_-_Brendan_Canning_white_rdx.png" group-title="France",ACL Cornhole TV
-https://jmp2.uk/plex-6430aa45fc3be5947780904e-63504925a97bd70eaef54f01.m3u8
-#EXTINF:-1 channel-id="64305451fc3be5947773c339-63504925a97bd70eaef54f01-gb" tvg-id="64305451fc3be5947773c339-63504925a97bd70eaef54f01" tvg-chno="" tvg-name="ACL Cornhole TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d1076185-58d6-411b-ba73-1126837074dd/Plex_cornhole__1500x1000_white_-_Brendan_Canning_white_rdx.png" group-title="United Kingdom",ACL Cornhole TV
-https://jmp2.uk/plex-64305451fc3be5947773c339-63504925a97bd70eaef54f01.m3u8
+
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9-us" tvg-id="5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9" tvg-chno="" tvg-name="Acorn TV Mysteries" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/28afda1284b95048ca001849ddc89e20.png" group-title="United States",Acorn TV Mysteries
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-66be944f8711311880995280-us" tvg-id="5e20b730f2f8d5003d739db7-66be944f8711311880995280" tvg-chno="" tvg-name="Action Hollywood Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png" group-title="United States",Action Hollywood Movies
