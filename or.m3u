@@ -20,7 +20,7 @@
 
 #EXTINF:-1 group-title="💠WIFI💠" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/10/matribhumi.jpg?utm_source=chatgpt.com",Matribhumi 
 http://27.124.71.27/T-Sports/index.m3u8
-#EXTINF:-1 tvg-id="0000_tsports" tvg-name="0000_T-Sports" tvg-logo="http://103.151.60.188:12345/tvlogo/TSports.jpg" group-title="Sports",0000_T-Sports
+#EXTINF:-1 tvg-id="0000_tsports" tvg-name="0000_T-Sports" tvg-logo="http://103.151.60.188:12345/tvlogo/TSports.jpg" group-title="Sports",T-Sports
 http://103.151.60.162:2122/play/a030/index.m3u8?hls
 #EXTINF:-1 tvg-id="a_sports" tvg-name="A Sports" tvg-logo="http://103.151.60.188:12345/tvlogo/A Sports.png" group-title="Sports",A Sports
 http://103.151.60.162:2122/play/a02z/index.m3u8?hls
