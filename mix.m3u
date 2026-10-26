@@ -447,8 +447,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png",Sony Television HD
 http://38.96.178.205/SONYHD/index.m3u8
-#EXTINF:-1 tvg-id="UBangla.in@SD" group-title="PRO✅",U Bangla
-https://stream.ottlive.co.in/ubangla/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-id="ZEENews" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Zee_News_HD.jpg",ZEE News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1 tvg-id="UtsavBharat.uk@SD" group-title="PRO✅",Utsav Bharat
