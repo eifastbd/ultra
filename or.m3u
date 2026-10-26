@@ -178,7 +178,29 @@ http://103.151.60.162:2122/play/a0fo/index.m3u8?hls
 
 
 
-
+http://103.135.253.32:8080/Star-News/index.m3u8
+http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8
+http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
+http://103.135.253.32:8080/NATGEO-HD/index.m3u8
+http://103.135.253.32:8080/DORONTU-TV/index.m3u8
+http://103.135.253.32:8080/NICK/index.m3u8
+http://103.135.253.32:8080/BTV/index.m3u8
+http://103.135.253.32:8080/Gazi-TV/index.m3u8
+http://103.135.253.32:8080/STAR-SPORTS-1-HD/index.m3u8
+http://103.135.253.32:8080/STAR-SPORTS-SELECT-1/index.m3u8
+http://103.135.253.32:8080/PTV-SPORTS/tracks-v1a1/mono.m3u8
+http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8
+http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
+http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
+http://103.135.253.32:8080/PICTURE-HD/index.m3u8
+http://103.135.253.32:8080/Channel-24/index.m3u8
+http://103.135.253.32:8080/DORONTU-TV/index.m3u8
+http://103.135.253.32:8080/Ekhon-TV/index.m3u8
+http://103.135.253.32:8080/Indipendent/index.m3u8
+http://103.135.253.32:8080/SOMOY-TV/index.m3u8
+http://103.135.253.32:8080/SONY_AATH/index.m3u8
+http://103.135.253.32:8080/SUN-BANGLA/index.m3u8
+http://103.135.253.32:8080/ZEE-BANGLA-HD/tracks-v1a1/mono.m3u8
 
 
 
@@ -204,19 +226,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 #EXTINF:-1 tvg-name="RTNEWS GLOBAL" group-title="NEWS INTERNASIONAL",RTNEWS GLOBAL
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1
-#EXTINF:-1 tvg-name="Zee TV HD" group-title="Hindi",Zee TV HD
-https://s2.itcnbd.live/server-2/stream/zee_tv_hd.m3u8
-#EXTINF:-1 tvg-name="Sony TV HD" group-title="Hindi",Sony TV HD
-https://s2.itcnbd.live/server-2/stream/sonyentertainmnt_hd.m3u8
 #EXTINF:-1 tvg-name="B4U Kadak" group-title="Hindi Movies",B4U Kadak
 https://cdn-2.pishow.tv/live/227/master.m3u8
-#EXTINF:-1 tvg-name="Sony TV" group-title="Hindi",Sony TV
-https://s2.itcnbd.live/server-2/stream/sony_entertainment.m3u8
-#EXTINF:-1 tvg-name="Live Sports" group-title="Live Sports",Live Sports
-https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Live Sports" group-title="Live Sports",Live Sports
-https://s2.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Ften_cricket_576%2Ften_cricket_576.m3u8
-
 
 
 
