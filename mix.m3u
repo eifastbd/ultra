@@ -142,7 +142,6 @@ http://103.135.253.32:8080/Gazi-TV/index.m3u8
 https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
 #EXTINF:-1 tvg-name="Ekhon TV" tvg-logo="https://i.postimg.cc/sggzvQ6X/20250529-105045.png" group-title="PRO✅",Ekhon TV
 https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
-
 #EXTINF:-1 tvg-name="Global TV" tvg-logo="https://i.postimg.cc/SRL4zWbX/20250529-105303.png" group-title="PRO✅",Global TV🇧🇩
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/index.m3u8
 #EXTINF:-1 tvg-name="Enter TV" tvg-logo="https://i.postimg.cc/g06jByt1/entertv.jpg" group-title="PRO✅",Enter TV🇧🇩
@@ -161,14 +160,12 @@ https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
 https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZB0sFvLdP7M4KDcmzxAvR1zlOB1K1FqXuaGjdZOUgSfh1waicWf63g&s=10" group-title="PRO✅" group-logo="https://yt3.googleusercontent.com/AQLUH_ixhkqBRCV9M1rtWRQhUFiXB1QvX-l1DIbrfmeMjrU8kJzAeCaiupHjEPEz9M2daSfm9A=s900-c-k-c0x00ffffff-no-rj",SA TV🇧🇩
 http://116.204.149.16/satv/index.m3u8
-#EXTINF:-1 tvg-id="0ac6af3d-acce-4d9d-9ce5-32d4b53f9326" tvg-name="Global TV" tvg-logo="https://s3.aynaott.com/storage/bda05e1c2173251baebc20ffe43dea0b" group-title="PRO✅",Global TV🇧🇩
-http://116.204.149.16/globaltv/index.m3u8
-#http://103.141.70.136:8080//bdtv/restrem/22.m3u8
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/news21.jpg" group-title="PRO✅",NEWS 21 BANGLA🇧🇩
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x91288" group-title="PRO✅",Boishakhi🇧🇩
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
+#https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRctL8rD_FYfZ1rHUDhs_Q3rJwRYGSDbMX0-XHpHFXLjeTC2D9iYwo8Gq3J&s=10" group-title="PRO✅" tvg-server="Server 1",NRB HD🇧🇩
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Time Televis HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/News_Time_2.jpg" group-title="PRO✅",Time Televis HD🇧🇩
