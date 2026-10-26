@@ -361,6 +361,9 @@ https://server.playontv.in/sailendar/index.m3u8
 #EXTINF:-1 tvg-id="183"tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_158_1729599506.png" group-title="PRO✅",Rongeen TV 
 https://mumbai-edge.smartplaytv.in/RongeenTV/index.m3u8
 
+#EXTINF:-1 tvg-id="ch_73" tvg-name="Bangla Cinema" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/bangla-cinema.webp" group-title="Movies",Bangla Cinema
+http://103.151.60.162:2122/play/a02m/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="https://i.postimg.cc/2yNd3WJ0/20240822-231606.png" group-title="PRO✅",Sony Aath
 https://drk6xq0vhn.gpcdn.net/live/sony_aath_abr/index.m3u8
@@ -1272,7 +1275,8 @@ https://cd198.anystream.uk:9092/iqapp/t5kb86tv/playlist.m3u8
 https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-id="ch_65" tvg-name="Islam Channel Bangla" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/islam-channel-bangla.webp" group-title="Entertainment",Islam Channel Bangla
+https://live-islamtv-bangla.simplestreamcdn.com/out/v1/islamchannel/islamtv-bangla/hls-ts/index.m3u8
 
 
 
