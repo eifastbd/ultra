@@ -930,41 +930,16 @@ MOVIE
 
 
 
-#EXTINF:-1
-
-tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCinepl exHD.png" group-title="FIROJ KHAN SPECIAL", COLORS CINEPLEX UK https://raw.githubusercontent.com/amazeyourself/adaptive-streams /6c2dad79b7261eb3553da450272e25279ea0bfaa/streams/gb/YuppTV /ColorsCineplexUK.m3u8
-
-#EXTINF:-1 tvg-id="colorscineplexbollywood"
-
-tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images /ColorsCineplexBollywood.png" group-title="FIROJ KHAN SPECIAL", Colors Cineplex Bollywood
-
-http://live.balajibroadband.com:3500/live/1763.m3u8
-
-#EXTINF:-1 tvg-id="colors-cineplex-superhit"
-
-tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images
-
-/ColorsCineplexSuperhit.png" group-title="FIROJ KHAN SPECIAL", Colors Cineplex Superhit
-
-http://live.balajibroadband.com:3500/live/1450.m3u8
-
-#EXTINF:-1 tvg-logo="https://amigofx.com /livetvlogo/bigstarmovie.png" group-title="PRO✅", Big Star Bollywood
+#EXTINF:-1 tvg-logo="https://amigofx.com /livetvlogo/bigstarmovie.png" group-title="PRO✅", Big Star Bollywood🎬
 https://amigofx.com:1936/bigstarmovie/bigstarmovie/playlist.m3u8
-
-
-#EXTINF:-1tvg-logo="https://amigofx.com/livetvlogo/hitzenterta inment.png" group-title="PRO✅", Hitz Entertainment
+#EXTINF:-1tvg-logo="https://amigofx.com/livetvlogo/hitzenterta inment.png" group-title="PRO✅", Hitz Entertainment🎬
 https://amigofx.com:1936/hitzentertainment/hitzentertainment/playlist.m3u8
-
-#EXTINF:-1 group-title="PRO✅", STV Gold 
+#EXTINF:-1 group-title="PRO✅", STV Gold🎬
 https://amigofx.com:1936/stv/stv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="389"tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C389-1770751354.png"group-title="FIROJ KHAN SPECIAL",RUN THRILLERS 
-https://mumbai-edge.smartplaytv.in/runthrillers /index.m3u8
-
+#EXTINF:-1 tvg-id="389"tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C389-1770751354.png"group-title="FIROJ KHAN SPECIAL",RUN THRILLERS🎬
+https://mumbai-edge.smartplaytv.in/runthrillers/index.m3u8
+#EXTINF:-1 tvg-id="389"tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C389-1770751354.png"group-title="FIROJ KHAN SPECIAL",Star Plus🎬
 https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
-
-https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png?lock=720x540" group-title="PRO✅",B4U Movies🎬
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CineSony.us@SD"tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="PRO✅",Cine Sony🎬
@@ -1001,7 +976,6 @@ http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/510293.ts
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72212.ts
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://go4.pw/PHILIPINES/MTV_Asia.png" tvg-id="sports18.in",MTV HD🎬
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/510261.ts
-
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://go4.pw/ASIA/INDIA/AND-XPLOR.png" ,AND XPLOR
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/809016.ts
 #EXTINF:-1 tvg-id="" tvg-name="Rupashi Bangla TV (720p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rupashi_Bangla.png" group-title="PRO✅",Rupashi Bangla
