@@ -716,8 +716,8 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_lq.m3u8
 https://cloudcdn.in/livetv/DesiTashan/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="",Vision Punjabi🌀
 http://a-edge.bliscdn.com/VisionPunjabHD/tracks-v1a1/mono.m3u8
-
-
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://go4.pw/ASIA/INDIA/SHOWBOX_MUSIC.png" tvg-id="sports18.in",SHOWBOX MUSIC
+http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/510230.ts
 
 
 
@@ -973,24 +973,16 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 #EXTINF:-1,Mix🎬
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
-#EXTINF:-1,Bollywood Film🎬
-https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
 #EXTINF:-1,Free Movies🎬
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
-#EXTINF:-1 ,CINEMAX 5🎬
-http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
-#EXTINF:-1 group-title="WORLD IPTV" tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" tvg-country="CA" tvg-url="" group-title="PRO✅",Pardesi TV🎬
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" tvg-country="CA" tvg-url="" group-title="PRO✅",Pardesi TV🎬
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyWAH.png" group-title="PRO✅",Sony WAH🎬
 http://live.balajibroadband.com:3500/live/1393.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/2102fac092ee28f75652131b19d74260.png" group-title="PRO✅",MAX 1🎬
 http://live.balajibroadband.com:3500/live/3418.m3u8
-#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_c5adf129be936d1f292d53f697e9e4ef_playmist_hbo400x400.jpg" group-title="PRO✅",HBO🎬
-https://tvsen7.aynaott.com/hbo/index.m3u8
 #EXTINF:-1 tvg-name="HBO 2 HD" tvg-logo="https://s3.aynaott.com/storage/b64c028d8c0895ed81f3201d5979f7ba" tvg-country="Unknown" group-title="PRO✅",HBO 3🎬
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/68811.ts
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://go4.pw/ASIA/INDIAN/CINEPLEXHD.png" tvg-id="sports18.in",CINEPLEX HD🎬
-http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72176.ts
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://go4.pw/India/SONY_PAL.png" tvg-id="sports18.in",SONY PAL🎬
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72151.ts
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://go4.pw/India/SONY_wah.png" tvg-id="sonywah.in",SONY WAH🎬
@@ -1009,21 +1001,18 @@ http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/510293.ts
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72212.ts
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://go4.pw/PHILIPINES/MTV_Asia.png" tvg-id="sports18.in",MTV HD🎬
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/510261.ts
-#EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜 🎶" tvg-logo="https://go4.pw/ASIA/INDIAN/ZOOMTVHD.png" tvg-id="zoom.in",ZOOM TV HD
-http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72160.ts
-#EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜 🎶" tvg-logo="https://go4.pw/ASIA/INDIA/SHOWBOX_MUSIC.png" tvg-id="sports18.in",SHOWBOX MUSIC
-http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/510230.ts
+
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://go4.pw/ASIA/INDIA/AND-XPLOR.png" ,AND XPLOR
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/809016.ts
 #EXTINF:-1 tvg-id="" tvg-name="Rupashi Bangla TV (720p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rupashi_Bangla.png" group-title="PRO✅",Rupashi Bangla
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:rupashibangla.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sheemaroo Bollywood" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="PRO✅",Sheemaroo Bollywood
+#EXTINF:-1 tvg-id="" tvg-name="Sheemaroo Bollywood" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="PRO✅",Sheemaroo Bollywood🎬
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Max 2" tvg-logo="https://i.postimg.cc/hP59QSrm/20240825_075205.png" group-title="Indian",Sony Max 2
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max 2" tvg-logo="https://i.postimg.cc/hP59QSrm/20240825_075205.png" group-title="PRO✅",Sony Max 2🎬
 https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Max HD" tvg-logo="https://i.postimg.cc/YS3BdNNW/20240823_022655.png" group-title="Indian",Sony Max HD
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max HD" tvg-logo="https://i.postimg.cc/YS3BdNNW/20240823_022655.png" group-title="PRO✅",Sony Max HD🎬
 https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Television HD" tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png" group-title="Indian",Sony Television HD
+#EXTINF:-1 tvg-id="" tvg-name="Sony Television HD" tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png" group-title="PRO✅",Sony Television HD🎬
 https://drk6xq0vhn.gpcdn.net/live/sony_ent_hd_abr/index.m3u8
 #EXTINF:-1 group-title="PRO✅" group-logo="",Big star🎬
 https://amigofx.com:1936/bigstarmovie/bigstarmovie/chunklist_w895905011.m3u8
@@ -1102,8 +1091,6 @@ https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHOJPURI_CINEMA/images/LOGO_HD/image.png" group-title="PRO✅",Bhojpuri Cinema🎬
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13nLvxQx /20250630_050504.png" group-title="PRO✅",B4U🎬
-https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/JhR9HDw4/20240823_023056.png",& Tv🎬
 https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/x8BwX6QW/20240823_022929.png",Zee Tv🎬
@@ -1112,12 +1099,8 @@ https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
 https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/52SzwQF1/20251222_220548.png",Zee Bollywood🎬
 https://stream.ottplus.live/live/zee_bollywood_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/bollywood-cinema-vintage-indian-movie-cinematography-theater-poster-welcome-neon-retro-d-classic-film-posters-board-gold-logo-118624129.jpg?w=768" group-title="PRO✅",Bollywood🎬
-https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/bollywood-cinema-vintage-indian-movie-cinematography-theater-poster-welcome-neon-retro-d-classic-film-posters-board-gold-logo-118624129.jpg?w=768" group-title="PRO✅",Bollywood OLD🎬
 https://vods2.aynaott.com/hindimovies/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/07/17/19/22/movie-7328179_1280.png" group-title="PRO✅",Hindi Dub🎬
-https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084" group-title="Others" tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084" group-title="PRO✅",Hindi Movie Classic🎬
 https://vods2.aynaott.com/hindimovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5GR2LYM/B4u-Movies.jpg" group-title="PRO✅",B4U KADAK🎬
