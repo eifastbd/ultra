@@ -380,8 +380,17 @@ https://stream.ottlive.co.in/ubangla/index.m3u8
 #EXTINF:-1 tvg-name="Matri Bhumi" tvg-logo="https://i.postimg.cc/kGxkk90g/20260921-094625.jpg" group-title="Entertainment",Matri Bhumi
 https://live.playmax.live/matribhumi/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ch_73" tvg-name="Bangla Cinema" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/bangla-cinema.webp" group-title="Movies",Bangla Cinema
+#EXTINF:-1 tvg-id="ch_73" tvg-name="Bangla Cinema" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/bangla-cinema.webp" group-title="PRO✅",Bangla Cinema
 http://103.151.60.162:2122/play/a02m/index.m3u8
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="https://i.postimg.cc/2yNd3WJ0/20240822-231606.png" group-title="PRO✅",Sony Aath
@@ -416,7 +425,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
 #EXTINF:-1 xui-id="34" tvg-id="" tvg-name="SONY ATTH" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbs8.png" group-title="PRO✅",SONY ATTH
 http://103.151.60.162:2122/play/a023/index.m3u8?hls
 #https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
-#EXTINF:-1  group-title="PRO✅" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9sZttim5GLAbajaB_Jnq3xBGpj2hn3S1dOpLFU3M25kPK1dz28hOV3E4&s=10" tvg-logo="https://assets-prod.services.toffeelive.com/ES55-JQBv9knK3AHNDWC/posters/13411be9-62b9-4a99-a062-b6e91dfb1099.webp",Sony Sab SD (Tata play)1
+#EXTINF:-1  group-title="PRO✅" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9sZttim5GLAbajaB_Jnq3xBGpj2hn3S1dOpLFU3M25kPK1dz28hOV3E4&s=10" tvg-logo="https://assets-prod.services.toffeelive.com/ES55-JQBv9knK3AHNDWC/posters/13411be9-62b9-4a99-a062-b6e91dfb1099.webp",Sony Sab SD 
 http://103.151.60.162:2122/play/a01q/index.m3u8?hls
 #EXTINF:-1  group-title="PRO✅" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9sZttim5GLAbajaB_Jnq3xBGpj2hn3S1dOpLFU3M25kPK1dz28hOV3E4&s=10" tvg-logo="https://assets-prod.services.toffeelive.com/-y50-JQBv9knK3AHLzSn/posters/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp",Sony SD
 http://103.151.60.162:2122/play/a015/index.m3u8?hls
