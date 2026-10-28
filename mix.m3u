@@ -202,7 +202,7 @@ http://116.204.149.16/rtvhd/index.m3u8
 https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/G-Series_Logo.png" group-title="PRO✅",Drama 24🇧🇩
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://channeleurope.tv/storage/settings/BNyRMyomifMQ7VlzvHKbNwCfzxM7kF4Vq7bj4zxZ.png" group-title="PRO✅",Channel Europe🇧🇩
+#EXTINF:-1 tvg-id="29" tvg-name="Channel Europe" tvg-logo="https://i.postimg.cc/yYLs9fbz/channel_europe.webp" group-title="PRO✅",Channel Europe🇧🇩
 https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w572284654.m3u8
 #EXTINF:-1 tvg-name="Bangla 1" tvg-logo="https://i.postimg.cc/qvb125Lh/20261001-000801.jpg" group-title="PRO✅",Bangla 1
 https://video1.getstreamhosting.com:1936/fbgahehyaj/fbgahehyaj/playlist.m3u8
