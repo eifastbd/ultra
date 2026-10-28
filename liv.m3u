@@ -69,6 +69,12 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 #EXTINF:-1 tvg-id="ch_189" tvg-name="Sky Sports Football " tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Sky%20Sports%20Football.webp" group-title="TV",Sky Sports Football 
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9289/index.m3u8
 
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://media1.tenor.com/m/HJCN0mM2awAAAAAd/nagin-bangladesh-kids-nagins-dogladeshis.gif",Sony Live
+https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://media1.tenor.com/m/HJCN0mM2awAAAAAd/nagin-bangladesh-kids-nagins-dogladeshis.gif",TnT
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+
+
 #EXTINF:-1 tvg-id="ACISportTV.it@SD" tvg-logo="https://i.imgur.com/U8cHMOt.png" group-title="Italy",ACI Sport TV SD (1080p)
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-id="beInSports1.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sports",beIN Sports 1
