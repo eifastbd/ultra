@@ -14,7 +14,99 @@
 
 
 
+#EXTM3U
+#EXTINF:-1 ,Maasranga
+http://103.114.11.37:8081/Maasranga/index.m3u8?token=sboxcast
 
+#EXTINF:-1 ,Zee Bangla
+http://103.114.11.37:8081/ZEE-Bangla/index.m3u8?token=sboxcast
+
+#EXTINF:-1 ,Star Jalsha
+http://103.114.11.37:8081/Star-Jalsha/index.m3u8?token=sboxcast
+
+#EXTINF:-1 ,Jalsha Movies
+http://103.114.11.37:8081/Jalsha-Movies/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Star-sports-1
+http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Star-sports-2
+http://103.114.11.37:8081/Star-sports-2/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Star-select-1
+http://103.114.11.37:8081/Star-select-1/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Star-select-2
+http://103.114.11.37:8081/Star-select-2/index.m3u8?token=sboxcast
+
+#EXTINF:-1 ,Zee Cinema HD
+http://103.114.11.37:8081/Z-Cinema/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Sony 8
+http://103.114.11.37:8081/Sony-8/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Star Movies HD
+http://103.114.11.37:8081/Star-Movies/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Star Gold HD
+http://103.114.11.37:8081/StarGold/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Colors HD
+http://103.114.11.37:8081/Colors-HD/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Duronto
+http://103.114.11.37:8081/Duronto/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Star Movies Select
+http://103.114.11.37:8081/Star-movies-select/index.m3u8?token=sboxcast
+
+#EXTINF:-1 ,Enterr10bangla
+http://103.114.11.37:8081/Enterr10bangla/index.m3u8?token=sboxcast
+
+#EXTINF:-1 ,Colors Bangla Cinema
+http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8?token=sboxcast
+
+#EXTINF:-1 ,Star Plus
+http://103.114.11.37:8081/Star-Plus-HD/index.m3u8?token=sboxcast
+
+#EXTINF:-1 ,Colors Bangla
+http://103.114.11.37:8081/Colors-bangla/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Star-sports-3
+http://103.114.11.37:8081/Star-sports-3/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , TEN SPORTS
+http://103.114.11.37:8081/TEN-SPORTS/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , T Sports HD
+http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Sony-sports-3
+http://103.114.11.37:8081/Sony-sports-3/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Eurosport
+http://103.114.11.37:8081/Eurosport-HD/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Willow
+http://103.114.11.37:8081/Willow-TV/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Sony-sports-2
+http://103.114.11.37:8081/Sony-sports-2/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , PTV
+http://103.114.11.37:8081/PTV/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Sony Ten Sports 4 HD
+http://103.114.11.37:8081/Sony-sports-4/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Unite8-sports-1
+http://103.114.11.37:8081/Unite8-sports-1/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , WWE Network
+http://103.114.11.37:8081/WWE-24/7/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Star Gold Select
+http://103.114.11.37:8081/StarGoldSelect/index.m3u8?token=sboxcast
 
 
 
