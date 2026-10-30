@@ -12,8 +12,10 @@
 #EXTINF:-1,Godzilla: King of the Monsters
 http://6rga.a0p3.com/vod/1/2024/06/07/2d1e501c446a/992308296.mp4?wsSecret=c80e5f273e446a96022a82a825c85017&wsTime=68c69616
 
-MOVIE NAME:- "Godzilla x Kong: The New Empire"
-AND STRIMING URL:- http://6rga.a0p3.com/vod/1/2024/06/01/a9b652179378/1070487839.mp4?wsSecret=468f7c4e7a14455a9d3af6b066859398&wsTime=68c695f0
+
+
+#EXTINF:-1,Godzilla x Kong: The New Empire
+http://6rga.a0p3.com/vod/1/2024/06/01/a9b652179378/1070487839.mp4?wsSecret=468f7c4e7a14455a9d3af6b066859398&wsTime=68c695f0
 
 MOVIE NAME:- "Godzilla vs. Kong"
 AND STRIMING URL:- http://6rga.a0p3.com/vod/1/2024/06/07/8f83c9df5bee/806270193.mp4?wsSecret=508b9cf97b6297634175d158fca6bbfd&wsTime=68c695d7
