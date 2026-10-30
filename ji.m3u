@@ -1420,12 +1420,10 @@ https://livestream.sunnxt.com/1893b9ab790747cb80a584873a608dcb/KochuTVB_IN_index
 #KODIPROP:inputstream.adaptive.license_key=19d8a5cc002f411b89b33925acdc33e0:2a9aa7a3f69834c4f348430cc3f658bb
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
-#EXTINF:-1 tvg-id="kids-1" tvg-name="Oggy and the Cockroaches" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Oggy_and_the_Cockroaches_Logo.webp" group-title="🔅ZEE5🔅" group-logo="https://www.shutterstock.com/image-vector/kids-text-logo-movie-editable-260nw-2536104593.jpg",Oggy and the Cockroaches
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
-https://live20.bozztv.com/giatvplayout7/giatv-210728/index.m3u8
-#EXTINF:-1 tvg-id="kids-2" tvg-name="Motu and Patlu" tvg-logo="https://image.tmdb.org/t/p/original/6cVcX2hRaWsUYPXr0It4HkVcx1F.png" group-title="🔅ZEE5🔅" group-logo="https://www.shutterstock.com/image-vector/kids-text-logo-movie-editable-260nw-2536104593.jpg",Motu and Patlu
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
-https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="kids-3" tvg-name="Doraemon Live" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Doraemon_Logo2.png" group-title="🔅ZEE5🔅" group-logo="https://www.shutterstock.com/image-vector/kids-text-logo-movie-editable-260nw-2536104593.jpg",Doraemon Live
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://live20.bozztv.com/giatvplayout7/giatv-209902/index.m3u8
@@ -1438,12 +1436,6 @@ https://greengold.cdn.runn.tv/greengold/stream/grngld/manifest/1.m3u8
 #EXTINF:-1 tvg-id="kids-6" tvg-name="Shemaroo Josh" tvg-logo="https://www.lyngsat.com/logo/tv/ss/shemaroo-josh-in.png" group-title="🔅ZEE5🔅" group-logo="https://www.shutterstock.com/image-vector/kids-text-logo-movie-editable-260nw-2536104593.jpg",Shemaroo Josh
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/chunklist_b1628000_sleng.m3u8
-#EXTINF:-1 tvg-id="kids-7" tvg-name="Goldmines 2" tvg-logo="https://www.lyngsat.com/logo/tv/gg/goldmines-2-in.png" group-title="🔅ZEE5🔅" group-logo="https://www.shutterstock.com/image-vector/kids-text-logo-movie-editable-260nw-2536104593.jpg",Goldmines 2
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
-https://cdn-2.pishow.tv/live/1460/master.m3u8
-#EXTINF:-1 tvg-id="kids-8" tvg-name="Goldmines Movies" tvg-logo="https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj" group-title="🔅ZEE5🔅" group-logo="https://www.shutterstock.com/image-vector/kids-text-logo-movie-editable-260nw-2536104593.jpg",Goldmines Movies
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
-https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 tvg-id="kids-9" tvg-name="Aaj Tak HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aaj-tak-in.png" group-title="🔅ZEE5🔅" group-logo="https://www.shutterstock.com/image-vector/kids-text-logo-movie-editable-260nw-2536104593.jpg",Aaj Tak HD
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
