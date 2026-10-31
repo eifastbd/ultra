@@ -1062,8 +1062,6 @@ https://unlimited2-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u
 https://unlimited1-cl-isp.dps.live/smtv/smtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="435" tvg-id="net-tv" tvg-name="Net TV" tvg-logo="https://neotv.energeek.cl/assets/img/channels/net-tv.png" group-title="🔅ZEE5🔅",Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="440" tvg-id="estacion-tv" tvg-name="Estacion TV" tvg-logo="https://neotv.energeek.cl/assets/img/channels/estacion-tv.svg" group-title="🔅ZEE5🔅",Estacion TV
-https://v4.tustreaming.cl/limachemovil/playlist.m3u8
 #EXTINF:-1 tvg-chno="445" tvg-id="ucv-television" tvg-name="UCV Television" tvg-logo="https://neotv.energeek.cl/assets/img/channels/ucv-television.png" group-title="🔅ZEE5🔅",UCV Television
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-chno="450" tvg-id="ucv-eventos" tvg-name="UCV Eventos" tvg-logo="https://neotv.energeek.cl/assets/img/channels/ucv-television.png" group-title="🔅ZEE5🔅",UCV Eventos
@@ -1136,17 +1134,13 @@ https://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 https://annainew.livebox.co.in/srisaihls/live.m3u8
 #EXTINF:-1,Tharun Movies HD
 https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
-#EXTINF:-1,Vidiyal TV
-https://account11.livebox.co.in/vidyaltvhls/live.m3u8?psk=stream
-#EXTINF:-1,Vinmeen TV
-https://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
 #EXTINF:-1,Zainabia Channel
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
 #EXTINF:-1,Zilla Vani
 https://streaming.livebox.co.in/vedhikahls/live.m3u8
 
 
-#EXTM3U
+
 #EXTINF:-1 tvg-id="22020" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="🔅ZEE5🔅",Mazhavil Manorama HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=37b4403a66f2565da33ba3b5704bb178:449f87256b3c1d7c2cdcbe04cbfd5530
@@ -1235,14 +1229,6 @@ https://login.bheem.tv/bpk-tv/22431/output/index.mpd?
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fea2415c80885ec19609665c8bbbd62c:55a5f420b2ed2b3c9cf408c9c18bb567
 https://login.bheem.tv/bpk-tv/22436/output/index.mpd?
-
-
-
-
-
-
-#EXTM3U
-
 
 
 
