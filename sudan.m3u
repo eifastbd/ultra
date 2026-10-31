@@ -38,10 +38,6 @@ http://27.124.71.27/Zee_Bangla/tracks-v1a1/mono.m3u8
 http://27.124.71.27/Love_Nature/index.m3u8
 #EXTINF:-1 group-title="💠IP💠" tvg-logo="https://i.imgur.com/sTOoDy1.png",Arabica 
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-logo="",Dese Bideshe
-https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
-
-
 
 
 
@@ -104,7 +100,7 @@ https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 group-title="💠IP💠" tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png",Jungle Book 📺
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
-#EXTINF:-1 group-title="💠IP💠" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png",Sheemaroo Bollywood
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN3DAKShKGS38-s8fEgzRUuTstitUkvFVv8y9TK1IR3Huor7YLbQhdp2_u&s=10" group-title="",group-title="​🇮​​🇳​​🇩​​🇮​​🇦​",shemabollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 group-title="💠IP💠" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSisiK50nT9KXOAVZcRYy4aTrv4cVP9btrY4_s2KvXzXaSzGeUEmvgE3Gj4&s=10",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
@@ -128,8 +124,7 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn2OheQDGsZcQd6LDYvP_zhXl8_X_HMu81lg&s" group-title="",group-title="​🇮​​🇳​​🇩​​🇮​​🇦​",Colors Bagla HD
 https://catchup.yuppcdn.net:443/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rdcmovies.png" group-title="",group-title="​🇮​​🇳​​🇩​​🇮​​🇦​",RDC MOVIES
-https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/main.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN3DAKShKGS38-s8fEgzRUuTstitUkvFVv8y9TK1IR3Huor7YLbQhdp2_u&s=10" group-title="",group-title="​🇮​​🇳​​🇩​​🇮​​🇦​",shemabollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUer98_MuISuAPBvSmwEBuWbb3I6sndmlbo3vIFAVTlXOa0mqY0VA3VGw&s=10" group-title="",group-title="​🇮​​🇳​​🇩​​🇮​​🇦​",bhojpuri
@@ -138,6 +133,8 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/japXVQja8gZVLR3B0p7dPjugGa9Dt-eIAlcCtJGFnQfRcoaGQnTsDF4qFdwrtoe2OBxZ54dzA48=s900-c-k-c0x00ffffff-no-rj" group-title="",group-title="​🇮​​🇳​​🇩​​🇮​​🇦​",dangal 2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="8. HINDI MUSIC" tvg-logo="https://i.ibb.co/Fg11rTg/20240813-112536.png",YRF MUSIC
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://www.metvbd.com/media/common/logo-fb.png" group-title="💠IP💠",ME TV🇧🇩
 https://iptvbd.live/metv1080/1080.m3u8
@@ -145,11 +142,9 @@ https://iptvbd.live/metv1080/1080.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusicharyanvi-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="Music",Saga Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="Music",YRF Music
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png",E24
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
-#EXTINF:-1 group-title="Music",Zoom
+#EXTINF:-1 tvg-id="ZOOM" tvg-name="ZOOM" tvg-logo="https://i.postimg.cc/7hz6tG8D/20250529_121941.png" group-title="💠IP💠",ZOOM
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 group-title="Music",ZB Music
 https://server.zillarbarta.com/zbmusic/index.m3u8
@@ -158,8 +153,6 @@ https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist
 #EXTINF:-1 group-title="Adventure",Wild Nature
 https://wildearth-plex.amagi.tv/master.m3u8
 
-#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/rmBYB7GQ/Bhojpuri-Cinema.jpg",Bhojpuri Cinema
-https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="8. HINDI MUSIC",Balle Balle
 https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:-1 group-title="8. HINDI MUSIC",Balle Balle TV
@@ -168,14 +161,7 @@ https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1 group-title="6. HINDI ENTERTAINMENT",DD NATIONAL HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
-#EXTINF:-1 group-title="6. HINDI ENTERTAINMENT",ISHAARA
-https://epiconvh.akamaized.net/live/ishaara/master.m3u8
-#EXTINF:-1 group-title="6. HINDI ENTERTAINMENT",najar
-https://epiconvh.akamaized.net/live/nazara/master.m3u8
-#EXTINF:-1 group-title="6. HINDI MOVIES" tvg-logo="https://i.ibb.co/vZXSqf0/20240816-214223.png",BHEJPURI CINEMA
-https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 group-title="6. HINDI MOVIES",bhojpuri Cinema
-https://live-bhojpuri.akamaized.net/liveabr/pub-iobhojpuqbu6yj/live_240p/chunks.m3u8
+
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTMtMLeBVE7c53EhV6mE2qLnYOXyz_jz9Xiw&usqp=CAU",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
@@ -184,10 +170,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Brat_TV_logo.png",Brat TV
 https://brat-samsung-us.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="8. HINDI MUSIC" tvg-logo="https://i.ibb.co/Fg11rTg/20240813-112536.png",YRF MUSIC
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
-#EXTINF:-1 group-title="8. HINDI MUSIC",YRF Music HD
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES",Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://res-3.cloudinary.com/synchtank-com/image/upload/s--Ebr_Rcvg--/c_fill,f_auto,g_auto,h_500,w_500/q_auto:eco/object-248613959.jpg",GROOVE
