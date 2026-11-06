@@ -37,8 +37,8 @@ https://btv.hridoytv-channel.workers.dev/news.m3u8
 #EXTINF:-1 tvg-id="SangsadTV.bd@SD" tvg-logo="https://i.imgur.com/jkouxLg.png" group-title="PRO✅",Sangsad TV🇧🇩
 https://btv.hridoytv-channel.workers.dev/sangsad.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="PRO✅",Ekattor TV🇧🇩
-https://box.bbaria.net:8083/EkattorTV/video.m3u8
-#https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
+#https://box.bbaria.net:8083/EkattorTV/video.m3u8
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 #https://stream.ottplus.live/live/ekattor_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" group-title="PRO✅",Somoy🇧🇩
 #https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
@@ -67,7 +67,6 @@ https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
 #https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-id="247" tvg-name="Independent TV " tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png" group-title="PRO✅",Independent TV🇧🇩
 https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/index.m3u8
-#https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/independent-8-org.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="132000" tvg-name="Channel I HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="PRO✅",Channel I HD🇧🇩
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
@@ -90,8 +89,8 @@ http://116.204.149.16/globaltv/index.m3u8
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/index.m3u8
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
 #EXTINF:-1 xui-id="128" tvg-id="" tvg-name="CHANNEL 9 HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/ch9.png" group-title="PRO✅",CHANNEL 9🇧🇩
-https://box.bbaria.net:8083/Channel9/tracks-v1a1/mono.m3u8
-#https://tvsen6.aynaott.com/kajlsd57jnzxyo/tracks-v1a1/mono.ts.m3u8
+#https://box.bbaria.net:8083/Channel9/tracks-v1a1/mono.m3u8
+https://tvsen6.aynaott.com/kajlsd57jnzxyo/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 tvg-id="zns9eha2" tvg-name="Ananda TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/atnbanglauk11.jpg?x67896" tvg-chno="28" group-title="PRO✅",ATN Bangla UK🇧🇩
 https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4cxjxRj/Deshi-TV.jpg" group-title="PRO✅",Deshi TV🇧🇩
@@ -103,7 +102,7 @@ https://srktv.net/srktvhls/cdnlive_srktv_1080/index.m3u8
 #https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzayWMQexbfPV-jTx3ZNoq-XOmlHKSX1SCjg&s" group-title="PRO✅",Probashi🇧🇩
 http://158.69.24.53:8080/probashi_tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Independent" tvg-logo="https://i.postimg.cc/gr9VXZTM/20240822-230259.png" group-title="Bangladeshi",Independent
+#EXTINF:-1 tvg-id="247" tvg-name="Independent TV " tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png" group-title="PRO✅",Independent TV🇧🇩
 https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8
 #EXTINF:-1 tvg-id="JagoNews24" tvg-name="Jago News 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS8QoffUmrOUwmi18WkifDfSOlgg3Egxhsi2nojWAVnw&s" group-title="PRO✅",Jago News 24🇧🇩
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
@@ -115,8 +114,7 @@ https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chu
 #EXTINF:-1 group-title="PRO✅" group-logo="https://yt3.googleusercontent.com/AQLUH_ixhkqBRCV9M1rtWRQhUFiXB1QvX-l1DIbrfmeMjrU8kJzAeCaiupHjEPEz9M2daSfm9A=s900-c-k-c0x00ffffff-no-rj" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvdc0C6H_VHLzzCQpGTsMnY0tgMc-5MxAL63T2HVPWvaG0gVEzBxcKifo&s=10",Channel S🇧🇩
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Channel_S.png" group-title="PRO✅",Channel S🇧🇩
-https://box.bbaria.net:8083/ChannelS/video.m3u8
-#https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
+https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/ekhon-tv.png" group-title="PRO✅",Ekhon TV🇧🇩
 https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://fcnchbd.xyz/iptv/logo/asian.png",Asian TV🇧🇩
