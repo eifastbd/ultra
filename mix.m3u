@@ -383,12 +383,22 @@ http://103.151.60.162:2122/play/a02m/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://vokta.tv/wp-content/uploads/2024/05/307916533_100191212863824_5917833510799536868_n-removebg-preview.png",Vokta tv
 http://103.121.61.218/tmp_hls/2a084e55c87b1ebcdaad1f62fdbbac8e/index.m3u8
 
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://vokta.tv/wp-content/uploads/2024/05/307916533_100191212863824_5917833510799536868_n-removebg-preview.png",STV
+
+https://iptv.porosh.com.bd/tmp_hls/c2626d850c80ea07e7511bbae4c76f4b/index.m3u8
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://vokta.tv/wp-content/uploads/2024/05/307916533_100191212863824_5917833510799536868_n-removebg-preview.png",STV
+https://iptv.porosh.com.bd/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
+https://iptv.porosh.com.bd/tmp_hls/0d0871f0806eae32d30983b62252da50/index.m3u8
 
 
-
-
-
-
+#EXTINF:-1 tvg-id="",Pogoti
+https://iptv.porosh.com.bd/tmp_hls/c2626d850c80ea07e7511bbae4c76f4b/index.m3u8
+#EXTINF:-1 tvg-id="",Pogoti
+https://iptv.porosh.com.bd/tmp_hls/0d0871f0806eae32d30983b62252da50/index.m3u8
+#EXTINF:-1 tvg-id="",Pogoti
+https://iptv.porosh.com.bd/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
+#EXTINF:-1,RS Movie
+https://rs.porosh.com.bd/tv.m3u8
 
 
 
