@@ -12,9 +12,38 @@
 
 
 
+#EXTINF:-1 tvg-name="JALSHA MOVIES HD" tvg-logo="http://198.195.239.50/img/channels/JALSHA%20MOVIES%20HD.png" group-title="Indian Bangla",JALSHA MOVIES HD
+http://172.19.17.202:8090/hls/JalshaMoviesHD.m3u8
 
 
-
+http://172.19.17.202:8090/hls/SonyTen5HD.m3u8
+http://172.19.17.202:8090/hls/SonyTen3hd.m3u8
+http://172.19.17.202:8090/hls/DiscoveryHD.m3u8
+http://172.19.17.202:8090/hls/StarSportsSelect2HD.m3u8
+http://172.19.17.202:8090/hls/StarSports2HD.m3u8
+http://172.19.17.202:8090/hls/tsportshd.m3u8
+http://172.19.17.202:8090/hls/CartoonNetworkHD.m3u8
+http://172.19.17.202:8090/hls/StarJalshaHD.m3u8
+http://172.19.17.202:8090/hls/SonyTen2hd.m3u8
+http://172.19.17.202:8090/hls/ZeeBanglaHD.m3u8
+http://172.19.17.202:8090/hls/StarPlusHD.m3u8
+http://172.19.17.202:8090/hls/AndPictureHD.m3u8
+http://172.19.17.202:8090/hls/ColorsHD.m3u8
+http://172.19.17.202:8090/hls/sonymaxhd.m3u8
+http://172.19.17.202:8090/hls/StarMoviesHD.m3u8
+http://172.19.17.202:8090/hls/BeinSports1ENG.m3u8
+http://172.19.17.202:8090/hls/SangeetBangla.m3u8
+http://172.19.17.202:8090/hls/ASportsHD.m3u8
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist_w194648983_b1307000.m3u8
+http://172.19.17.202:8090/hls/ptvsportshd.m3u8
+http://172.19.17.202:8090/hls/bbc_world.m3u8
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist_w194648983_b978000.m3u8
+http://172.19.17.202:8090/hls/SonyAtth.m3u8
+http://172.19.17.202:8090/hls/BTVNationalHD.m3u8
+http://172.19.17.202:8090/hls/ALjazeeraNews.m3u8
+http://172.19.17.202:8090/hls/9xm.m3u8
+http://172.19.17.202:8090/hls/SonyHD.m3u8
+http://172.19.17.202:8090/hls/somoytv.m3u8
 
 #EXTINF:-1 ,Maasranga
 http://103.114.11.37:8081/Maasranga/index.m3u8?token=sboxcast
