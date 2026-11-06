@@ -10,6 +10,11 @@
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/T_Sports.png" group-title="BANGLADESH",T Sports HD(Orbit)
+http://172.19.17.3:8090/hls/tsportshd.m3u8
+
 #EXTINF:-1 tvg-id="76" tvg-name="Ten Sports" tvg-logo="https://i.postimg.cc/Bv4jbHrr/1000116232.jpg" group-title="Sports",Ten Sports
 https://live.incableinternet.com/ten-sports/master.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="Fancode" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIRPzTb1Obu_3JFE7D3IuDs84_EyM-avJbD51I605XWLbSLgNxlaNB99w&s=10" group-title="Sports",Fancode
@@ -505,8 +510,6 @@ http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/T_Sports.png" group-title="BANGLADESH",T Sports HD
-http://172.19.17.3:8090/hls/tsportshd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/somoy_tv.png" group-title="BANGLADESH",Somoy TV
 http://172.19.17.3:8090/hls/somoytv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/btv.png" group-title="BANGLADESH", BTV HD
