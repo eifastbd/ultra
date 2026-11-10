@@ -28,19 +28,19 @@ http://45.117.61.162/01_Tsports_HD/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.manifest.type=mpd
 https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd
 
-
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/1280px-Sky_Sports_2025.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250806232310",Sky
 http://94.130.48.67:8042/stream/50/index.m3u8
-#EXTINF:-1,index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/1280px-Sky_Sports_2025.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250806232310",Sky
 http://94.130.48.67:8042/stream/51/index.m3u8
-#EXTINF:-1,index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/1280px-Sky_Sports_2025.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250806232310",Sky
 http://94.130.48.67:8042/stream/52/index.m3u8
-#EXTINF:-1,index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/1280px-Sky_Sports_2025.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250806232310",Sky
 http://94.130.48.67:8042/stream/53/index.m3u8
-#EXTINF:-1,index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/1280px-Sky_Sports_2025.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250806232310",Sky
 http://94.130.48.67:8042/stream/54/index.m3u8
-#EXTINF:-1,index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/1280px-Sky_Sports_2025.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250806232310",Sky
 http://94.130.48.67:8042/stream/55/index.m3u8
-#EXTINF:-1,index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/1280px-Sky_Sports_2025.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250806232310",Sky
 http://94.130.48.67:8042/stream/56/index.m3u8
 
 
