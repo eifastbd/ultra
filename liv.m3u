@@ -16,6 +16,20 @@ http://103.209.196.22:84/feed1001/index.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T-SPORTS
 http://45.117.61.162/01_Tsports_HD/tracks-v1a1/mono.m3u8
 
+http://94.130.48.67:8042/stream/50/index.m3u8
+#EXTINF:-1,index.m3u8
+http://94.130.48.67:8042/stream/51/index.m3u8
+#EXTINF:-1,index.m3u8
+http://94.130.48.67:8042/stream/52/index.m3u8
+#EXTINF:-1,index.m3u8
+http://94.130.48.67:8042/stream/53/index.m3u8
+#EXTINF:-1,index.m3u8
+http://94.130.48.67:8042/stream/54/index.m3u8
+#EXTINF:-1,index.m3u8
+http://94.130.48.67:8042/stream/55/index.m3u8
+#EXTINF:-1,index.m3u8
+http://94.130.48.67:8042/stream/56/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/T_Sports.png" group-title="BANGLADESH",T Sports HD(Orbit)
 http://172.19.17.3:8090/hls/tsportshd.m3u8
