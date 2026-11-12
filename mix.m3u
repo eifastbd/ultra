@@ -414,6 +414,7 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 #EXTINF:-1 xui-id="34" tvg-id="" tvg-name="SONY ATTH" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbs8.png" group-title="PRO✅",SONY ATTH🇮🇳
 http://27.124.71.27/Sony_Aath/index.m3u8
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="PRO✅",Zee Bangla🇮🇳
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98881.ts#fb
 https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPZdDXbsGeDOGhPC-Og7bXRrJxsbaFnZ1IEVB7-bPsJtpvNE9IhcMv0Q5OnUq5GCK9UqE7mzMCZinQaN1NSjk2wqKQFs_dreX5yGnDiXNju5yYT_9BDLC3dThhXRIfKk5XQGNc4oi6qWO3fvw5-9dqydLf6pvyHsq5cske3F1FKKih75cCUk20OKVymg/s600/Nur_20251216_222101_0000.png" group-title="PRO✅", Star Jalsha🇮🇳
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
@@ -780,7 +781,8 @@ http://78.108.251.7/Disney_Junior/index.m3u8
 http://103.135.253.32:8080/HUNGAMA/index.m3u8
 #http://198.195.239.50:8095/HUNGAMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="superhungama" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Super_Hungama.png" group-title="PRO✅",Super Hungama👻
-http://103.135.253.32:8080/SUPER_HUNGAMA/index.m3u8
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/66162.ts#fb
+#http://103.135.253.32:8080/SUPER_HUNGAMA/index.m3u8
 #http://198.195.239.50:8095/SUPER.HUNGAMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PRO✅" group-logo="https://popfun.co.uk/sites/uk.pop/files/logo_0.png",POP👻 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
@@ -894,8 +896,8 @@ http://iptv.prosto.tv:7000/ch79/video.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8
 
 
-
-
+#EXTINF:-1 group-title="PRO✅",Bal Bharat
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/355286.ts
 
 
 
@@ -1111,7 +1113,7 @@ https://server.zillarbarta.com/zbmusic/index.m3u8
 https://server.zillarbarta.com/zillarbarta/index.m3u8
 
 
-
+https://stream.ottlive.co.in/utvtamil/index.m3u8#fb
 
 
 
@@ -1234,8 +1236,8 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 https://live-islamtv-bangla.simplestreamcdn.com/out/v1/islamchannel/islamtv-bangla/hls-ts/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/05/Copilot_20250530_180323-768x768.png",Deen Bangla🤲
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamchbangla.stream/tracks-v1a1/mono.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGPh6VKY/Hridoy-TV-(3).webp" group-title="PRO✅",Madani Tv🤲
+https://tvsen7.aynaott.com/MadaniTV/tracks-v1/mono.ts.m3u8
 
 
 
