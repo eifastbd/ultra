@@ -1368,7 +1368,7 @@ http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98872.ts
 http://27.124.71.27/Love_Nature/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/43NXkFx5/20240823_023458.png" group-title="PRO✅",Animal Planet🦋
 http://27.124.71.27/Animal_Planet/index.m3u8
-#EXTINF:-1 group-title="PRO✅",CGTN Docment🦋
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/master/CGTN.png⁠",CGTN Docment🦋
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png",Discovery Pakistan🦋
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
@@ -1385,15 +1385,13 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 https://cc-qgrxgp51645lw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qgrxgp51645lw/IQJW/WBD/WildFlix_IN/WildFlix_IN.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T13v3f10/Wild-Earth.jpg" group-title="PRO✅",WILD EARTH🦋
 https://wildearth-plex.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="WildEarth" tvg-logo="https://wildearth.tv/wp-content/uploads/2024/11/WE-LOGO-2025-WHITE-WEB-1.png" group-title="PRO✅", Wild Earth 
-https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 tvg-id="GBBB5000002PL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" group-title="PRO✅", Wild Planet
+#EXTINF:-1 tvg-id="GBBB5000002PL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" group-title="PRO✅", Wild Planet🌍
 https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
-#EXTINF:-1 tvg-id="REALWILD" tvg-logo="https://i.ibb.co/sRhcqHT/realwild.png" group-title="PRO✅", REAL WILD 
+#EXTINF:-1 tvg-id="REALWILD" tvg-logo="https://i.ibb.co/sRhcqHT/realwild.png" group-title="PRO✅", REAL WILD🌍 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
-#EXTINF:-1 tvg-name="4k Travel TV" tvg-logo="https://s3.aynaott.com/storage/6ccc7357c3d8d35770732126dd819596" group-title="Channels",4k Travel TV
+#EXTINF:-1 tvg-name="4k Travel TV" tvg-logo="https://s3.aynaott.com/storage/6ccc7357c3d8d35770732126dd819596" group-title="PRO✅",4k Travel TV🌍
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1 tvg-name="InTravel" tvg-logo="https://s3.aynaott.com/storage/b35e9c1bcde3e6876892a22f91a9c4b5" group-title="Channels",InTravel
+#EXTINF:-1 tvg-name="InTravel" tvg-logo="https://s3.aynaott.com/storage/b35e9c1bcde3e6876892a22f91a9c4b5" group-title="PRO✅",InTravel🌍
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 
 
