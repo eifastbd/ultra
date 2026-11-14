@@ -127,8 +127,8 @@ https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #https://tvsen6.aynaott.com/channel52/index.m3u8
 http://str24.l9574.com/503.stream/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://fcnchbd.xyz/iptv/logo/nago.png",NAGORIK TV🇧🇩
-#https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
-https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8?remote=103.114.23.14&token=205feaff08ac0e4c8c895093c6fc54225479a714-c02bf37325b9f215f8b11615ad227213-1782477110-1782466310
+https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
+#https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8?remote=103.114.23.14&token=205feaff08ac0e4c8c895093c6fc54225479a714-c02bf37325b9f215f8b11615ad227213-1782477110-1782466310
 #EXTINF:-0 tvg-logo="https://www.tbn24.com/logo.png" group-title="PRO✅",TBN 24🇧🇩
 http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/10/iontvuk.jpg?x49520" group-title="PRO✅",iON TV UK🇧🇩
@@ -373,10 +373,13 @@ https://stream.ottlive.co.in/ubangla/index.m3u8
 #EXTINF:-1 tvg-name="Matri Bhumi" tvg-logo="https://i.postimg.cc/kGxkk90g/20260921-094625.jpg" group-title="Entertainment",Matri Bhumi
 https://live.playmax.live/matribhumi/tracks-v1a1/mono.m3u8
 
+
 #EXTINF:-1 tvg-id="ch_73" tvg-name="Bangla Cinema" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/bangla-cinema.webp" group-title="PRO✅",Bangla Cinema
 http://103.151.60.162:2122/play/a02m/index.m3u8
 
 
+#EXTINF:-1 tvg-id="ch_56" tvg-name="Banglar kontho" group-title="Entertainment",Banglar kontho
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/banglarkontho.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://vokta.tv/wp-content/uploads/2024/05/307916533_100191212863824_5917833510799536868_n-removebg-preview.png",Vokta tv
 http://103.121.61.218/tmp_hls/2a084e55c87b1ebcdaad1f62fdbbac8e/index.m3u8
 
@@ -396,7 +399,8 @@ https://iptv.porosh.com.bd/tmp_hls/0d0871f0806eae32d30983b62252da50/index.m3u8
 https://iptv.porosh.com.bd/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 #EXTINF:-1,RS Movie
 https://rs.porosh.com.bd/tv.m3u8
-
+#EXTINF:-1 tvg-id="ch_62" tvg-name="Desh Bangla TV" group-title="Entertainment",Desh Bangla TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshbanglatv.stream/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="https://i.postimg.cc/2yNd3WJ0/20240822-231606.png" group-title="PRO✅",Sony Aath
