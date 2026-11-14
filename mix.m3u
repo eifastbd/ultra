@@ -1333,6 +1333,9 @@ https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-id="ZeeBollywood.in" tvg-name="Zee Bollywood [Backup 1]" tvg-logo="https://i.postimg.cc/52SzwQF1/20251222_220548.png" tvg-chno="228" group-title="PRO✅",Zee Bollywood2🎬
 https://drk6xq0vhn.gpcdn.net/live/zee_bollywood_abr/index.m3u8
 
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/utvtamil.png?utm_source=chatgpt.com",UTV🎬
+https://stream.ottlive.co.in/utvtamil/index.m3u8
+
 #EXTINF:-1 tvg-id="ZBBhakti.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zbbhakti.png" group-title="PRO✅",ZB Bhakti🎬
 https://server.zillarbarta.com/zbbhakti/index.m3u8
 #EXTINF:-1 tvg-id="ZBCartoon.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zbcatun.png" group-title="PRO✅",ZB Cartoon🎬
@@ -1345,7 +1348,7 @@ https://server.zillarbarta.com/zbmusic/index.m3u8
 https://server.zillarbarta.com/zillarbarta/index.m3u8
 
 
-https://stream.ottlive.co.in/utvtamil/index.m3u8
+
 
 
 
