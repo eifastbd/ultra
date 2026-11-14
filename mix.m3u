@@ -1075,49 +1075,47 @@ https://d2z0ysa6dgxhlc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-kids-us.png" group-title="Kids",PBS Kids (Hawaii Feed)
 https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/retrocrush.png" group-title="Kids",RetroCrush
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/retrocrush.png" group-title="PRO✅",RetroCrush👻
 https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sonic_bangla.png" group-title="Kids",Sonic Bangla
-http://bosstv.click:8080/live/18012689/77561563/92412.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/teennick.png" group-title="Kids",Teen Nick
-http://tvsen7.aynascope.net/teennick/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/teletubbies.png" group-title="Kids",Teletubbies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/teletubbies.png" group-title="PRO✅",Teletubbies👻
 https://dv8lsrd8fecw9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dkls74gdpo7r0/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/toonami_aftermath_east.png" group-title="Kids",Toonami Aftermath East
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/toonami_aftermath_east.png" group-title="PRO✅",Toonami Aftermath East👻
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/toonami_aftermath_west.svg" group-title="Kids",Toonami Aftermath West
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/toonami_aftermath_west.svg" group-title="PRO✅",Toonami Aftermath👻
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/tooncast_southamerica.png" group-title="Kids",Tooncast SouthAmerica
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/tooncast_southamerica.png" group-title="PRO✅",Tooncast👻
 http://190.61.42.218:9000/play/a06i/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/xtrema_cartoons.png" group-title="Kids",Xtrema Cartoons
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/xtrema_cartoons.png" group-title="PRO✅",Xtrema Cartoons👻
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/international/yu-gi-oh-1080p.png" group-title="Kids",Yu-Gi-Oh!
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/international/yu-gi-oh-1080p.png" group-title="PRO✅",Yu-Gi-Oh!👻
 https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/solntse.png" group-title="Kids",Солнце
-http://cdntv.online/low/9mlxywika2/48.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ekF5cAi.png" group-title="Kids",Aqlvoy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ekF5cAi.png" group-title="PRO✅",Aqlvoy👻
 https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lW3WIBD.png" group-title="Kids",Baby Time
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lW3WIBD.png" group-title="PRO✅",Baby Time👻
 http://178.134.1.158:8081/babytime/index.m3u8
-#EXTINF:-1 tvg-logo="https://babyfirsttv.com/wp-content/uploads/2024/03/babyfirst_logo_2022-1024x202.png" group-title="Kids",BabyFirst
-https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-network-us.png" group-title="Kids",Boomerang
-http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-#EXTINF:-1 tvg-logo="https://botflix.tv/assets/img/botflix-mark.90c6a6f9a4.webp" group-title="Kids",Botflix TV
+#EXTINF:-1 tvg-logo="https://botflix.tv/assets/img/botflix-mark.90c6a6f9a4.webp" group-title="PRO✅",Botflix TV👻
 https://hls.botflix.tv/tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4wmnx1W.png" group-title="Kids",Carousel +4
-http://185.37.150.46/Karusel/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/960px-Cartoon_Network_Arabic_logo.png" group-title="Kids",Cartoon Network Arabic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/960px-Cartoon_Network_Arabic_logo.png" group-title="PRO✅",Cartoon Network Arabic👻
 http://149.100.11.252:8000/play/a056/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network CEE Ukraine
-http://45.132.87.69:8080/cartoon_network/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp" group-title="Kids",w_240,q_100/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp" group-title="Kids",Cartoon Network HD+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp" group-title="Kids",w_240,q_100/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp" group-title="PRO✅",Cartoon Network HD+👻
 https://tvsen5.aynaott.com/cartoonnetwork/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png" group-title="Kids",Cartoonito Latin America
-http://45.173.12.70:8000/play/a0hh
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png" group-title="Kids",CBeebies (Poland)
-http://92.114.85.87:8017/play/a004/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vv3FC2Nv/clan.png" group-title="Kids",Clan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1139,28 +1137,30 @@ MOVIE
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 https://3f56f997.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/6df18a18-ac39-4c6b-ab28-3927214c9c92/4.m3u8
 
 
 https://samitaorigin.tangotv.in/SONERICINEMA/SAMITAORIGIN/tracks-v1a1/mono.m3u8
 
 
-https://cc-yw7ztecy8do3q.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/94d29575-7e04-4d01-97bf-4f953a96fdac/3.m3u8
 
-
+star movies
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
 
+Suriyan tv
 https://hlslive.olidigital.in/suriyantv/suriyantv/tracks-v1a1/mono.m3u8
-
-
-https://streams2.sofast.tv/ptnr-khabriya/title-THALAA-TV-TAM_Khabriya/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/c9d5c8a0-8c52-47bc-954d-e64a11314de2/27e5db4b-0362-4429-9ca6-7787a5defd88/1.m3u8
-
-
-
-https://streams2.sofast.tv/ptnr-khabriya/title-TOLLY-TV-TEL_Khabriya/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/9bb55dff-7a74-43aa-bcf7-ea537e8b9e92/48792ff7-813b-4179-b1d1-adc8184f6e9f/1.m3u8
-
-
-
+Zee cinema
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeecinemaapachd.smil/chunklist_b2628000.m3u8
 
 
@@ -1171,8 +1171,6 @@ https://amigofx.com:1936/bigstarmovie/bigstarmovie/playlist.m3u8
 https://amigofx.com:1936/hitzentertainment/hitzentertainment/playlist.m3u8
 #EXTINF:-1 group-title="PRO✅", STV Gold🎬
 https://amigofx.com:1936/stv/stv/playlist.m3u8
-#EXTINF:-1 tvg-id="389"tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C389-1770751354.png"group-title="FIROJ KHAN SPECIAL",RUN THRILLERS🎬
-https://mumbai-edge.smartplaytv.in/runthrillers/index.m3u8
 #EXTINF:-1 tvg-id="389"tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C389-1770751354.png"group-title="FIROJ KHAN SPECIAL",Star Plus🎬
 https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png?lock=720x540" group-title="PRO✅",B4U Movies🎬
@@ -1217,12 +1215,6 @@ http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/809016.ts
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:rupashibangla.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sheemaroo Bollywood" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="PRO✅",Sheemaroo Bollywood🎬
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Max 2" tvg-logo="https://i.postimg.cc/hP59QSrm/20240825_075205.png" group-title="PRO✅",Sony Max 2🎬
-https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Max HD" tvg-logo="https://i.postimg.cc/YS3BdNNW/20240823_022655.png" group-title="PRO✅",Sony Max HD🎬
-https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Television HD" tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png" group-title="PRO✅",Sony Television HD🎬
-https://drk6xq0vhn.gpcdn.net/live/sony_ent_hd_abr/index.m3u8
 #EXTINF:-1 group-title="PRO✅" group-logo="",Big star🎬
 https://amigofx.com:1936/bigstarmovie/bigstarmovie/chunklist_w895905011.m3u8
 #EXTINF:-1 group-title="PRO✅" group-logo="",Roja🎬
