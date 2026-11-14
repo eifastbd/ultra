@@ -1410,7 +1410,19 @@ https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://imgur.com/JkDD3bK",Panorama FM🦋
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Panorama_FM_Logo.svg⁠",Panorama FM🦋
 https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8
 #EXTINF:-1 tvg-name="Islamic TV" tvg-logo="https://i.postimg.cc/J4nkLqHS/20260321-075216.png" group-title="PRO✅",Islamic TV🤲
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8
@@ -1466,7 +1478,6 @@ https://mumbai-edge.smartplaytv.in/MercyTV/index.m3u8
 https://cd198.anystream.uk:9092/iqapp/t5kb86tv/playlist.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrDA-jAFNps3Xy53N5Uf8BM34sgzLlxtgA79nsXAnZP1XmT-d3571ozLE&s=10",Mercy🤲
 https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ch_65" tvg-name="Islam Channel Bangla" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/islam-channel-bangla.webp" group-title="PRO✅",Islam Bangla🤲
 https://live-islamtv-bangla.simplestreamcdn.com/out/v1/islamchannel/islamtv-bangla/hls-ts/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/05/Copilot_20250530_180323-768x768.png",Deen Bangla🤲
