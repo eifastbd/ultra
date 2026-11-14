@@ -111,7 +111,7 @@ http://158.69.24.53:8080/probashi_tv/index.m3u8
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg335AmdqAfP2k7vRd0bvVZHhcQ4_-nr1fV52x7YR2VQ&s=10" group-title="PRO✅",Star News🇧🇩
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="CHANNEL S" tvg-logo="https://i.ibb.co/993kjV2/Picsart-23-06-09-16-17-31-424.png" group-title="Entertainment",CHANNEL S
+#EXTINF:-1 tvg-name="CHANNEL S" tvg-logo="https://i.ibb.co/993kjV2/Picsart-23-06-09-16-17-31-424.png" group-title="PRO✅",CHANNEL S🇧🇩
 https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chunks.m3u8
 #EXTINF:-1 group-title="PRO✅" group-logo="https://yt3.googleusercontent.com/AQLUH_ixhkqBRCV9M1rtWRQhUFiXB1QvX-l1DIbrfmeMjrU8kJzAeCaiupHjEPEz9M2daSfm9A=s900-c-k-c0x00ffffff-no-rj" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvdc0C6H_VHLzzCQpGTsMnY0tgMc-5MxAL63T2HVPWvaG0gVEzBxcKifo&s=10",Channel S🇧🇩
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
@@ -138,10 +138,6 @@ http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iontvuk.stream/live-orgin/iontvuk.stream/chunks.m3u8
 #EXTINF:-1 xui-id="17" tvg-id="" tvg-name="GAZI TV HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/gazi.png" group-title="PRO✅",GTV🇧🇩
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 xui-id="17" tvg-id="" tvg-name="GAZI TV HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/gazi.png" group-title="PRO✅",GTV🇧🇩
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/chunks.m3u8?nimblesessionid=1315395633
-
-
 #EXTINF:-1 tvg-name="Nexus TV" tvg-logo="https://i.postimg.cc/XvZ0gM06/20250529-104547.png" group-title="PRO✅",Nexus TV🇧🇩
 https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
 #EXTINF:-1 tvg-name="Ekhon TV" tvg-logo="https://i.postimg.cc/sggzvQ6X/20250529-105045.png" group-title="PRO✅",Ekhon TV
@@ -220,8 +216,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 #EXTINF:0 tvg-id="zns9eha2" tvg-name="Ananda TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/atnbanglauk11.jpg?x67896" tvg-chno="28" group-title="PRO✅",ATN Bangla UK🇧🇩
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbanglauk-off.stream/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="zns9eha2" tvg-name="Ananda TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/04/azantvs.jpg" tvg-chno="28" group-title="PRO✅",Azan TV Canada🇧🇩
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/azantv.stream/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x91288" group-title="PRO✅",Boishakhi🇧🇩
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/boishakhitv-org.stream/tracks-v1a1/mono.m3u8
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channeli-8-org.stream/tracks-v1a1/mono.m3u8
@@ -1432,7 +1427,8 @@ https://tvsen7.aynaott.com/MadaniTV/tracks-v1/mono.ts.m3u8
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
 #EXTINF:-1 tvg-id="ch_321" tvg-name="Islam TV" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/islam-tv.webp" group-title="PRO✅",Islam TV🤲
 https://tvsen1.aynaott.com/bB3A5dyq/index.m3u8
-
+#EXTINF:0 tvg-id="zns9eha2" tvg-name="Ananda TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/04/azantvs.jpg" tvg-chno="28" group-title="PRO✅",Azan TV🤲
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/azantv.stream/tracks-v1a1/mono.m3u8
 
 
 
