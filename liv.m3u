@@ -8,6 +8,24 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/T_Sports.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",T Sports HD(Orbit)
+http://172.19.17.3:8090/hls/tsportshd.m3u8
 #EXTINF:-1 tvg-id="event-cricket-wcl-vs-wcl-1792337400" tvg-name="WCL vs WCL [AQ)] (WORLD CHAMPIONSHIP OF LEGENDS Grand Final)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnu9lQ5fetTxMjRme05luM_zPINqSLAPTnIJgJc63FWJmXiBOXYgFEWI&s=10" group-title="Cricket", ⚽
 https://live.bongobd.com/hls/v2.h9AhCNr2PAwf--A3Mc7_eA/1794670014/bongoiptv/SAFFmatch08_mid/chunks.m3u8|User-Agent=iPhone
 #EXTINF:-1 tvg-id="event-cricket-wcl-vs-wcl-1792337400" tvg-name="WCL vs WCL [AQ)] (WORLD CHAMPIONSHIP OF LEGENDS Grand Final)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnu9lQ5fetTxMjRme05luM_zPINqSLAPTnIJgJc63FWJmXiBOXYgFEWI&s=10" group-title="Cricket", ⚽
@@ -126,8 +144,7 @@ http://94.130.48.67:8042/stream/55/index.m3u8
 http://94.130.48.67:8042/stream/56/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/T_Sports.png" group-title="BANGLADESH",T Sports HD(Orbit)
-http://172.19.17.3:8090/hls/tsportshd.m3u8
+
 
 #EXTINF:-1 tvg-id="76" tvg-name="Ten Sports" tvg-logo="https://i.postimg.cc/Bv4jbHrr/1000116232.jpg" group-title="Sports",Ten Sports
 https://live.incableinternet.com/ten-sports/master.m3u8
