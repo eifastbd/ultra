@@ -135,6 +135,10 @@ http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iontvuk.stream/live-orgin/iontvuk.stream/chunks.m3u8
 #EXTINF:-1 xui-id="17" tvg-id="" tvg-name="GAZI TV HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/gazi.png" group-title="PRO✅",GTV🇧🇩
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 xui-id="17" tvg-id="" tvg-name="GAZI TV HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/gazi.png" group-title="PRO✅",GTV🇧🇩
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/chunks.m3u8?nimblesessionid=1315395633
+
+
 #EXTINF:-1 tvg-name="Nexus TV" tvg-logo="https://i.postimg.cc/XvZ0gM06/20250529-104547.png" group-title="PRO✅",Nexus TV🇧🇩
 https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
 #EXTINF:-1 tvg-name="Ekhon TV" tvg-logo="https://i.postimg.cc/sggzvQ6X/20250529-105045.png" group-title="PRO✅",Ekhon TV
@@ -307,6 +311,8 @@ https://dish.porosh.com.bd/hls/jtvnews.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSV1py3jfF1GxTt9mLp4FaGPh_VSQkb7vlAkk6gM4lyaZ-VpKGcZjvj1bAj5XGM2z6FzZ-YcF5ypK3eSqTdiJWbUwfAcpo9gpp46XzFPdyuqWwJpN8CJVD2Eccw7THi60xgJ9rMkm-i8S83s4x6ZAO27kALxlY7ulLkwIO4CEuMz40yvj52A7yxCM1Ng/s600/Nur_20251107_000734_0000.png" group-title="PRO✅", Aakash Aath
 https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
 #https://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8?e=1759879680&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=c8a4aa410ce279c733746ef2591aed17
+#EXTINF:-1,Nantv
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/chunks.m3u8?nimblesessionid=1315405249
 #EXTINF:-1,Cine জমজমাট
 https://mumt04.tangotv.in/m18aqlK4SONARBANGLA/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/10/matribhumi.jpg",MatriBhumi
@@ -1437,9 +1443,8 @@ https://mumbai-edge.smartplaytv.in/MercyTV/index.m3u8
 https://cd198.anystream.uk:9092/iqapp/t5kb86tv/playlist.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrDA-jAFNps3Xy53N5Uf8BM34sgzLlxtgA79nsXAnZP1XmT-d3571ozLE&s=10",Mercy🤲
 https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGPh6VKY/Hridoy-TV-(3).webp" group-title="PRO✅",Madani Tv🤲
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
-#EXTINF:-1 tvg-id="ch_65" tvg-name="Islam Channel Bangla" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/islam-channel-bangla.webp" group-title="PRO✅",Islam Channel Bangla🤲
+
+#EXTINF:-1 tvg-id="ch_65" tvg-name="Islam Channel Bangla" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/islam-channel-bangla.webp" group-title="PRO✅",Islam Bangla🤲
 https://live-islamtv-bangla.simplestreamcdn.com/out/v1/islamchannel/islamtv-bangla/hls-ts/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/05/Copilot_20250530_180323-768x768.png",Deen Bangla🤲
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamchbangla.stream/tracks-v1a1/mono.m3u8
