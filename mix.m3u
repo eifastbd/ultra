@@ -1248,7 +1248,7 @@ https://cdn.pishow.tv/ott/live/1459/master.m3u8
 https://cdn.pishow.tv/ott/live/1461/master.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KHUSHBOO_BANGLA/images/LOGO_HD/image.png",Khusboo Bangla😁
 https://cdn.pishow.tv/ott/live/1473/master.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.imgur.com/8QmZQ7S.png",Movie Club🎬
+#EXTINF:-1 tvg-id="ch_125" tvg-name="The Movie Club" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/the-movie-club.webp" group-title="PRO✅",The Movie Club🎬
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.imgur.com/8QmZQ7S.png",Movie Club2🎬
 https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
@@ -1347,10 +1347,8 @@ https://server.zillarbarta.com/zillarbarta/index.m3u8
 
 https://stream.ottlive.co.in/utvtamil/index.m3u8
 
-#EXTINF:-1 tvg-id="ch_125" tvg-name="The Movie Club" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/the-movie-club.webp" group-title="Movies",The Movie Club
-https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
-#EXTINF:-1 tvg-id="ch_126" tvg-name="Hindi Movie Classic 24" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hindi-movie-classic-24.webp" group-title="Movies",Hindi Movie Classic 24
-https://vods2.aynaott.com/hindimovies/index.m3u8
+
+
 
 
 
