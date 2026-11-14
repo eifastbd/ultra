@@ -24,11 +24,7 @@ http://103.238.115.159:8080/T-SPORRTS-HD/index.m3u8?token=AKASH
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/T_Sports.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",T Sports HD(Orbit)
 http://172.19.17.3:8090/hls/tsportshd.m3u8
 #EXTINF:-1 tvg-id="event-cricket-wcl-vs-wcl-1792337400" tvg-name="WCL vs WCL [AQ)] (WORLD CHAMPIONSHIP OF LEGENDS Grand Final)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnu9lQ5fetTxMjRme05luM_zPINqSLAPTnIJgJc63FWJmXiBOXYgFEWI&s=10" group-title="Cricket", ⚽
-https://live.bongobd.com/hls/v2.h9AhCNr2PAwf--A3Mc7_eA/1794670014/bongoiptv/SAFFmatch08_mid/chunks.m3u8|User-Agent=iPhone
-#EXTINF:-1 tvg-id="event-cricket-wcl-vs-wcl-1792337400" tvg-name="WCL vs WCL [AQ)] (WORLD CHAMPIONSHIP OF LEGENDS Grand Final)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnu9lQ5fetTxMjRme05luM_zPINqSLAPTnIJgJc63FWJmXiBOXYgFEWI&s=10" group-title="Cricket", ⚽
 https://live2.jorvakstreamcache.com/live/channel19.m3u8?|Referer=https://xlz.domainkqt.cc/
-#EXTINF:-1 tvg-id="event-cricket-wcl-vs-wcl-1792337400" tvg-name="WCL vs WCL [AQ)] (WORLD CHAMPIONSHIP OF LEGENDS Grand Final)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnu9lQ5fetTxMjRme05luM_zPINqSLAPTnIJgJc63FWJmXiBOXYgFEWI&s=10" group-title="Cricket", ⚽
-https://live.bongobd.com/hls/v2.h9AhCNr2PAwf--A3Mc7_eA/1794670014/bongoiptv/SAFFmatch08_mid/chunks.m3u8|User-Agent=iPhone
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T-SPORTS
 http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
 #http://103.185.24.134:3001/TSportsHD/index.m3u8
