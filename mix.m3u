@@ -369,7 +369,6 @@ https://iptv.porosh.com.bd/tmp_hls/c2626d850c80ea07e7511bbae4c76f4b/index.m3u8
 https://rs.porosh.com.bd/tv.m3u8
 #EXTINF:-1 tvg-id="ch_62" tvg-name="Desh Bangla TV" group-title="Entertainment",Desh Bangla TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshbanglatv.stream/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/1_hi_dost.png" group-title="PRO✅",Hi Dost!
 https://cdn.pishow.tv/ott/live/224/master.m3u8
 
@@ -458,10 +457,7 @@ https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/playlist.m3u8?hd
 http://live.balajibroadband.com:3500/live/1763.m3u8
 #EXTINF:-1 tvg-id="colors-cineplex-superhit" tvg-name="Colors Cineplex Superhit" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png" group-title="PRO✅",Colors Cineplex Superhit
 http://live.balajibroadband.com:3500/live/1450.m3u8
-#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Hum.png" group-title="PRO✅",Hum TV EUROPE
-https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
-#EXTINF:-1  group-title="PRO✅" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9sZttim5GLAbajaB_Jnq3xBGpj2hn3S1dOpLFU3M25kPK1dz28hOV3E4&s=10" tvg-logo="https://assets-prod.services.toffeelive.com/-y50-JQBv9knK3AHLzSn/posters/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp",Sony Entertained 
-https://drk6xq0vhn.gpcdn.net/live/sony_ent_sd_abr/index.m3u8
+
 
 
 
