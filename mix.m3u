@@ -579,9 +579,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-209587/index.m3u8
 https://visionbeats.keralive.workers.dev/Visionbeats/index.m3u8|Referer=https://bhoomtv.org/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XvG65zK/IMG-20260420-012512.jpg" group-title="PRO✅",HINDI HITS HD🌀
 #https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
-#https://rpn3.bozztv.com/dvrfl07/ushba-t4/playlist.m3u8
+https://rpn3.bozztv.com/dvrfl07/ushba-t4/playlist.m3u8
 #http://146.59.253.52:8080/hindihitshd/index.m3u8
-https://bhoomtv.org/tv/restream-tv/stream.m3u8?id=29d7f16babf8|Referer=https://bhoomtv.org/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgB7qWjf/8xm.jpg" group-title="PRO✅",8XM🌀
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nh6BJLr4/Jalwa.jpg" group-title="PRO✅",JALWA🌀
@@ -590,8 +589,6 @@ https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8TbRJp2/Zoom.jpg" group-title="PRO✅",ZOOM🌀
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSLNzXgM/Bengali-Beats.png" group-title="PRO✅",Bengali Beats🌀
-https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://p16-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/177163a62ad731af14f7a6e91b307695~c5_720x720.jpeg?utm_source=chatgpt.com",Only Music🌀
 https://livestream.unlimitedcdn.com/onlymusic/index.m3u8
 #EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-logo="https://i.imgur.com/zDiIhdN.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="PRO✅",7S Music🌀
