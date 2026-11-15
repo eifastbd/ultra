@@ -580,9 +580,10 @@ https://visionbeats.keralive.workers.dev/Visionbeats/index.m3u8|Referer=https://
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XvG65zK/IMG-20260420-012512.jpg" group-title="PRO✅",HINDI HITS HD🌀
 #https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
 https://rpn3.bozztv.com/dvrfl07/ushba-t4/playlist.m3u8
-#http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgB7qWjf/8xm.jpg" group-title="PRO✅",8XM🌀
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHd0DJC4/IMG-1762538303345-2.jpg" group-title="PRO✅",HINDI HITS🌀
+http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nh6BJLr4/Jalwa.jpg" group-title="PRO✅",JALWA🌀
 https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbmXThS6/Yrf-Music.jpg" group-title="PRO✅",YRF MUSIC🌀
