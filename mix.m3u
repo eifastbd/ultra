@@ -457,8 +457,34 @@ https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/playlist.m3u8?hd
 http://live.balajibroadband.com:3500/live/1763.m3u8
 #EXTINF:-1 tvg-id="colors-cineplex-superhit" tvg-name="Colors Cineplex Superhit" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png" group-title="PRO✅",Colors Cineplex Superhit
 http://live.balajibroadband.com:3500/live/1450.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDbMCBHK/Jalsha-Movies.jpg" group-title="Movie",95.JALSHA MOVIES
+https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8wqN7zh/Colors-Cineplex-Bollywood.jpg" group-title="Movie",85.COLORS CINEPLEX BOLLYWOOD
+http://live.balajibroadband.com:3500/live/1763.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYtSbxqY/Zee-Cinema.jpg" group-title="Movie",75.ZEE CINEMA
+https://coolx-iptv.vercel.app/lkn/tv?id=583&format=.m3u8|User-Agent=CoolXStreamIPTV
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="Movie",61.SONY MAX
+https://techandeat.online/sliv/stream.m3u8?id=1000009249|Referer=https://techandeat.online/
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Movie",62.SONY MAX HD
+https://techandeat.online/sliv/stream.m3u8?id=1000009247|Referer=https://techandeat.online/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N01Z2D5F/Sony-Max-1.jpg" group-title="Movie",63.SONY MAX 1
+https://bdtop1.tvhunter.top/max1/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Entertainment",64.SONY AATH
+https://techandeat.online/sliv/stream.m3u8?id=1000009255|Referer=https://techandeat.online/
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="Entertainment",65.SONY HD
+https://techandeat.online/sliv/stream.m3u8?id=1000009246|Referer=https://techandeat.online/
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png" group-title="Entertainment",66.SONY WAH
+https://techandeat.online/sliv/stream.m3u8?id=1000009253|Referer=https://techandeat.online/
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="Movie",67.SONY PIX HD
+https://techandeat.online/sliv/stream.m3u8?id=1000009258|Referer=https://techandeat.online/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyVLYPQq/IMG-1740775080919-2.png" group-title="Movie",68.SONY MAX 2
+https://techandeat.online/sliv/stream.m3u8?id=1000044878|Referer=https://techandeat.online/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yCwHQHc/IMG-1740774941854-2.png" group-title="Entertainment",69.SONY KAL
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1007
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yhCgRWJ/IMG-1740774880412-2.png" group-title="Entertainment",70.SONY PAL
+https://techandeat.online/sliv/stream.m3u8?id=1000009273|Referer=https://techandeat.online/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NxrcY1p/Bangla-Tv.jpg" group-title="Entertainment",36.BANGLA TV +
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 
 
