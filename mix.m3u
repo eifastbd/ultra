@@ -286,7 +286,7 @@ https://dish.porosh.com.bd/hls/jalshabangla.m3u8
 https://stream.channeleuropetvboxlondon.co.uk/live/abcnews/playlist.m3u8
 #EXTINF:-1,IBYV
 https://cdn.livestreambd.com/IBTV/index.m3u8
-#EXTINF:-1 group-title="PRI✅", VISION 24
+#EXTINF:-1 tvg-name="VISION TV" tvg-logo="https://i.postimg.cc/436nN9NJ/20260930-164805.jpg" group-title="PRO✅",VISION TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/vision24.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/snb_cinema.png" group-title="Bangla",SNB Cinema
 http://103.182.83.246/hls/snbcinema.m3u8
@@ -315,15 +315,13 @@ https://ranacable.duckdns.org/RanaCableTV/index.m3u8
 https://ranacable.duckdns.org/Bprimebangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo=" ",SAMI TV
 https://bdix.ottking.top:8082/Sami-TV/tracks-v1a1/mono.m3u8?token=Sami-TV
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjwGg2XyMGxFITXm_54WBnNF_zBYcYw9n1E_P1Cxoo=s900-c-k-c0x00ffffff-no-rj" group-title="PRO✅", KTV Bangla
-https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2LWHMLeQR_RCoxUGae5HTqqA7y7a-0A2IUfR6aNVjFPRHOa-iiP8Hv3HK_iTuJKpiUBPCNGgBSMmXPjbqprI3t2YeLf-_QhE1ZhafnGD6FEFxGXcw5g1yE2dz2TEhF7eXoTTpmcS4TlOd75ptLZEuJVdnTo2qCY_mxKm2wbpZL4QqudSaRat3I9Qphg/s600/Nur_20251226_221413_0000.png",Jhankar TV
 https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://porosh.com.bd/upload/tv/tv_1770821919_9282.png" group-title="PRO✅",channel-16
 https://iptv.porosh.com.bd/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 #EXTINF:-1 tvg-logo="https://porosh.com.bd/upload/tv/tv_1771585053_6632.jpg" group-title="PRO✅",Vtv
 http://157.245.116.246:8080/hls/islamnow/index.m3u8
-#EXTINF:-1 tvg-logo="https://porosh.com.bd/upload/tv/tv_1770821919_9282.png" group-title="PRO✅",channel-16
+#EXTINF:-1 tvg-name="Jatv" tvg-logo="https://i.postimg.cc/G2Pc3wJ2/20260928-003330.jpg" group-title="Entertainment",Jatv
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 #EXTINF:-1 tvg-id="3331"tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sailendar.png" group-title="PRO✅",STV Bangla
 https://server.playontv.in/sailendar/tracks-v1a1/index.m3u8
@@ -333,11 +331,8 @@ http://str24.19574.com/510.stream/index.m3u8
 https://server1.jolshabd.com/sbanglatv/sbanglatv/chunklist_w1326217964.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjwGg2XyMGxFITXm_54WBnNF_zBYcYw9n1E_P1Cxoo=s900-c-k-c0x00ffffff-no-rj" group-title="PRO✅", KTV Bangla
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="biswa-bangla-world-tv" tvg-name="Biswa Bangla World TV" tvg-logo="https://i.ibb.co.com/jjKhkmv/Hridoy-TV-new-bd-channel-1.jpg" group-title="PRO✅",Biswa Bangla World TV
-https://server1.jolshabd.com/biswabanglaworld/biswabanglaworld/chunklist_w841542938.m3u8
 #EXTINF:-1 tvg-id="biswa-bangla-world-tv" tvg-name="Biswa Bangla World TV" tvg-logo="https://i.ibb.co.com/jjKhkmv/Hridoy-TV-new-bd-channel-1.jpg" group-title="PRO✅",Biswa Bangla World
 https://server1.jolshabd.com/biswabanglaworld/biswabanglaworld/chunklist_w52375757.m3u8
-https://server1.jolshabd.com/biswabanglaworld/biswabanglaworld/chunklist_w496605319.m3u8
 #EXTINF:-1 tvg-id="3331"tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sailendar.png" group-title="PRO✅",STV Bangla
 https://server.playontv.in/sailendar/index.m3u8
 #EXTINF:-1 tvg-id="183"tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_158_1729599506.png" group-title="PRO✅",Rongeen TV 
@@ -352,12 +347,6 @@ https://jagroniakash.ncare.live/eyetv/eyetv.stream/tracks-v1a1/mono.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshbanglatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="MON TV" tvg-logo="https://i.postimg.cc/G2hkWnG5/20261003-040355.jpg" group-title="Entertainment",MON TV
 https://stream.dekhoprime.workers.dev/hls/mCmxA-S7fgD6GJCNte_GxiM8zTgSQ2Ct3PHBpe_i4KZAeVhxu7winATh7nryg7T_xmppIG2Ybyx8ymRE6OeVQ16wICyEqx8hQ8yrz_mabGguokYofslHt2ujH_Q788zM/sub.m3u8?u=http%3A%2F%2F115.187.41.216.nip.io%3A8080%2Fhls%2Fmontvbangla%2F2_1%2Findex.m3u8%3Ftkn%3D462199397
-#EXTINF:-1 tvg-name="Jatv" tvg-logo="https://i.postimg.cc/G2Pc3wJ2/20260928-003330.jpg" group-title="Entertainment",Jatv
-https://noisy-frost-934b.hksarverhksarver.workers.dev/stream?url=https%3A%2F%2Fdish.porosh.com.bd%2Fhls%2Fjtvnews.m3u8&exp=1793985775&sig=10ab67d386eeffda
-#EXTINF:-1 tvg-name="VISION TV" tvg-logo="https://i.postimg.cc/436nN9NJ/20260930-164805.jpg" group-title="Entertainment",VISION TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/visionhd.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="CB 24 TV" tvg-logo="https://i.postimg.cc/6QXXJFdJ/20260930-231124.jpg" group-title="Entertainment",CB 24 TV
-https://noisy-frost-934b.hksarverhksarver.workers.dev/stream?url=https%3A%2F%2Fglobal.ncare.live%2Fcb24%2Fcb24.stream%2Ftracks-v1a1%2Fmono.m3u8&exp=1793687054&sig=fa5c9e62bae0ccfc
 #EXTINF:-1 tvg-name="Shikor TV" tvg-logo="https://i.postimg.cc/Gp6sCFLw/20260930-234542.jpg" group-title="Entertainment",Shikor TV
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/shikortv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI2IDEyOjI5OjQ3IFBNJmhhc2hfdmFsdWU9cUx6NDZvSTN6V0xWRW5NY2JSVHlndz09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1 tvg-name="K TV Bangla" tvg-logo="https://i.postimg.cc/MKcNs4QG/20260925-165910.png" group-title="Entertainment",K TV Bangla
