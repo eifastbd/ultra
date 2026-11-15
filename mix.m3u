@@ -204,8 +204,6 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w572284654.m3u8
 #EXTINF:-1 tvg-name="Bangla 1" tvg-logo="https://i.postimg.cc/qvb125Lh/20261001-000801.jpg" group-title="PRO✅",Bangla 1
 https://video1.getstreamhosting.com:1936/fbgahehyaj/fbgahehyaj/playlist.m3u8
-#EXTINF:-1, group-title="PRO✅",SNB CINEMA🇧🇩
-http://103.182.83.246/hls/snbcinema.m3u8
 #EXTINF:-1 group-title="PRO✅",Aamar Bangla🇧🇩
 http://115.187.41.216:8080/hls/amarbangla/index.m3u8
 #EXTINF:0 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/amardigital-1-150x150.jpg?x71442" group-title="PRO✅",Amar Bangla Digital🇧🇩
@@ -242,12 +240,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/PxxzBhDM/20240822-230101.png",Mohona Tv 
 https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/Tw4qxSqv/20240822-230126.png",Bijoy Tv
-https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rwd1rei.png" group-title="PRO✅",Anirban
 https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="dd8c50e9-5dad-4cb9-9df8-5763e95281ad" tvg-name="Desh TV" tvg-logo="https://s3.aynaott.com/storage/9ef657aca7c0009e4f0675af3b5190d8" group-title="PRO✅",Desh TV🇧🇩
-https://stream.ottplus.live/live/desh_tv_abr/index.m3u8
 #EXTINF:1 tvg-logo="" tvg-name="" group-title="PRO✅",JTV CLASSIC
 http://103.67.97.46/0.ts
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="PRO✅",JTV BANGLA
