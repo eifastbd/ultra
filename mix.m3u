@@ -530,10 +530,13 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 
 
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FRXyjKQr/Sangeet-Bangla.jpg" group-title="PRO✅",SANGEET BANGLA🌀
 https://techtraveleat.in/stream.m3u8?id=sangeetbangla|Referer=https://techtraveleat.in/
 #EXTINF:-1 tvg-id="7X Music" tvg-name="7X Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcah7H-5mM2w9PtLLSOersfEjAlT0_MmGj09XgtUp7Pw&s=10" group-title="PRO✅",7X Music🌀
-https://cdn2.in/7xPunjabihls/live.m3u8
+https://7xshreeshyam.akamaized.net/7XPunjabi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PRO✅" group-logo="",V Music🌀
 https://allchannels.in/live/vvmusic_100/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PRO✅" group-logo="",Prime Music🌀
@@ -546,8 +549,6 @@ https://mumt04.tangotv.in/m18aqlK4TABBARHITS/index.m3u8
 https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI/images/LOGO_HD/image.png?utm_source=chatgpt.com",PTC Punjabi🌀
 https://cdn.pishow.tv/ott/live/1604/master.m3u8
-#EXTINF:-1 group-title="PRO✅" group-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LOGO_HD/image.png?utm_source=chatgpt.com",Pittara🌀
-https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
 #EXTINF:-1, group-title="PRO✅" group-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png",88 Stereo🌀
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1, group-title="PRO✅" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/360_TuneBox_logo.svg/1000px-360_TuneBox_logo.svg.png",360 Tune🌀
