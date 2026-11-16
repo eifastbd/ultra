@@ -57,40 +57,57 @@ https://playztv-apps.pages.dev/willow-tv/index.m3u8
 http://27.124.71.27/Willow_Extra/index.m3u8
 
 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="event-cricket-wcl-vs-wcl-1792337400" tvg-name="WCL vs WCL [AQ)] (WORLD CHAMPIONSHIP OF LEGENDS Grand Final)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnu9lQ5fetTxMjRme05luM_zPINqSLAPTnIJgJc63FWJmXiBOXYgFEWI&s=10" group-title="Cricket", WCL vs WCL [AQ)] (WORLD CHAMPIONSHIP OF LEGENDS Grand Final)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9
-https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd?
-
-#EXTINF:-1 tvg-id="event-cricket-wcl-vs-wcl-1792337400" tvg-name="WCL vs WCL [AQ)] (WORLD CHAMPIONSHIP OF LEGENDS Grand Final)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnu9lQ5fetTxMjRme05luM_zPINqSLAPTnIJgJc63FWJmXiBOXYgFEWI&s=10" group-title="Cricket", WCL vs WCL [AQ)] (WORLD CHAMPIONSHIP OF LEGENDS Grand Final)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-
-#EXTINF:-1 tvg-id="event-cricket-wcl-vs-wcl-1792337400" tvg-name="WCL vs WCL [AQ )] (WORLD CHAMPIONSHIP OF LEGENDS Grand Final)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnu9lQ5fetTxMjRme05luM_zPINqSLAPTnIJgJc63FWJmXiBOXYgFEWI&s=10" group-title="Cricket", WCL vs WCL [AQ )] (WORLD CHAMPIONSHIP OF LEGENDS Grand Final    )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/c
-#EXTINF:-1 tvg-id="event-cricket-wcl-vs-wcl-1792337400" tvg-name="WCL vs WCL (FOX CRICKET HD) (WORLD CHAMPIONSHIP OF LEGENDS Grand Final)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnu9lQ5fetTxMjRme05luM_zPINqSLAPTnIJgJc63FWJmXiBOXYgFEWI&s=10" group-title="Cricket", WCL v                                        
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://baila-lentoo.pages.dev/nwp/809389.m3u8
 #EXTINF:-1 tvg-id="event-motorsport-formula-1-vs-formula-1-1792733400" tvg-name="Formula 1 vs Formula 1 [AQ )]" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport", Fancode
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+#EXTINF:-1 tvg-id="event-motorsport-formula-1-vs-formula-1-1792733400" tvg-name="Formula 1 vs Formula 1 [AQ )]" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport", Fancode
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
-#EXTINF:-1 tvg-id="event-motorsport-formula-1-vs-formula-1-1792733400" tvg-name="Formula 1 vs Formula 1 [AQ )]" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport", Formula 1 
+
+
+#EXTINF:-1 tvg-id="ch_181" tvg-name="Bein Sports 1" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Bein%201.webp" group-title="TV",Bein Sports 1
+http://27.124.71.27/beIN_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="ch_182" tvg-name="Bein Sports 2" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Bein%202.webp" group-title="TV",Bein Sports 2
+http://27.124.71.27/beIN_Sports_2/index.m3u8
+#EXTINF:-1 tvg-id="ch_183" tvg-name="Bein Sports 3" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Bein%203.webp" group-title="TV",Bein Sports 3
+http://27.124.71.27/beIN_Sports_3/index.m3u8
+#EXTINF:-1 tvg-id="ch_184" tvg-name="Bein Sports Xtra" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Bein%20Sports%20Xtra.webp" group-title="TV",Bein Sports Xtra
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ch_181" tvg-name="Bein Sports 1" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Bein%201.webp" group-title="TV",Bein Sports 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+#EXTINF:-1 tvg-id="ch_181" tvg-name="Bein Sports 1" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Bein%201.webp" group-title="TV",Bein Sports 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="event-cricket-wcl-vs-wcl-1792337400" tvg-name="WCL vs WCL [AQ)] (WORLD CHAMPIONSHIP OF LEGENDS Grand Final)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnu9lQ5fetTxMjRme05luM_zPINqSLAPTnIJgJc63FWJmXiBOXYgFEWI&s=10" group-title="Cricket",StarZ Play
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9
+https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd?
+
+#EXTINF:-1 tvg-id="event-cricket-wcl-vs-wcl-1792337400" tvg-name="WCL vs WCL (FOX CRICKET HD) (WORLD CHAMPIONSHIP OF LEGENDS Grand Final)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnu9lQ5fetTxMjRme05luM_zPINqSLAPTnIJgJc63FWJmXiBOXYgFEWI&s=10" group-title="Cricket",FOX                                      
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://baila-lentoo.pages.dev/nwp/809389.m3u8
+
+#EXTINF:-1 tvg-id="event-motorsport-formula-1-vs-formula-1-1792733400" tvg-name="Formula 1 vs Formula 1 [AQ )]" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport",TSN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
@@ -106,7 +123,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
-
 
 #EXTINF:-1 tvg-id="event-wwe-dynamite-vs-dynamite-1792627200" tvg-name="DYNAMITE vs DYNAMITE [AQ )] (AEW Dynamite)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB88iK4_VDCc8OWqAQ-UzYdZLl4hPmZSxXRaHiHwyf-g&s=10" group-title="WW",Euro
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -129,16 +145,11 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wjeweupwyc/out/v1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
-#EXTINF:-1 tvg-id="event-tennis-atp-vs-atp-1792303200" tvg-name="ATP vs ATP [AQ )] (Shanghai OPEN)" tvg-logo="https://crystalpng.com/wp-content/uploads/2025/11/new-atp-tour-logo.png" group-title="Tennis", ATP vs ATP [AQ )] (Shanghai OPEN)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-#EXTINF:-1 tvg-id="event-tennis-wta-vs-wta-1792409400" tvg-name="WTA vs WTA [AQ )] (NINGBO Open 2026)" tvg-logo="https://crystalpng.com/wp-content/uploads/2025/03/wta-logo.png" group-title="Tennis",Tsn
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+
+
+
+
 
 
 
@@ -190,14 +201,7 @@ http://103.135.253.32:8080/TEN-2/index.m3u8
 http://103.135.253.32:8080/TEN-3/index.m3u8
 #EXTINF:-1 tvg-id="ch_180" tvg-name="Sony Ten  Sports 5" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Sony%20Ten%20Sports%205.webp" group-title="TV",Sony Ten  Sports 5
 http://103.135.253.32:8080/TEN-5/index.m3u8
-#EXTINF:-1 tvg-id="ch_181" tvg-name="Bein Sports 1" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Bein%201.webp" group-title="TV",Bein Sports 1
-http://27.124.71.27/beIN_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="ch_182" tvg-name="Bein Sports 2" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Bein%202.webp" group-title="TV",Bein Sports 2
-http://27.124.71.27/beIN_Sports_2/index.m3u8
-#EXTINF:-1 tvg-id="ch_183" tvg-name="Bein Sports 3" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Bein%203.webp" group-title="TV",Bein Sports 3
-http://27.124.71.27/beIN_Sports_3/index.m3u8
-#EXTINF:-1 tvg-id="ch_184" tvg-name="Bein Sports Xtra" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Bein%20Sports%20Xtra.webp" group-title="TV",Bein Sports Xtra
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
 #EXTINF:-1 tvg-id="ch_185" tvg-name="Willow Sports" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Willow%20Sports.webp" group-title="TV",Willow Sports
 http://103.135.253.32:8080/WILLOW-SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="ch_186" tvg-name="Unite8 Sports 1" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Unite8%20Sports%201.webp" group-title="TV",Unite8 Sports 1
