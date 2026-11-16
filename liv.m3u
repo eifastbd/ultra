@@ -24,6 +24,16 @@ http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
 #http://103.185.24.134:3001/TSportsHD/index.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://img.magnific.com/premium-vector/professional-tv-channel-logo-design-concept-vector-illustration_875240-1836.jpg?semt=ais_test_b&w=740&q=80" tvg-logo="https://yt3.googleusercontent.com/IFgAG_o_AdtX4IauErKIzuFGCj0m4QyH81Q1Uq8H-2Si9ul3vmXkLihDUnn6-QI3xiMZech0AQ=s900-c-k-c0x00ffffff-no-rj",Tsports
 http://103.209.196.22:84/feed1001/index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://media1.tenor.com/m/HJCN0mM2awAAAAAd/nagin-bangladesh-kids-nagins-dogladeshis.gif",T-sport🔥
+http://103.16.24.4:8083/14.m3u8
+#EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://itcnbd.live/images/95357b2f224dabfec27bf87dffb952b2.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",T Sports HD
+http://str24.l9574.com/905.stream/index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" tvg-logo="https://fcnchbd.xyz/iptv/logo/spbts.png",T SPORTS FHD
+http://cdn.fcnonline.xyz:8090/hls/tsportshd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/T_Sports.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",T-SPORTS 
+https://tvsen3.aynaott.com/Sports1/mono.m3u8
+
+
 
 #EXTINF:-1 tvg-id="event-cricket-india-women-vs-zimbabwe-women-1792330200" tvg-name="India Women vs Zimbabwe Women [AQ)] (Twenty20 International Women)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="Cricket", India Women vs Zimbabwe Women [AQ)] (Twenty20 International Women)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -143,8 +153,7 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="SPORTS",Ten Cricket
 https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://media1.tenor.com/m/HJCN0mM2awAAAAAd/nagin-bangladesh-kids-nagins-dogladeshis.gif",T-sport🔥
-http://103.16.24.4:8083/14.m3u8
+
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://media1.tenor.com/m/HJCN0mM2awAAAAAd/nagin-bangladesh-kids-nagins-dogladeshis.gif",Sony Sport 1
 https://flussonic.defineatoz.com/SonySports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://media1.tenor.com/m/HJCN0mM2awAAAAAd/nagin-bangladesh-kids-nagins-dogladeshis.gif",Sony Sport 2
@@ -159,8 +168,6 @@ https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8?
 https://cdn.rabta.stream/M-Sports/index.m3u8
 #EXTINF:-1 tvg-id="ch_168" tvg-name="PTV Sports" tvg-logo="https://i.ibb.co/jPRJ1dxw/Sport-On-Ais-Logo-GIF.gif" group-title="TV",Pk sports
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://media1.tenor.com/m/HJCN0mM2awAAAAAd/nagin-bangladesh-kids-nagins-dogladeshis.gif",T-sport 
-https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
 #EXTINF:-1 tvg-id="ch_168" tvg-name="PTV Sports" tvg-logo="https://i.ibb.co/jPRJ1dxw/Sport-On-Ais-Logo-GIF.gif" group-title="TV",Star Sports 2
 https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/mono.ts.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="ch_168" tvg-name="PTV Sports" tvg-logo="https://i.ibb.co/jPRJ1dxw/Sport-On-Ais-Logo-GIF.gif" group-title="TV",PTV Sports
@@ -483,14 +490,8 @@ http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/1404523.ts
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/2494.ts
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" tvg-logo="https://imglink.cc/cdn/GGm9H9tLHP.png",Criccbuz
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/1404524.ts
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://img.magnific.com/premium-vector/professional-tv-channel-logo-design-concept-vector-illustration_875240-1836.jpg?semt=ais_test_b&w=740&q=80" tvg-logo="https://yt3.googleusercontent.com/IFgAG_o_AdtX4IauErKIzuFGCj0m4QyH81Q1Uq8H-2Si9ul3vmXkLihDUnn6-QI3xiMZech0AQ=s900-c-k-c0x00ffffff-no-rj",Tsports
-http://103.151.60.162:2122/play/a030/index.m3u8?hls
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://img.magnific.com/premium-vector/professional-tv-channel-logo-design-concept-vector-illustration_875240-1836.jpg?semt=ais_test_b&w=740&q=80" tvg-logo="https://yt3.googleusercontent.com/IFgAG_o_AdtX4IauErKIzuFGCj0m4QyH81Q1Uq8H-2Si9ul3vmXkLihDUnn6-QI3xiMZech0AQ=s900-c-k-c0x00ffffff-no-rj",Tsports
-http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" tvg-logo="https://fcnchbd.xyz/iptv/logo/spbts.png",T SPORTS FHD
-http://cdn.fcnonline.xyz:8090/hls/tsportshd.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/T_Sports.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",T-SPORTS 
-#https://tvsen3.aynaott.com/Sports1/mono.m3u8
+
+
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQEkzy6nAcsyag/company-logo_200_200/company-logo_200_200/0/1630662269264?e=2147483647&v=beta&t=Xyxc5WJFZRKGMmHUyjXuUmOmYGO9bgGLbkwV9uyduxo",S Cricket 
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/1404522.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCRtp8T8/IMG-1741986198658-2.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",STAR SPORTS 1 HD
@@ -545,8 +546,7 @@ http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/1404533.ts
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" tvg-logo="https://www.prensario.net/Multimedios/imgs/2004_750.jpg?v=11&utm_source=chatgpt.com",Trace Sports 
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://itcnbd.live/images/95357b2f224dabfec27bf87dffb952b2.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",T Sports HD
-http://str24.l9574.com/905.stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_5704c544bcbe25521134b299a0298be7_playmist_ptv_sports_400x400.jpg" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",PTV Sports HD
 http://str24.l9574.com/601.stream/index.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" tvg-logo="https://fcnchbd.xyz/iptv/logo/spts.png",TEN SPORTS HD
