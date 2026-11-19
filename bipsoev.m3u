@@ -6,10 +6,6 @@
 
 
 
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo"",bet
-
-https://playout.vidiyo.com/api/v1/streams/d2bdcf50874a2edd4c78a1d0b9da43c28eabf7bac3928ea3e5eab39eb695ecb8/master.m3u8
-
 
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i0.wp.com/tds-images.thedailystar.net/sites/default/files/styles/very_big_201/public/images/2022/10/05/duronto_1.jpg?w=640&ssl=1",Durantoo Tv
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/433.ts
@@ -1154,7 +1150,6 @@ https://183.giatvcdn.com/giatvplayout7/giatv-212211/playlist.m3u8
 https://183.giatvcdn.com/giatvplayout7/giatv-212346/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU9tbANI4bOZCZKWc4lrxgjC6SBKokcpZWCbPOXs56XA&s=10",Nonta Fonta
 https://183.giatvcdn.com/giatvplayout7/giatv-212307/playlist.m3u8
-
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/branding/34ee5095-5b54-4162-ba17-62e9dd7820d8/logo-1793646002849.jpeg",I-SAT
 https://playout.vidiyo.com/api/v1/streams/da5ce2ec72bd82e2cc5962ca848ef630bf4a2e20d335ec0ecdc4e4c493efce8b/master.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqlW5qSxZUmGuvKQvpeO4U4FM-eSyv-85Aqw&s",Doreamon
@@ -1258,8 +1253,6 @@ https://183.giatvcdn.com/giatvplayout7/giatv-212399/playlist.m3u8
 https://183.giatvcdn.com/giatvplayout7/giatv-212422/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRetdoMXBeHXZDNV4FsmO1J3MPOYuetyb4jCNGw_KSkXQ&s=10",Svf Music 
 https://183.giatvcdn.com/giatvplayout7/giatv-212398/playlist.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlXKLhD7M8Q163Bf21J4KRn4A6NDjkQX5JYmoz0V3n8Q&s=10",Bangla Natok Music 
-https://183.giatvcdn.com/giatvplayout7/giatv-212399/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.bengalbeats.com/media/common/logo.png",Bengali Beats
 https://183.giatvcdn.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.bengalbeats.com/media/common/logo.png",Bengali Beats
@@ -1268,8 +1261,6 @@ https://playout.vidiyo.com/api/v1/streams/d2bdcf50874a2edd4c78a1d0b9da43c28eabf7
 https://playout.vidiyo.com/api/v1/streams/1a6f628a2b1df0034523f3fd22fd02c33f0b94846aa0d4159461fb77fa8d0fce/master.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHjEMNun2_VlaDK4V4VKvHDukO7Vpr1o52gjD-dSJ1Q&s=10",24/7 Bengali Old Songs
 https://playout.vidiyo.com/api/v1/streams/2f2564d81116d8fdce4bf6c925574af6338735dc544829b24fdb53732376dfd7/master.m3u8
-#EXTINF:-1 group-title="BANGLADESH"tvg-logo="https://i.postimg.cc/mZ7yRY36/ha24-7.jpg",Humayun Ahmed 
-https://183.giatvcdn.com/giatvplayout7/giatv-210444/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6d7sdOr_I2vWoQqX1ozxa4ekLrOsHkyBYh780dGNqg&s=10",Times Music
 https://183.giatvcdn.com/giatvplayout7/giatv-212411/playlist.m3u8
 
@@ -1327,8 +1318,7 @@ https://bdix.ottking.top:8082/Disny-Channel-Hindi/video.m3u8?token=ottking_247_7
 http://185.227.34.179:8080/disney-xd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,disney-channel-hd
 http://185.227.34.179:8080/disney-channel-hd/tracks-v2a1/mono.m3u8
-#EXTINF:-1,KidsArabic
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
+
 #EXTINF:-1,BOXKIDSHD
 http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
 #EXTINF:-1,1407
