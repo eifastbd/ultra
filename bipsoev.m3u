@@ -306,51 +306,13 @@ http://live.balajibroadband.com:3500/live/556.m3u8
 #EXTINF:-1 tvg-id="557" tvg-name="Chutti TV" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Chutti_TV.png",Chutti TV
 http://live.balajibroadband.com:3500/live/557.m3u8
 
-https://stream.ottplus.live/live/animal_planet_hd_abr/index.m3u8
-
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://kaptv52.com/assets/logo-BKIRTPHs.png",Kap TV 52
-https://aps31.playlist.ttvnw.net/v1/playlist/CuYGhP2zv3uuFi5FYZ-LVTz3KZypsD4RGWdY7rDO1youqwipR7H0LnzCGGN_xRNhcZIRhL7a9dkPDJnriAtqCz-PDcEjv4JEuTDBYmq2YuHXmryh7JGX5E8YXb8WJAatRMKFm60m_yLguBz3xgYCgXEHv6hvDyy7NIO9ygsTe3zvPhlpSMqS7RDNwpb0N3kzvUNxrVnA0BgVABq5mIU_pYJPOplOMkmVM_z3XaQXzrE0I0eVqA8EyS1MoRnd93D0qquE58DjP_JnjS2hNkdWJ66uloVwqbGFX8aI3_Me9AFcUJXwE5hyjWqhdZseC9UfkqfJWu59lR6W7PX_PvMKV8b60TqvvnXtL3myxSWeQFqE1tS6vW789ZxcmXF08RT8jHRzdtmyPCYpqy4yFzhDFXbG-6Nz_5d-jtl_xMP0S3xk-_SswB5QGP2NLc6fvOb85SFqPOrdVCUVdC0pB09Ou6nfzaZbuWzWtJq0hbm0pOqc-y6_ewpwVIf4kJmFwMYpGXmwqByVjpuaV7k827U5jICeD5eWoRzjZ1hYMRV-CkaGiL2T9t9ApPgdrxqAiOiPIgT2P8ilFdanVsDG1ayLWBo7vDBgXmhDCxJIV87C-FtaspU_3iIWD-jwn2ieXQlyuxIQgmFWg8uz8KfXV3YGRNnOppS4eIK3LazLkBor9OFgnWQwJQ-5M7YyZp7RsTF66Htf6y-nt7Q27amCrqN4XboTB3Sp--gK6JEux8CuRsFG50thqXbqWmDTwihcAYeI-unkqvepBpDPIdnHWsa8gd3-2eUAKUaJYjLFz4ZjnDZYSkdOs1h6MyIZTcxP3KA4IULsLti0SO1_-cddX0fLhD1wCUHEG-WtB6vxDHvTRRtqRZj6FydxXjCaV9fTwHYut0emyaRhYV0EdaTBNNBpp0JGsUpHvDGrMLFONw2Jo56ud1Rrze789qMPE4tgVybHCMQzfgSwpPbPxLd1gr4cJLWUPykYess8T6UP5TYeVVmGrRjS0k1tGHu1lRBx3P9BS3Q391GbkzkWfCpiZyH9NaPKpfjLr6BY1lOfFK6cyK3jq3QclPXBH666QXu5rrmR8xIGqgFKKv1kTPifQQzU_zpm_JAWUhJYvEhTJXzzKGmbiSHsrHX1s3ORn8o1pqk-6tZSA2_Lp2SrGgzzMZrCbUvcKJtWG-ogASoJdXMtd2VzdC0yMKAP.m3u8
 
 #EXTINF:-1 ,Ary Music
 http://tv.cloudcdn.me/live.ts?channelId=384&uid=7245&deviceMac=00:1A:79:4A:02:91
-#EXTINF: -1 tvg-name="ATN News" tvg-logo="http://lifetvbd.xyz:8080/images/2666b4f72838a0db2a182513e07d7a65.png" group-title="Bangladeshi News", ATN News
-http://tv.indigotv.me:80/live.ts?channelId=83&uid=7245&deviceMac=00:1A:79:4A:02:91
-#EXTINF:-1 ,Atn bangla uk
-http://tv.indigotv.me:80/live.ts?channelId=82&uid=7245&deviceMac=00:1A:79:4A:02:91
-#EXTINF:-1 ,Atn bangla
-http://tv.indigotv.me:80/live.ts?channelId=81&uid=7245&deviceMac=00:1A:79:4A:02:91
-#EXTINF: -1 tvg-name="Asian TV HD" tvg-logo="http://lifetvbd.xyz:8080/images/8afc338cd2f611d1bf83de1f172611fc.png" group-title="Bangladesh", Asian TV HD
-http://tv.indigotv.me:80/live.ts?channelId=80&uid=7245&deviceMac=00:1A:79:4A:02:91
-#EXTINF: -1 tvg-name="ABP Ananda" tvg-logo="http://lifetvbd.xyz:8080/images/34312c8a65f9583aa8095b6a9fbac101.png" group-title="INDIA | Bangla", ABP Ananda
-http://tv.indigotv.me:80/live.ts?channelId=40480&uid=7245&deviceMac=00:1A:79:4A:02:91
-#EXTINF: -1 tvg-name="Amar Bangla" tvg-logo="http://lifetvbd.xyz:8080/images/42e6049ad22e5534b94f840168469fb5.png" group-title="INDIA | Bangla", Amar Bangla
-http://tv.indigotv.me:80/live.ts?channelId=95984&uid=7245&deviceMac=00:1A:79:4A:02:91
-#EXTINF: -1 tvg-name="Akash Aath" tvg-logo="http://lifetvbd.xyz:8080/images/deabfb05ff86c1c82193dc101208ebd2.png" group-title="INDIA | Bangla", Akash Aath
-http://tv.indigotv.me:80/live.ts?channelId=79&uid=7245&deviceMac=00:1A:79:4A:02:91
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png"group-title="Bangla" group-title="",Bijoy TV 
-http://tv.indigotv.me:80/live.ts?channelId=85&uid=7245&deviceMac=00:1A:79:4A:02:91
-#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/tT4Frhtp/images-5-22.jpg",Bangla Tv
-http://tv.indigotv.me:80/live.ts?channelId=44159&uid=7245&deviceMac=00:1A:79:4A:02:91
-#EXTINF: -1 tvg-name="Bangla Vision" tvg-logo="http://lifetvbd.xyz:8080/images/c6938f7eba2a97a97c2bd2f51826a7e1.png" group-title="Bangladesh", Bangla Vision
-http://tv.indigotv.me:80/live.ts?channelId=84&uid=7245&deviceMac=00:1A:79:4A:02:91
-#EXTINF: -1 tvg-name="Biswa Bangla Tv" tvg-logo="http://lifetvbd.xyz:8080/images/2a70a8772c0a19290904e5150c97bfa6.png" group-title="Bangladesh", Biswa Bangla Tv
-http://tv.indigotv.me:80/live.ts?channelId=990253&uid=7245&deviceMac=00:1A:79:4A:02:91
-#EXTINF:-1 ,Boisakhy tv
-http://tv.indigotv.me:80/live.ts?channelId=86&uid=7245&deviceMac=00:1A:79:4A:02:91
 #EXTINF:-1 ,Big Bos
 http://tv.cloudcdn.me/live.ts?channelId=134619&uid=14165&deviceMac=00:1A:79:08:26:13
-#EXTINF:-1 ,Btv
-http://tv.indigotv.me:80/live.ts?channelId=49341&uid=7245&deviceMac=00:1A:79:4A:02:91
 #EXTINF:-1 ,Bangla jago
 http://tv.cloudcdn.me/live.ts?channelId=132853&uid=7133&deviceMac=00:1A:79:4A:02:91
-#EXTINF: -1 tvg-logo="https://i.imgur.com/d1zRBNr.png" group-title="BANGLADESH", Channel 9
-http://tv.indigotv.me:80/live.ts?channelId=88&uid=7245&deviceMac=00:1A:79:4A:02:91
-#EXTINF: -1 tvg-name="Channel 24" tvg-logo="http://lifetvbd.xyz:8080/images/0ce70228aaa8318472ee984a66f31d71.png" group-title="Bangladeshi News", Channel 24
-http://tv.indigotv.me:80/live.ts?channelId=87&uid=7245&deviceMac=00:1A:79:4A:02:91
-#EXTINF:-1 ,Kalkata news
-http://tv.cloudcdn.me/live.ts?channelId=90244&uid=13433&deviceMac=00:1A:79:00:97:A1
-#EXTINF: -1 tvg-name="Colors Bangla HD" tvg-logo="http://lifetvbd.xyz:8080/images/abf517e6fd05279c4295dfc24ce70352.png" group-title="INDIA | Bangla", Colors Bangla HD
-http://tv.indigotv.me:80/live.ts?channelId=92&uid=7245&deviceMac=00:1A:79:4A:02:91
 #EXTINF:-1 ,Channel 1
 http://tv.cloudcdn.me/live.ts?channelId=90239&uid=14165&deviceMac=00:1A:79:08:26:13
 #EXTINF:-1 ,Channel i
@@ -367,10 +329,6 @@ http://tv.cloudcdn.me/live.ts?channelId=29197&uid=7245&deviceMac=00:1A:79:4A:02:
 http://tv.cloudcdn.me/live.ts?channelId=44153&uid=7245&deviceMac=00:1A:79:4A:02:91
 #EXTINF:-1 tvg-id="" tvg-name="BD: DD BANGLA" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/f9e40a0.png" group-title="BENGALI" ,BD: DD BANGLA
 http://tv.cloudcdn.me/live.ts?channelId=36290&uid=7245&deviceMac=00:1A:79:4A:02:91
-#EXTINF:-1 tvg-id="" tvg-name="BD: DHOOM MUSIC BANGLA" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/cdfa406.png" group-title="BENGALI" ,BD: DHOOM MUSIC BANGLA
-http://tv.cloudcdn.me/live.ts?channelId=94&uid=7245&deviceMac=00:1A:79:4A:02:91
-#EXTINF:-1 ,Duranta tv
-http://tv.cloudcdn.me/live.ts?channelId=74553&uid=7245&deviceMac=00:1A:79:4A:02:91
 #EXTINF: -1 tvg-name="Ekattor Tv" tvg-logo="http://lifetvbd.xyz:8080/images/156b24455f88cd88ea623e35278b5594.png" group-title="Bangladeshi News", Ekattor Tv
 http://tv.cloudcdn.me/live.ts?channelId=95&uid=7245&deviceMac=00:1A:79:4A:02:91
 #EXTINF: -1 tvg-name="Ekushey Tv" tvg-logo="http://lifetvbd.xyz:8080/images/3aaf5edb19f998f1d091f4574aca2b80.png" group-title="Bangladesh", Ekushey Tv
@@ -387,8 +345,6 @@ http://tv.cloudcdn.me/live.ts?channelId=99&uid=7245&deviceMac=00:1A:79:4A:02:91
 http://tv.cloudcdn.me/live.ts?channelId=90230&uid=7245&deviceMac=00:1A:79:4A:02:91
 #EXTINF:-1 ,Movie bangla
 http://tv.cloudcdn.me/live.ts?channelId=44156&uid=7245&deviceMac=00:1A:79:4A:02:91
-#EXTINF:-1 ,h
-http://tv.cloudcdn.me/live.ts?channelId=104&uid=7245&deviceMac=00:1A:79:4A:02:91
 #EXTINF:-1 ,Jamuna tv
 http://tv.cloudcdn.me/live.ts?channelId=100&uid=7245&deviceMac=00:1A:79:4A:02:91
 #EXTINF:-1 tvg-id="" tvg-name="BD: KOLKATA TV" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/e7d0922.png" group-title="BENGALI" ,BD: KOLKATA TV
@@ -416,8 +372,6 @@ http://tv.cloudcdn.me/live.ts?channelId=74625&uid=7133&deviceMac=00:1A:79:4A:02:
 http://tv.cloudcdn.me/live.ts?channelId=90247&uid=7245&deviceMac=00:1A:79:4A:02:91
 #EXTINF:-1 ,News 24 bangla
 http://tv.cloudcdn.me/live.ts?channelId=107&uid=7245&deviceMac=00:1A:79:4A:02:91
-#EXTINF:-1 ,Gaan bangla
-http://tv.cloudcdn.me/live.ts?channelId=97&uid=7245&deviceMac=00:1A:79:4A:02:91
 #EXTINF:-1 ,Nexus tv
 http://tv.cloudcdn.me/live.ts?channelId=90300&uid=7245&deviceMac=00:1A:79:4A:02:91
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png",NTV
@@ -472,10 +426,6 @@ http://tv.cloudcdn.me/live.ts?channelId=90234&uid=7245&deviceMac=00:1A:79:4A:02:
 http://tv.cloudcdn.me/live.ts?channelId=90246&uid=7245&deviceMac=00:1A:79:4A:02:91
 #EXTINF:-1 ,Zee 24 ghonta
 http://tv.cloudcdn.me/live.ts?channelId=78&uid=7245&deviceMac=00:1A:79:4A:02:91
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBM3igqM6UvBNQ-Aws30Ovca4JAIl25NiOwYonTStjMg&s",R bangla Tv
-https://mtlivestream.com/hls-mtlive/rbangla/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/musicbangla.jpg",Music Bangla
-http://vmi3039524.contaboserver.net:5050/music/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://ctvusa.tv/wp-content/uploads/2025/08/Ctv-USA.png",Ctv Usa
 https://cdn.streamcast.xyz/ctvusa/index.fmp4.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://www.ibtvusa.com/img/logo.png",Ibtv Usa
