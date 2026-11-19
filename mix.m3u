@@ -371,7 +371,11 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://cdn.pishow.tv/ott/live/224/master.m3u8
 
 
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://porosh.com.bd/upload/tv/tv_1794956953_4683.png",T Bangla Tv
+http://103.121.61.218/tmp_hls/bd4a6d0563e0604510989eb8f9ff71f5/index.m3u8
 
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://https://porosh.com.bd/upload/tv/tv_1795001164_2411.png",Durbar TV
+http://103.121.61.218/tmp_hls/ecd1b059424d5e0056f579a391d1ead9/index.m3u8
 
 
 
