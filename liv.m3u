@@ -20,7 +20,8 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/T_Sports.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",T Sports HD(Orbit)
 http://172.19.17.3:8090/hls/tsportshd.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T-SPORTS
-http://116.204.149.16/T_SportsFHD/index.m3u8
+https://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
+#http://116.204.149.16/T_SportsFHD/index.m3u8
 #http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
 #http://103.185.24.134:3001/TSportsHD/index.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://img.magnific.com/premium-vector/professional-tv-channel-logo-design-concept-vector-illustration_875240-1836.jpg?semt=ais_test_b&w=740&q=80" tvg-logo="https://yt3.googleusercontent.com/IFgAG_o_AdtX4IauErKIzuFGCj0m4QyH81Q1Uq8H-2Si9ul3vmXkLihDUnn6-QI3xiMZech0AQ=s900-c-k-c0x00ffffff-no-rj",Tsports
@@ -28,7 +29,7 @@ http://103.209.196.22:84/feed1001/index.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://media1.tenor.com/m/HJCN0mM2awAAAAAd/nagin-bangladesh-kids-nagins-dogladeshis.gif",T-sport🔥
 http://103.16.24.4:8083/14.m3u8
 #EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://itcnbd.live/images/95357b2f224dabfec27bf87dffb952b2.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",T Sports HD
-https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
+https://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
 #http://str24.l9574.com/905.stream/index.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" tvg-logo="https://fcnchbd.xyz/iptv/logo/spbts.png",T SPORTS FHD
 http://cdn.fcnonline.xyz:8090/hls/tsportshd.m3u8
