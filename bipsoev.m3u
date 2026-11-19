@@ -462,12 +462,6 @@ https://server1.jolshabd.com/mbtv/mbtv/playlist.m3u8
 https://stream.channeleuropetvboxlondon.co.uk/live/nextplanet/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.jalshabd.com/storage/channels/V23sf3bekUEqzo5nzb7DFBRXXqbKHZWs59ecSjvk.png",America Bangla Channel
 https://stream.channeleuropetvboxlondon.co.uk/live/abcnews/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/87/Nagorik_TV_logo.png" group-title="Bangla",NAGORIK HD
-http://198.195.239.50:8095/nagorik/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://play-lh.googleusercontent.com/0RfpdKXwCwuOquBnquM5MnKuuD1CZxge7in_XKA0TSun01-t3na01nM9MKkL33NLQbY",Vip Tv
-http://59.152.99.22:9999/live/channel1/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://kazitvbd.com/wp-content/uploads/2025/10/logo.jpg",Kazi tv
-https://rawcombat.tv:5866/hls/kazitv.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://channelagami.com/wp-content/uploads/2025/09/apple-touch-icon.png",Channel Agami 
 https://stream.agami.live/live/test.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZbgDccRd3cT1u7Kf4GOikI0SfC7-HGYWuH5QsfAVtEg&s",Thikana TV 
@@ -476,12 +470,6 @@ http://str24.l9574.com/502.stream/tracks-v1a1/mono.m3u8
 http://str24.l9574.com/503.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://usbdjournal24.com/wp-content/uploads/2026/02/10000570501.jpg",Usbdjournal24
 http://str24.l9574.com/510.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/87/Nagorik_TV_logo.png" group-title="Bangla",NAGORIK HD
-http://198.195.239.50:8095/nagorik/index.m3u8
-#EXTINF:-1 tvg-id="99cf56ce2888" tvg-name="TOFFEE Movies VIP" tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png" group-title="Toffee", TOFFEE Movies VIP
-https://digitalotthub.com/tv/toffee-by-maruf/live.php?id=toffee_movie&e=.m3u8
-#EXTINF:-1 tvg-id="b1ba8efdd99d" tvg-name="TOFFEE Dramas VIP" tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png" group-title="Toffee", TOFFEE Dramas VIP
-https://digitalotthub.com/tv/toffee-by-maruf/live.php?id=toffee_drama&e=.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.jalshabd.com/storage/channels/PuwVgtypiXf8XFtwUlAfnoeDkQXXyf9g41qQpjtf.png",Chief TV
 https://server1.jolshabd.com/chieftv/chieftv/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://channeleurope.tv/storage/settings/BNyRMyomifMQ7VlzvHKbNwCfzxM7kF4Vq7bj4zxZ.png",Channel Europe
@@ -496,12 +484,6 @@ https://server1.jolshabd.com/ziatv/ziatv/playlist.m3u8m
 https://www.jalshabd.com/stream/52.m3u8?expires=1773324574&signature=0ababf0aeeb302ecb283c56146ae11f3d1f8a843789b17dd528a89cf4724826d
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.jalshabd.com/storage/channels/A1SvpUfoo8wwqYc22eyi2EZ5d29h6WrQ4j9uYjAW.png",Magic  Bangla tv
 https://www.jalshabd.com/stream/79.m3u8?expires=1778555155&signature=bbc4f3c0961fc1f27337a4740c64467946cd93400e49f26f9b7b3deb8a62fdd4
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co/2ngv3Y0/71-Bangla-TV.jpg",71 Bangla TV 
-https://live.tvdhaka.com:30443/channelbd/71Bangla/chunks.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/iuRzcdO.png",MEGHNA TV 
-http://45.125.221.114:1935/live/megnatv/chunklist.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/U1CkSyj.png",Teliflim 
-https://api.mp4.to/static/downloads/060faaa911e04a29858ce5911e402688/New%20video%201.m3u
 https://padmaonline.duckdns.org:8088/scnbangla/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjdoQxanVwrjhKuThT8L_AnrGhJDGDF2HFEQ&s",Digital Bangla
 https://uttar-purbanewsmedia.cloud/hls/dbangla/dbangla_live24X7/index.m3u8
@@ -586,8 +568,6 @@ http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
 http://live-stream.amarbanglatv.in:8080/hls/salambangla/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwj2_BtwEhtsr4bnFEk9Rzc5Hh8u6tFQOYs_n3LEFYQ&s=10",Home TV
 http://live-stream.amarbanglatv.in:8080/hls/hometv/index.m3u8
-#EXTINF:-1 tvg-logo="",U Movies
-http://live-stream.amarbanglatv.in:8080/hls/umovies/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.imgur.com/yldyrvA.jpg",Amar Bangla
 rtmp://live-stream.amarbanglatv.in/live/amarbangla
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.imgur.com/N46NOiC.jpg",Amar Digital 
@@ -618,28 +598,7 @@ https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg014
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:dhoom.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PragNews.in@SD",Prag News (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/pragnews/playlist.m3u8
-#EXTINF:-1 tvg-id="Colors.in@HD",Colors HD (1080p)
-https://livetv.shamon-cable.net:8443/Colors-HD/index.m3u8
-#EXTINF:-1 tvg-id="ColorsBangla.in@HD",Colors Bangla HD (1080p)
-https://livetv.shamon-cable.net:8443/Colors-bangla/index.m3u8
-#EXTINF:-1 tvg-id="ColorsBanglaCinema.in@SD",Colors Bangla Cinema (576p)
-https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport.in@HD",Eurosport HD (1080p)
-https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
-#EXTINF:-1 tvg-id="Enterr10Bangla.in@SD",Enterr 10 Bangla (576p)
-https://livetv.shamon-cable.net:8443/Enterr10bangla/index.m3u8
-#EXTINF:-1 tvg-id="JalshaMovies.in@SD",Jalsha Movies (720p)
-https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8
-#EXTINF:-1 tvg-id="ZeeBangla.in@HD",Zee Bangla HD (1080p)
-https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8
-#EXTINF:-1 tvg-id="SonyYay.in@SD",Sony Yay! (576p)
-https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
-#EXTINF:-1 tvg-id="SonyAath.in@SD",Sony Aath (576p)
-https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8
-#EXTINF:-1 tvg-id="StarJalsha.in@HD",Star Jalsha HD (1080p)
-https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8
-#EXTINF:-1 tvg-id="StarPlus.in@HD",StarPlus HD (1080p)
-https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8
+
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjdoQxanVwrjhKuThT8L_AnrGhJDGDF2HFEQ&s",Digital Bangla
 https://digitalbangla.livebox.co.in/digitalbanglahls/live.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6kctHUew7M20BKCrL3p7U7Ga0BqAqn9KOWQ&s",D24 Entertainment
