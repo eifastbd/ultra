@@ -1,0 +1,457 @@
+#EXTM3U
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i0.wp.com/tds-images.thedailystar.net/sites/default/files/styles/very_big_201/public/images/2022/10/05/duronto_1.jpg?w=640&ssl=1",Durantoo Tv
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/433.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: KHUSHBOO TV BANGLA" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d60bd7b.png" group-title="BENGALI" ,BD: KHUSHBOO TV BANGLA
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/3808.ts
+#EXTINF:-1 tvg-id="ts905" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62236-kny7yzaw-v1/imageContent-62236-kny7yzaw-m1.png" group-title="Hindi;Kids",ETV Bal Bharat
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/355286.ts
+#EXTINF:-1 group-title="Arab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/DIHDlogo.png",Disney International HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/20925.ts
+#EXTINF:-1 tvg-id="ts114" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Hindi;Animation;Kids;Cartoons",Disney 
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase19741.ts
+#EXTINF:-1 tvg-id=""tvg-group="Cartoon"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9F3Qdt_xLS63UROdf4leWQhrknaJ92URx0Q&s",Nick Bangla
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/205.ts
+#EXTINF:-1 tvg-id=1226 tvg-name="Nick HD+" tvg-logo="http://14.102.123.50:5001/jtvimage/Nick_HD_Plus.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nick HD+
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/7438.ts
+#EXTINF:-1 tvg-id="ts239" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png" group-title="Telugu;Hindi;Tamil;Animation;Kids;Cartoons",Pogo
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/7220.ts
+#EXTINF:-1 tvg-id="ts119" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png" group-title="Telugu;Malayalam;Kannada;Hindi;Tamil;Animation;Kids;Cartoons",Discovery Kids
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/208.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="KIDS" group-title="",Cartoon Network HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/8.m3u8
+#EXTINF:-1 tvg-id="ts587" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png" group-title="English;Telugu;Hindi;Tamil;Animation;Kids;Cartoons",Super Hungama
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/66162.ts
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg8HES2tUB4reIXMjiMJk-z9EBknI5aazdcw&s",Hungama tv
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/18456.ts
+#EXTINF:-1 tvg-id=""tvg-group="Cartoon"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmtDovzBn80q0LPKyV_vo9ISpHa5uNBDBmzA&s",Sonic Bangla
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/207.ts
+#EXTINF:-1 tvg-id="ts965" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67799-kx7m7rhc-v1/imageContent-67799-kx7m7rhc-m2.png" group-title="Hindi;Entertainment",Manoranjan Grand
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase2433.ts
+#EXTINF: -1 tvg-name="Kids Zon" group-title="Indian Regional", Kids Zon
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/4084.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm7ZxGBaQF0GiQwTSGqaax2Q5v2MWnfLuyKeMLMR0hYpTiQL7F_YWN8xA&s=10",Sinchen
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147724.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxTzYJerGSc9D06JEt-xGbB8-f5Kwp1ITCq3il0JQjPRf3leqJ6rsEezsy&s=10",Perman
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147736.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd9MjRlL2jrjnhfHApO0ixbL1omr7QOLcC9Zjpcengqx-Ht_ExVrVqY_S-&s=10",Doraemon
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147746.ts
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/FzHFbZ92/images-6-1.jpg",kung fu panda
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/147738.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKVRx2KOXImi3auWLotXKDNfTHmI74xSEnErICy1DisSyYqTsfFQXgviBh&s=10",Mr Been
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147777.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT86cdj_zcE45Wa8B8JcHma6T7IPCC1dQE0ew&s",BEN 10 ULTIMATE ALIEN
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147743.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzdnsGbhgegFUg44_b1dXR86k0_hU68okWXg&s",BEN 10 OMNIVERSE
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147749.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5e7eMs9ij-8hE3pUJii8iVQFoRO6XdkjZxA&s",BEN TEN CLASSIC
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147750.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYdkmKmndjX8M3Iz-spuapBA2aifgu_6cQBSBtNrKvewbr7encDJVMQn3&s=10",BEN 10 ALIEN FORCE HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147751.ts
+#EXTINF:-1,Kids:  Cartoon Network Arabia HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319402.ts
+#EXTINF:-1,Kids: Toyor Aljana
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319403.ts
+#EXTINF:-1,Kids:  SpaceToon TV
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319404.ts
+#EXTINF:-1,Kids: Rotana Kids HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319405.ts
+#EXTINF:-1,Kids:  Karamesh
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319406.ts
+#EXTINF:-1,Kids:  OSN Kids Zone HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319407.ts
+#EXTINF:-1,Kids | Ar: NickToons HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319408.ts
+#EXTINF:-1,Kids: OSN Nickelodeon HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319409.ts
+#EXTINF:-1,Kids: Baby TV
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319410.ts
+#EXTINF:-1,Kids:  HodHod  TV
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319411.ts
+#EXTINF:-1,Kids:  Taha TV
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319412.ts
+#EXTINF:-1,Kids: Majid Kids TV
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319413.ts
+#EXTINF:-1,Kids | Ar: Shehab TV
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319414.ts
+#EXTINF:-1,Kids:  Atfal & Mawaheb
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319415.ts
+#EXTINF:-1,Kids | En: NickToons HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319416.ts
+#EXTINF:-1, IN: Pogo_Hindi
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/1918.ts
+#EXTINF:-1,IN: POGO (ENGLISH)
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/Me4wtREzwF/7220.ts
+#EXTINF:-1,IN: Disney Channel (4K)
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/19741.ts
+#EXTINF:-1,Kids: Hungama
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/18456.ts
+#EXTINF:-1,KIDS: SUPER HUNGAMA
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/66162.ts
+#EXTINF:-1,IN:  Nick_Hindi
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/205.ts
+#EXTINF:-1,IN: Nick+ FHD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/7438.ts
+#EXTINF:-1,IN: NICK (4K).
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/98880.ts
+#EXTINF:-1,IN: Nick_Junior
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/206.ts
+#EXTINF:-1,IN: sonic_Hindi
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/207.ts
+#EXTINF:-1,IN: Discovery_Kids_1
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/208.ts
+#EXTINF:-1,IN : CARTOON NETWORK HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/8.ts
+#EXTINF:-1,KIDS-SPIDER MAN 2008
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147720.ts
+#EXTINF:-1,KIDS-SPIDER MAN 1981
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147721.ts
+#EXTINF:-1,KIDS-SPIDER MAN 1967
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147722.ts
+#EXTINF:-1,KIDS-SLUGTERRA
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147723.ts
+#EXTINF:-1,KIDS-Shinsen
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147724.ts
+#EXTINF:-1,KIDS-SHAPE RHYMES
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147725.ts
+#EXTINF:-1,KIDS-SAMURAI JACK
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147726.ts
+#EXTINF:-1,KIDS-POPEYE THE SAILOR MAN
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147727.ts
+#EXTINF:-1,KIDS-PJ MASK
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147728.ts
+#EXTINF:-1,KIDS-PEPPA PIG 2
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147729.ts
+#EXTINF:-1,KIDS-PEPPA PIG
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147730.ts
+#EXTINF:-1,KIDS-Finger
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147731.ts
+#EXTINF:-1,KIDS-NURSERY RHYMES HD 4
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147732.ts
+#EXTINF:-1,KIDS-PAW PETROL TOY STORY
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147733.ts
+#EXTINF:-1,KIDS-PAW PETROL TOY STORY
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147734.ts
+#EXTINF:-1,KIDS-PAW PETROL
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147735.ts
+#EXTINF:-1,KIDS-PERMAN
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147736.ts
+#EXTINF:-1,KIDS-KUNG FU PANDA
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147738.ts
+#EXTINF:-1,KIDS-GENERTOX REX
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147740.ts
+#EXTINF:-1,KIDS-FRUITS VEGETABLE RHYMES
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147741.ts
+#EXTINF:-1,KIDS-FIVE LITTLE RHYMES
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147742.ts
+#EXTINF:-1,KIDS-BEN 10 ULTIMATE ALIEN
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147743.ts
+#EXTINF:-1,KIDS-DUCK TALES HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147744.ts
+#EXTINF:-1,KIDS-DUCK TALES CLASSIC
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147745.ts
+#EXTINF:-1,KIDS-DORAEMON
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147746.ts
+#EXTINF:-1,KIDS-COLOUR RHYMES HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147747.ts
+#EXTINF:-1,KIDS-CHRISTMAS RHYMES
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147748.ts
+#EXTINF:-1,KIDS-BEN 10 OMNIVERSE
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147749.ts
+#EXTINF:-1,KIDS-BEN TEN CLASSIC
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147750.ts
+#EXTINF:-1,KIDS-BEN 10 ALIEN FORCE HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147751.ts
+#EXTINF:-1,KIDS-ART-FUN
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147752.ts
+#EXTINF:-1,KIDS-AVATAR THE LAST AIRBENDER HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147753.ts
+#EXTINF:-1,KIDS-ANIMAL RHMYES
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147754.ts
+#EXTINF:-1,KIDS-ANGERY BIRDS TOONS HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147755.ts
+#EXTINF:-1,KIDS-ABCD RHYMES HD 2
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147756.ts
+[11/19, 12:05 PM] 🫰: #EXTINF:-1,KIDS-ABCD RHYMES HD 2
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147756.ts
+#EXTINF:-1,KIDS-ABBY HATCHER
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147757.ts
+#EXTINF:-1,KIDS-NURSER RHYMES HD 4
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147758.ts
+#EXTINF:-1,KIDS-STORY
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147759.ts
+#EXTINF:-1,KIDS-BABY TOOT
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147760.ts
+#EXTINF:-1,KIDS-BIRTHDAY SONGS
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147761.ts
+#EXTINF:-1,KIDS-HICKORY DICKORY DOCK
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147762.ts
+#EXTINF:-1,KIDS-BOOM BUDDIES RHYMES HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147763.ts
+#EXTINF:-1,KIDS-BABAY BAO PANDA HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147769.ts
+#EXTINF:-1,KIDS-BABAY RHYMES HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147770.ts
+#EXTINF:-1,KIDS-ANIMAL RHYMES HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147771.ts
+#EXTINF:-1,KIDS-A B C D RHYMES HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147772.ts
+#EXTINF:-1,KIDS-NURSERY RHYMES HD 3
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147773.ts
+#EXTINF:-1,KIDS-NUMBER RHMYES HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147774.ts
+#EXTINF:-1,KIDS-NURSERY RHYMES HD 2
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147776.ts
+#EXTINF:-1,KIDS-MR BEAN HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147777.ts
+#EXTINF:-1,KIDS-RHYMES HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147778.ts
+#EXTINF:-1,KIDS-MASH AND BEAR HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147779.ts
+#EXTINF:-1,KIDS-CHU CHU TV HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147780.ts
+#EXTINF:-1,Kids:  Cartoon Network Arabia HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319402.ts
+[11/19, 12:06 PM] 🫰: #EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@Arabic" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Kids;Religious",God Stands Kids Club TV Arabic
+https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@Chinese" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Kids;Religious",God Stands Kids Club TV Chinese
+https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@English" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Kids;Religious",God Stands Kids Club TV English
+https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@Urdu" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Kids;Religious",God Stands Kids Club TV Urdu
+https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8
+#EXTINF:-1, 48
+http://157.15.187.3:25092/hls/48/48.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2026/08/ChatGPT-Image-Aug-1-2026-10_36_34-PM-1-200x300.png",Shemaroo Kids
+https://vodaapp2.shemaroo.com/du_kids/du_kids_1080/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2023/08/ChatGPT-Image-Aug-1-2026-10_59_01-PM-1-200x300.png",Shemaroo Josh
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2021/11/ChatGPT-Image-Jul-23-2026-07_05_35-PM-1-200x300.png",Epic Kids
+https://live-epickids-samsungtv.videostech.cloud/playlist.m3u8
+#EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-YAY.png", HINDI| SONY YAY
+http://line.umetop.pro/play/live.php?mac=00:1A:79:8F:BA:8A&stream=156089&extension=m3u8
+#EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://picons.cmshulk.com/picons/156000.png", HINDI| DISNEY SD
+http://line.umetop.pro/play/live.php?mac=00:1A:79:8F:BA:8A&stream=156000&extension=m3u8
+#EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://picons.cmshulk.com/picons/disneych.png", HINDI| DISNEY CHANNEL
+http://line.umetop.pro/play/live.php?mac=00:1A:79:8F:BA:8A&stream=1158195&extension=m3u8
+
+#EXTINF:-1, Pop Up (1080p) [Geo-blocked]
+https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8
+#EXTINF:-1, TiJi (576p)
+https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Gulli Girl (720p)
+https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TiJi (576p)
+http://151.80.18.177:86/Tiji_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MinikaCocuk.tr@SD",Minika Cocuk (720p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+#EXTINF:-1 tvg-id="MinikaGo.tr@SD",Minika Go (720p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+#EXTINF:-1 tvg-id="TRTCocuk.tr@SD",TRT Çocuk (720p)
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYBen.png",SONY YAY Bengali
+http://live.balajibroadband.com:3500/live/3424.m3u8
+
+http://live.balajibroadband.com:3500/live/872.m3u8
+#EXTINF:-1 tvg-id="558" tvg-name="Kushi TV" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kushi_TV.png",Kushi TV
+http://live.balajibroadband.com:3500/live/558.m3u8
+#EXTINF:-1 tvg-id="816" tvg-name="Cartoon Network Hindi" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
+http://live.balajibroadband.com:3500/live/816.m3u8
+#EXTINF:-1 tvg-id="1079" tvg-name="CN HD+ English" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png",CN HD+ English
+http://live.balajibroadband.com:3500/live/1079.m3u8
+#EXTINF:-1 tvg-id="1216" tvg-name="Highbrow" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png",Highbrow
+http://live.balajibroadband.com:3500/live/1216.m3u8
+#EXTINF:-1 tvg-id="1226" tvg-name="Nick HD+" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png",Nick HD+
+http://live.balajibroadband.com:3500/live/1226.m3u8
+#EXTINF:-1 tvg-id="815" tvg-name="Sonic Hindi" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png",Sonic Hindi
+http://live.balajibroadband.com:3500/live/815.m3u8
+#EXTINF:-1 tvg-id="545" tvg-name="Nick Hindi" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick Hindi
+http://live.balajibroadband.com:3500/live/545.m3u8
+#EXTINF:-1 tvg-id="1430" tvg-name="Jio KIDS" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png",Jio KIDS
+http://live.balajibroadband.com:3500/live/1430.m3u8
+#EXTINF:-1 tvg-id="1780" tvg-name="HooplaKidz TV" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hoopla_Kids_TV.png",HooplaKidz TV
+http://live.balajibroadband.com:3500/live/1780.m3u8
+#EXTINF:-1 tvg-id="1920" tvg-name="The Q Kahaniyan" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/The_Q_Kahaniyan.png",The Q Kahaniyan
+http://live.balajibroadband.com:3500/live/1920.m3u8
+#EXTINF:-1 tvg-id="2774" tvg-name="Power Kids TV" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Power_Kids_TV.png",Power Kids TV
+http://live.balajibroadband.com:3500/live/2774.m3u8
+#EXTINF:-1 tvg-id="1279" tvg-name="Manoranjan Grand" tvg-type="Entertainment" group-title="@bdixtv_official | Entertainment" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Grand.png",Manoranjan Grand
+http://live.balajibroadband.com:3500/live/1279.m3u8
+#EXTINF:-1 tvg-id="1280" tvg-name="Manoranjan TV" tvg-type="Movies" group-title="@bdixtv_official | Movies" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_TV.png",Manoranjan TV
+http://live.balajibroadband.com:3500/live/1280.m3u8
+#EXTINF:-1 tvg-id="1281" tvg-name="Manoranjan Movies" tvg-type="Movies" group-title="@bdixtv_official | Movies" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Movies.png",Manoranjan Movies
+http://live.balajibroadband.com:3500/live/1281.m3u8
+#EXTINF:-1 tvg-id="1282" tvg-name="Khushboo TV" tvg-type="Movies" group-title="@bdixtv_official | Movies" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Khusboo_TV.png",Khushboo TV
+http://live.balajibroadband.com:3500/live/1282.m3u8
+#EXTINF:-1 tvg-id="1066" tvg-name="The Q" tvg-type="Entertainment" group-title="@bdixtv_official | Entertainment" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TheQIndia.png",The Q
+http://live.balajibroadband.com:3500/live/1066.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Khushboo_Bangla_logo_2017.png" group-title="KID'S",KHUSHBOO BANGLA
+https://cdn-4.pishow.tv/live/1473/master.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/greengold.png",Green Gold TV
+http://live.balajibroadband.com:3500/live/3467.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Unique_Tv.png", Unique Tv
+http://live.balajibroadband.com:3500/live/3022.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/greengold.png",Green Gold TV
+https://prod-runn.cdn.runn.tv/greengold/stream/grngld/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png",Disney Channel
+http://live.balajibroadband.com:3500/live/1373.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Junior.png",Disney Channel Junior
+http://live.balajibroadband.com:3500/live/1374.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_International_HD.png",Disney Channel International HD
+http://live.balajibroadband.com:3500/live/1375.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Super_Hungama.png", Super Hungama
+http://live.balajibroadband.com:3500/live/1392.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hungama.png",Hungama
+http://live.balajibroadband.com:3500/live/1391.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://bhoomtv.org/wp-content/uploads/2021/11/ChatGPT-Image-May-9-2026-09_43_43-PM-1-200x300.png",Epic Kids
+http://live.balajibroadband.com:3500/live/3385.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYBen.png",SONY YAY Bengali
+http://103.180.212.191:3500/live/3424.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zbcatun.png",ZB Cartoon
+http://103.180.212.191:3500/live/3321.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwaKVFOmvUumUeTTUb8W7BUOH-yTE20IzuUtAmqztsOg&s=10",Younib Media TV
+https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Nick_Splat_2023.png/revision/latest?cb=20240226050529" group-title="KID'S",NICK
+http://66.102.120.18:8000/play/a00w/index.m3u8
+#EXTINF:-1 tvg-id="1341" tvg-name="Nick Bangla" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png",Nick Bangla
+http://103.180.212.191:3500/live/1341.m3u8
+#EXTINF:-1 tvg-id="1345" tvg-name="Sonic Bangla" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png",Sonic Bangla
+http://103.180.212.191:3500/live/1345.m3u8
+#EXTINF:-1 tvg-id=559 tvg-name="Pogo Hindi" tvg-logo="http://14.102.123.50:5001/jtvimage/Pogo_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Pogo Hindi
+http://103.180.212.191:3500/live/559.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/77ByDrw/SONY-YAY.png" group-title="KID'S",SONY YAY
+https://indian.murgifarm.xyz/sliv/stream.php?id=sony-yay&format=.m3u8
+#EXTINF:-1 tvg-id=872 tvg-name="Sony Yay Hindi" tvg-logo="http://14.102.123.50:5001/jtvimage/Sony_Yay_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Sony Yay Hindi
+http://103.180.212.191:3500/live/872.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/5WSGt0Wr/CARTOON-NETWORK.png" group-title="KID'S",CARTOON NETWORK
+http://103.89.248.130:8082/cn/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/5NRHrkd/SONIC.png" group-title="KID'S",SONIC
+http://103.180.212.191:3500/live/1345.m3u8
+#EXTINF:-1 tvg-id="551" tvg-name="TEST14 HD" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST14_HD.png",TEST14 HD
+http://103.180.212.191:3500/live/551.m3u8
+#EXTINF:-1 tvg-id="554" tvg-name="Discovery Kids 2" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",Discovery Kids 2
+http://103.180.212.191:3500/live/554.m3u8
+#EXTINF:-1 tvg-id="555" tvg-name="Chintu TV" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Chintu_TV.png",Chintu TV
+http://103.180.212.191:3500/live/555.m3u8
+#EXTINF:-1 tvg-id="556" tvg-name="Kochu TV" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kochu_TV.png",Kochu TV
+http://103.180.212.191:3500/live/556.m3u8
+#EXTINF:-1 tvg-id="557" tvg-name="Chutti TV" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Chutti_TV.png",Chutti TV
+http://103.180.212.191:3500/live/557.m3u8
+http://103.180.212.191:3500/live/872.m3u8
+#EXTINF:-1 tvg-id="558" tvg-name="Kushi TV" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kushi_TV.png",Kushi TV
+http://103.180.212.191:3500/live/558.m3u8
+#EXTINF:-1 tvg-id="816" tvg-name="Cartoon Network Hindi" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
+http://103.180.212.191:3500/live/816.m3u8
+#EXTINF:-1 tvg-id="1079" tvg-name="CN HD+ English" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png",CN HD+ English
+http://103.180.212.191:3500/live/1079.m3u8
+#EXTINF:-1 tvg-id="1216" tvg-name="Highbrow" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png",Highbrow
+http://103.180.212.191:3500/live/1216.m3u8
+#EXTINF:-1 tvg-id="1226" tvg-name="Nick HD+" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png",Nick HD+
+http://103.180.212.191:3500/live/1226.m3u8
+#EXTINF:-1 tvg-id="815" tvg-name="Sonic Hindi" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png",Sonic Hindi
+http://103.180.212.191:3500/live/815.m3u8
+#EXTINF:-1 tvg-id="545" tvg-name="Nick Hindi" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick Hindi
+http://103.180.212.191:3500/live/545.m3u8
+#EXTINF:-1 tvg-id="1430" tvg-name="Jio KIDS" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png",Jio KIDS
+http://103.180.212.191:3500/live/1430.m3u8
+#EXTINF:-1 tvg-id="1780" tvg-name="HooplaKidz TV" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hoopla_Kids_TV.png",HooplaKidz TV
+http://103.180.212.191:3500/live/1780.m3u8
+#EXTINF:-1 tvg-id="1920" tvg-name="The Q Kahaniyan" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/The_Q_Kahaniyan.png",The Q Kahaniyan
+http://103.180.212.191:3500/live/1920.m3u8
+#EXTINF:-1 tvg-id="2774" tvg-name="Power Kids TV" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Power_Kids_TV.png",Power Kids TV
+http://103.180.212.191:3500/live/2774.m3u8
+#EXTINF:-1 tvg-id="1279" tvg-name="Manoranjan Grand" tvg-type="Entertainment" group-title="@bdixtv_official | Entertainment" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Grand.png",Manoranjan Grand
+http://103.180.212.191:3500/live/1279.m3u8
+#EXTINF:-1 tvg-id="1280" tvg-name="Manoranjan TV" tvg-type="Movies" group-title="@bdixtv_official | Movies" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_TV.png",Manoranjan TV
+http://103.180.212.191:3500/live/1280.m3u8
+#EXTINF:-1 tvg-id="1281" tvg-name="Manoranjan Movies" tvg-type="Movies" group-title="@bdixtv_official | Movies" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Movies.png",Manoranjan Movies
+http://103.180.212.191:3500/live/1281.m3u8
+#EXTINF:-1 tvg-id="1282" tvg-name="Khushboo TV" tvg-type="Movies" group-title="@bdixtv_official | Movies" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Khusboo_TV.png",Khushboo TV
+http://103.180.212.191:3500/live/1282.m3u8
+#EXTINF:-1 tvg-id="1066" tvg-name="The Q" tvg-type="Entertainment" group-title="@bdixtv_official | Entertainment" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TheQIndia.png",The Q
+http://103.180.212.191:3500/live/1066.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Khushboo_Bangla_logo_2017.png" group-title="KID'S",KHUSHBOO BANGLA
+https://cdn-4.pishow.tv/live/1473/master.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/greengold.png",Green Gold TV
+http://103.180.212.191:3500/live/3467.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Unique_Tv.png", Unique Tv
+http://103.180.212.191:3500/live/3022.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/greengold.png",Green Gold TV
+https://prod-runn.cdn.runn.tv/greengold/stream/grngld/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png",Disney Channel
+http://103.180.212.191:3500/live/1373.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Junior.png",Disney Channel Junior
+http://103.180.212.191:3500/live/1374.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_International_HD.png",Disney Channel International HD
+http://103.180.212.191:3500/live/1375.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Super_Hungama.png", Super Hungama
+http://103.180.212.191:3500/live/1392.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hungama.png",Hungama
+http://103.180.212.191:3500/live/1391.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://bhoomtv.org/wp-content/uploads/2021/11/ChatGPT-Image-May-9-2026-09_43_43-PM-1-200x300.png",Epic Kids
+http://103.180.212.191:3500/live/3385.m3u8
+
+https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/5WSGt0Wr/CARTOON-NETWORK.png" group-title="KID'S",CARTOON NETWORK
+http://198.195.239.50:8095/CartoonNetwork/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg" group-title="Kids",Discovery Kids Hindi
+http://198.195.239.50:8095/DiscoveryKids/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k6BzhoO6x2b6h6L7aw5tfSWZLwzwnlAPhhQ1hHCPEEOYA=s72-c-k-c0x00ffffff-no-rj" group-title="Kids",TV Sul de Minas
+https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="http://azrogo.com/iphone/images/fr_jpg/gulli_live.jpg",Gulli
+https://tvradiozap.eu/tools/np-m3u8.php/gulli.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="http://azrogo.com/iphone/images/fr_jpg/gulli_live.jpg",Gulli
+https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="http://azrogo.com/iphone/images/ar_jpg/baha.jpg",Baha
+http://platform.topuphost.com:8577/live/baha1/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/RhYVYqWt/green-gold.jpg",Green Gold
+https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/f0de3942-a8e0-4fd8-a6bd-91c17d7a30a5/1.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYBen.png",SONY YAY Bengali
+http://live.balajibroadband.com:3500/live/3424.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zbcatun.png",ZB Cartoon
+http://live.balajibroadband.com:3500/live/3321.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwaKVFOmvUumUeTTUb8W7BUOH-yTE20IzuUtAmqztsOg&s=10",Younib Media TV
+https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Nick_Splat_2023.png/revision/latest?cb=20240226050529" group-title="KID'S",NICK
+http://66.102.120.18:8000/play/a00w/index.m3u8
+#EXTINF:-1 tvg-id="1341" tvg-name="Nick Bangla" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png",Nick Bangla
+http://live.balajibroadband.com:3500/live/1341.m3u8
+#EXTINF:-1 tvg-id="1345" tvg-name="Sonic Bangla" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png",Sonic Bangla
+http://live.balajibroadband.com:3500/live/1345.m3u8
+#EXTINF:-1 tvg-id=559 tvg-name="Pogo Hindi" tvg-logo="http://14.102.123.50:5001/jtvimage/Pogo_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Pogo Hindi
+http://live.balajibroadband.com:3500/live/559.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/77ByDrw/SONY-YAY.png" group-title="KID'S",SONY YAY
+https://indian.murgifarm.xyz/sliv/stream.php?id=sony-yay&format=.m3u8
+#EXTINF:-1 tvg-id=872 tvg-name="Sony Yay Hindi" tvg-logo="http://14.102.123.50:5001/jtvimage/Sony_Yay_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Sony Yay Hindi
+http://live.balajibroadband.com:3500/live/872.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/5WSGt0Wr/CARTOON-NETWORK.png" group-title="KID'S",CARTOON NETWORK
+http://103.89.248.130:8082/cn/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/5NRHrkd/SONIC.png" group-title="KID'S",SONIC
+http://live.balajibroadband.com:3500/live/1345.m3u8
+#EXTINF:-1 tvg-id="551" tvg-name="TEST14 HD" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST14_HD.png",TEST14 HD
+http://live.balajibroadband.com:3500/live/551.m3u8
+#EXTINF:-1 tvg-id="554" tvg-name="Discovery Kids 2" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",Discovery Kids 2
+http://live.balajibroadband.com:3500/live/554.m3u8
+#EXTINF:-1 tvg-id="555" tvg-name="Chintu TV" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Chintu_TV.png",Chintu TV
+http://live.balajibroadband.com:3500/live/555.m3u8
+#EXTINF:-1 tvg-id="556" tvg-name="Kochu TV" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kochu_TV.png",Kochu TV
+http://live.balajibroadband.com:3500/live/556.m3u8
+#EXTINF:-1 tvg-id="557" tvg-name="Chutti TV" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Chutti_TV.png",Chutti TV
+http://live.balajibroadband.com:3500/live/557.m3u8
+
+
+
+
+
