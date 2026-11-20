@@ -41,8 +41,7 @@ https://limon-iptv-link.limon20202.workers.dev/s/_8rR_eol--OYozC1MhYgibBaZsBrhtH
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 #https://stream.ottplus.live/live/ekattor_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" group-title="PRO✅",Somoy🇧🇩
-#https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
-http://116.204.149.16/somoytv/index.m3u8
+https://s3.itcnbd.live/server-12/stream/Nzk.m3u8
 #EXTINF:-1 tvg-id="97" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="PRO✅",Jamuna TV🇧🇩
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 #https://stream.ottplus.live/live/jamuna_tv_abr/index.m3u8
@@ -59,14 +58,13 @@ https://tvsen6.aynaott.com/YrVDF8gujkdh/index.m3u8
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 #EXTINF:-1 tvg-id="186" tvg-name="News 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png" group-title="PRO✅",News 24🇧🇩
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
-#https://stream.ottplus.live/live/channel_24_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4pBhNMB/My-Tv.jpg" group-title="PRO✅",MY TV HD🇧🇩
-http://116.204.149.16/mytv/index.m3u8
+https://s3.itcnbd.live/server-9/stream/bXktdHY.m3u8
 #EXTINF:-1 tvg-id="b3f0df76-15ba-4ede-a7de-bbaaf23a630e" tvg-name="ETV" tvg-logo="https://s3.aynaott.com/storage/d805cf57543080b49de8a2621cd54da4" group-title="PRO✅",ETV🇧🇩
 https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
 #https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-id="247" tvg-name="Independent TV " tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png" group-title="PRO✅",Independent TV🇧🇩
-https://tvsen6.aynaott.com/Wef2Vj67njeYGDqQNFB9/index.m3u8
+https://s3.itcnbd.live/server-12/stream/Nzc.m3u8
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/independent-8-org.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="132000" tvg-name="Channel I HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="PRO✅",Channel I HD🇧🇩
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
@@ -74,7 +72,7 @@ https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 #EXTINF:-1 tvg-id="100000" tvg-name="Bangla Vision" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="PRO✅",Bangla Vision🇧🇩
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
 #EXTINF:-1 tvg-id="addb7014-1d2e-41d8-982d-7cafbdc48770" tvg-name="Bangla TV" tvg-logo="https://s3.aynaott.com/storage/5b22893ae4e816ef2cf87e63c96e9e08" group-title="PRO✅",Bangla TV🇧🇩
-http://116.204.149.16/banglatv/index.m3u8
+https://s3.itcnbd.live/server-9/stream/YmFuZ2xhLXR2.m3u8
 #EXTINF:-1 tvg-logo="https://image.ghuddi.tv/uploads/images/2024/08/01/thumbnails_eac5034b1a589f589293aa6b92bcead1_goplay_bangla_tv_eu_1920_x_1080.png?w=1080&q=75",Bangla TV Europe🇧🇩
 https://cdn.ghuddi.live/tvapp/Bangla_TV_EU_New/playlist.m3u8|Referer=https://ghuddi.tv/
 #EXTINF:-1 tvg-id="99000" tvg-name="NTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png" group-title="PRO✅",NTV🇧🇩
