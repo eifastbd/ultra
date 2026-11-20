@@ -37,7 +37,7 @@ https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
 #EXTINF:-1 tvg-id="43" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/bhi-channel.png?ref=skym3u.dev" group-title="Bangladeshi",BHI Channel
 https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/bns4l5sBcqxnFHJBVZ32/posters/feaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.png" group-title="Bangladeshi",Bijoy TV
-https://drk6xq0vhn.gpcdn.net/live/bijoy_tv_abr/index.m3u8
+https://s3.itcnbd.live/server-10/stream/NDYyMDMxODcyNQ.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gWAVR1rGn3K2O6T0_4hfjjKpa3_K4QJZSkWJ8yUDVA&s=10" group-title="Bangladeshi",Boishakhi
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1676193167149_3.png&w=1920&q=75" group-title="Bangladeshi",BTV CTG
@@ -1509,10 +1509,6 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/8540.ts
 #EXTINF:-1,সানন্দা টিভি
 http://27.124.71.27/Sun_Bangla/index.m3u8
-
-
-
-
 
 #EXTINF:-1,Enter 10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
