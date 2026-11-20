@@ -778,6 +778,23 @@ https://samitaorigin.tangotv.in/PANKH/SAMITAORIGIN/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Pogo_2004.svg" ,POGO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
+#EXTVLCOPT:http-referrer=https://pro-torongoplus.vercel.app/
+#EXTVLCOPT:http-header=Origin: https://pro-torongoplus.vercel.app
+https://global.iptv-stock.workers.dev/live-stream/pogo.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/SONY_YAY_2022_Logo.png/250px-SONY_YAY_2022_Logo.png" ,Sony YAY 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
+#EXTVLCOPT:http-referrer=https://pro-torongoplus.vercel.app/
+#EXTVLCOPT:http-header=Origin: https://pro-torongoplus.vercel.app
+https://bscl.iptv-stock.workers.dev/hls/sony_yay_d8vp2xm7qc1nw5z_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/SONY_YAY_2022_Logo.png/250px-SONY_YAY_2022_Logo.png" ,Sony YAY 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
+#EXTVLCOPT:http-referrer=https://pro-torongoplus.vercel.app/
+#EXTVLCOPT:http-header=Origin: https://pro-torongoplus.vercel.app
+https://bscl.iptv-stock.workers.dev/hls/sony_yay_d8vp2xm7qc1nw5z.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_608bd1c995275bd65872dae5b2be9ba0_playmist_duronto_tv_400x400.jpg" group-title="PRO✅",Duronto TV👻
