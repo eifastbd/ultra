@@ -1,5 +1,14 @@
 #EXTM3U
 
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cyTd4Ly/images.jpg" group-title="BDIX Hindi Dubbed Web" ,Live Telecast (2021)
 https://pixeldrain.dev/api/file/PpSCkqot?download
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/K.G.F_Chapter_2.jpg" group-title="BDIX South" , K.G.F: Chapter 2 (2022)
@@ -85339,7 +85348,6 @@ http://starshare.live:8080/live/salam/salam/136296.ts
 http://starshare.live:8080/live/salam/salam/136297.ts
 #EXTINF:-1 tvg-id="NETFLIX-COMEDY ROMANCE MOVIES HD" tvg-logo="noimage.png" group-title="NETFLIX MOVIES 24/7", NETFLIX-COMEDY ROMANCE MOVIES HD
 http://starshare.live:8080/live/salam/salam/136298.ts  
-
 
 
 
