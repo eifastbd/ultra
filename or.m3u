@@ -6,15 +6,6 @@
 
 
 
-
-#EXTM3U
-#=================================
-# Playlist name : BD ISP SERVER 
-# Developed by: Monirul Islam
-# Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:00:06 PM 22-11-2026 (BD Time)
-# All channel : 100+
-#=================================
 #EXTINF:-1 tvg-id="37" tvg-name="JAMUNA TV" tvg-logo="https://i.postimg.cc/xCPxcQ0K/Jamuna-tv.jpg" group-title="Bangla",JAMUNA TV
 http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/37.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="SOMOY TV HD" tvg-logo="https://i.postimg.cc/bYCgM3dF/Somoy-TV.jpg" group-title="Bangla",SOMOY TV HD
