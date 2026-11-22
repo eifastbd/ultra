@@ -14,7 +14,249 @@
 
 #EXTINF:-1 tvg-name="JALSHA MOVIES HD" tvg-logo="http://198.195.239.50/img/channels/JALSHA%20MOVIES%20HD.png" group-title="Indian Bangla",JALSHA MOVIES HD
 http://172.19.17.202:8090/hls/JalshaMoviesHD.m3u8
-
+#EXTM3U
+#EXTINF:0,9X JALWA
+http://103.168.8.174:9999/stream/channelid/10403967?profile=pass
+#EXTINF:0,9X JHAKAAS
+http://103.168.8.174:9999/stream/channelid/11945926?profile=pass
+#EXTINF:0,9X TASHAN
+http://103.168.8.174:9999/stream/channelid/18278876?profile=pass
+#EXTINF:0,9XM
+http://103.168.8.174:9999/stream/channelid/21078722?profile=pass
+#EXTINF:0,AAKAASH BANGLA
+http://103.168.8.174:9999/stream/channelid/30701963?profile=pass
+#EXTINF:0,ALL TIME MOVIES
+http://103.168.8.174:9999/stream/channelid/32471009?profile=pass
+#EXTINF:0,Ananda TV
+http://103.168.8.174:9999/stream/channelid/46115567?profile=pass
+#EXTINF:0,Asian TV HD
+http://103.168.8.174:9999/stream/channelid/59059592?profile=pass
+#EXTINF:0,asiantvHD
+http://103.168.8.174:9999/stream/channelid/816166275?profile=pass
+#EXTINF:0,ATN Bangla
+http://103.168.8.174:9999/stream/channelid/35709034?profile=pass
+#EXTINF:0,ATN News
+http://103.168.8.174:9999/stream/channelid/41117983?profile=pass
+#EXTINF:0,B Bangla TV
+http://103.168.8.174:9999/stream/channelid/75914925?profile=pass
+#EXTINF:0,B Bangla TV
+http://103.168.8.174:9999/stream/channelid/356761638?profile=pass
+#EXTINF:0,B4U BHOJPURI
+http://103.168.8.174:9999/stream/channelid/84188064?profile=pass
+#EXTINF:0,B4U KADAK
+http://103.168.8.174:9999/stream/channelid/100754018?profile=pass
+#EXTINF:0,B4U Movies
+http://103.168.8.174:9999/stream/channelid/110437771?profile=pass
+#EXTINF:0,B4U MUSIC
+http://103.168.8.174:9999/stream/channelid/106937840?profile=pass
+#EXTINF:0,bangla gaan
+http://103.168.8.174:9999/stream/channelid/115081365?profile=pass
+#EXTINF:0,Bangla Vision
+http://103.168.8.174:9999/stream/channelid/126369280?profile=pass
+#EXTINF:0,BanglaTV HD
+http://103.168.8.174:9999/stream/channelid/128719618?profile=pass
+#EXTINF:0,Bijoy TV
+http://103.168.8.174:9999/stream/channelid/128810602?profile=pass
+#EXTINF:0,Boishakhi TV_HD
+http://103.168.8.174:9999/stream/channelid/137180482?profile=pass
+#EXTINF:0,BTV HD
+http://103.168.8.174:9999/stream/channelid/115706891?profile=pass
+#EXTINF:0,BTV HD
+http://103.168.8.174:9999/stream/channelid/804677169?profile=pass
+#EXTINF:0,Channel 24HD
+http://103.168.8.174:9999/stream/channelid/162910403?profile=pass
+#EXTINF:0,Channel I HD
+http://103.168.8.174:9999/stream/channelid/176599078?profile=pass
+#EXTINF:0,Channel S
+http://103.168.8.174:9999/stream/channelid/140113524?profile=pass
+#EXTINF:0,CINEMAX HD
+http://103.168.8.174:9999/stream/channelid/144456934?profile=pass
+#EXTINF:0,COLORS
+http://103.168.8.174:9999/stream/channelid/146461447?profile=pass
+#EXTINF:0,COLORS BANGLA
+http://103.168.8.174:9999/stream/channelid/158586121?profile=pass
+#EXTINF:0,DANGAL
+http://103.168.8.174:9999/stream/channelid/199130999?profile=pass
+#EXTINF:0,DANGAL 2
+http://103.168.8.174:9999/stream/channelid/201607278?profile=pass
+#EXTINF:0,DBC NEWS
+http://103.168.8.174:9999/stream/channelid/216279727?profile=pass
+#EXTINF:0,Desh TV
+http://103.168.8.174:9999/stream/channelid/222414408?profile=pass
+#EXTINF:0,DHOOM MUSIC BANGLA
+http://103.168.8.174:9999/stream/channelid/216998600?profile=pass
+#EXTINF:0,DURONTO TV HD
+http://103.168.8.174:9999/stream/channelid/218243950?profile=pass
+#EXTINF:0,Ekattor-HD
+http://103.168.8.174:9999/stream/channelid/240633184?profile=pass
+#EXTINF:0,EKHON TV
+http://103.168.8.174:9999/stream/channelid/237645639?profile=pass
+#EXTINF:0,Ekushey TV
+http://103.168.8.174:9999/stream/channelid/242433288?profile=pass
+#EXTINF:0,Enterr10 Bangla
+http://103.168.8.174:9999/stream/channelid/245478508?profile=pass
+#EXTINF:0,Filmy Bangla
+http://103.168.8.174:9999/stream/channelid/263534320?profile=pass
+#EXTINF:0,Gaan Bangla HD
+http://103.168.8.174:9999/stream/channelid/442761042?profile=pass
+#EXTINF:0,GLOBAL TV HD
+http://103.168.8.174:9999/stream/channelid/278397333?profile=pass
+#EXTINF:0,Goldmines
+http://103.168.8.174:9999/stream/channelid/265868621?profile=pass
+#EXTINF:0,Goldmines 2
+http://103.168.8.174:9999/stream/channelid/283893149?profile=pass
+#EXTINF:0,Goldmines Action
+http://103.168.8.174:9999/stream/channelid/286465525?profile=pass
+#EXTINF:0,Goldmines Bangla
+http://103.168.8.174:9999/stream/channelid/291949288?profile=pass
+#EXTINF:0,Goldmines Bollywood
+http://103.168.8.174:9999/stream/channelid/302969707?profile=pass
+#EXTINF:0,GOLDMINES MOVIES
+http://103.168.8.174:9999/stream/channelid/302420613?profile=pass
+#EXTINF:0,GTC PUNJABI
+http://103.168.8.174:9999/stream/channelid/334722234?profile=pass
+#EXTINF:0,HUNGAMA
+http://103.168.8.174:9999/stream/channelid/309695715?profile=pass
+#EXTINF:0,Jamuna Television
+http://103.168.8.174:9999/stream/channelid/333487545?profile=pass
+#EXTINF:0,KHUSHBOO
+http://103.168.8.174:9999/stream/channelid/344884872?profile=pass
+#EXTINF:0,KOLIKATA_HARBAL
+http://103.168.8.174:9999/stream/channelid/349686087?profile=pass
+#EXTINF:0,MAA MAX HD
+http://103.168.8.174:9999/stream/channelid/366939084?profile=pass
+#EXTINF:0,Maasranga TV HD
+http://103.168.8.174:9999/stream/channelid/428851682?profile=pass
+#EXTINF:0,Madani TV
+http://103.168.8.174:9999/stream/channelid/429012565?profile=pass
+#EXTINF:0,MANORANJAN GRAND
+http://103.168.8.174:9999/stream/channelid/375301366?profile=pass
+#EXTINF:0,MANORANJAN TV
+http://103.168.8.174:9999/stream/channelid/380959031?profile=pass
+#EXTINF:0,MBC ACTION HD
+http://103.168.8.174:9999/stream/channelid/391538798?profile=pass
+#EXTINF:0,MBC2 HD
+http://103.168.8.174:9999/stream/channelid/396262127?profile=pass
+#EXTINF:0,MBC4 HD
+http://103.168.8.174:9999/stream/channelid/412058570?profile=pass
+#EXTINF:0,Mix Bangla
+http://103.168.8.174:9999/stream/channelid/435694168?profile=pass
+#EXTINF:0,Mix Bangla
+http://103.168.8.174:9999/stream/channelid/497311457?profile=pass
+#EXTINF:0,Mohona TV
+http://103.168.8.174:9999/stream/channelid/439469283?profile=pass
+#EXTINF:0,Movies 24 HD
+http://103.168.8.174:9999/stream/channelid/442915548?profile=pass
+#EXTINF:0,Movies 24 HD
+http://103.168.8.174:9999/stream/channelid/778334915?profile=pass
+#EXTINF:0,Music Bangla TV
+http://103.168.8.174:9999/stream/channelid/447294540?profile=pass
+#EXTINF:0,Music India
+http://103.168.8.174:9999/stream/channelid/451486121?profile=pass
+#EXTINF:0,MYTV HD
+http://103.168.8.174:9999/stream/channelid/428249031?profile=pass
+#EXTINF:0,NAGROIK TV HD
+http://103.168.8.174:9999/stream/channelid/460861528?profile=pass
+#EXTINF:0,NAT GEO WILD
+http://103.168.8.174:9999/stream/channelid/464918903?profile=pass
+#EXTINF:0,NEWS 24 HD
+http://103.168.8.174:9999/stream/channelid/470451283?profile=pass
+#EXTINF:0,NEXUS TV ENC1
+http://103.168.8.174:9999/stream/channelid/471306881?profile=pass
+#EXTINF:0,NICK
+http://103.168.8.174:9999/stream/channelid/473255245?profile=pass
+#EXTINF:0,NTV HD EN-1
+http://103.168.8.174:9999/stream/channelid/478098705?profile=pass
+#EXTINF:0,RONGEEN TV
+http://103.168.8.174:9999/stream/channelid/492289874?profile=pass
+#EXTINF:0,RTV HD
+http://103.168.8.174:9999/stream/channelid/493698583?profile=pass
+#EXTINF:0,S_BANGLA_CINEMA
+http://103.168.8.174:9999/stream/channelid/637383558?profile=pass
+#EXTINF:0,SA TV HD
+http://103.168.8.174:9999/stream/channelid/494720528?profile=pass
+#EXTINF:0,Sangeet Bangla
+http://103.168.8.174:9999/stream/channelid/640099597?profile=pass
+#EXTINF:0,Sangeet Bhojpuri
+http://103.168.8.174:9999/stream/channelid/651622728?profile=pass
+#EXTINF:0,Saudi Quran
+http://103.168.8.174:9999/stream/channelid/651720802?profile=pass
+#EXTINF:0,Saudi Sunnah
+http://103.168.8.174:9999/stream/channelid/652574078?profile=pass
+#EXTINF:0,Saudi TV1 HD
+http://103.168.8.174:9999/stream/channelid/659699793?profile=pass
+#EXTINF:0,SHEMAROO TV
+http://103.168.8.174:9999/stream/channelid/500820225?profile=pass
+#EXTINF:0,SKY SPORTS CRICKET HD
+http://103.168.8.174:9999/stream/channelid/510942250?profile=pass
+#EXTINF:0,SKY SPORTS GOLF HD
+http://103.168.8.174:9999/stream/channelid/517886036?profile=pass
+#EXTINF:0,SOMOY TV HD
+http://103.168.8.174:9999/stream/channelid/815467852?profile=pass
+#EXTINF:0,SONY AATH
+http://103.168.8.174:9999/stream/channelid/518290052?profile=pass
+#EXTINF:0,SONY MAX
+http://103.168.8.174:9999/stream/channelid/521861991?profile=pass
+#EXTINF:0,SONY TEN 5
+http://103.168.8.174:9999/stream/channelid/527687783?profile=pass
+#EXTINF:0,SONY TV
+http://103.168.8.174:9999/stream/channelid/539718832?profile=pass
+#EXTINF:0,SONY YAY
+http://103.168.8.174:9999/stream/channelid/567573233?profile=pass
+#EXTINF:0,STAR JHALSA
+http://103.168.8.174:9999/stream/channelid/577307990?profile=pass
+#EXTINF:0,STAR MOVIES HD
+http://103.168.8.174:9999/stream/channelid/582337813?profile=pass
+#EXTINF:0,STAR NEWS HD
+http://103.168.8.174:9999/stream/channelid/592319437?profile=pass
+#EXTINF:0,STAR PLUS
+http://103.168.8.174:9999/stream/channelid/603770350?profile=pass
+#EXTINF:0,STAR SPORTS SELECT-1
+http://103.168.8.174:9999/stream/channelid/605143110?profile=pass
+#EXTINF:0,STAR SPORTS SELECT-2
+http://103.168.8.174:9999/stream/channelid/610414118?profile=pass
+#EXTINF:0,STAR SPORTS-1
+http://103.168.8.174:9999/stream/channelid/609812448?profile=pass
+#EXTINF:0,STAR SPORTS-2
+http://103.168.8.174:9999/stream/channelid/612687493?profile=pass
+#EXTINF:0,STAR_SPORTS_1HD
+http://103.168.8.174:9999/stream/channelid/627976130?profile=pass
+#EXTINF:0,T SPORTS HD
+http://103.168.8.174:9999/stream/channelid/662482062?profile=pass
+#EXTINF:0,Tara Bangla Cinema
+http://103.168.8.174:9999/stream/channelid/705900966?profile=pass
+#EXTINF:0,TEN 1
+http://103.168.8.174:9999/stream/channelid/685599303?profile=pass
+#EXTINF:0,TEN 2
+http://103.168.8.174:9999/stream/channelid/685792788?profile=pass
+#EXTINF:0,TEN 3
+http://103.168.8.174:9999/stream/channelid/686864090?profile=pass
+#EXTINF:0,THE Q
+http://103.168.8.174:9999/stream/channelid/688159618?profile=pass
+#EXTINF:0,TNT SPORTS 2 HD
+http://103.168.8.174:9999/stream/channelid/694159229?profile=pass
+#EXTINF:0,TV9 Bangla
+http://103.168.8.174:9999/stream/channelid/698451564?profile=pass
+#EXTINF:0,UTV CINEMA HD
+http://103.168.8.174:9999/stream/channelid/707991887?profile=pass
+#EXTINF:0,UTV GOLD HD
+http://103.168.8.174:9999/stream/channelid/709843607?profile=pass
+#EXTINF:0,UTV MAX HD
+http://103.168.8.174:9999/stream/channelid/728107570?profile=pass
+#EXTINF:0,UTV MOVIES HD
+http://103.168.8.174:9999/stream/channelid/735138439?profile=pass
+#EXTINF:0,ZEE BANGLA
+http://103.168.8.174:9999/stream/channelid/736424497?profile=pass
+#EXTINF:0,ZEE BANGLA HD
+http://103.168.8.174:9999/stream/channelid/748849215?profile=pass
+#EXTINF:0,Zee Bangla Sonar
+http://103.168.8.174:9999/stream/channelid/796504466?profile=pass
+#EXTINF:0,ZEE CINEMA
+http://103.168.8.174:9999/stream/channelid/754082697?profile=pass
+#EXTINF:0,ZEE TV
+http://103.168.8.174:9999/stream/channelid/765540607?profile=pass
+#EXTINF:0,ZEE_PLUS_CINEMA
+http://103.168.8.174:9999/stream/channelid/769734218?profile=pass
 
 
 https://s3.itcnbd.live/server-5/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0xMDE.m3u8
