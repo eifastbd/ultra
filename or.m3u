@@ -258,21 +258,31 @@ http://103.168.8.174:9999/stream/channelid/765540607?profile=pass
 #EXTINF:0,ZEE_PLUS_CINEMA
 http://103.168.8.174:9999/stream/channelid/769734218?profile=pass
 
-
+#EXTINF:-1 group-title="💠WIFI💠" tvg-logo="",Bein 1
 https://s3.itcnbd.live/server-5/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0xMDE.m3u8
+#EXTINF:-1 group-title="💠WIFI💠" tvg-logo="",t sport
 https://s3.itcnbd.live/server-5/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0xMDI.m3u8
+#EXTINF:-1 group-title="💠WIFI💠" tvg-logo="",star sport 1
 https://s3.itcnbd.live/server-5/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0xMTA.m3u8
+#EXTINF:-1 group-title="💠WIFI💠" tvg-logo="",star sport 2
 https://s3.itcnbd.live/server-5/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0xMTU.m3u8
-https://s3.itcnbd.live/server-5/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0xMTA.m3u8
+#EXTINF:-1 group-title="💠WIFI💠" tvg-logo="",sony 1
 https://s3.itcnbd.live/server-5/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0xMTk.m3u8
+#EXTINF:-1 group-title="💠WIFI💠" tvg-logo="",sony 2
 https://s3.itcnbd.live/server-5/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0xMjA.m3u8
+#EXTINF:-1 group-title="💠WIFI💠" tvg-logo="",sony 3
 https://s3.itcnbd.live/server-5/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0xMjE.m3u8
+#EXTINF:-1 group-title="💠WIFI💠" tvg-logo="",sony 5
 https://s3.itcnbd.live/server-5/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0xMjI.m3u8
+#EXTINF:-1 group-title="💠WIFI💠" tvg-logo="",star select 1
 https://s3.itcnbd.live/server-5/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0xMjM.m3u8
+#EXTINF:-1 group-title="💠WIFI💠" tvg-logo="",star select 2
 https://s3.itcnbd.live/server-5/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0xMjQ.m3u8
+#EXTINF:-1 group-title="💠WIFI💠" tvg-logo="",A sport
 https://s3.itcnbd.live/server-5/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0xMjc.m3u8
+#EXTINF:-1 group-title="💠WIFI💠" tvg-logo="",Eurosport
 https://s3.itcnbd.live/server-5/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0xMzQ.m3u8
-
+#EXTINF:-1 group-title="💠WIFI💠" tvg-logo="",bein 1
 https://s3.itcnbd.live/server-6/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0xMDE.m3u8
 https://s3.itcnbd.live/server-6/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0xMDI.m3u8
 
