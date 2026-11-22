@@ -288,6 +288,8 @@ https://bdix.ottking.top:8082/Disny-Channel-Hindi/video.m3u8?token=ottking_247_7
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://198.195.239.50/img/channels/T%20SPORTS.png",T Sports
 http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/10.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="http://198.195.239.50/img/channels/T%20SPORTS.png",T Sports
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/11.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://198.195.239.50/img/channels/DURANTA%20TV.png",Duranta Tv
 http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/55.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://198.195.239.50/img/channels/SONY%20AATH.png",Sony Aath
@@ -300,6 +302,72 @@ http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/23.m3u8
 http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/56.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://198.195.239.50/img/channels/images__2_.png",Cartoon Network
 http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/57.m3u8
+
+#EXTINF:-1,Star sport
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/5.m3u8
+#EXTINF:-1,Star sport 2
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/5.m3u8
+#EXTINF:-1,Star sport 3
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/9.m3u8
+#EXTINF:-1,Star  Select sport 
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/7.m3u8
+#EXTINF:-1,Star  Select sport 2
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/8.m3u8
+#EXTINF:-1,Sony 1
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/12.m3u8
+#EXTINF:-1,sony 2
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/13.m3u8
+#EXTINF:-1,sony 3
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/14.m3u8
+#EXTINF:-1,
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/15.m3u8
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+
+
 
 
 #EXTINF:-1, Channel 1
