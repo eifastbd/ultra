@@ -6,6 +6,500 @@
 
 
 
+
+
+
+
+
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="btv_national_hd" tvg-logo="http://172.19.17.34:8080/images/430b8b556f80c9ad67ae6353457c9054.png" group-title="General",BTV NATIONAL HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=btv_national_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="atn_bangla" tvg-logo="http://172.19.17.34:8080/images/7c27bbf7631a2f3d8a2f3602a965c5e2.png" group-title="General",ATN BANGLA
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=atn_bangla&sm=.m3u8
+
+#EXTINF:-1 tvg-id="btv_chattagram" tvg-logo="http://172.19.17.34:8080/images/d92a7381521a7b2926fde01ecfe7fafe.png" group-title="General",BTV CHATTAGRAM
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=btv_chattagram&sm=.m3u8
+
+#EXTINF:-1 tvg-id="channel_i_hd" tvg-logo="http://172.19.17.34:8080/images/6aefea908c922c486e16313fb6ea2df2.png" group-title="General",CHANNEL I HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=channel_i_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="ekushey_tv_hd" tvg-logo="none" group-title="General",EKUSHEY TV HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=ekushey_tv_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="ntv_hd" tvg-logo="http://172.19.17.34:8080/images/7f928d17fededaac0e65feb5b7bd93b0.png" group-title="General",NTV HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=ntv_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="rtv_hd" tvg-logo="http://172.19.17.34:8080/images/222d045d9f443b3c56065ea8f2d4e511.png" group-title="General",RTV HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=rtv_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="boishakhi_tv_hd" tvg-logo="http://172.19.17.34:8080/images/89c074e4e5e53e38decaaa415680b620.png" group-title="General",BOISHAKHI TV HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=boishakhi_tv_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="bangla_vision" tvg-logo="http://172.19.17.34:8080/images/9f2111221f468ecfee15f7ea50bebc56.png" group-title="General",BANGLA VISION
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=bangla_vision&sm=.m3u8
+
+#EXTINF:-1 tvg-id="desh_tv" tvg-logo="http://172.19.17.34:8080/images/ca5d4ffe48b1ee29762cacea3ce44fb9.png" group-title="General",DESH TV
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=desh_tv&sm=.m3u8
+
+#EXTINF:-1 tvg-id="mytv_hd" tvg-logo="http://172.19.17.34:8080/images/4e5e75c4ecb609c4fd23bc03c5d22bd9.png" group-title="General",MYTV HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=mytv_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="atn_news_hd" tvg-logo="http://172.19.17.34:8080/images/19a02f5d643febcb08a50a43cef6ffbd.png" group-title="General",ATN NEWS HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=atn_news_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="mohona_tv_hd" tvg-logo="http://172.19.17.34:8080/images/beeeee10f7cff23ae24786418676a73c.png" group-title="General",MOHONA TV HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=mohona_tv_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="somoy_tv_hd" tvg-logo="none" group-title="General",SOMOY TV HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=somoy_tv_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="independent_tv" tvg-logo="http://172.19.17.34:8080/images/11d8a01ff419a046935beb43a8a950ad.png" group-title="General",INDEPENDENT TV
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=independent_tv&sm=.m3u8
+
+#EXTINF:-1 tvg-id="channel_24_hd" tvg-logo="none" group-title="General",CHANNEL 24 HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=channel_24_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="gazi_tv_hd" tvg-logo="none" group-title="General",GAZI TV HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=gazi_tv_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="ekattor_tv_hd" tvg-logo="http://172.19.17.34:8080/images/2607d63cf60cf8d7df4691cb7d41ad00.png" group-title="General",EKATTOR TV HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=ekattor_tv_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="asian_tv_hd" tvg-logo="http://172.19.17.34:8080/images/fd71b7ac004f3f77dd9629f8dd8b75b6.png" group-title="General",ASIAN TV HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=asian_tv_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="satv_hd" tvg-logo="http://172.19.17.34:8080/images/5cfff421a99801022d82e00ed07f0a28.png" group-title="General",SATV HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=satv_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="jamuna_tv" tvg-logo="http://172.19.17.34:8080/images/dd514fbe06b816cd2386c0bd198c0b99.png" group-title="General",JAMUNA TV
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=jamuna_tv&sm=.m3u8
+
+#EXTINF:-1 tvg-id="deepto_tv_hd" tvg-logo="http://172.19.17.34:8080/images/37ff49ac5566778eb06f16959414c5bd.png" group-title="General",DEEPTO TV HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=deepto_tv_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="dbc_news_hd" tvg-logo="http://172.19.17.34:8080/images/37ff49ac5566778eb06f16959414c5bd.png" group-title="General",DBC NEWS HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=dbc_news_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="news24_hd" tvg-logo="http://172.19.17.34:8080/images/58bc4cf3e9049a2764e0144f1fd3625a.png" group-title="General",NEWS24 HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=news24_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="bangla_tv_hd" tvg-logo="none" group-title="General",BANGLA TV HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=bangla_tv_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="duronto_tv_hd" tvg-logo="none" group-title="General",DURONTO TV HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=duronto_tv_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="nagorik_tv_hd" tvg-logo="none" group-title="General",NAGORIK TV HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=nagorik_tv_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="ananda_tv" tvg-logo="none" group-title="General",ANANDA TV
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=ananda_tv&sm=.m3u8
+
+#EXTINF:-1 tvg-id="ekhon_tv" tvg-logo="none" group-title="General",EKHON TV
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=ekhon_tv&sm=.m3u8
+
+#EXTINF:-1 tvg-id="maasranga_tv_hd" tvg-logo="none" group-title="General",MAASRANGA TV HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=maasranga_tv_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="star_jalsha_hd" tvg-logo="none" group-title="General",STAR JALSHA HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=star_jalsha_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="zee_bangla_hd" tvg-logo="none" group-title="General",ZEE BANGLA HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=zee_bangla_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="colors_bangla_hd" tvg-logo="none" group-title="General",COLORS BANGLA HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=colors_bangla_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="sony_atth" tvg-logo="none" group-title="General",SONY ATTH
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=sony_atth&sm=.m3u8
+
+#EXTINF:-1 tvg-id="sun_bangla_hd" tvg-logo="none" group-title="General",SUN BANGLA HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=sun_bangla_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="enter_10_bangla" tvg-logo="none" group-title="General",ENTER 10 BANGLA
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=enter_10_bangla&sm=.m3u8
+
+#EXTINF:-1 tvg-id="khushboo" tvg-logo="none" group-title="General",KHUSHBOO
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=khushboo&sm=.m3u8
+
+#EXTINF:-1 tvg-id="jalsha_movies_hd" tvg-logo="none" group-title="General",JALSHA MOVIES HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=jalsha_movies_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="zee_bangla_cinema" tvg-logo="none" group-title="General",ZEE BANGLA CINEMA
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=zee_bangla_cinema&sm=.m3u8
+
+#EXTINF:-1 tvg-id="star_plus_hd" tvg-logo="none" group-title="General",STAR PLUS HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=star_plus_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="sony_hd" tvg-logo="none" group-title="General",SONY HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=sony_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="zee_tv_hd" tvg-logo="none" group-title="General",ZEE TV HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=zee_tv_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="colors_hd" tvg-logo="none" group-title="General",COLORS HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=colors_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="star_bharat_hd" tvg-logo="none" group-title="General",STAR BHARAT HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=star_bharat_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="and_tv_hd" tvg-logo="none" group-title="General",&TV HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=and_tv_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="ary_digital_hd" tvg-logo="none" group-title="General",ARY DIGITAL HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=ary_digital_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="star_gold_hd" tvg-logo="none" group-title="General",STAR GOLD HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=star_gold_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="zee_cinema_hd" tvg-logo="none" group-title="General",ZEE CINEMA HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=zee_cinema_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="and_picture_hd" tvg-logo="none" group-title="General",& PICTURE HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=and_picture_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="sony_max_hd" tvg-logo="none" group-title="General",SONY MAX HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=sony_max_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="colors_cineplex_hd" tvg-logo="none" group-title="General",COLORS CINEPLEX HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=colors_cineplex_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="star_gold_2_hd" tvg-logo="none" group-title="General",STAR GOLD 2 HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=star_gold_2_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="star_gold_sel_hd" tvg-logo="none" group-title="General",STAR GOLD SEL HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=star_gold_sel_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="t_sports_hd" tvg-logo="none" group-title="General",T SPORTS HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=t_sports_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="t_sports_fhd" tvg-logo="none" group-title="General",T SPORTS FHD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=t_sports_fhd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="sony_ten_1_hd" tvg-logo="none" group-title="General",SONY TEN 1 HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=sony_ten_1_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="sony_ten_2_hd" tvg-logo="none" group-title="General",SONY TEN 2 HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=sony_ten_2_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="sony_ten_3_hd" tvg-logo="none" group-title="General",SONY TEN 3 HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=sony_ten_3_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="sony_ten_5_hd" tvg-logo="none" group-title="General",SONY TEN 5 HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=sony_ten_5_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="star_sports_1_hd" tvg-logo="none" group-title="General",STAR SPORTS 1 HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=star_sports_1_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="star_sports_2_hd" tvg-logo="none" group-title="General",STAR SPORTS 2 HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=star_sports_2_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="star_sports_2_hd_hindi" tvg-logo="none" group-title="General",STAR SPORTS 2 HD HINDI
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=star_sports_2_hd_hindi&sm=.m3u8
+
+#EXTINF:-1 tvg-id="star_sports_sl1_hd" tvg-logo="none" group-title="General",STAR SPORTS SL1 HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=star_sports_sl1_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="star_sports_sl_2_hd" tvg-logo="none" group-title="General",STAR SPORTS SL 2 HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=star_sports_sl_2_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="star_sports_3" tvg-logo="none" group-title="General",STAR SPORTS 3
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=star_sports_3&sm=.m3u8
+
+#EXTINF:-1 tvg-id="eurosports_hd" tvg-logo="none" group-title="General",EUROSPORTS HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=eurosports_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="a_sports_hd" tvg-logo="none" group-title="General",A SPORTS HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=a_sports_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="ptv_sports_hd" tvg-logo="none" group-title="General",PTV SPORTS HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=ptv_sports_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="tnt_sport_1_hd" tvg-logo="none" group-title="General",TNT SPORT 1 HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=tnt_sport_1_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="tnt_sports_2_hd" tvg-logo="none" group-title="General",TNT SPORTS 2 HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=tnt_sports_2_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="tnt_sports_3_hd" tvg-logo="none" group-title="General",TNT SPORTS 3 HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=tnt_sports_3_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="tnt_sports_4_hd" tvg-logo="none" group-title="General",TNT SPORTS 4 HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=tnt_sports_4_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="willow_cricket_1_hd" tvg-logo="none" group-title="General",WILLOW CRICKET 1 HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=willow_cricket_1_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="willow_cricket_2_hd" tvg-logo="none" group-title="General",WILLOW CRICKET 2 HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=willow_cricket_2_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="sky_sports_cricket_hd" tvg-logo="none" group-title="General",SKY SPORTS CRICKET HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=sky_sports_cricket_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="sky_sports_golf_hd" tvg-logo="none" group-title="General",SKY SPORTS GOLF HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=sky_sports_golf_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="nbc_golf_hd" tvg-logo="none" group-title="General",NBC GOLF HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=nbc_golf_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="b4u_movies" tvg-logo="none" group-title="General",B4U MOVIES
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=b4u_movies&sm=.m3u8
+
+#EXTINF:-1 tvg-id="bein_sports_1_eng" tvg-logo="none" group-title="General",BEIN SPORTS 1 ENG
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=bein_sports_1_eng&sm=.m3u8
+
+#EXTINF:-1 tvg-id="bein_sports_2_eng" tvg-logo="none" group-title="General",BEIN SPORTS 2 ENG
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=bein_sports_2_eng&sm=.m3u8
+
+#EXTINF:-1 tvg-id="24_ghanta" tvg-logo="none" group-title="General",24 GHANTA
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=24_ghanta&sm=.m3u8
+
+#EXTINF:-1 tvg-id="abp_news" tvg-logo="none" group-title="General",ABP NEWS
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=abp_news&sm=.m3u8
+
+#EXTINF:-1 tvg-id="geo_news" tvg-logo="none" group-title="General",GEO NEWS
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=geo_news&sm=.m3u8
+
+#EXTINF:-1 tvg-id="ary_news_asia" tvg-logo="none" group-title="General",ARY NEWS ASIA
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=ary_news_asia&sm=.m3u8
+
+#EXTINF:-1 tvg-id="al_jazeera_news" tvg-logo="none" group-title="General",AL JAZEERA NEWS
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=al_jazeera_news&sm=.m3u8
+
+#EXTINF:-1 tvg-id="bbc_world" tvg-logo="none" group-title="General",BBC WORLD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=bbc_world&sm=.m3u8
+
+#EXTINF:-1 tvg-id="cnn_international" tvg-logo="none" group-title="General",CNN INTERNATIONAL
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=cnn_international&sm=.m3u8
+
+#EXTINF:-1 tvg-id="cgtn_news" tvg-logo="none" group-title="General",CGTN NEWS
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=cgtn_news&sm=.m3u8
+
+#EXTINF:-1 tvg-id="dw_english_hd" tvg-logo="none" group-title="General",DW ENGLISH HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=dw_english_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="discovery_hd" tvg-logo="none" group-title="General",DISCOVERY HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=discovery_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="nat_geo_hd" tvg-logo="none" group-title="General",NAT GEO HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=nat_geo_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="nat_geo_wild_hd" tvg-logo="none" group-title="General",NAT GEO WILD HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=nat_geo_wild_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="animal_planet_hd" tvg-logo="none" group-title="General",ANIMAL PLANET HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=animal_planet_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="sony_bbc_earth_hd" tvg-logo="none" group-title="General",SONY BBC EARTH HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=sony_bbc_earth_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="travel_xp_hd" tvg-logo="none" group-title="General",TRAVEL XP HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=travel_xp_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="history_tv_hd" tvg-logo="none" group-title="General",HISTORY TV HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=history_tv_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="tlc_hd" tvg-logo="none" group-title="General",TLC HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=tlc_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="cartoon_network_hd" tvg-logo="none" group-title="General",CARTOON NETWORK HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=cartoon_network_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="nick_tv_hd_plus" tvg-logo="none" group-title="General",NICK TV HD+
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=nick_tv_hd_plus&sm=.m3u8
+
+#EXTINF:-1 tvg-id="disney_int_hd" tvg-logo="none" group-title="General",DISNEY INT. HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=disney_int_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="cartoon_network_sd" tvg-logo="none" group-title="General",CARTOON NETWORK SD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=cartoon_network_sd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="nick_sd" tvg-logo="none" group-title="General",NICK SD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=nick_sd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="sonic" tvg-logo="none" group-title="General",SONIC
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=sonic&sm=.m3u8
+
+#EXTINF:-1 tvg-id="pogo" tvg-logo="none" group-title="General",POGO
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=pogo&sm=.m3u8
+
+#EXTINF:-1 tvg-id="nick_junior" tvg-logo="none" group-title="General",NICK JUNIOR
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=nick_junior&sm=.m3u8
+
+#EXTINF:-1 tvg-id="hungama_sd" tvg-logo="none" group-title="General",HUNGAMA SD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=hungama_sd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="discovery_kids" tvg-logo="none" group-title="General",DISCOVERY KIDS
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=discovery_kids&sm=.m3u8
+
+#EXTINF:-1 tvg-id="disney_junior" tvg-logo="none" group-title="General",DISNEY JUNIOR
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=disney_junior&sm=.m3u8
+
+#EXTINF:-1 tvg-id="sony_pix_hd" tvg-logo="none" group-title="General",SONY PIX HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=sony_pix_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="unite_8_sports_2_hd" tvg-logo="none" group-title="General",UNITE 8 SPORTS 2 HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=unite_8_sports_2_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="colors_infinity_hd" tvg-logo="none" group-title="General",COLORS INFINITY HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=colors_infinity_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="star_movies_hd" tvg-logo="none" group-title="General",STAR MOVIES HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=star_movies_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="star_movies_sel_hd" tvg-logo="none" group-title="General",STAR MOVIES SEL HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=star_movies_sel_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="mn_plus_hd" tvg-logo="none" group-title="General",MN+ HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=mn_plus_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="movies_now_hd" tvg-logo="none" group-title="General",MOVIES NOW HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=movies_now_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="unite_8_sports_1_hd" tvg-logo="none" group-title="General",UNITE 8 SPORTS 1 HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=unite_8_sports_1_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="and_prive_hd" tvg-logo="none" group-title="General",& PRIVE HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=and_prive_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="romedy_now" tvg-logo="none" group-title="General",ROMEDY NOW
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=romedy_now&sm=.m3u8
+
+#EXTINF:-1 tvg-id="mnx" tvg-logo="none" group-title="General",MNX
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=mnx&sm=.m3u8
+
+#EXTINF:-1 tvg-id="sangeet_bangla" tvg-logo="none" group-title="General",SANGEET BANGLA
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=sangeet_bangla&sm=.m3u8
+
+#EXTINF:-1 tvg-id="9xm" tvg-logo="none" group-title="General",9XM
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=9xm&sm=.m3u8
+
+#EXTINF:-1 tvg-id="b4u_music" tvg-logo="none" group-title="General",B4U MUSIC
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=b4u_music&sm=.m3u8
+
+#EXTINF:-1 tvg-id="mtv_india_hd" tvg-logo="none" group-title="General",MTV INDIA HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=mtv_india_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="peace_tv_bangla_hd" tvg-logo="none" group-title="General",Peace TV Bangla HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=peace_tv_bangla_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="saudi_quran" tvg-logo="none" group-title="General",SAUDI QURAN
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=saudi_quran&sm=.m3u8
+
+#EXTINF:-1 tvg-id="saudi_sunnah" tvg-logo="none" group-title="General",SAUDI SUNNAH
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=saudi_sunnah&sm=.m3u8
+
+#EXTINF:-1 tvg-id="disney_channels" tvg-logo="none" group-title="General",DISNEY CHANNELS
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=disney_channels&sm=.m3u8
+
+#EXTINF:-1 tvg-id="channel_9_hd" tvg-logo="none" group-title="General",CHANNEL 9 HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=channel_9_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="r_tv_bangla_news" tvg-logo="none" group-title="General",R.TV BANGLA NEWS
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=r_tv_bangla_news&sm=.m3u8
+
+#EXTINF:-1 tvg-id="sony_sab_hd" tvg-logo="none" group-title="General",SONY SAB HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=sony_sab_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="akash_8" tvg-logo="none" group-title="General",AKASH 8
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=akash_8&sm=.m3u8
+
+#EXTINF:-1 tvg-id="bijoy_tv" tvg-logo="none" group-title="General",BIJOY TV
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=bijoy_tv&sm=.m3u8
+
+#EXTINF:-1 tvg-id="btv_news_hd" tvg-logo="none" group-title="General",BTV NEWS HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=btv_news_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="samaa_tv" tvg-logo="none" group-title="General",SAMAA TV
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=samaa_tv&sm=.m3u8
+
+#EXTINF:-1 tvg-id="hum_tv_hd" tvg-logo="none" group-title="General",HUM TV HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=hum_tv_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="aaj_tak" tvg-logo="none" group-title="General",AAJ TAK
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=aaj_tak&sm=.m3u8
+
+#EXTINF:-1 tvg-id="ndtv_24x7" tvg-logo="none" group-title="General",NDTV 24x7
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=ndtv_24x7&sm=.m3u8
+
+#EXTINF:-1 tvg-id="ndtv_india" tvg-logo="none" group-title="General",NDTV INDIA
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=ndtv_india&sm=.m3u8
+
+#EXTINF:-1 tvg-id="channel_s" tvg-logo="none" group-title="General",CHANNEL S
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=channel_s&sm=.m3u8
+
+#EXTINF:-1 tvg-id="discovery_science" tvg-logo="none" group-title="General",DISCOVERY SCIENCE
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=discovery_science&sm=.m3u8
+
+#EXTINF:-1 tvg-id="id_discovery" tvg-logo="none" group-title="General",ID DISCOVERY
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=id_discovery&sm=.m3u8
+
+#EXTINF:-1 tvg-id="madani_tv" tvg-logo="none" group-title="General",MADANI TV
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=madani_tv&sm=.m3u8
+
+#EXTINF:-1 tvg-id="global_tv" tvg-logo="none" group-title="General",GLOBAL TV
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=global_tv&sm=.m3u8
+
+#EXTINF:-1 tvg-id="nexus_tv_hd" tvg-logo="none" group-title="General",NEXUS TV HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=nexus_tv_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="zee_news_hd" tvg-logo="none" group-title="General",ZEE NEWS HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=zee_news_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="geo_super_sports_hd" tvg-logo="none" group-title="General",GEO SUPER SPORTS HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=geo_super_sports_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="sky_sports_primier_league" tvg-logo="none" group-title="General",SKY SPORTS PRIMIER LEAGUE
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=sky_sports_primier_league&sm=.m3u8
+
+#EXTINF:-1 tvg-id="ten_criket_hd" tvg-logo="none" group-title="General",TEN CRIKET HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=ten_criket_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="star_sports_1_hd_hindi" tvg-logo="none" group-title="General",STAR SPORTS 1 HD HINDI
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=star_sports_1_hd_hindi&sm=.m3u8
+
+#EXTINF:-1 tvg-id="sangsad_tv_hd" tvg-logo="none" group-title="General",SANGSAD TV HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=sangsad_tv_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="ten_sports_hd" tvg-logo="none" group-title="General",TEN SPORTS HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=ten_sports_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="green_tv_pakistan" tvg-logo="none" group-title="General",Green TV Pakistan
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=green_tv_pakistan&sm=.m3u8
+
+#EXTINF:-1 tvg-id="iqrabangla" tvg-logo="none" group-title="General",IQRABANGLA
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=iqrabangla&sm=.m3u8
+
+#EXTINF:-1 tvg-id="super_cricket_hd" tvg-logo="none" group-title="General",SUPER CRICKET HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=super_cricket_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="music_india" tvg-logo="none" group-title="General",MUSIC INDIA
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=music_india&sm=.m3u8
+
+#EXTINF:-1 tvg-id="bein_sports_hd_usa" tvg-logo="none" group-title="General",BEIN SPORTS HD USA
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=bein_sports_hd_usa&sm=.m3u8
+
+#EXTINF:-1 tvg-id="channel_1" tvg-logo="none" group-title="General",CHANNEL 1
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=channel_1&sm=.m3u8
+
+#EXTINF:-1 tvg-id="color_bangla_cinema" tvg-logo="none" group-title="General",COLOR BANGLA CINEMA
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=color_bangla_cinema&sm=.m3u8
+
+#EXTINF:-1 tvg-id="star_news_hd" tvg-logo="none" group-title="General",STAR NEWS HD
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=star_news_hd&sm=.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="37" tvg-name="JAMUNA TV" tvg-logo="https://i.postimg.cc/xCPxcQ0K/Jamuna-tv.jpg" group-title="Bangla",JAMUNA TV
 http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/37.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="SOMOY TV HD" tvg-logo="https://i.postimg.cc/bYCgM3dF/Somoy-TV.jpg" group-title="Bangla",SOMOY TV HD
