@@ -306,58 +306,31 @@ https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
 #EXTINF:-1,Nantv
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="",purnima-TV
-https://bdix.ottking.top:8082/Rcn-cable-TV/index.m3u8?token=ottking_247_7
-#EXTINF:-1 tvg-logo="",Jtv-Bangla
-https://bdix.ottking.top:8082/Jtv-Bangla/video.m3u8?token=ottking_247_7
 
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4WPHJrSMOtStXEjObsbf42tncU4DgHInuevnf3ZXQvq3H-2hzqX43F_Vh&s=10",RCTV Ent
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4WPHJrSMOtStXEjObsbf42tncU4DgHInuevnf3ZXQvq3H-2hzqX43F_Vh&s=10",RCTV Ent
 https://rctvraiganj.in/live/rctvent/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/cb/RCTV_Sangbad_logo_2025.png/revision/latest/scale-to-width-down/1200?cb=20250823035651",RCTV Sangbad
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/cb/RCTV_Sangbad_logo_2025.png/revision/latest/scale-to-width-down/1200?cb=20250823035651",RCTV Sangbad
 https://rctvraiganj.in/live/sangbad/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW2STV4eWDxv89t7-8mSwZcXmQsATkTSKwUdIlKbnFS9ZTfzqUBPRW9u0&s=10",RCTV Rai Bangla
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW2STV4eWDxv89t7-8mSwZcXmQsATkTSKwUdIlKbnFS9ZTfzqUBPRW9u0&s=10",RCTV Rai Bangla
 https://rctvraiganj.in/live/raibangla/index.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8cA9KkN5xowMLeLHmm_hkgs5Kmpw5b7XMen1T4JIx9A&s=10",Balurghat TV 
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8cA9KkN5xowMLeLHmm_hkgs5Kmpw5b7XMen1T4JIx9A&s=10",Balurghat TV 
 https://rctvraiganj.in/live/balurghat/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ZHBacKbknxqOhL2Wfj3bDN_UuoaT5ZDlJaacOcqGuA&s=10",Jaan Bangla
-rtmp://live.dataplayer.in:1935/live/3mjaanbangla
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="http://admin.sunskytv.com/thumb/578.png",AMAR BANGLA 
-rtmp://live.dataplayer.in:1935/live/amarbangla
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="http://admin.sunskytv.com/thumb/492.jpg",EKHON KOLKATA 
-rtmp://live.dataplayer.in:1935/live/ekhonkolkata
-#EXTINF:-1 tvg-logo="",Bhi
-rtmp://live.dataplayer.in:1935/live/bhi
-
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://chanakyaworldtv.com/upload/files/Untitled%20design%20(1).jpg",ZB Music
-rtmp://server.zillarbarta.com/static/zbmusic
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4e/SGCN_Music_2024.png/revision/latest?cb=20250530033624",SGCN MUSIC
-rtmp://ethersoftwaresolution.com/live/sgcnmusic
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJgvbPklXgNQqAvM3d8gAVMFvhg9dTs3fZUhCXJTu97Q&s=10",Maya Tv
-rtmp://94.136.184.69:1935/static/mayatv
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJgvbPklXgNQqAvM3d8gAVMFvhg9dTs3fZUhCXJTu97Q&s=10",Maya Tv
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJgvbPklXgNQqAvM3d8gAVMFvhg9dTs3fZUhCXJTu97Q&s=10",Maya Tv
 http://94.136.184.69:8082/mayatv/index.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/d6/SDTV_Prime_logo.png/revision/latest?cb=20211122111458",SDTV PRIME 
-rtmp://15.235.187.72/hls/sdtv
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCYyWWoyjIoBBJ3i6ao7DvUvzP-kJ6Eerc0rM7NUeutA&s=10",SdTv Prime
-http://10.31.31.18:12000/live
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCYyWWoyjIoBBJ3i6ao7DvUvzP-kJ6Eerc0rM7NUeutA&s=10",SdTv Plus
-http://10.31.31.19:12000/live
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuW9dvouH7wAhRbmOBYdeF1pQKKKgWHr5fgBF-nX2HsHGvlorTpXi3-bLv&s=10",Dhoom Music
-https://previewsecgire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/pr_delay_ire_sd/8c5a6880-d621-4f5a-bc1c-9cce1f17fc6d/0.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYPeA1q8qFj5p5Ji6MV5Cmg2b8G4o9vC8RVLN3sGfuEg&s=10",Sun Bangla
-http://27.124.71.27/Sun_Bangla/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="http://admin.sunskytv.com/thumb/586.png",Ucc Raj Tv
+#EXTINF:-1 group-title="PRO✅" tvg-logo="http://admin.sunskytv.com/thumb/586.png",Ucc Raj Tv
 http://live.dataplayer.in:8080/live/uccrajtv.m3u8
-#EXTINF:-1 tvg-logo="",Onkar News
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/onkarnews.png?utm_source=chatgpt.com",Onkar News
 https://stream.ottlive.co.in/onkarnews/index.m3u8
-#EXTINF:-1 tvg-logo="",Hight News
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/High-news.jpg?utm_source=chatgpt.com",High News
 https://stream.ottlive.co.in/highnews/index.m3u8
-#EXTINF:-1 tvg-logo="",Tara Tv
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tara_TV.png?utm_source=chatgpt.com",Tara Tv
 https://legitpro.co.in:9898/taratv/taratv/index.m3u8
-#EXTINF:-1 tvg-logo="",Zee 24 Gantha
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://commons.wikimedia.org/wiki/File:Zee_24_Ghanta_2025.svg?utm_source=chatgpt.com",Zee 24 Gantha
 https://d2dsoyvkr33m05.cloudfront.net/index_4.m3u8
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://sambadsironam.com/assets/logo-CWNMMpHk.png",Sambad Shironam
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://sambadsironam.com/assets/logo-CWNMMpHk.png",Sambad Shironam
 http://banglaplus.dataplayer.in:8080/live/sambadsironam.m3u8
+
+
 #EXTINF:-1 tvg-logo="",Bhi
 http://admin.sunskytv.com:8080/live/bhi.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr5MD8__uM-gLYOJkki082lcx2EDLWAejUCuAtVXBJ7A&s", Express News
