@@ -2,7 +2,8 @@
 
 
 
-
+#EXTINF:-1 tvg-id="0001_tsports" tvg-name="0001_TSPORTS" tvg-logo="http://103.151.60.188:12345/tvlogo/TSports.jpg" group-title="Sports",0001_TSPORTS
+http://103.151.60.184:8000/play/bsy8/index.m3u8?token=-dHbaV4P9kHxa72c
 
 #EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/starsports1.png",Star-sports-1
 http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=scn
