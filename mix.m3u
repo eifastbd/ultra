@@ -29,10 +29,11 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/btv.png" group-title="PRO✅",BTV HD🇧🇩
 https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
 #EXTINF:-1 tvg-id="240000" tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png" group-title="PRO✅",BTV🇧🇩
-https://s3.itcnbd.live/server-12/stream/MTA5.m3u8
+http://103.168.8.174:9999/stream/channelid/804677169?profile=pass
 #EXTINF:-1 tvg-logo="http://172.19.17.34:80/images/d92a7381521a7b2926fde01ecfe7fafe.png" group-title="PRO✅",BTV CHATTAGRAM🇧🇩
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 #EXTINF:-1 tvg-id="btv_news" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_1b90aebe217ac437da23625feaba0b76_playmist_btv_news400x400.jpg" group-title="PRO✅",BTV News🇧🇩          
+#https://s3.itcnbd.live/server-12/stream/MTA5.m3u8
 https://s3.itcnbd.live/server-9/stream/YnR2LWhk.m3u8
 #EXTINF:-1 tvg-id="SangsadTV.bd@SD" tvg-logo="https://i.imgur.com/jkouxLg.png" group-title="PRO✅",Sangsad TV🇧🇩
 https://bd-tv.sm-monirul-islam-rs.workers.dev/btv_shangshad/index.m3u8
