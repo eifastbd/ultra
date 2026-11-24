@@ -565,12 +565,15 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b2628
 #EXTINF:-1 tvg-id="" group-logo="https://www.dangalplay.com/assets/logos/logo_dP.png" tvg-logo="https://dangaplay-json.s3.ap-south-1.amazonaws.com/entree10_16x9.jpg" group-title="PRO✅" group-logo="https://www.dangalplay.com/assets/logos/logo_dP.png",Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/ZEE%20BANGLA%20CINEMA.png" group-title="PRO✅",ZEE BANGLA CHINEMA HD
-
-
+https://s3.itcnbd.live/server-10/stream/ODMxNjQyOTAzNQ.m3u8
+#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/colorsbangla.png",Colors bangla
+http://103.114.11.37:8081/Colors-bangla/index.m3u8?token=scn
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/COLORS%20BANGLA%20HD.png" group-title="PRO✅",COLOR BANGLA HD
 https://s3.itcnbd.live/server-11/stream/aHR0cHM6Ly9zMy5pdGNuYmQubGl2ZS9zZXJ2ZXItOS9zdHJlYW0vWTI5c2IzSnpMV0poYm1kc1lTMW9aQS5tM3U4.m3u8
+#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/COLORS%20BANGLA%20HD.png" group-title="PRO✅",COLOR BANGLA HD
+https://s3.itcnbd.live/server-10/stream/MTIwNjA1ODMzMA.m3u8
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/COLORS%20BANGLA%20CINEMA.png" group-title="PRO✅",COLOR BANGLA CHINEMA HD
-https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/tracks-v1a1/mono.m3u8
+https://s3.itcnbd.live/server-10/stream/ODM0MTU5NzE2Nw.m3u8
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/COLORS%20BANGLA%20CINEMA.png" group-title="PRO✅",COLOR CHINEMA
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
 #EXTINF:-1, group-title="PRO✅" tvg-logo="https://img-cdn.publive.online/fit-in/1200x675/afaqs/media/post_attachments/10748d92781bb5c4b905c6d099a049402df8755404dd10781241db6b0fe221ad.jpg", DANGAL🇮🇳
@@ -580,9 +583,8 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMgAFwCYOX0V7GEToy8keJKiMiqfAxNPm68YAfUFg=s900-c-k-c0x00ffffff-no-rj" group-title="PRO✅",Enterr10 Bangla🇮🇳
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaSonar.png" group-title="PRO✅",Zee Bangla Sonar Sd🇮🇳
-https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Aakashaath_blue.png/revision/latest?cb=20210509111354",Zee Bangla Sonar HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/kolkata-tv.png" group-title="PRO✅",Kolkata TV🇮🇳
 https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/tv9-bangla.png" group-title="PRO✅",TV9 Bangla🇮🇳
