@@ -870,6 +870,37 @@ http://103.168.8.174:9999/stream/channelid/765540607?profile=pass
 #EXTINF:0,ZEE_PLUS_CINEMA
 http://103.168.8.174:9999/stream/channelid/769734218?profile=pass
 
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2026/09/ranacabletv.png",Rana Cable Tv
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ranacabletv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2026/10/ranacablemusic.png",Rana Cable Music
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ranacablemusic.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2026/09/Bprimebangla.jpg",Bprimebangla
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Bprimebangla.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMlrgKcsKrh2fus_sXBQT1vfPbi2wY3CtClRZbKbBF2g49RMT9ZKW5D2E9SOEN6uQAUyjpby9nxqNhqPpo2ujXVl25cJMLhRpebWfLIhvQPAVjjxkihk8Unk_RZaqxYYWXhpck_3bfm8b8ym-DmE29462NO4aMQFMOv6v4fftOh3FIGewTLDwgj9Z6mto/s320/LogoWiz_07022025_033725%5B1%5D.JPEG" ,VISION HD BDIX
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/visionhd.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMlrgKcsKrh2fus_sXBQT1vfPbi2wY3CtClRZbKbBF2g49RMT9ZKW5D2E9SOEN6uQAUyjpby9nxqNhqPpo2ujXVl25cJMLhRpebWfLIhvQPAVjjxkihk8Unk_RZaqxYYWXhpck_3bfm8b8ym-DmE29462NO4aMQFMOv6v4fftOh3FIGewTLDwgj9Z6mto/s320/LogoWiz_07022025_033725%5B1%5D.JPEG" ,VISION HD BDIX
+http://103.158.133.53:8080/VisionHDTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movies-24-hd-my.png",Movies 24 Hd
+http://103.168.8.174:9999/stream/channelid/778334915?profile=pass
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music-bangla-tv.png",Bangla Gaan
+http://103.168.8.174:9999/stream/channelid/115081365?profile=pass
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.lyngsat.com/logo/tv/ff/falguni-tv-bd.png",Falguni-Tv
+http://103.168.8.174:9999/stream/channelid/291949288?profile=pass
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2tXwvGBs2upsgt05eHMRwYtcUAWo2hKYZUDzuvtEdEw&s=10",Mix Bangla
+http://103.168.8.174:9999/stream/channelid/497311457?profile=pass
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCbsV65BeE5CEs_z7yXfpGcHr3KKYgvS9Xkx-g0edW2w&s=10",S Bangla Cinema
+http://103.168.8.174:9999/stream/channelid/637383558?profile=pass
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2tXwvGBs2upsgt05eHMRwYtcUAWo2hKYZUDzuvtEdEw&s=10",Zee Plus Cinema
+http://103.168.8.174:9999/stream/channelid/769734218?profile=pass
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tara-bangla-cinema.png",Tara Bangla Cinema
+http://103.168.8.174:9999/stream/channelid/796504466?profile=pass
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRizJBH0GIxezlsS5erm4tfZw01p6zo33jw7FVJXa4AXw&s=10",Star Bangla
+http://103.168.8.174:9999/stream/channelid/349686087?profile=pass
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="DisneyChannel.in@HD",Disney Channel HD (1080p)
 https://bdix.ottking.top:8082/Disney-HD/index.m3u8?token=ottking_247_7
@@ -899,7 +930,10 @@ https://bdix.ottking.top:8082/cartoon_network_sd/index.m3u8?token=ottking_247_7
 https://bdix.ottking.top:8082/Disny-Channel-Hindi/video.m3u8?token=ottking_247_7
 
 
-
+#EXTINF:-1, Islamic tv
+https://bdix.ottking.top:8082/Islamic-TV/video.m3u8?token=ottking_247_7
+#EXTINF:-1, Madani Tv
+https://bdix.ottking.top:8082/MADANI-TV/video.m3u8?token=ottking_247_7
 #EXTINF:-1, Star News
 https://bdix.ottking.top:8082/Star-News/index.m3u8?token=ottking_247_7
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4WwOEQBojotoLpvMF2JhV1MWm9SwWDAj-9DM3mwfkhw&s",LTv
@@ -1022,7 +1056,19 @@ https://bdix.ottking.top:8082/MOVIES-NOW-HD/video.m3u8?token=ottking_247_7
 https://bdix.ottking.top:8082/ROMEDY-NOW/video.m3u8?token=ottking_247_7
 #EXTINF:-1, LOVE-NATURE
 https://bdix.ottking.top:8082/LOVE-NATURE/video.m3u8?token=ottking_247_7
+#EXTINF:-1, NATGEO WILD HD
+https://bdix.ottking.top:8082/NATGEO-WILD-HD/video.m3u8?token=ottking_247_7
+#EXTINF:-1, HISTORY TV
+https://bdix.ottking.top:8082/HISTORY-TV-18-HD/video.m3u8?token=ottking_247_7
+#EXTINF:-1, Music India
+https://bdix.ottking.top:8082/Music-India/video.m3u8?token=ottking_247_7
+#EXTINF:-1, AXN HD
+https://bdix.ottking.top:8082/AXN-HD/video.m3u8?token=ottking_247_7
+#EXTINF:-1, 9XM MUSIC
+https://bdix.ottking.top:8082/9XM-MUSIC/video.m3u8?token=ottking_247_7
 
+
+https://bdstream.bdstreamhubiptv.workers.dev/Nagorik_Tv.m3u8
 
 #EXTINF:-1 group-title="💠WIFI💠" tvg-logo="",Bein 1
 https://s3.itcnbd.live/server-5/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0xMDE.m3u8
