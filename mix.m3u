@@ -673,13 +673,15 @@ https://bdix.ottking.top:8082/gaan_bangla_tv/index.m3u8?token=ottking_247_7
 https://techtraveleat.in/stream.m3u8?id=sangeetbangla|Referer=https://techtraveleat.in/
 #EXTINF:-1 tvg-id="7X Music" tvg-name="7X Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcah7H-5mM2w9PtLLSOersfEjAlT0_MmGj09XgtUp7Pw&s=10" group-title="PRO✅",7X Music🌀
 https://7xshreeshyam.akamaized.net/7XPunjabi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="PRO✅" group-logo="",V Music🌀
+#EXTINF:-1 tvg-id="7X Music" tvg-name="7X Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcah7H-5mM2w9PtLLSOersfEjAlT0_MmGj09XgtUp7Pw&s=10" group-title="PRO✅",7X Music🌀
+https://cdn2.in/7xPunjabihls/live.m3u8
+#EXTINF:-1 group-title="PRO✅" group-logo="https://livetv.ashokadigital.net/upload/logo/1789646188_Comp%201_00709.png?utm_source=chatgpt.com ",V Music🌀
 https://allchannels.in/live/vvmusic_100/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PRO✅" group-logo="",Prime Music🌀
 https://live.primestream.in/prime/music/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="PRO✅" group-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TABBAR_HITS/images/LOGO_HD/image.png",Tabbar Hits🌀
+#EXTINF:-1 group-title="PRO✅" group-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tabbar_Hits.png?utm_source=chatgpt.com",Tabbar Hits🌀
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8
-#EXTINF:-1 group-title="PRO✅" group-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TABBAR_HITS/images/LOGO_HD/image.png",Tabbar Hits🌀
+#EXTINF:-1 group-title="PRO✅" group-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tabbar_Hits.png?utm_source=chatgpt.com",Tabbar Hits🌀
 https://mumt04.tangotv.in/m18aqlK4TABBARHITS/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.ibb.co/HGFpm7c/20240803-104435.png",Masti Music🌀 
 https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
@@ -687,9 +689,9 @@ https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
 https://cdn.pishow.tv/ott/live/1604/master.m3u8
 #EXTINF:-1, group-title="PRO✅" group-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png",88 Stereo🌀
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1, group-title="PRO✅" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/360_TuneBox_logo.svg/1000px-360_TuneBox_logo.svg.png",360 Tune🌀
+#EXTINF:-1, group-title="PRO✅" group-logo="https://static.sweet.tv/images/icons/channels/v2/346-360-tunebox-hd.png?utm_source=chatgpt.com",360 Tune🌀
 https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="DesiChannel.in@SD" group-title="PRO✅",Desi
+#EXTINF:-1 tvg-logo="https://desichannel.in/wp-content/uploads/2025/01/desi-channel.png?utm_source=chatgpt.com" group-title="PRO✅",Desi
 https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
 #EXTINF:-1,Epic Music
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
