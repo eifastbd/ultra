@@ -715,7 +715,6 @@ https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
 https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/505wpMxw/B4u-Music.jpg" group-title="PRO✅",B4U MUSIC🌀
 https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYzR6Q61/IMG-20260420-011151.jpg" group-title="PRO✅",VISION BEATS🌀
 https://visionbeats.keralive.workers.dev/Visionbeats/index.m3u8|Referer=https://bhoomtv.org/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XvG65zK/IMG-20260420-012512.jpg" group-title="PRO✅",HINDI HITS HD🌀
@@ -842,8 +841,6 @@ https://stream.ottlive.co.in/punjabihits/index.m3u8
 #EXTINF:-1 tvg-id="PublicMusic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_MUSIC/images/LOGO_HD/image.png" group-title="PRO✅",Public Music🌀
 https://mumt04.tangotv.in/m18aqlK4PUBLICMUSIC/index.m3u8
 #EXTINF:-1 group-title="PRO✅" group-logo="https://static.sweet.tv/images/cache/channel_banners/BCNQ4IAM/1819-viva-latino-hd.png?utm_source=chatgpt.com",¡Viva Latino!
-http://stream.mcquack.net/285/index.m3u8
-#EXTINF:-1 group-title="PRO✅" group-logo="https://imgur.com/232ndRK",Afrobeats🌀
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 group-title="PRO✅" group-logo="https://i.imgur.com/VCUZKiw.png",Activa Tv🌀
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
@@ -851,8 +848,6 @@ https://streamtv.mediasector.es/hls/activatv/index.m3u8
 https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zoom.png" group-title="PRO✅",ZOOM🌀
 https://mumbai-edge.smartplaytv.in/Zoom/index.m3u8
-#EXTINF:-1 group-title="PRO✅"tvg-logo="https://i.postimg.cc/RFrMsR7Y/download-1.jpg",1 Mus🌀
-http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="PRO✅",Ócko🌀
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_lq.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="PRO✅",Ócko Expres🌀
@@ -861,17 +856,15 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_lq.m3u8
 #EXTINF:-1 group-title="PRO✅"tvg-logo="https://i.postimg.cc/RFrMsR7Y/download-1.jpg",Desi Tahsan🌀
 https://cloudcdn.in/livetv/DesiTashan/index.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="",Vision Punjabi🌀
-http://a-edge.bliscdn.com/VisionPunjabHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://go4.pw/ASIA/INDIA/SHOWBOX_MUSIC.png" tvg-id="sports18.in",SHOWBOX MUSIC🌀
-http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/510230.ts
+http://a-edge.bliscdn.com/VisionPunjabHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="",UTV🌀
 https://stream.ottlive.co.in/utvtamil/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="",Punjabi🌀
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://papaji.freetvindia.com/media/Punjabi_Music_HD.png",Punjabi🌀
 https://samitaorigin.tangotv.in/PUNJABIMUSICHD/SAMITAORIGIN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="",Punjabi Hits🌀
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://dtil.tmsimg.com/assets/s143691_ld_h15_aa.png?lock=720x540&utm_source=chatgpt.com",Punjabi Hits🌀
 https://legitpro.co.in/punjabihits/punjabihits/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="",Punjabi Beats🌀
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.imgur.com/1Za9gNQ.jpg",Punjabi Beats🌀
 https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="",U24🌀
 https://samitaorigin.tangotv.in/PANKH/SAMITAORIGIN/tracks-v1a1/mono.m3u8
@@ -894,7 +887,17 @@ https://samitaorigin.tangotv.in/PANKH/SAMITAORIGIN/tracks-v1a1/mono.m3u8
 
 
 
+
+
+
+
 ───────────  Cartoon ───────────
+
+
+
+
+
+
 
 
 
