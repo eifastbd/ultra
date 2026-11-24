@@ -539,6 +539,8 @@ https://s3.itcnbd.live/server-11/stream/aHR0cHM6Ly9zZXJ2ZXIudGhlbGVnaXRwcm8uaW4v
 #EXTINF:-1 tvg-name="Sony Aath" tvg-logo="https://i.postimg.cc/ZqgJkbLq/20250529-111438.png" group-title="PRO✅",Sony Aath
 https://s3.itcnbd.live/server-11/stream/aHR0cHM6Ly9pcHR2LmR0aC1vcGFyYXRvci53b3JrZXJzLmRldi9obHMvc29ueV9jMWtuN3R2OXFtM2x4NXcubTN1OA.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDbMCBHK/Jalsha-Movies.jpg" group-title="PRO✅",JALSHA MOVIES
+https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
 #EXTINF:-1 tvg-name="Sony Aath" tvg-logo="https://i.postimg.cc/ZqgJkbLq/20250529-111438.png" group-title="PRO✅",Sony Aath
 https://s3.itcnbd.live/server-9/stream/c29ueS1hYXQ.m3u8
 #EXTINF:-1 tvg-name="Sony Aath" tvg-logo="https://i.postimg.cc/ZqgJkbLq/20250529-111438.png" group-title="PRO✅",Sony Aath
@@ -583,8 +585,7 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMgAFwCYOX0V7GEToy8keJKiMiqfAxNPm68YAfUFg=s900-c-k-c0x00ffffff-no-rj" group-title="PRO✅",Enterr10 Bangla🇮🇳
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaSonar.png" group-title="PRO✅",Zee Bangla Sonar Sd🇮🇳
-
-
+https://bdix.ottking.top:8082/Zee-Bangla-Cinema/video.m3u8?token=ottking_247_7
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/kolkata-tv.png" group-title="PRO✅",Kolkata TV🇮🇳
 https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/tv9-bangla.png" group-title="PRO✅",TV9 Bangla🇮🇳
@@ -595,46 +596,30 @@ https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv
 https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8
 #EXTINF:-1,group-title="PRO✅" tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png?utm_source=chatgpt.com",SONY KAL🇮🇳
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png",Sony Television
-https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png",Sony Television HD
 http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-id="ZEENews" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Zee_News_HD.jpg",ZEE News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1 tvg-id="UtsavBharat.uk@SD" group-title="PRO✅",Utsav Bharat
 https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="PRO✅",Colors Cineplex Bollywood
-http://live.balajibroadband.com:3500/live/1763.m3u8
-#EXTINF:-1 tvg-id="colors-cineplex-superhit" tvg-name="Colors Cineplex Superhit" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png" group-title="PRO✅",Colors Cineplex Superhit
-http://live.balajibroadband.com:3500/live/1450.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDbMCBHK/Jalsha-Movies.jpg" group-title="Movie",95.JALSHA MOVIES
-https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8wqN7zh/Colors-Cineplex-Bollywood.jpg" group-title="Movie",85.COLORS CINEPLEX BOLLYWOOD
-http://live.balajibroadband.com:3500/live/1763.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYtSbxqY/Zee-Cinema.jpg" group-title="Movie",75.ZEE CINEMA
-https://coolx-iptv.vercel.app/lkn/tv?id=583&format=.m3u8|User-Agent=CoolXStreamIPTV
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="Movie",61.SONY MAX
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="PRO✅",SONY MAX
 https://techandeat.online/sliv/stream.m3u8?id=1000009249|Referer=https://techandeat.online/
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Movie",62.SONY MAX HD
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="PRO✅",SONY MAX HD
 https://techandeat.online/sliv/stream.m3u8?id=1000009247|Referer=https://techandeat.online/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N01Z2D5F/Sony-Max-1.jpg" group-title="Movie",63.SONY MAX 1
-https://bdtop1.tvhunter.top/max1/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Entertainment",64.SONY AATH
-https://techandeat.online/sliv/stream.m3u8?id=1000009255|Referer=https://techandeat.online/
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="Entertainment",65.SONY HD
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="PRO✅",SONY HD
 https://techandeat.online/sliv/stream.m3u8?id=1000009246|Referer=https://techandeat.online/
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png" group-title="Entertainment",66.SONY WAH
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png" group-title="PRO✅",SONY WAH
 https://techandeat.online/sliv/stream.m3u8?id=1000009253|Referer=https://techandeat.online/
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="Movie",67.SONY PIX HD
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="PRO✅",SONY PIX HD
 https://techandeat.online/sliv/stream.m3u8?id=1000009258|Referer=https://techandeat.online/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyVLYPQq/IMG-1740775080919-2.png" group-title="Movie",68.SONY MAX 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyVLYPQq/IMG-1740775080919-2.png" group-title="PRO✅",SONY MAX 2
 https://techandeat.online/sliv/stream.m3u8?id=1000044878|Referer=https://techandeat.online/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yCwHQHc/IMG-1740774941854-2.png" group-title="Entertainment",69.SONY KAL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yCwHQHc/IMG-1740774941854-2.png" group-title="PRO✅",SONY KAL
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1007
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yhCgRWJ/IMG-1740774880412-2.png" group-title="Entertainment",70.SONY PAL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yhCgRWJ/IMG-1740774880412-2.png" group-title="PRO✅",SONY PAL
 https://techandeat.online/sliv/stream.m3u8?id=1000009273|Referer=https://techandeat.online/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NxrcY1p/Bangla-Tv.jpg" group-title="Entertainment",36.BANGLA TV +
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NxrcY1p/Bangla-Tv.jpg" group-title="PRO✅",BANGLA TV +
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 
