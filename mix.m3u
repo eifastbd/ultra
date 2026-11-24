@@ -906,21 +906,22 @@ https://samitaorigin.tangotv.in/PANKH/SAMITAORIGIN/tracks-v1a1/mono.m3u8
 
 
 
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nXKXaGE0SkjvhnbFKc0dUWh1uwo.jpg" group-title="PRO✅",Motu Patlu👻
+https://183.giatvcdn.com/giatvplayout7/giatv-212241/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Doraemon_character.png" group-title="PRO✅",Doraemon👻
+https://183.giatvcdn.com/giatvplayout7/giatv-212251/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aFAN9aKm0OblOr30ROejJCV8rGf.jpg" group-title="PRO✅",Oggy👻
+https://183.giatvcdn.com/giatvplayout7/giatv-212276/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2YLtdalssU7ypT68jzzKyCZRfPr.jpg" group-title="PRO✅",Gopal Bhar👻
+https://183.giatvcdn.com/giatvplayout7/giatv-212178/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zzCZIvKcfPNQ4RbaMIakmC7ISKQ.jpg" group-title="PRO✅",Bantul The Great👻
+https://183.giatvcdn.com/giatvplayout7/giatv-212451/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pApniCXhegDnhxQda7RcpG8gFP0.jpg" group-title="PRO✅",Tom & jerry👻
+https://183.giatvcdn.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPAbLkfGY3GNU6F7z4B1mzxn7Q0_b5queLQiFNmlWGhw&s=10",Gopal Bhar
 https://playout.vidiyo.com/api/v1/streams/c1a13d9ffbf62c613fe2e912fe97b4c36ff09aee4825964bc793902995880388/master.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPAbLkfGY3GNU6F7z4B1mzxn7Q0_b5queLQiFNmlWGhw&s=10",Gopal Bhar
-https://183.giatvcdn.com/giatvplayout7/giatv-212178/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNys_tABy8wFovL2yW-wsDOVthPZzwxjQDTwUmMRBzMQ&s=10",Bantul The Gret
 https://playout.vidiyo.com/api/v1/streams/ac8a2c0e72eadbff9acb5d1e4a730385933f748f20f83b78b541498a6407115d/master.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNys_tABy8wFovL2yW-wsDOVthPZzwxjQDTwUmMRBzMQ&s=10",Bantul The Gret
-https://183.giatvcdn.com/giatvplayout7/giatv-212451/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSom9195XvJvT6YLxsMaGSaw0NxcmokI0wlzxO59z9V5A&s=10",Lullu Bhuter Goppo
 https://183.giatvcdn.com/giatvplayout7/giatv-212377/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvuEaTdLR_Y02dYs7HF0SoU6wmBELdIZ80TN-AlXKaDw&s",Thakumar Jhuli
@@ -935,10 +936,6 @@ https://183.giatvcdn.com/giatvplayout7/giatv-212307/playlist.m3u8
 https://playout.vidiyo.com/api/v1/streams/da5ce2ec72bd82e2cc5962ca848ef630bf4a2e20d335ec0ecdc4e4c493efce8b/master.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqlW5qSxZUmGuvKQvpeO4U4FM-eSyv-85Aqw&s",Doreamon
 https://183.giatvcdn.com/giatvplayout7/giatv-212251/playlist.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Dv6jnZS4fiFl7t05ozBIgXa9NGcXOEu2kSg9MnAAOQ&s",Motu patlu
-https://183.giatvcdn.com/giatvplayout7/giatv-212241/playlist.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRf79pHZ5CZYFxDeQzCmXUUUt_EeilTF6ILS4sRFjqQw&s=10",Oggy
-https://183.giatvcdn.com/giatvplayout7/giatv-212276/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVcVlXJinWQj14bb6XbtyyKDIBEgzB1HZAuAmYoYIyeA&s=10",Ninja Hattori
 https://183.giatvcdn.com/giatvplayout7/giatv-212254/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVqpm7g-G76G3iAvtOx0y2aPrzX13TIT5K_ktfbqhVuw&s=10",Shiva
@@ -975,20 +972,6 @@ https://183.giatvcdn.com/giatvplayout7/giatv-212049/playlist.m3u8
 https://183.giatvcdn.com/giatvplayout7/giatv-212020/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1794968236",Tom And Jerry
 https://183.giatvcdn.com/giatvplayout7/giatv-212013/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nXKXaGE0SkjvhnbFKc0dUWh1uwo.jpg" group-title="PRO✅",Motu Patlu👻
-https://183.giatvcdn.com/giatvplayout7/giatv-212241/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Doraemon_character.png" group-title="PRO✅",Doraemon👻
-https://183.giatvcdn.com/giatvplayout7/giatv-212251/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aFAN9aKm0OblOr30ROejJCV8rGf.jpg" group-title="PRO✅",Oggy👻
-https://183.giatvcdn.com/giatvplayout7/giatv-212276/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2YLtdalssU7ypT68jzzKyCZRfPr.jpg" group-title="PRO✅",Gopal Bhar👻
-https://183.giatvcdn.com/giatvplayout7/giatv-212178/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zzCZIvKcfPNQ4RbaMIakmC7ISKQ.jpg" group-title="PRO✅",Bantul The Great👻
-https://183.giatvcdn.com/giatvplayout7/giatv-212451/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pApniCXhegDnhxQda7RcpG8gFP0.jpg" group-title="PRO✅",Tom & jerry👻
-https://183.giatvcdn.com/giatvplayout7/giatv-208314/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="PRO✅",Nick Bangla👻
