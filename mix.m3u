@@ -281,10 +281,9 @@ https://dish.porosh.com.bd/hls/jtvnews.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSV1py3jfF1GxTt9mLp4FaGPh_VSQkb7vlAkk6gM4lyaZ-VpKGcZjvj1bAj5XGM2z6FzZ-YcF5ypK3eSqTdiJWbUwfAcpo9gpp46XzFPdyuqWwJpN8CJVD2Eccw7THi60xgJ9rMkm-i8S83s4x6ZAO27kALxlY7ulLkwIO4CEuMz40yvj52A7yxCM1Ng/s600/Nur_20251107_000734_0000.png" group-title="PRO✅", Aakash Aath
 https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
 #https://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8?e=1759879680&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=c8a4aa410ce279c733746ef2591aed17
-#EXTINF:-1,Nantv
+
+#EXTINF:-1 tvg-name="ONAN TV" tvg-logo="https://i.postimg.cc/L4znSb4v/20261003-052525.jpg" group-title="PRO✅",ONAN TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/chunks.m3u8
-
-
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4WPHJrSMOtStXEjObsbf42tncU4DgHInuevnf3ZXQvq3H-2hzqX43F_Vh&s=10",RCTV Ent
 https://rctvraiganj.in/live/rctvent/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/cb/RCTV_Sangbad_logo_2025.png/revision/latest/scale-to-width-down/1200?cb=20250823035651",RCTV Sangbad
@@ -409,8 +408,6 @@ https://playontv.online/btvlive/tracks-v1a1/index.m3u8
 https://playontv.online/vengardlive/tracks-v1/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://searchindiatnn.com/wp-content/uploads/2026/03/NEW-LOGO-SEARCH-INDIAN-TNN-3.png",Search India
 https://stream.ottlive.co.in/searchindia/index.m3u8
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://stvbangla.org/wp-content/uploads/2025/04/WhatsApp-Image-2025-02-20-at-13.10.39.jpeg",Stv Bangla
-https://server.playontv.in/sailendar/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN-Zodiak TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/zodiaktv-150x150.jpg?x95285" group-title="PRO✅",IN-Zodiak TV
 https://ranacable.duckdns.org/ZodiakTv/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="http://ott.playontv.in:8090/images/wM9PrGmOMl2R1ko2OeeDowGVSB1iNxdyqP6cFQ9Hq3IHuBKFCoiTcfxOecAgd7jT3KAx4-8asV_M4oP7_ng7Maenw_C_3ka1xxzhARNZFh0.jpg",Rana Cable TV
@@ -463,7 +460,6 @@ https://server.zillarbarta.com/zbbhakti/index.m3u8
 https://ott.livelegitpro.in:9899/nebharat24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://porosh.com.bd/upload/tv/tv_1795438248_8709.jpg",Dorpon TV
 http://103.121.61.218/tmp_hls/51d1cd3a02276948f566e6ea0a7d78cb/index.m3u8
-
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/10/matribhumi.jpg",MatriBhumi
 http://27.124.71.27/T-Sports/index.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="",Cable Movie 
@@ -494,7 +490,7 @@ https://server1.jolshabd.com/biswabanglaworld/biswabanglaworld/chunklist_w523757
 https://server.playontv.in/sailendar/index.m3u8
 #EXTINF:-1 tvg-id="183"tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_158_1729599506.png" group-title="PRO✅",Rongeen TV 
 https://mumbai-edge.smartplaytv.in/RongeenTV/index.m3u8
-#EXTINF:-1 tvg-name="ONAN TV" tvg-logo="https://i.postimg.cc/L4znSb4v/20261003-052525.jpg" group-title="Entertainment",ONAN TV
+#EXTINF:-1 tvg-name="ONAN TV" tvg-logo="https://i.postimg.cc/L4znSb4v/20261003-052525.jpg" group-title="PRO✅",ONAN TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="AMAR Bangla" tvg-logo="https://i.postimg.cc/TPKbKcH6/images-(26).jpg" group-title="Entertainment",AMAR Bangla
 https://jagroniakash.ncare.live/eyetv/eyetv.stream/tracks-v1a1/mono.m3u8
@@ -506,8 +502,6 @@ https://stream.dekhoprime.workers.dev/hls/mCmxA-S7fgD6GJCNte_GxiM8zTgSQ2Ct3PHBpe
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/shikortv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI2IDEyOjI5OjQ3IFBNJmhhc2hfdmFsdWU9cUx6NDZvSTN6V0xWRW5NY2JSVHlndz09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1 tvg-name="K TV Bangla" tvg-logo="https://i.postimg.cc/MKcNs4QG/20260925-165910.png" group-title="Entertainment",K TV Bangla
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?Live-TV™
-#EXTINF:-1 tvg-name="U Bangla" tvg-logo="https://i.postimg.cc/Qt9Y6KFv/20260925-170538.jpg" group-title="Entertainment",U Bangla
-https://stream.ottlive.co.in/ubangla/index.m3u8
 #EXTINF:-1 tvg-name="Matri Bhumi" tvg-logo="https://i.postimg.cc/kGxkk90g/20260921-094625.jpg" group-title="Entertainment",Matri Bhumi
 https://live.playmax.live/matribhumi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ch_73" tvg-name="Bangla Cinema" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/bangla-cinema.webp" group-title="PRO✅",Bangla Cinema
