@@ -665,9 +665,12 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 
 
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/43HjwR0L/IMG-20260420-004756.jpg" group-title="PRO✅",BENGALI BEATS🌀
-
-
+https://playout.vidiyo.com/api/v1/streams/d2bdcf50874a2edd4c78a1d0b9da43c28eabf7bac3928ea3e5eab39eb695ecb8/master.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kO8uM2Iwy-Ydtu6i3Gsku6Q2dskadTbtOUIEZ7BvGdNWQ=s900-c-k-c0x00ffffff-no-rj",GAAN BANGLA
 https://bdix.ottking.top:8082/gaan_bangla_tv/index.m3u8?token=ottking_247_7
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FRXyjKQr/Sangeet-Bangla.jpg" group-title="PRO✅",SANGEET BANGLA🌀
