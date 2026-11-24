@@ -538,7 +538,8 @@ https://s3.itcnbd.live/server-11/stream/aHR0cHM6Ly9zZXJ2ZXIudGhlbGVnaXRwcm8uaW4v
 
 #EXTINF:-1 tvg-name="Sony Aath" tvg-logo="https://i.postimg.cc/ZqgJkbLq/20250529-111438.png" group-title="PRO✅",Sony Aath
 https://s3.itcnbd.live/server-11/stream/aHR0cHM6Ly9pcHR2LmR0aC1vcGFyYXRvci53b3JrZXJzLmRldi9obHMvc29ueV9jMWtuN3R2OXFtM2x4NXcubTN1OA.m3u8
-
+#EXTINF:-1 tvg-id="jalsha_movies_hd" tvg-name="Jalsha Movies HD" tvg-logo="http://103.151.60.188:12345/tvlogo/jalshamovieshd.jpg" group-title="PRO✅",Jalsha Movies HD
+http://103.151.60.184:8000/play/bzwf/index.m3u8?token=-dHbaV4P9kHxa72c
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDbMCBHK/Jalsha-Movies.jpg" group-title="PRO✅",JALSHA MOVIES
 https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
 #EXTINF:-1 tvg-name="Sony Aath" tvg-logo="https://i.postimg.cc/ZqgJkbLq/20250529-111438.png" group-title="PRO✅",Sony Aath
