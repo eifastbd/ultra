@@ -665,6 +665,7 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43HjwR0L/IMG-20260420-004756.jpg" group-title="PRO✅",BENGALI BEATS🌀
 
 
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kO8uM2Iwy-Ydtu6i3Gsku6Q2dskadTbtOUIEZ7BvGdNWQ=s900-c-k-c0x00ffffff-no-rj",GAAN BANGLA
@@ -711,8 +712,7 @@ https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
 https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/505wpMxw/B4u-Music.jpg" group-title="PRO✅",B4U MUSIC🌀
 https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/43HjwR0L/IMG-20260420-004756.jpg" group-title="PRO✅",BENGALI BEATS🌀
-https://live20.bozztv.com/giatvplayout7/giatv-209587/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYzR6Q61/IMG-20260420-011151.jpg" group-title="PRO✅",VISION BEATS🌀
 https://visionbeats.keralive.workers.dev/Visionbeats/index.m3u8|Referer=https://bhoomtv.org/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XvG65zK/IMG-20260420-012512.jpg" group-title="PRO✅",HINDI HITS HD🌀
