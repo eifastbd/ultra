@@ -8,12 +8,22 @@
 
 
 
-#EXTINF:-1 tvg-id="NAGORIK HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/nago.png" group-title="SKO💧",199.NAGORIK HD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/BANGLA/Nagoriktv.m3u8
-#EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="SKO💧",201.T Sports
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="SKO💧",202.T Sports HD
-http://103.114.11.37:8081/T-Sports-HD/index.m3u8?token=scn
+http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=scn
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8C2gLZX9/SS-Fancode.png" group-title="SKO💧",Fancode 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
