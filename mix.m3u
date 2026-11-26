@@ -523,7 +523,31 @@ https://s3.itcnbd.live/server-11/stream/aHR0cHM6Ly90di5hZXRoZWxjb2RlLndvcmtlcnMu
 
 
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/star_maa_movies.png" group-title="English Movie",Star Maa Movies
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nV38nLkH/20260913-092507.png" group-title="Bangla",Channel S
+https://box.bbaria.net:8083/ChannelS/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvRgj26W/20250529-105408.png" group-title="Bangla",Star Jalsha HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ry5MbLR8/20250529-105712.png" group-title="Bangla",Zee Bangla HD
+https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b2628000.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLdjn6zR/20250602-220804.png" group-title="Bangla",Colors Bangla HD
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/60.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqgJkbLq/20250529-111438.png" group-title="Bangla",Sony Aath
+#EXTVLCOPT:http-referrer=https://techandeat.online
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/62.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G3gmTZRs/20260204-142159.png" group-title="Bangla",Jalsha Movies SD
+https://box.bbaria.net:8083/Jalsha_Movie/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2nGNxc8/20250707-053157.png" group-title="Bangla",Jalsha Movies HD
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/65.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zq0JDBpg/20250529-110358.png" group-title="Bangla",Zee Bangla Cinema
+https://toffee.sm-monirul-islam-rs.workers.dev/zee_bangla_cinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13pfykGD/20250602-220936.png" group-title="Bangla",Colors Bangla Cinema
+http://103.114.11.37:8081/Colors-bangla-cinema/tracks-v1a1/mono.m3u8?token=scn
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdy3k1qZ/20251202-090150.png" group-title="Hindi",Colors
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/media-udh.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLvX9R1x/colors-cineplex-hd.png" group-title="Hindi Movie",Colors Cineplex
+https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8
 
 
 
