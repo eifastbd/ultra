@@ -27,8 +27,6 @@
 
 
 
-
-
 #EXTINF:-1 tvg-id="AccuWeatherNOW.us@SD",AccuWeather Now (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="AFV.us@SD",AFV (720p)
@@ -297,7 +295,6 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f170f01b898490041b49dd1.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66ce3e009ac0b1441b19ca29.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-62efba6588a16bb7d6b6fb58-us" tvg-id="5e20b730f2f8d5003d739db7-62efba6588a16bb7d6b6fb58" tvg-chno="" tvg-name="Éxitos del Momento" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db81c10a-93cb-4966-ae48-5e3f0f741110/Exitos_Del_momento.png" group-title="United States",Éxitos del Momento
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62efba6588a16bb7d6b6fb58.m3u8
-
 
 
 
