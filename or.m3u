@@ -13,7 +13,98 @@
 
 
 
+#EXTINF:-1 ,Maasranga
+http://103.114.11.37:8081/Maasranga/index.m3u8?token=sboxcast
 
+#EXTINF:-1 ,Zee Bangla
+http://103.114.11.37:8081/ZEE-Bangla/index.m3u8?token=sboxcast
+
+#EXTINF:-1 ,Star Jalsha
+http://103.114.11.37:8081/Star-Jalsha/index.m3u8?token=sboxcast
+
+#EXTINF:-1 ,Jalsha Movies
+http://103.114.11.37:8081/Jalsha-Movies/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Star-sports-1
+http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Star-sports-2
+http://103.114.11.37:8081/Star-sports-2/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Star-select-1
+http://103.114.11.37:8081/Star-select-1/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Star-select-2
+http://103.114.11.37:8081/Star-select-2/index.m3u8?token=sboxcast
+
+#EXTINF:-1 ,Zee Cinema HD
+http://103.114.11.37:8081/Z-Cinema/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Sony 8
+http://103.114.11.37:8081/Sony-8/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Star Movies HD
+http://103.114.11.37:8081/Star-Movies/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Star Gold HD
+http://103.114.11.37:8081/StarGold/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Colors HD
+http://103.114.11.37:8081/Colors-HD/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Duronto
+http://103.114.11.37:8081/Duronto/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Star Movies Select
+http://103.114.11.37:8081/Star-movies-select/index.m3u8?token=sboxcast
+
+#EXTINF:-1 ,Enterr10bangla
+http://103.114.11.37:8081/Enterr10bangla/index.m3u8?token=sboxcast
+
+#EXTINF:-1 ,Colors Bangla Cinema
+http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8?token=sboxcast
+
+#EXTINF:-1 ,Star Plus
+http://103.114.11.37:8081/Star-Plus-HD/index.m3u8?token=sboxcast
+
+#EXTINF:-1 ,Colors Bangla
+http://103.114.11.37:8081/Colors-bangla/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Star-sports-3
+http://103.114.11.37:8081/Star-sports-3/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , TEN SPORTS
+http://103.114.11.37:8081/TEN-SPORTS/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , T Sports HD
+http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Sony-sports-3
+http://103.114.11.37:8081/Sony-sports-3/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Eurosport
+http://103.114.11.37:8081/Eurosport-HD/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Willow
+http://103.114.11.37:8081/Willow-TV/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Sony-sports-2
+http://103.114.11.37:8081/Sony-sports-2/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , PTV
+http://103.114.11.37:8081/PTV/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Sony Ten Sports 4 HD
+http://103.114.11.37:8081/Sony-sports-4/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Unite8-sports-1
+http://103.114.11.37:8081/Unite8-sports-1/index.m3u8?t
+
+#EXTINF:-1 , WWE Network
+http://103.114.11.37:8081/WWE-24/7/index.m3u8?token=scn
+
+#EXTINF:-1 , Star Gold Select
+http://103.114.11.37:8081/StarGoldSelect/index.m3u8?token=scn
 
 
 
@@ -1347,53 +1438,6 @@ https://s3.itcnbd.live/server-12/stream/MTIy.m3u8
 
 
 
-http://103.151.60.184:8000/play/bpfk/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/bw3c/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/bzjz/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/bvv5/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/bx4b/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/bcaa/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/b837/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/bbei/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/bo7a/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/b4q7/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/bi64/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/bj4m/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/brfa/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/bwki/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/b3yb/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/b801/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/b2xt/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/bdwg/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/b7a8/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/bvjv/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/bmoe/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/b1pj/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/bxyc/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/bvfo/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/btmz/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/bzwf/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/bnjd/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/bfc4/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/b96j/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/bqpd/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/bsy8/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.188:12345/hls/tab_79ql80k/index.m3u8?t=1795090812265
-http://103.151.60.184:8000/play/bliq/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/b38z/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/b22h/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/brb2/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/bxaa/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/b77z/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/b84n/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/b18x/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/b64g/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/b49e/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/bdvo/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.184:8000/play/bi9k/index.m3u8?token=-dHbaV4P9kHxa72c
-http://103.151.60.188:12345/hls/tab_79ql80k/index.m3u8?t=1795090881629
-http://103.151.60.188:12345/hls/tab_79ql80k/index.m3u8?t=1795090866907
-http://103.151.60.188:12345/hls/tab_xvm2jf5/index.m3u8?t=1795090906755
 http://172.19.17.202:8090/hls/SonyTen5HD.m3u8
 http://172.19.17.202:8090/hls/SonyTen3hd.m3u8
 http://172.19.17.202:8090/hls/DiscoveryHD.m3u8
@@ -2138,98 +2182,7 @@ https://mahaditv-pro.exaexamahadi.workers.dev/?url=http%3A%2F%2Flive.balajibroad
 https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/ts-eu-w1-n2/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/cb543d187b6c64869dd43e6fd1ef41a3f94f1fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c525677a964b67f01cfdb63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a87e4cc59e028a7d2e95aedb7144220806c3084d86f108f2bdb84240db6bbfb21a5a817a41e2d7479fd31aa6d5d058cd5e8777a71580c3f78cd40d86849937ae5ee3615b5c717fabea13f3bb3dccbad0096bfc4bd227744ccbac89f7423087081612a8bf83936cf106d6d265a06e33a90f914bc461d930ea3b8ad91df0f5ee96026029b4c85e5622a2cea99eb46060ea28a8f4a9955854addb383407c564d3276b1f95fec01bcd83369ea42c88b1264c6d98df15d5c5e3d1b8fede1cdc08c5c5fd9438027d6202039454edcf3e8c678e2edaa379467d4340bf955cc0f4bb0f631821c4ec73db1112b5decbb3d70135cf6a780bbb34393ab5d150830a0b1392f50a45bf1191ab2bb591eeebff/134/subs-caption-1-eng/subtitle.m3u8
 
 
-#EXTINF:-1 ,Maasranga
-http://103.114.11.37:8081/Maasranga/index.m3u8?token=sboxcast
 
-#EXTINF:-1 ,Zee Bangla
-http://103.114.11.37:8081/ZEE-Bangla/index.m3u8?token=sboxcast
-
-#EXTINF:-1 ,Star Jalsha
-http://103.114.11.37:8081/Star-Jalsha/index.m3u8?token=sboxcast
-
-#EXTINF:-1 ,Jalsha Movies
-http://103.114.11.37:8081/Jalsha-Movies/index.m3u8?token=sboxcast
-
-#EXTINF:-1 , Star-sports-1
-http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=sboxcast
-
-#EXTINF:-1 , Star-sports-2
-http://103.114.11.37:8081/Star-sports-2/index.m3u8?token=sboxcast
-
-#EXTINF:-1 , Star-select-1
-http://103.114.11.37:8081/Star-select-1/index.m3u8?token=sboxcast
-
-#EXTINF:-1 , Star-select-2
-http://103.114.11.37:8081/Star-select-2/index.m3u8?token=sboxcast
-
-#EXTINF:-1 ,Zee Cinema HD
-http://103.114.11.37:8081/Z-Cinema/index.m3u8?token=sboxcast
-
-#EXTINF:-1 , Sony 8
-http://103.114.11.37:8081/Sony-8/index.m3u8?token=sboxcast
-
-#EXTINF:-1 , Star Movies HD
-http://103.114.11.37:8081/Star-Movies/index.m3u8?token=sboxcast
-
-#EXTINF:-1 , Star Gold HD
-http://103.114.11.37:8081/StarGold/index.m3u8?token=sboxcast
-
-#EXTINF:-1 , Colors HD
-http://103.114.11.37:8081/Colors-HD/index.m3u8?token=sboxcast
-
-#EXTINF:-1 , Duronto
-http://103.114.11.37:8081/Duronto/index.m3u8?token=sboxcast
-
-#EXTINF:-1 , Star Movies Select
-http://103.114.11.37:8081/Star-movies-select/index.m3u8?token=sboxcast
-
-#EXTINF:-1 ,Enterr10bangla
-http://103.114.11.37:8081/Enterr10bangla/index.m3u8?token=sboxcast
-
-#EXTINF:-1 ,Colors Bangla Cinema
-http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8?token=sboxcast
-
-#EXTINF:-1 ,Star Plus
-http://103.114.11.37:8081/Star-Plus-HD/index.m3u8?token=sboxcast
-
-#EXTINF:-1 ,Colors Bangla
-http://103.114.11.37:8081/Colors-bangla/index.m3u8?token=sboxcast
-
-#EXTINF:-1 , Star-sports-3
-http://103.114.11.37:8081/Star-sports-3/index.m3u8?token=sboxcast
-
-#EXTINF:-1 , TEN SPORTS
-http://103.114.11.37:8081/TEN-SPORTS/index.m3u8?token=sboxcast
-
-#EXTINF:-1 , T Sports HD
-http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
-
-#EXTINF:-1 , Sony-sports-3
-http://103.114.11.37:8081/Sony-sports-3/index.m3u8?token=sboxcast
-
-#EXTINF:-1 , Eurosport
-http://103.114.11.37:8081/Eurosport-HD/index.m3u8?token=sboxcast
-
-#EXTINF:-1 , Willow
-http://103.114.11.37:8081/Willow-TV/index.m3u8?token=sboxcast
-
-#EXTINF:-1 , Sony-sports-2
-http://103.114.11.37:8081/Sony-sports-2/index.m3u8?token=sboxcast
-
-#EXTINF:-1 , PTV
-http://103.114.11.37:8081/PTV/index.m3u8?token=sboxcast
-
-#EXTINF:-1 , Sony Ten Sports 4 HD
-http://103.114.11.37:8081/Sony-sports-4/index.m3u8?token=sboxcast
-
-#EXTINF:-1 , Unite8-sports-1
-http://103.114.11.37:8081/Unite8-sports-1/index.m3u8?token=sboxcast
-
-#EXTINF:-1 , WWE Network
-http://103.114.11.37:8081/WWE-24/7/index.m3u8?token=sboxcast
-
-#EXTINF:-1 , Star Gold Select
-http://103.114.11.37:8081/StarGoldSelect/index.m3u8?token=sboxcast
 
 
 #EXTINF:-1 group-title="💠WIFI💠" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/10/matribhumi.jpg?utm_source=chatgpt.com",Matribhumi 
