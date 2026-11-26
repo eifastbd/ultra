@@ -1714,12 +1714,6 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 http://live-stream.amarbanglatv.in:8080/hls/salambangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://porosh.com.bd/upload/tv/tv_1771585053_6632.jpg" group-title="PRO✅",Vtv🤲
 http://157.245.116.246:8080/hls/islamnow/index.m3u8
-
-
-
-
-
-
 #EXTINF:-0 group-title="💠IP💠" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj",Al Quran Al Kareem
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
 #EXTINF:-0 tvg-logo="https://shababel3alam.com/wp-content/uploads/2022/10/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF.jpg",Al Sunnah Al Nabawiyah
@@ -1730,10 +1724,6 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/iqraa.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.jagobd.com/wp-content/uploads/2026/01/Islamictvbd-768x768.jpeg",Islamic TV
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
-#EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/20240803-172433-removebg-preview.png",Iqra Bangla
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2022/09/islam-channel001.jpg",ISLAM CHANNEL BD
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamchbangla.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0UJ8H7Ndfk9XGQBZpl15rMPNRI0iJs9FWyzg3qrH7K1azFK1cHaDppHnD&s=10",Azan Tv
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/azantv.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/05/Deentv.png",Deentv
@@ -1758,8 +1748,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iontvuk.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/TVONE-LOGO-Colour.png",TV ONE UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/tvoneuksni.stream/playlist.m3u8
-
-
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://shahid.mbc.net/mediaObject/4fbc1898-90f0-4298-8c2e-681a3e90300d?height=auto&width=288&croppingPoint=&version=1&type=webp", Sbc
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co/6PH6566/thikrayat.jpg", THIKRAYAT
@@ -1770,10 +1758,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://aloula.faulio.com/storage/mediagallery/47/4f/fullhd_64167a679b7b2b43aa0e9549a920b50dc01cd531.png", Saudia Alaan
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="http://www.azrotv.com/iphone/images/ar_jpg/spstn.jpg?v=1", Spacetoon
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="http://www.azrotv.com/iphone/images/ar_jpg/mb3.jpg", Mbc 3
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://www.azrotv.com/iphone/images/ar_jpg/mb1.jpg", Mbc 1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://www.azrotv.com/iphone/images/ar_jpg/mb_4.jpg", Mbc 4
@@ -1798,20 +1782,12 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-abdulmajeed-abdullah/def450c2
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-rashed-almajed/5acf573bde2dd6f133cbd6a338b1f312/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Hatem_Slider/2022/Dec22/clean/logo_mohamed_Abdu_2/original/logo_mohamed_Abdu_2.png", MUHAMMAD ABDO
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mohammed-abdou/ae9bed6024bb80026b2ab5a4de4754ef/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://shahid.mbc.net/mediaObject/4e042cb6-500b-4e4c-a8ca-21a5a7a7a71b", BIG TIME PLUS
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://shahid.mbc.net/mediaObject/e61560f5-a967-4e93-b542-0c28f5f22ef8?height=auto&width=288&croppingPoint=&version=1&type=webp", Wanasah
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://shahid.mbc.net/mediaObject/712a2aa8-b5de-4f35-87b7-d0ca9e8cb550?height=auto&width=288&croppingPoint=&version=1&type=webp", Panorama FM
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-panorama-fm/ea22f3856a1b772f793c43eb5d1c0636/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://shahid.mbc.net/mediaObject/ad2793c4-5722-49e3-a44c-97d5cbd5f042?height=auto&width=288&croppingPoint=&version=1&type=webp", Mbc FM
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-fm/3f36f7db6086acf058dc51681c87f8ad/index.m3u8
-
-
-
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://aloula.faulio.com/storage/mediagallery/0f/c5/fullhd_5da380cdfc304fd7d4672a83aeb6c62bc1d3d3e8.png", Nida Alislam Radio
 https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMZJgQCdmI4tcJRyslrUOmxz1gZcyYVIyg7mkpdZRfMg&s=10" ,Ch al ma
 https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8
 
