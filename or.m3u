@@ -2314,40 +2314,6 @@ http://103.151.60.162:2122/play/a0fo/index.m3u8?hls
 
 
 
-
-http://103.135.253.32:8080/Star-News/index.m3u8
-http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8
-http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
-http://103.135.253.32:8080/NATGEO-HD/index.m3u8
-http://103.135.253.32:8080/DORONTU-TV/index.m3u8
-http://103.135.253.32:8080/NICK/index.m3u8
-http://103.135.253.32:8080/BTV/index.m3u8
-http://103.135.253.32:8080/Gazi-TV/index.m3u8
-http://103.135.253.32:8080/STAR-SPORTS-1-HD/index.m3u8
-http://103.135.253.32:8080/STAR-SPORTS-SELECT-1/index.m3u8
-http://103.135.253.32:8080/PTV-SPORTS/tracks-v1a1/mono.m3u8
-http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8
-http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
-http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
-http://103.135.253.32:8080/PICTURE-HD/index.m3u8
-http://103.135.253.32:8080/Channel-24/index.m3u8
-http://103.135.253.32:8080/DORONTU-TV/index.m3u8
-http://103.135.253.32:8080/Ekhon-TV/index.m3u8
-http://103.135.253.32:8080/Indipendent/index.m3u8
-http://103.135.253.32:8080/SOMOY-TV/index.m3u8
-http://103.135.253.32:8080/SONY_AATH/index.m3u8
-http://103.135.253.32:8080/SUN-BANGLA/index.m3u8
-http://103.135.253.32:8080/ZEE-BANGLA-HD/tracks-v1a1/mono.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-name="Doraemon TV" group-title="CARTOON Drama",Doraemon TV
-https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Tom & Jerry TV" group-title="CARTOON Drama",Tom & Jerry TV
-https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1 tvg-name="NK" group-title="Indian Bangla News",NK
 https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
 
