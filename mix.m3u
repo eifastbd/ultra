@@ -690,7 +690,10 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 
 
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zoom
+https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 
+https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
 
 
 
@@ -1569,24 +1572,68 @@ https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 
 
 
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE ONE
+https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",PK
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel I
+https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Somoy News TV
+https://livecdn-bostahls.global.ssl.fastly.net/rongo/rongo-somoy/index.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",RENGONI
+https://cdn-7.pishow.tv/live/10018/master.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",MINIMAX
+https://s2.ideationtec.live/MiniMax/MiniMax.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Unknown
+https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ETV Music (1080p)
+https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Isai Aruvi (576p)
+http://ptuf.ridsys.in/riptv/live/KALAIGNAR_ISAI_ARUVI/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",PTC Music (720p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Punjabi Hits (1080p)
+https://stream.ottlive.co.in/punjabihits/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Tunes 6 (720p)
+https://stream.d6-pro.com/tunes6music/live/video.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zoom (720p)
+https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 
 
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Desi Channel (720p)
+https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",EET TV (1080p) [Not 24/7]
+https://live.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Enterr 10 Bangla (720p) [Not 24/7]
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ETV Josh (1080p)
+https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Mazhavil Manorama HD (1080p)
+https://cdn-7.pishow.tv/live/1129/master.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Oli TV (1080p)
+https://live.olidigital.in/olitv/olitv/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",PTC Punjabi (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",PTC Punjabi Gold (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sada TV (1080p) [Not 24/7]
+http://cdn12.henico.net:8080/live/sadatv/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Swantham (576p)
+http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",AL QAMAR
+https://streamer3.premio.link/alqamar/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ALMASIRA MUBASHER
+https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",AL EKHBARIA
+https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8
 
 
 #EXTINF:-1 group-title="PRO✅" tvg-logo="https://images.weserv.nl/?url=upload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F6%2F6e%2FPanorama_FM_Logo.svg%2F960px-Panorama_FM_Logo.svg.png&utm_source=chatgpt.com⁠",Panorama FM🦋
