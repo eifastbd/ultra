@@ -896,12 +896,10 @@ https://legitpro.co.in/punjabihits/punjabihits/tracks-v1a1/mono.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PRO✅" tvg-logo="",U24🌀
 https://samitaorigin.tangotv.in/PANKH/SAMITAORIGIN/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="MBCLoud.sa@SD",MBC Loud
+https://radio-loud-fm.mbc.net/radio-loud-fm_1.m3u8
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://www.lyngsat.com/logo/tv/num/247-music-tv.png",247-music-tv
+https://str.cantechhub.com/247music/index.m3u8
 
 
 
@@ -1808,73 +1806,34 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b2
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-panorama-fm/ea22f3856a1b772f793c43eb5d1c0636/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://shahid.mbc.net/mediaObject/ad2793c4-5722-49e3-a44c-97d5cbd5f042?height=auto&width=288&croppingPoint=&version=1&type=webp", Mbc FM
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-fm/3f36f7db6086acf058dc51681c87f8ad/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://shahid.mbc.net/mediaObject/e31a074b-051d-48d3-aec1-87f1972c48f1", ABDUL MAJEED ABDULLAH
-https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Hatem_Slider/2022/Dec22/clean/logo_mohamed_Abdu_2/original/logo_mohamed_Abdu_2.png", MUHAMMAD ABDO
-https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Hatem_Slider/2022/Dec22/clean/logo_Rashid_Al_Majid_2/original/logo_Rashid_Al_Majid_2.png", RASHED AL-MAJED
-https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://shahid.mbc.net/mediaObject/712a2aa8-b5de-4f35-87b7-d0ca9e8cb550?height=auto&width=288&croppingPoint=&version=1&type=webp", Panorama FM
-https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://aloula.faulio.com/storage/mediagallery/5b/98/fullhd_da335fc25afb1da620b54d6464dcf43738984d0e.png", Saudi Radio
-https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://aloula.faulio.com/storage/mediagallery/14/da/fullhd_823bc2fe722ede75410492d57fd6c201208b4224.png", Holly Quran Radio
-https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
+
+
+
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://aloula.faulio.com/storage/mediagallery/0f/c5/fullhd_5da380cdfc304fd7d4672a83aeb6c62bc1d3d3e8.png", Nida Alislam Radio
 https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://aloula.faulio.com/storage/mediagallery/bd/f5/fullhd_527bf54a5adb56ac17f572ac2cd0801304db3baf.png", Jedda Radio
-https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/playlist.m3u8
 
-#EXTINF:-1 group-title="Arab" tvg-logo="https://qanawat.taghtia.com/assets/channels/al-resalah.png",Al Resalah HD 
-https://live.kwikmotion.com/alressalahlive/alressalah.smil/alressalahpublish/alressalah_source/hdntl=exp=1738480015~acl=%2falressalahlive%2falressalah.smil%2f*~data=hdntl~hmac=ee37d4592188fdeb0de2ff747c8f9c874488471d0fe9929ae67b2b4bb57b0748/chunks.m3u8
-#EXTINF:-1 group-title="Arab" tvg-logo="http://www.azrotv.com/iphone/images/ar_jpg/qaf_tv.jpg",Qaf TV 
-https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ahl-alquran-tv-sa.png" ,Sad Satellite Channel
-https://win.holol.com/live/saad/playlist.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://shabakeh7.com/logo/logo-navbar.png", SHABAKEH7HD
-https://northtelecom.b-cdn.net/SHABAKEH7HD.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.lyngsat.com/logo/tv/num/247-music-tv.png", 247-music-tv
-https://str.cantechhub.com/247music/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.lyngsat.com/logo/tv/vv/velayat_tv_network_us.png", velayattv
-https://nl.livekadeh.com/hls2/velayattv.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.lyngsat.com/logo/tv/dd/didgah_tv_us.png", didgah_tv_us
-https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.lyngsat.com/logo/tv/dd/didgah_tv_us.png", didgah_tv_us
-https://live.teleradiocom.tj/3/3m.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://ayenehmedia.org/wp-content/uploads/2023/08/ATV-Logo-New.png", didgah_tv_us
-https://live1.watanegypt.tv/hls3/stream3.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.lyngsat.com/logo/tv/dd/didgah_tv_us.png", didgah_tv_us
-https://live1.watanegypt.tv/hls3/stream3.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.lyngsat.com/logo/tv/dd/didgah_tv_us.png", didgah_tv_us
-https://m1.livecdn.io/redirect/aghapy.tv/aghapy.smil?type=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alistiqama-tv-om.png" ,Alistiqama
-https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMZJgQCdmI4tcJRyslrUOmxz1gZcyYVIyg7mkpdZRfMg&s=10" ,Ch al ma
 https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/qq/qbc-qa.png" ,Qbc
-https://live.kwikmotion.com/qbusinesslive/qbusiness.smil/qbusinesspublish/qbusiness_240p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_rayyan_tv_2.png" ,aa/al_rayyan_tv_2
-https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_rayyan_tv.png" ,aa/al_rayyan_tv
-https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/qq/qatar-tv-the-holy-quran-qa.png" ,qatar-tv-the-holy-quran-qa
-https://stream-hls.castr.net/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee9441219c2cc6d61f/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="MBCLoud.sa@SD",MBC Loud
-https://radio-loud-fm.mbc.net/radio-loud-fm_1.m3u8
-#EXTINF:-1 tvg-id="AlAlamAlYawm.sa@SD",Al Alam Al Yawm
-https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b928000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Uncategorized",MAJID
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xtnH00zG/spooky.jpg" group-title="Uncategorized",SPOOKY NIGHTS
-https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TMJd7pMm/anime.png" group-title="Uncategorized",ANIME SA
-https://shls-live-enc.edgenextcdn.net/out/v1/e7350ddf46c94dddafe14b099394ff56/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LYMKBP2/Sat7kids.png" group-title="Uncategorized",SAT7 KIDS
-https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HVLKncL/afarin.png" group-title="Uncategorized",AFARIN TV
-https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
