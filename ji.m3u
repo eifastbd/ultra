@@ -186,9 +186,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="beIN SPORTS XTRA" tvg-logo="https://i.imgur.com/f7FXJm1.png" group-title="Sports", beIN SPORTS XTRA
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-title="Astro GO",Premier Sports
-https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="UFC1.UFC" tvg-logo="https://iptv-epg.org/logos/USA/UFC1.UFC.png" group-title="Sports",UFC
 #KODIPROP:inputstream=inputstream.adaptive
