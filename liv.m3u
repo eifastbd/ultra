@@ -20,7 +20,28 @@
 
 
 
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://img.magnific.com/premium-vector/professional-tv-channel-logo-design-concept-vector-illustration_875240-1836.jpg?semt=ais_test_b&w=740&q=80" tvg-logo="https://cdn.smartads.in/images/product/television/Star-Sports-HD2.png",Star Sports 2 HD
 
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://img.magnific.com/premium-vector/professional-tv-channel-logo-design-concept-vector-illustration_875240-1836.jpg?semt=ais_test_b&w=740&q=80" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Star_Sports_3_2018.png/revision/latest/scale-to-width-down/250?cb=20180915054739",Star Sports 3 SD
+http://103.151.60.162:2122/play/a029/index.m3u8?hls
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://img.magnific.com/premium-vector/professional-tv-channel-logo-design-concept-vector-illustration_875240-1836.jpg?semt=ais_test_b&w=740&q=80" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Star_Sports_3_2018.png/revision/latest/scale-to-width-down/250?cb=20180915054739",Star Sports 3 SD
+http://103.151.60.162:2122/play/a02e/index.m3u8?hls
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://img.magnific.com/premium-vector/professional-tv-channel-logo-design-concept-vector-illustration_875240-1836.jpg?semt=ais_test_b&w=740&q=80" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7227/597227-h",STAR-SPORTS Select-2
+http://103.151.60.162:2122/play/a027/index.m3u8?hls
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starselect2.png", Star-select-2
+http://198.195.239.50:8095/STAR.SPORTS.SEL.2.HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starsports1.png", Star-sports-1
+http://198.195.239.50:8095/STAR.SPORTS1.HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starsports2.png", Star-sports-2
+http://198.195.239.50:8095/STAR.SPORTS2.HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starsports3.png", Star-sports-3
+http://198.195.239.50:8095/STAR-SPORTS.3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/tsports.png", T Sports HD
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/211.ts
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/united2.png", Unite8-sports-2
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/192.ts
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" tvg-logo="https://i.postimg.cc/0yzwt46Q/20241126-220214.png",Ten Cricket 
+https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
 
 
 
@@ -501,28 +522,7 @@ https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/mono.m3u8
 http://f5944e6a.edemist.com/iptv/9EMB9V8Z6Z8CB7/31578/index.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" tvg-logo="https://iptvx.one/picons/eleven-sports-1.png?utm_source=chatgpt.com",Eleven Sports 1
 http://vpzj3gcw.virelloso.top/iptv/W7QS9MQ998T25T/20068/index.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://img.magnific.com/premium-vector/professional-tv-channel-logo-design-concept-vector-illustration_875240-1836.jpg?semt=ais_test_b&w=740&q=80" tvg-logo="https://cdn.smartads.in/images/product/television/Star-Sports-HD2.png",Star Sports 2 HD
-http://103.151.60.162:2122/play/a019/index.m3u8?hls
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://img.magnific.com/premium-vector/professional-tv-channel-logo-design-concept-vector-illustration_875240-1836.jpg?semt=ais_test_b&w=740&q=80" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Star_Sports_3_2018.png/revision/latest/scale-to-width-down/250?cb=20180915054739",Star Sports 3 SD
-http://103.151.60.162:2122/play/a029/index.m3u8?hls
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://img.magnific.com/premium-vector/professional-tv-channel-logo-design-concept-vector-illustration_875240-1836.jpg?semt=ais_test_b&w=740&q=80" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Star_Sports_3_2018.png/revision/latest/scale-to-width-down/250?cb=20180915054739",Star Sports 3 SD
-http://103.151.60.162:2122/play/a02e/index.m3u8?hls
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://img.magnific.com/premium-vector/professional-tv-channel-logo-design-concept-vector-illustration_875240-1836.jpg?semt=ais_test_b&w=740&q=80" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7227/597227-h",STAR-SPORTS Select-2
-http://103.151.60.162:2122/play/a027/index.m3u8?hls
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starselect2.png", Star-select-2
-http://198.195.239.50:8095/STAR.SPORTS.SEL.2.HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starsports1.png", Star-sports-1
-http://198.195.239.50:8095/STAR.SPORTS1.HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starsports2.png", Star-sports-2
-http://198.195.239.50:8095/STAR.SPORTS2.HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starsports3.png", Star-sports-3
-http://198.195.239.50:8095/STAR-SPORTS.3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/tsports.png", T Sports HD
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/211.ts
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/united2.png", Unite8-sports-2
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/192.ts
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" tvg-logo="https://i.postimg.cc/0yzwt46Q/20241126-220214.png",Ten Cricket 
-https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
+
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" tvg-logo="https://i.postimg.cc/441hHtgZ/20250120_193746.png",Bein Sports 1
 http://host.phorious.art/validation/377?deviceMac=10:27:BE:25:67:80&split=33da9c80155413830543e27c8520ba99&smart=1
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/football-logo-design-template-bebebf8ff1c25b66b504d37afaee99f0_screen.jpg?ts=1686017774",M-Sports
