@@ -750,94 +750,6 @@ https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
 #EXTINF:-1 group-title="🔅ZEE5🔅",Zilla Vani
 https://streaming.livebox.co.in/vedhikahls/live.m3u8
-#EXTINF:-1 tvg-id="22020" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="🔅ZEE5🔅",Mazhavil Manorama HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=37b4403a66f2565da33ba3b5704bb178:449f87256b3c1d7c2cdcbe04cbfd5530
-https://login.bheem.tv/bpk-tv/22020/output/index.mpd?
-#EXTINF:-1 tvg-id="22052" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnimalPlanetHD_Transparent_d36c0ee3-3e3f-4e0c-b3b2-23bfb3c3c2b0.png" group-title="🔅ZEE5🔅",Animal Planet HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8aaf27b53099505a8307b7df2f61b46c:83692149a2e59a8aae8e39ed6a1f6325
-https://login.bheem.tv/bpk-tv/22052/output/index.mpd?
-#EXTINF:-1 tvg-id="22076" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY_HD/images/LOGO_HD/image.png" group-title="🔅ZEE5🔅",Investigation Discovery HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30da751b70f05b5297d18d0c33c29f0c:86796e309d13495992282149f0957f74
-https://login.bheem.tv/bpk-tv/22076/output/index.mpd?
-#EXTINF:-1 tvg-id="22094" tvg-logo="https://cms.bheem.tv/v1/imageresize/w_1280/h_720/fill/%2Fmount%2Fimages%2Fteplay%2F639323d7e97311c2278a6a40%2Fen%2FLandscape%2FHYiJrwEaaDdMce71680856930.png" group-title="🔅ZEE5🔅",Bheem TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea072aefcd425db8b131332605228b37:23f613713818e2974f2e6bafc10d5c3d
-https://login.bheem.tv/bpk-tv/22094/output/index.mpd?
-#EXTINF:-1 tvg-id="22096" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="🔅ZEE5🔅",Cartoon Network HD+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9452bb588219504397cc7dfc407356b5:1b3fc29b2616b147ebe119f2c6f9a02a
-https://login.bheem.tv/bpk-tv/22096/output/index.mpd?
-#EXTINF:-1 tvg-id="22301" tvg-logo="" group-title="🔅ZEE5🔅",BCN Entertainment
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5190427b2c595770a32994d3412ec6e8:caebbaa588560b8713aaf74b6bd43283
-https://login.bheem.tv/bpk-tv/22301/output/index.mpd
-#EXTINF:-1 tvg-id="22302" tvg-logo="" group-title="🔅ZEE5🔅",BCN TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7cf53782c245274ab8535e542ef112c:a00af3fe7ada67409a0522b04eabc276
-https://login.bheem.tv/bpk-tv/22302/output/index.mpd
-#EXTINF:-1 tvg-id="22327" tvg-logo="" group-title="🔅ZEE5🔅",BCN News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c51805e0247f57d98b93e88ca3b71ee9:d417b5e60aad01e17fd946f5b4a60584
-https://login.bheem.tv/bpk-tv/22327/output/index.mpd
-#EXTINF:-1 tvg-id="22348" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ISAI_ARUVI/images/LOGO_HD/image.png" group-title="🔅ZEE5🔅",Isai Aruvi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90847bc89c0d5eb19c57d70370c3477c:8938c82cd4feec1f586e3c611459a7d4
-https://login.bheem.tv/bpk-tv/22348/output/index.mpd?
-#EXTINF:-1 tvg-id="22362" tvg-logo="" group-title="🔅ZEE5🔅",Telemax Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bb0b89531a15504d8f38d51bc39c7c65:83ec5d4ac0ef2a58830424a440231100
-https://login.bheem.tv/bpk-tv/22362/output/index.mpd
-#EXTINF:-1 tvg-id="22371" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/PUBLIC-MOVIES_transperncy.png" group-title="🔅ZEE5🔅",Public Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c0717ba03155e57b6a81dc39222ecd4:268e3ebd5b3b3997bf6edbc302ca1991
-https://login.bheem.tv/bpk-tv/22371/output/index.mpd?
-#EXTINF:-1 tvg-id="22373" tvg-logo="https://dtil.tmsimg.com/assets/s143215_ld_h15_aa.png" group-title="🔅ZEE5🔅",J Movie
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=db45a6ff634252209fd4b66847078456:134f625213a09e244ebceb257c22b2f3
-https://login.bheem.tv/bpk-tv/22373/output/index.mpd?
-#EXTINF:-1 tvg-id="22374" tvg-logo="https://dtil.tmsimg.com/assets/s143226_ld_h15_aa.png" group-title="🔅ZEE5🔅",Jaya Max
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab7b51986d1d5c71ae7a3eccfa387547:90543e8dd493f5dc0e105ce32fd964e0
-https://login.bheem.tv/bpk-tv/22374/output/index.mpd?
-#EXTINF:-1 tvg-id="22376" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Jaya%20TV%20HD.png" group-title="🔅ZEE5🔅",Jaya TV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=240e85c531b3557b9f80f460de9d3632:1e152dddc7f6e7d7ff8bbea884907c24
-https://login.bheem.tv/bpk-tv/22376/output/index.mpd?
-#EXTINF:-1 tvg-id="22378" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/CHITHIRAM_Transparent_0a0a1cd6-cba5-4899-b22d-ce53fa1236dd.png" group-title="🔅ZEE5🔅",Chithiram
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=928e0f5213fc5a7ebeb0bd8cbd4d1442:22b778641744694ad3de2822ee018d38
-https://login.bheem.tv/bpk-tv/22378/output/index.mpd?
-#EXTINF:-1 tvg-id="22379" tvg-logo="https://dtil.tmsimg.com/assets/s143791_ld_h9_aa.png" group-title="🔅ZEE5🔅",Sirippoli
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b0bef7a3d07f5b9c8b4b2de472da7718:3139f66c3e590441bec542fcf16dcaca
-https://login.bheem.tv/bpk-tv/22379/output/index.mpd?
-#EXTINF:-1 tvg-id="22380" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title="🔅ZEE5🔅",Vendhar TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9d40de25714e5bfea8d4416e122cbe1f:cf4e7638142ca8ee949de71f6c77a85f
-https://login.bheem.tv/bpk-tv/22380/output/index.mpd?
-#EXTINF:-1 tvg-id="22389" tvg-logo="https://i.imgur.com/du9iZ0s.png" group-title="🔅ZEE5🔅",Asianet Middle East
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c0c3d8692a6a574e9a731ff7ed7ca7fe:87eed062e3b13bd639f5cba89b83ea33
-https://login.bheem.tv/bpk-tv/22389/output/index.mpd?
-#EXTINF:-1 tvg-id="22391" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Amrita%20TV.png" group-title="🔅ZEE5🔅",Amrita TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=513e09e96cd355198d22a63f3259452f:8b5c7793bba86d6e885fc08b9ff9e5e0
-https://login.bheem.tv/bpk-tv/22391/output/index.mpd?
-#EXTINF:-1 tvg-id="22412" tvg-logo="https://dtil.tmsimg.com/assets/s143247_ld_h15_aa.png" group-title="🔅ZEE5🔅",Kairali TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1382b4f8623151e88c52787ae11f11ab:de71cbb248a62cc2c4a66c8546b49d7d
-https://login.bheem.tv/bpk-tv/22412/output/index.mpd
-#EXTINF:-1 tvg-id="22431" tvg-logo="https://dtil.tmsimg.com/assets/s143778_ld_h15_aa.png?lock=720x540" group-title="🔅ZEE5🔅",Shemaroo TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1ef0ac2ffe7c56bc9873740402bff248:c1f453a5367057e62a0242d5228e765a
-https://login.bheem.tv/bpk-tv/22431/output/index.mpd?
-#EXTINF:-1 tvg-id="22436" tvg-logo="https://dtil.tmsimg.com/assets/s143693_ld_h15_aa.png?lock=720x540" group-title="🔅ZEE5🔅",Puthu Yugam
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fea2415c80885ec19609665c8bbbd62c:55a5f420b2ed2b3c9cf408c9c18bb567
-https://login.bheem.tv/bpk-tv/22436/output/index.mpd?
 #EXTINF:-1 tvg-id="sun-194408" tvg-name="Sun TV" tvg-logo="https://sund-images.sunnxt.com/194408/640x360_SunTV_194408_2617a80e-4f90-42fa-b13a-acc8d7c97f9e.jpg" group-title="🔅ZEE5🔅" group-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Sun_NXT_logo_small.png" type="dash" http-user-agent="plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7",Sun TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -1019,40 +931,7 @@ https://yuppparoriglin.akamaized.net/181224/smil:wowkidztamil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="wowkidz-telugu" tvg-name="WOW KIDZ Telugu" tvg-logo="https://yt3.ggpht.com/a/AATXAJytH39NO3s4QEpDhzrKSGGEg0tf1c6c29ZzsQ=s900-c-k-c0xffffffff-no-rj-mo" tvg-category="Kids" tvg-language="Telugu" group-title="🔅ZEE5🔅" group-logo="https://yt3.ggpht.com/a/AATXAJytH39NO3s4QEpDhzrKSGGEg0tf1c6c29ZzsQ=s900-c-k-c0xffffffff-no-rj-mo" http-user-agent="plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7",WOW KIDZ Telugu
 #EXTVLCOPT:http-user-agent="plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7"
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidztelgu.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 group-title="🔅ZEE5🔅" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png",SONY HD
-https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_hd.m3u8
-#EXTINF:-1 group-title="🔅ZEE5🔅" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",SONY SAB HD
-https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsab_hd.m3u8
-#EXTINF:-1 group-title="🔅ZEE5🔅" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MARATHI.png",SONY MARATHI
-https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_marathi.m3u8
-#EXTINF:-1 group-title="🔅ZEE5🔅" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png",SONY PAL
-https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_pal.m3u8
-#EXTINF:-1 group-title="🔅ZEE5🔅" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png",SONY AATH
-https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_aath.m3u8
-#EXTINF:-1 group-title="🔅ZEE5🔅" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png",SONY YAY!
-https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_yay.m3u8
-#EXTINF:-1 group-title="🔅ZEE5🔅" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",SONY MAX HD
-https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_max_hd.m3u8
-#EXTINF:-1 group-title="🔅ZEE5🔅" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png",SONY MAX
-https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_max.m3u8
-#EXTINF:-1 group-title="🔅ZEE5🔅" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png",SONY WAH
-https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_wah.m3u8
-#EXTINF:-1 group-title="🔅ZEE5🔅" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png",SONY MAX 2
-https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_max2.m3u8
-#EXTINF:-1 group-title="🔅ZEE5🔅" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png",SONY PIX HD
-https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_pix_hd.m3u8
-#EXTINF:-1 group-title="🔅ZEE5🔅" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",SONY Sports TEN 1 HD
-https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_ten1_hd.m3u8
-#EXTINF:-1 group-title="🔅ZEE5🔅" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",SONY Sports TEN 2 HD
-https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_ten2_hd.m3u8
-#EXTINF:-1 group-title="🔅ZEE5🔅" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi_HD.png",SONY Sports TEN 3 HINDI HD
-https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_ten3_hd.m3u8
-#EXTINF:-1 group-title="🔅ZEE5🔅" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_4_Telugu.png",SONY Sports TEN 4 HD
-https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_ten4_hd.m3u8
-#EXTINF:-1 group-title="🔅ZEE5🔅" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",SONY Sports TEN 5 HD
-https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_ten5_hd.m3u8
-#EXTINF:-1 group-title="🔅ZEE5🔅" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png",SONY BBC Earth
-https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fbbc_earth.m3u8
+
 #EXTINF:-1 group-title="🔅ZEE5🔅" tvg-id="&TV HD" tvg-logo="https://i.ibb.co.com/Kj5gRmgZ/andtv.png",&TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
@@ -1595,8 +1474,6 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
-
-
 
 
 
