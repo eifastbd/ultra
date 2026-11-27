@@ -91,25 +91,14 @@ https://playlist.nocablenetwork.workers.dev/stream/34.ts
 #EXTINF:-1 tvg-id="" tvg-name="UNITE8 SPORTS 1 HD" tvg-logo="https://i.postimg.cc/nhVXfN2N/Unite8-Sports-1.png" group-title="Sports",UNITE8 SPORTS 1 HD
 https://playlist.nocablenetwork.workers.dev/stream/35.ts
 
-#EXTM3U
-
-#EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/13XVVyg3/1773936967533.png",110.STABLE-SPORTS TV™
-https://raw.githubusercontent.com/stablesports711-hue/stabe-sports-movie/refs/heads/main/IPTV/FOX501HD.m3u8
-
 #EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://i.postimg.cc/q72PSbWm/20260601-214906.png" group-title="AU-Cricket",FOX CRICKET 501 FHD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/FOX501HD.m3u8
-
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=809389&extension=m3u8
 #EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="PK-Cricket",A SPORTS FHD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-ASports.m3u8
-
-#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://images.seeklogo.com/logo-png/42/1/cricbuzz-logo-png_seeklogo-429413.png" group-title="Cricker",CRICBUZZ HD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz.m3u8
-
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=809397&extension=m3u8
 #EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://i.postimg.cc/NF489yZJ/STABLE-SPORTS1.png" group-title="Cricket",CRICBUZZ 1 HD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz1.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=809382&extension=m3u8
 
-#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://i.postimg.cc/tRhBGJvV/STABLE-SPORTS2.png" group-title="Cricket",CRICBUZZ 2 HD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz2.m3u8
+
 
 #EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://i.postimg.cc/3N8gLCsG/images-(2).jpg" group-title="PK-Cricket",GEO SUPER HD
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-GeoSuper.m3u8
@@ -117,17 +106,6 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 #EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/PTV-Sports.png" group-title="PK-Cricket",PTV SPORTS FHD
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-PTVSports.m3u8
 
-#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" group-title="IN-Cricket",SONY TEN 1 HD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_1.m3u8
-
-#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" group-title="IN-Cricket",SONY TEN 2 HD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_2.m3u8
-
-#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_3.png" group-title="IN-Cricker",SONY TEN 3 HD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_3.m3u8
-
-#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="IN-Cricker",SONY TEN 5 HD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_5.m3u8
 
 #EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-sports-select-1-hd-in.png" group-title="IN-Cricker",Star Sports select 1 HD
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_1.m3u8
