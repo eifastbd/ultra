@@ -523,26 +523,15 @@ http://103.121.61.218/tmp_hls/ecd1b059424d5e0056f579a391d1ead9/index.m3u8
 https://s3.itcnbd.live/server-11/stream/aHR0cHM6Ly90di5hZXRoZWxjb2RlLndvcmtlcnMuZGV2L2xpdmUtc3RyZWFtL3ByaW1ldHYuc3RyZWFtL3RyYWNrcy12MWExL21vbm8ubTN1OA.m3u8
 
 
-#EXTINF:-1 group-title="INDIAN" tvg-id="Asianet.in@HD" tvg-logo="https://i.imgur.com/Wv7MOzg.png" ,Asianet HD (1080p)
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8
-
-#EXTINF:-1 group-title="INDIAN" tvg-id="StarJalsha.in@HD" tvg-logo="https://i.imgur.com/IlufzR5.png" ,Star Jalsha HD (720p)
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
-#EXTINF:-1 group-title="INDIAN" tvg-id="StarMaa.in@HD" tvg-logo="https://i.imgur.com/5c9PVS0.png" ,Star Maa HD (720p)
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
-#EXTINF:-1 group-title="INDIAN" tvg-id="StarPravah.in@HD" tvg-logo="https://i.imgur.com/ZT0u7AK.png" ,Star Pravah HD (720p)
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
-
-#EXTINF:-1 group-title="INDIAN" tvg-id="ColorsKannada.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA_HD/images/LOGO_HD/image.png" ,Colors Kannada HD (1080i)
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8
-#EXTINF:-1 group-title="INDIAN" tvg-id="ColorsMarathi.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_MARATHI/images/LOGO_HD/image.png" ,Colors Marathi HD (720p)
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8
-
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:rupashibangla.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/star_maa_movies.png" group-title="PRO✅",Star Maa Movies
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nV38nLkH/20260913-092507.png" group-title="PRO✅",Channel S
 https://box.bbaria.net:8083/ChannelS/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvRgj26W/20250529-105408.png" group-title="PRO✅",Star Jalsha HD
@@ -645,7 +634,19 @@ http://38.96.178.205/SONYHD/index.m3u8
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1 tvg-id="UtsavBharat.uk@SD" group-title="PRO✅",Utsav Bharat
 https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-
+#EXTINF:-1 group-title="PRO✅" tvg-id="Asianet.in@HD" tvg-logo="https://i.imgur.com/Wv7MOzg.png" ,Asianet HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 group-title="PRO✅" tvg-id="StarMaa.in@HD" tvg-logo="https://i.imgur.com/5c9PVS0.png" ,Star Maa HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
+#EXTINF:-1 group-title="PRO✅" tvg-id="StarPravah.in@HD" tvg-logo="https://i.imgur.com/ZT0u7AK.png" ,Star Pravah
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 group-title="PRO✅" tvg-id="ColorsKannada.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA_HD/images/LOGO_HD/image.png" ,Colors Kannada
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8
+#EXTINF:-1 group-title="PRO✅" tvg-id="ColorsMarathi.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_MARATHI/images/LOGO_HD/image.png" ,Colors Marathi
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/star_maa_movies.png" group-title="PRO✅",Star Maa Movies
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:rupashibangla.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="PRO✅",SONY MAX
 https://techandeat.online/sliv/stream.m3u8?id=1000009249|Referer=https://techandeat.online/
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="PRO✅",SONY MAX HD
@@ -705,17 +706,14 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 
 
-#EXTINF:-1 group-title="PRO✅" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png",YRF MUSIC
+
+
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png",YRF MUSIC🌀
 https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="PRO✅",Zoom
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/x8TbRJp2/Zoom.jpg" group-title="PRO✅",Zoom🌀
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
-
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rojatv.png?utm_source=chatgpt.com",Roja🌀
 https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/43HjwR0L/IMG-20260420-004756.jpg" group-title="PRO✅",BENGALI BEATS🌀
 https://playout.vidiyo.com/api/v1/streams/d2bdcf50874a2edd4c78a1d0b9da43c28eabf7bac3928ea3e5eab39eb695ecb8/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kO8uM2Iwy-Ydtu6i3Gsku6Q2dskadTbtOUIEZ7BvGdNWQ=s900-c-k-c0x00ffffff-no-rj" group-title="PRO✅",GAAN BANGLA
