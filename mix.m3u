@@ -523,7 +523,22 @@ http://103.121.61.218/tmp_hls/ecd1b059424d5e0056f579a391d1ead9/index.m3u8
 https://s3.itcnbd.live/server-11/stream/aHR0cHM6Ly90di5hZXRoZWxjb2RlLndvcmtlcnMuZGV2L2xpdmUtc3RyZWFtL3ByaW1ldHYuc3RyZWFtL3RyYWNrcy12MWExL21vbm8ubTN1OA.m3u8
 
 
+#EXTINF:-1 group-title="INDIAN" tvg-id="Asianet.in@HD" tvg-logo="https://i.imgur.com/Wv7MOzg.png" ,Asianet HD (1080p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8
 
+#EXTINF:-1 group-title="INDIAN" tvg-id="StarJalsha.in@HD" tvg-logo="https://i.imgur.com/IlufzR5.png" ,Star Jalsha HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 group-title="INDIAN" tvg-id="StarMaa.in@HD" tvg-logo="https://i.imgur.com/5c9PVS0.png" ,Star Maa HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
+#EXTINF:-1 group-title="INDIAN" tvg-id="StarPravah.in@HD" tvg-logo="https://i.imgur.com/ZT0u7AK.png" ,Star Pravah HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
+
+#EXTINF:-1 group-title="INDIAN" tvg-id="ColorsKannada.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA_HD/images/LOGO_HD/image.png" ,Colors Kannada HD (1080i)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8
+#EXTINF:-1 group-title="INDIAN" tvg-id="ColorsMarathi.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_MARATHI/images/LOGO_HD/image.png" ,Colors Marathi HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8
+
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:rupashibangla.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/star_maa_movies.png" group-title="PRO✅",Star Maa Movies
@@ -904,14 +919,14 @@ https://samitaorigin.tangotv.in/PANKH/SAMITAORIGIN/tracks-v1a1/mono.m3u8
 https://radio-loud-fm.mbc.net/radio-loud-fm_1.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/247-music-tv.png" group-title="PRO✅",247-music-tv
 https://str.cantechhub.com/247music/index.m3u8
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
+
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:9xmusic4.smil/index.m3u8
 
 
 
 
-
-
-
-
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:9xjalwa.smil/index.m3u8
 
 
 
