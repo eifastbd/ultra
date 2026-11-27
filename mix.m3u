@@ -919,6 +919,12 @@ https://str.cantechhub.com/247music/index.m3u8
 
 
 
+
+
+
+
+
+
 ───────────  Cartoon ───────────
 
 
@@ -929,35 +935,43 @@ https://str.cantechhub.com/247music/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="22602" tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png" group-title="🔅ZEE5🔅",Cartoon Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="22602" tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png" group-title="PRO✅",Cartoon Network👻
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b7de008a1685b9fa1aa9e0b8d5cac0a:9ae9aef552a4182de0eb9ab2fae86a17
 https://login.bheem.tv/bpk-tv/22602/output/index.mpd?
-#EXTINF:-1 tvg-id="22603" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png" group-title="🔅ZEE5🔅",Pogo
+#EXTINF:-1 tvg-id="22603" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png" group-title="PRO✅",Pogo👻
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=747bbd76538e54aba7b84da4d5dc5aba:bd594239af2c1befc5d117cc72c83f33
 https://login.bheem.tv/bpk-tv/22603/output/index.mpd?
-#EXTINF:-1 tvg-id="22646" tvg-logo="https://i.imgur.com/0iNQvoL.png" group-title="🔅ZEE5🔅",Discovery Kids Telugu
+#EXTINF:-1 tvg-id="22646" tvg-logo="https://i.imgur.com/0iNQvoL.png" group-title="PRO✅",Discovery Kids👻
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53d406746e3f5f8488ea3b3b9b7006e3:33fcad4800a1e67b1c53622a21bc6fb9
 https://login.bheem.tv/bpk-tv/22646/output/index.mpd?
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="🔅ZEE5🔅",CN HD+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="PRO✅",CN HD+👻
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9452bb588219504397cc7dfc407356b5:1b3fc29b2616b147ebe119f2c6f9a02a
 https://login.bheem.tv/bpk-tv/22096/output/index.mpd
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png" group-title="🔅ZEE5🔅",CN
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png" group-title="PRO✅",CN👻
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b7de008a1685b9fa1aa9e0b8d5cac0a:9ae9aef552a4182de0eb9ab2fae86a17
 https://login.bheem.tv/bpk-tv/22602/output/index.mpd
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png" group-title="🔅ZEE5🔅",Pogo
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png" group-title="PRO✅",Pogo👻
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=747bbd76538e54aba7b84da4d5dc5aba:bd594239af2c1befc5d117cc72c83f33
 https://login.bheem.tv/bpk-tv/22603/output/index.mpd
-#EXTINF:-1 tvg-id="22096" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="🔅ZEE5🔅",Cartoon Network HD+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9452bb588219504397cc7dfc407356b5:1b3fc29b2616b147ebe119f2c6f9a02a
-https://login.bheem.tv/bpk-tv/22096/output/index.mpd
-
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_608bd1c995275bd65872dae5b2be9ba0_playmist_duronto_tv_400x400.jpg" group-title="PRO✅",Duronto TV👻
 https://s3.itcnbd.live/server-9/stream/ZHVyb250by10di1oZA.m3u8
 
