@@ -37,8 +37,7 @@ http://103.168.8.174:9999/stream/channelid/804677169?profile=pass
 #EXTINF:-1 tvg-logo="http://172.19.17.34:80/images/d92a7381521a7b2926fde01ecfe7fafe.png" group-title="PRO✅",BTV CHATTAGRAM🇧🇩
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 #EXTINF:-1 tvg-id="btv_news" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_1b90aebe217ac437da23625feaba0b76_playmist_btv_news400x400.jpg" group-title="PRO✅",BTV News🇧🇩          
-#https://s3.itcnbd.live/server-12/stream/MTA5.m3u8
-https://s3.itcnbd.live/server-9/stream/YnR2LWhk.m3u8
+https://s3.itcnbd.live/server-12/stream/MTA5.m3u8
 #EXTINF:-1 tvg-id="SangsadTV.bd@SD" tvg-logo="https://i.imgur.com/jkouxLg.png" group-title="PRO✅",Sangsad TV🇧🇩
 https://bd-tv.sm-monirul-islam-rs.workers.dev/btv_shangshad/index.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="PRO✅",Ekattor TV🇧🇩
@@ -63,7 +62,8 @@ https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 #EXTINF:-1 tvg-id="186" tvg-name="News 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png" group-title="PRO✅",News 24🇧🇩
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4pBhNMB/My-Tv.jpg" group-title="PRO✅",MY TV HD🇧🇩
-https://s3.itcnbd.live/server-9/stream/bXktdHY.m3u8
+https://drk6xq0vhn.gpcdn.net/hls/my_tv_720/index.m3u8
+#https://s3.itcnbd.live/server-9/stream/bXktdHY.m3u8
 #EXTINF:-1 tvg-id="b3f0df76-15ba-4ede-a7de-bbaaf23a630e" tvg-name="ETV" tvg-logo="https://s3.aynaott.com/storage/d805cf57543080b49de8a2621cd54da4" group-title="PRO✅",ETV🇧🇩
 https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
 #https://ekusheyserver.com/etvlivesn.m3u8
@@ -88,8 +88,9 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 tvg-id="229" tvg-name="Maasranga TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png" group-title="PRO✅",Maasranga TV🇧🇩
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
 #EXTINF:-1 tvg-name="Global TV" tvg-logo="https://i.postimg.cc/SRL4zWbX/20250529-105303.png" group-title="PRO✅",Global TV🇧🇩
-https://s3.itcnbd.live/server-10/stream/NjIxNzY2Mzg3NA.m3u8
-#https://s3.itcnbd.live/server-11/stream/aHR0cHM6Ly9ic2NsLmlwdHYtc3RvY2sud29ya2Vycy5kZXYvaGxzL2dsb2JhbF90dl9oZC5tM3U4.m3u8
+#https://drk6xq0vhn.gpcdn.net/hls/global_tv_720/index.m3u8
+#https://s3.itcnbd.live/server-10/stream/NjIxNzY2Mzg3NA.m3u8
+https://s3.itcnbd.live/server-11/stream/aHR0cHM6Ly9ic2NsLmlwdHYtc3RvY2sud29ya2Vycy5kZXYvaGxzL2dsb2JhbF90dl9oZC5tM3U4.m3u8
 #http://116.204.149.16/globaltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/desh-tv.png" group-title="PRO✅",Desh TV🇧🇩
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/index.m3u8
@@ -124,6 +125,7 @@ https://playztv-apps.pages.dev/asian-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/OHsKWwrPCUUomluu0R4GqjQNXuD3vOHDK3dLq2Qczmu9ZI5X7ljltXoHM8c4-vElz4DdD3qflQ=s72-c-k-c0x00ffffff-no-rj" group-title="PRO✅",Me TV🇧🇩
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zqgx8hm1/20260430-184013.png" group-title="PRO✅",Channel 1🇧🇩
+#https://drk6xq0vhn.gpcdn.net/hls/Channel_1_tv_720/index.m3u8
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="PRO✅",Deshe Bideshe🇧🇩
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
@@ -165,10 +167,8 @@ https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/tra
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/YHOtAuLJzkb9qzX2S2r_EvXUINm5hwRq9MvaNcY9Psv_Hjjqi5GeZDqkY45HO0gm538tSDsMfw=s900-c-k-c0x00ffffff-no-rj" group-title="PRO✅",Boishakhi TV🇧🇩
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZB0sFvLdP7M4KDcmzxAvR1zlOB1K1FqXuaGjdZOUgSfh1waicWf63g&s=10" group-logo="https://yt3.googleusercontent.com/AQLUH_ixhkqBRCV9M1rtWRQhUFiXB1QvX-l1DIbrfmeMjrU8kJzAeCaiupHjEPEz9M2daSfm9A=s900-c-k-c0x00ffffff-no-rj" group-title="PRO✅",SA TV🇧🇩
-https://s3.itcnbd.live/server-10/stream/OTU3OTQ3NzY3Ng.m3u8
-#https://s3.itcnbd.live/server-10/stream/resource/aHR0cDovLzE3Mi4xOS4xNzguMTQ4OjE4MTkwL3NhdHYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2F1dG9wbGF5PWZhbHNlJm11dGU9ZmFsc2UmdG9rZW49MmY4NjM2MTBkNDVhMGQ4YmZiOTYxNTM0NDkwNTY0MTNhNDcyMjBiMC0wMGEwZmM5NTZmNzI4Njg4NjYwNjgxYTgzNjNhNDc0ZC0xNzk1NTA3MjYzLTE3OTU0OTYxNjM
 #http://116.204.149.16/satv/index.m3u8
-#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/news21.jpg" group-title="PRO✅",NEWS 21 BANGLA🇧🇩
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x91288" group-title="PRO✅",Boishakhi🇧🇩
