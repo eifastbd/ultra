@@ -144,31 +144,23 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SkySCric.m3u8
 
 #EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://i.postimg.cc/ZY91x7Sv/stablesportstvw.png" group-title="NZ-Cricket",SKY SPORTS NZ 1 FHD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SkyNZ1.m3u8
-
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=809379&extension=m3u8
 #EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://i.postimg.cc/t4zf48hW/stablesportstvgf.png" group-title="NZ-Cricket",SKY SPORTS NZ 2 FHD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SkyNZ2.m3u8
-
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=809378&extension=m3u8
 #EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://i.postimg.cc/CKL2BJ7K/stablesportstvge.png" group-title="NZ-Cricket",SKY SPORTS NZ 3 FHD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SkyNZ3.m3u8
-
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=809377&extension=m3u8
 #EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://i.postimg.cc/vBgwVvyd/stablesportstvy.png" group-title="NZ-Cricket",SKY SPORTS NZ 4 FHD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SkyNZ4.m3u8
-
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=809376&extension=m3u8
 #EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://i.postimg.cc/0ykgfvvh/stablesportstvh.png" group-title="NZ-Cricket",SKY SPORTS NZ 5 FHD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SkyNZ5.m3u8
-
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=809375&extension=m3u8
 #EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://i.postimg.cc/VNv3xFJy/stablesportstvg.png" group-title="NZ-Cricket",SKY SPORTS NZ 6 FHD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SkyNZ6.m3u8
-
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=809374&extension=m3u8
 #EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://i.postimg.cc/L5KwZKNd/stablesportstv1.png" group-title="NZ-Cricket",SKY SPORTS NZ 7 FHD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SkyNZ7.m3u8
-
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=809373&extension=m3u8
 #EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://i.postimg.cc/nVB6frhx/stablesportstvs.png" group-title="NZ-Cricket",SKY SPORTS NZ 8 FHD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SkyNZ8.m3u8
-
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=809372&extension=m3u8
 #EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://i.postimg.cc/7YNdbR7v/stablesportstv.png" group-title="NZ-Cricket",SKY SPORTS NZ 9 FHD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SkyNZ9.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=809371&extension=m3u8
 
 
 
