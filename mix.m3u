@@ -1795,7 +1795,17 @@ https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
 https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8
 
 
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.postimg.cc/8553wC1r/20260811-172504.png",170.Saudi Quran TV
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.postimg.cc/rwkP3jVm/20260811-171415.png",171Saudi Sunnah TV
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://saudiradio.faulio.com/storage/mediagallery/eb/42/fullhd_ef572438fffe8669b91c090d495bee55e7a4808c.png",172.Holy Quran Radio
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
+
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.postimg.cc/SsJHZNLp/20260811-125845.png",173.Al- Quran Live
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 
 
 
