@@ -43,6 +43,8 @@ https://bd-tv.sm-monirul-islam-rs.workers.dev/btv_shangshad/index.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="PRO✅",Ekattor TV🇧🇩
 #https://box.bbaria.net:8083/EkattorTV/video.m3u8
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
+#EXTINF:-1 tvg-id="132000" tvg-name="Channel I HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="PRO✅",Channel I HD🇧🇩
+https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" group-title="PRO✅",Somoy🇧🇩
 https://s3.itcnbd.live/server-12/stream/Nzk.m3u8
 #EXTINF:-1 tvg-id="97" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="PRO✅",Jamuna TV🇧🇩
@@ -72,7 +74,6 @@ https://s3.itcnbd.live/server-12/stream/Nzc.m3u8
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/independent-8-org.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="132000" tvg-name="Channel I HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="PRO✅",Channel I HD🇧🇩
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
-#https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
 #EXTINF:-1 tvg-id="100000" tvg-name="Bangla Vision" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="PRO✅",Bangla Vision🇧🇩
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
 #EXTINF:-1 tvg-id="addb7014-1d2e-41d8-982d-7cafbdc48770" tvg-name="Bangla TV" tvg-logo="https://s3.aynaott.com/storage/5b22893ae4e816ef2cf87e63c96e9e08" group-title="PRO✅",Bangla TV🇧🇩
@@ -1695,68 +1696,13 @@ https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="PRO✅",ZEE ONE
-https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="PRO✅",PK
-https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="PRO✅",Channel I
-https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="PRO✅",Somoy News TV
-https://livecdn-bostahls.global.ssl.fastly.net/rongo/rongo-somoy/index.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="PRO✅",RENGONI
-https://cdn-7.pishow.tv/live/10018/master.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="PRO✅",MINIMAX
-https://s2.ideationtec.live/MiniMax/MiniMax.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="PRO✅",Unknown
-https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="PRO✅",ETV Music (1080p)
-https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="PRO✅",Isai Aruvi (576p)
-http://ptuf.ridsys.in/riptv/live/KALAIGNAR_ISAI_ARUVI/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="PRO✅",PTC Music (720p)
-https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="PRO✅",Punjabi Hits (1080p)
-https://stream.ottlive.co.in/punjabihits/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="PRO✅",Tunes 6 (720p)
-https://stream.d6-pro.com/tunes6music/live/video.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="PRO✅",Zoom (720p)
-https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="PRO✅",Desi Channel (720p)
-https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="PRO✅",EET TV (1080p) [Not 24/7]
-https://live.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="PRO✅",Enterr 10 Bangla (720p) [Not 24/7]
-https://live-bangla.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="PRO✅",ETV Josh (1080p)
-https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="PRO✅",Mazhavil Manorama HD (1080p)
-https://cdn-7.pishow.tv/live/1129/master.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="PRO✅",Oli TV (1080p)
-https://live.olidigital.in/olitv/olitv/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="PRO✅",PTC Punjabi (1080p)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="PRO✅",PTC Punjabi Gold (1080p)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="PRO✅",Sada TV (1080p) [Not 24/7]
-http://cdn12.henico.net:8080/live/sadatv/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="PRO✅",Swantham (576p)
-http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="PRO✅",AL QAMAR
-https://streamer3.premio.link/alqamar/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="PRO✅",ALMASIRA MUBASHER
-https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="PRO✅",AL EKHBARIA
-https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=upload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F6%2F6e%2FPanorama_FM_Logo.svg%2F960px-Panorama_FM_Logo.svg.png&utm_source=chatgpt.com⁠" group-title="PRO✅",Panorama FM🦋
