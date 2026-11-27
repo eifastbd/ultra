@@ -162,6 +162,8 @@ https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
 #https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/chunks.m3u8?nimblesessionid=1315413158
 #EXTINF:-1 tvg-name="Jonmo Bhumi" tvg-logo="https://i.postimg.cc/ncryrtRC/20260913-092606.png" group-title="PRO✅",Jonmo Bhumi🇧🇩
 https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/YHOtAuLJzkb9qzX2S2r_EvXUINm5hwRq9MvaNcY9Psv_Hjjqi5GeZDqkY45HO0gm538tSDsMfw=s900-c-k-c0x00ffffff-no-rj" group-title="PRO✅",Boishakhi TV🇧🇩
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZB0sFvLdP7M4KDcmzxAvR1zlOB1K1FqXuaGjdZOUgSfh1waicWf63g&s=10" group-logo="https://yt3.googleusercontent.com/AQLUH_ixhkqBRCV9M1rtWRQhUFiXB1QvX-l1DIbrfmeMjrU8kJzAeCaiupHjEPEz9M2daSfm9A=s900-c-k-c0x00ffffff-no-rj" group-title="PRO✅",SA TV🇧🇩
 https://s3.itcnbd.live/server-10/stream/OTU3OTQ3NzY3Ng.m3u8
 #https://s3.itcnbd.live/server-10/stream/resource/aHR0cDovLzE3Mi4xOS4xNzguMTQ4OjE4MTkwL3NhdHYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2F1dG9wbGF5PWZhbHNlJm11dGU9ZmFsc2UmdG9rZW49MmY4NjM2MTBkNDVhMGQ4YmZiOTYxNTM0NDkwNTY0MTNhNDcyMjBiMC0wMGEwZmM5NTZmNzI4Njg4NjYwNjgxYTgzNjNhNDc0ZC0xNzk1NTA3MjYzLTE3OTU0OTYxNjM
@@ -171,7 +173,6 @@ https://s3.itcnbd.live/server-10/stream/OTU3OTQ3NzY3Ng.m3u8
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x91288" group-title="PRO✅",Boishakhi🇧🇩
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
-#https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRctL8rD_FYfZ1rHUDhs_Q3rJwRYGSDbMX0-XHpHFXLjeTC2D9iYwo8Gq3J&s=10" tvg-server="Server 1" group-title="PRO✅",NRB HD🇧🇩
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ch_314" tvg-name="TIME TV USA" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/time-tv-usa.webp" group-title="PRO✅",TIME TV USA🇧🇩
@@ -687,7 +688,8 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 
 
-
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png",YRF MUSIC
+https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="PRO✅",Zoom
@@ -1530,7 +1532,8 @@ https://server.zillarbarta.com/zillarbarta/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://assets-prod.services.toffeelive.com/KC6x-JQBv9knK3AHqjYc/posters/55e554f1-dbbb-47bd-97fe-fca878726c4c.webp",Discovery HD
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=908684&extension=m3u8
 
 #EXTINF:-1 tvg-name="Discovery Hindi" tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="PRO✅",Discovery বাংলা🦋
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98872.ts
