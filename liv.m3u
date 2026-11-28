@@ -28,21 +28,8 @@
 
 
 
-
-
-
-#EXTINF:-1 group-logo="https://media1.tenor.com/m/HJCN0mM2awAAAAAd/nagin-bangladesh-kids-nagins-dogladeshis.gif" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",Willow event
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=74042336c8b0ea8aec8cfff587323e45:a0b6920e1735c7245036a2c53067fd49
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ihqh5jfdov/out/v1/77912028521b4e1eaf700aa1f1d57cb2/cenc.mpd
-#EXTINF:-1 group-logo="https://media1.tenor.com/m/HJCN0mM2awAAAAAd/nagin-bangladesh-kids-nagins-dogladeshis.gif" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",willow live
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=24dea51a9817383c884a175a7bc74549:86e7bd926119ff53f5eda7457afd8ee3
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7bkbqed1bj/out/v1/cc1b68d926844c0e9440675578e2a82b/cenc.mpd
+#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",A SPORTS
+https://live.msnetworks.net/a-sports/master.m3u8
 #EXTINF:-1 group-logo="https://media1.tenor.com/m/HJCN0mM2awAAAAAd/nagin-bangladesh-kids-nagins-dogladeshis.gif" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",Tnt
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
@@ -51,10 +38,8 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1
 
 #EXTINF:-1 group-logo="https://media1.tenor.com/m/HJCN0mM2awAAAAAd/nagin-bangladesh-kids-nagins-dogladeshis.gif" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",freefire
 https://z4rq8tnx2kvm7pyw.rockstreamer.com/v1/019f325acf6615fc60e92c29383152/01a0479164ab1ea557842156e6858b/main.m3u8|Referer=https://iscreen.com.bd/
-#EXTINF:-1 group-logo="https://media1.tenor.com/m/HJCN0mM2awAAAAAd/nagin-bangladesh-kids-nagins-dogladeshis.gif" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",live
+#EXTINF:-1 group-logo="https://media1.tenor.com/m/HJCN0mM2awAAAAAd/nagin-bangladesh-kids-nagins-dogladeshis.gif" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",icreen
 https://r8vx3qkm2ztp7ynj6lpl.rockstreamer.com/v1/019ee554d6cc1567ee93172b12d63f/01a047abffef1ea557842156e6858c/main.m3u8|Referer=https://iscreen.com.bd/
-
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8C2gLZX9/SS-Fancode.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",Fancode 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -85,12 +70,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/
 #http://skylikem.com/live/2VZWJC3W/B7D7XK4T/1195167.ts
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲", Willow
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd35d5c78d37fe5adcfd88e314d1dd3c:673c68197d7960c4b1db2bb83f195171
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vqt4ppweqx/out/v1/79d9629326f74edb996f3b3d75d3fc49/cenc.mpd
 #EXTINF:-1 tvg-id="" tvg-name="T SPORTS HD" tvg-logo="https://i.postimg.cc/j24W7sCV/T-Sports.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",T SPORTS HD
 https://playlist.nocablenetwork.workers.dev/stream/11.ts
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 3" tvg-logo="https://i.postimg.cc/mrLmzDDk/Star-Sports-3.jpg" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",STAR SPORTS 3
@@ -158,7 +137,6 @@ http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=809397&exte
 http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=809382&extension=m3u8
 #EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThJeIJ7nGU2y9uCXWzA0ndZSf0wnDcW2buD1nOOOj1_r4C4KxSs85c9xCh&s=10.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",T SPORTS HD
 http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=908649&extension=m3u8
-http://main.light-ott.net/ant1007/video.m3u8?mac=00:1A:79:1D:12:35
 #EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://i.postimg.cc/J4nqsSMQ/stablesportstv-ndnjd.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",UNITE8 SPORTS 1 HD
 http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=373312&extension=m3u8
 #EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://i.postimg.cc/5tcqk0vQ/stablesportstv-jaj.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",UNITE8 SPORTS 2 HD
@@ -195,26 +173,9 @@ http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=809371&exte
 
 
 
-#EXTINF:-1 group-logo="https://img.magnific.com/premium-vector/professional-tv-channel-logo-design-concept-vector-illustration_875240-1836.jpg?semt=ais_test_b&w=740&q=80" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7227/597227-h" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",STAR-SPORTS Select-2
-https://s3.itcnbd.live/server-5/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0xMjM.m3u8
-#EXTINF:-1 group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starselect2.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲", Star-select-2
-https://s3.itcnbd.live/server-5/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0xMjQ.m3u8
-#EXTINF:-1 group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starsports1.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲", Star-sports-1
-https://s3.itcnbd.live/server-5/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0xMTA.m3u8
-#EXTINF:-1 group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/starsports2.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲", Star-sports-2
-https://s3.itcnbd.live/server-5/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0xMTU.m3u8
-#EXTINF:-1 group-logo="https://e7.pngegg.com/pngimages/341/140/png-clipart-logo-brand-product-design-sun-direct-direct-sunlight-television-text.png" tvg-logo="http://alixbd.com/assets/images/tsports.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲", T Sports HD
-https://s3.itcnbd.live/server-5/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0xMDI.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yzwt46Q/20241126-220214.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",Ten Cricket 
-https://s3.itcnbd.live/server-5/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0xMjc.m3u8
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="0001_tsports" tvg-name="0001_TSPORTS" tvg-logo="http://103.151.60.188:12345/tvlogo/TSports.jpg" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",TSPORTS
-http://103.151.60.184:8000/play/bsy8/index.m3u8?token=-dHbaV4P9kHxa72c
+
 
 #EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/starsports1.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",Star-sports-1
 http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=scn
